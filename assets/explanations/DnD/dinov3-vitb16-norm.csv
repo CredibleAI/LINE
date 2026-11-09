@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+norm,31,water vessels,0.422229,-0.192547,0.0225
+norm,44,footwear and activities,0.351867,-0.462269,0.0063
+norm,48,diverse everyday objects,0.455240,-0.108994,0.0094
+norm,56,everyday scenes,0.558331,0.183321,0.0024
+norm,58,various modes of transportation,0.902619,1.560149,0.0156
+norm,59,coastal animal scenes,0.380767,-0.342247,-0.0123
+norm,63,urban graffiti scenes,0.935206,1.688310,0.0173
+norm,64,various black and orange items,0.610932,0.321848,-0.0040
+norm,73,cityscape,0.627313,0.366330,-0.0046
+norm,87,various organ-related items,0.656304,0.503265,0.0069
+norm,96,various vehicles and household items,0.593268,0.268628,0.0059
+norm,107,nature-inspired spaces,0.677720,0.492200,-0.0058
+norm,112,animal and color motifs,0.708678,0.664655,0.0234
+norm,117,urban scenes,0.692984,0.616399,0.0053
+norm,120,close-up nature elements,0.702542,0.594624,0.0793
+norm,126,various textured surfaces,0.925068,1.669184,0.0166
+norm,136,military and nature themes,0.568254,0.336746,0.0133
+norm,140,sports and activities,0.365078,-0.434530,0.0543
+norm,159,herd of grazing sheep,0.995350,2.788751,0.0461
+norm,169,blue-themed bedroom items,0.980216,2.270107,0.0116
+norm,183,colorful tools and vehicles,0.679768,0.553079,0.0230
+norm,195,urban environments,0.505919,0.039688,-0.0260
+norm,220,urban and natural landscapes,0.024600,-2.327687,0.0412
+norm,236,various dog scenes and bananas,0.717870,0.621494,0.0595
+norm,239,brown-themed gatherings,0.941850,1.725659,-0.0035
+norm,245,residential property features,0.953314,2.112521,0.0348
+norm,252,kayaking activities,0.943910,2.001322,0.0848
+norm,255,white-themed elements,0.690464,0.538792,-0.0080
+norm,262,various settings,0.708240,0.630352,0.0118
+norm,268,nature and sports,0.588678,0.254710,0.0076
+norm,272,bedroom theme,0.567433,0.195666,0.0176
+norm,279,nature scenes,0.536158,0.107417,-0.0010
+norm,291,bathroom fixtures,0.228667,-0.924193,0.0155
+norm,294,dog and boat scenes,0.044102,-1.991957,0.0322
+norm,295,nature scenes,0.646196,0.401677,0.0052
+norm,301,train and nature theme,0.751372,0.792296,0.0084
+norm,309,workplace essentials,0.910879,1.531018,0.0062
+norm,314,red vehicles,0.434112,-0.168693,0.0033
+norm,318,nature-inspired elements,0.255482,-0.753087,0.0040
+norm,327,varied objects,0.617840,0.330035,-0.0156
+norm,330,various landscapes and structures,0.783604,0.868966,0.0112
+norm,336,colorful scenes,0.451066,-0.138015,-0.0054
+norm,343,nature scenes,0.140085,-1.170015,-0.0025
+norm,344,white birds in nature,0.855245,1.198864,0.0477
+norm,346,modes of transportation,0.691473,0.615399,0.0322
+norm,351,wooden-themed objects,0.708225,0.596789,0.0098
+norm,353,nature-themed scenes,0.600949,0.287581,0.0028
+norm,357,green-themed environments,0.435988,-0.178649,-0.0197
+norm,359,lobster-themed scenes,0.968739,2.083311,0.0369
+norm,380,diverse urban spaces,0.368964,-0.373442,0.0008
+norm,389,black dog theme,0.757122,0.820470,0.0241
+norm,396,various colored vehicles,0.683644,0.548005,0.0167
+norm,421,urban and natural scenes,0.441595,-0.127311,-0.0076
+norm,439,urban activity,0.422734,-0.261504,0.0135
+norm,446,various indoor and outdoor scenes,0.549348,0.147618,0.0008
+norm,447,various objects in nature,0.208106,-0.921007,-0.0232
+norm,471,home essentials,0.124422,-1.237829,-0.0066
+norm,474,urban food and transportation,0.572921,0.241575,0.0172
+norm,486,city scenes,0.806294,0.994006,-0.0015
+norm,488,pink-themed items,0.623373,0.370398,0.0059
+norm,490,animal and nature scenes,0.434027,-0.204997,-0.0206
+norm,497,transportation and nature scenes,0.800280,0.975928,0.0191
+norm,498,animal resting or animal habitat,0.841030,1.307943,0.0132
+norm,501,animal and object pairings,0.511409,0.028198,-0.0147
+norm,510,bedroom themes,0.649308,0.425201,0.0243
+norm,518,transportation and food,0.577550,0.216660,-0.0021
+norm,519,nature and military themes,0.650251,0.456068,-0.0019
+norm,522,animal and objects,0.674943,0.654358,0.0286
+norm,527,ladybug-themed suspense,0.904478,1.541430,0.0234
+norm,537,colorful objects,0.643047,0.419132,0.0352
+norm,538,nature and darkness,0.734945,0.969598,0.0268
+norm,540,urban street scenes,0.989374,2.519717,0.0197
+norm,541,animal scenes,0.539559,0.198424,0.0093
+norm,543,nature and patterns,0.463930,-0.123356,0.0097
+norm,546,colorful objects and nature,0.615939,0.337413,0.0023
+norm,558,cozy bedroom,0.667548,0.476858,0.0295
+norm,572,animal encounters,0.605924,0.327038,0.0153
+norm,576,wooden and natural elements,0.668477,0.475197,0.0155
+norm,578,night urban street scenes,0.941320,1.777578,0.0298
+norm,581,domestic scenes,0.677906,0.502555,0.0022
+norm,584,urban scenes,0.687244,0.585050,0.0026
+norm,588,flying animals and objects,0.841891,1.188156,0.0316
+norm,605,various animals and activities,0.441507,-0.174011,0.0008
+norm,611,military and sports theme,0.438043,-0.165541,-0.0137
+norm,624,various water scenes,0.618196,0.328384,0.0101
+norm,626,snail sightings,0.992531,2.680982,0.0447
+norm,630,colorful objects,0.134452,-1.245893,-0.0262
+norm,639,room with window,0.789605,1.007082,0.0013
+norm,640,varied playful scenes,0.532176,0.086171,-0.0033
+norm,641,spa-like bathroom,0.880550,1.306879,0.0222
+norm,663,striped and writing-themed items,0.202060,-0.997595,-0.0001
+norm,665,animal play and transportation,0.755304,0.902904,-0.0412
+norm,672,bathroom essentials,0.658116,0.508910,-0.0036
+norm,685,colorful objects,0.928643,1.660839,0.0133
+norm,693,various perched creatures,0.551531,0.167189,0.0205
+norm,697,various objects and animals,0.343989,-0.468757,-0.0108
+norm,704,aircraft and animals,0.597999,0.335521,-0.0138
+norm,708,red and floral motifs,0.923758,1.762022,-0.0017
+norm,739,red-themed kitchen items,0.851827,1.121831,0.0059
+norm,747,urban nighttime scenes,0.508822,0.034091,0.0087

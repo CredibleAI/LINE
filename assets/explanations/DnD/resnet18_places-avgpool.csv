@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+avgpool,20,colorful architectural structures,0.858896,1.556350,0.0132
+avgpool,28,alleyway exploration,0.970569,2.881561,0.0195
+avgpool,31,musical and creative professions,0.876047,1.688909,0.0962
+avgpool,36,nautical theme,0.397610,-0.267994,0.0740
+avgpool,39,city scenes,0.251647,-0.710628,0.0131
+avgpool,41,meat-related scenes,0.999772,13.317690,0.1984
+avgpool,48,home essentials,0.604723,0.195738,-0.0171
+avgpool,55,ancient architectural structures,0.869317,1.369705,0.1350
+avgpool,63,beachwear and swimwear,0.422076,-0.209758,0.0677
+avgpool,71,urban venetian ambiance,0.972525,3.273404,0.0312
+avgpool,72,waterfowl swimming,0.999610,10.808135,0.1405
+avgpool,74,historic village landmarks,0.929304,2.061558,0.0280
+avgpool,79,natural elements and activities,0.772413,0.999626,0.0162
+avgpool,84,anchor,0.901676,1.822822,0.0040
+avgpool,90,carousel theme,0.996143,7.117082,0.0270
+avgpool,91,dog activities,0.756123,1.127149,0.0534
+avgpool,100,various human and pet interactions,0.940025,3.403346,0.0496
+avgpool,111,vibrant rural scenes,0.823082,1.213021,0.0886
+avgpool,121,nature scenes,0.536425,-0.051256,-0.0058
+avgpool,124,table setting,0.956636,4.183795,0.0255
+avgpool,146,retail shoe display,0.999393,6.853801,0.0760
+avgpool,155,aquatic and earthly elements,0.938941,2.685726,0.0603
+avgpool,156,cockpit-themed items,0.997400,5.922021,0.0382
+avgpool,160,american football theme,0.907624,2.572699,0.1839
+avgpool,161,commercial shopping area,0.858592,1.615150,0.1022
+avgpool,169,nature-inspired textiles,0.873565,1.669004,0.0108
+avgpool,174,indoor meeting and sports spaces,0.912903,2.138210,0.0390
+avgpool,176,sports and nature theme,0.627598,0.392464,0.0018
+avgpool,177,animals in natural habitats,0.931886,2.480270,0.0449
+avgpool,180,nature-inspired urban spaces,0.951884,2.564415,0.0385
+avgpool,182,marketplace scenes,0.886940,2.259411,0.0328
+avgpool,194,carousel theme,0.999812,11.188646,0.0639
+avgpool,195,architectural structures,0.292179,-0.585655,0.0062
+avgpool,196,outdoor structures,0.803885,1.750619,0.1849
+avgpool,199,coastal landscape view,0.946637,2.773192,0.0558
+avgpool,204,forest and nature scenes,0.960285,3.351007,0.0948
+avgpool,215,bedroom decor,0.902557,1.737953,0.0909
+avgpool,216,female accessories and attire,0.992577,5.095552,0.0521
+avgpool,217,entertainment venue,0.775481,0.909802,-0.0130
+avgpool,218,small plane scenes,0.961414,4.052347,0.0528
+avgpool,220,amusement park rides,0.997255,6.214680,0.1492
+avgpool,222,aviation-themed structures,0.879335,1.881876,0.0441
+avgpool,224,colorful architectural elements,0.630134,0.810556,0.0381
+avgpool,226,desert-themed activities,0.991871,4.728741,0.0396
+avgpool,232,diverse architectural settings,0.710194,0.801611,0.0208
+avgpool,240,weathered textures,0.649518,0.345603,-0.0053
+avgpool,247,home office setup,0.986637,4.739064,0.1900
+avgpool,256,yellow bus theme,0.950127,3.956631,0.0947
+avgpool,271,underwater aquatic exploration,0.997095,6.380438,0.2117
+avgpool,277,animals in natural habitat,0.823842,1.805530,0.0663
+avgpool,282,urban transportation operations,0.971740,4.822236,0.0688
+avgpool,285,attic-themed spaces,0.998403,6.707516,0.0068
+avgpool,292,retail product display,0.995733,6.064149,0.0637
+avgpool,306,varied textured surfaces,0.487097,0.119608,-0.0062
+avgpool,312,cemetery landscapes,0.999886,13.464488,0.0357
+avgpool,318,culinary workspace,0.998047,6.834922,0.0711
+avgpool,320,cultural artifacts,0.570630,0.312192,-0.0003
+avgpool,322,checkered garage theme,0.908270,2.705329,0.0304
+avgpool,324,hairstyles and attire,0.915238,2.497066,0.0508
+avgpool,325,religious and domestic spaces,0.984032,3.502501,0.0417
+avgpool,329,uniformed service personnel,0.797506,2.095214,0.0985
+avgpool,334,nature scenes,0.813409,1.242184,0.0061
+avgpool,336,water scenes,0.666762,0.368857,0.2139
+avgpool,341,yellow-themed objects,0.921861,3.197389,0.0661
+avgpool,344,transportation and nature fusion,0.951830,2.731513,-0.0022
+avgpool,348,various patterns and activities,0.087853,-0.861892,0.0031
+avgpool,350,bathroom essentials,0.889315,2.088146,0.0522
+avgpool,351,equestrian sports,0.957266,3.069071,0.1175
+avgpool,353,home decor items,0.992090,4.831963,0.1429
+avgpool,358,workstation setup,0.525467,-0.117338,0.0262
+avgpool,359,sports involving water birds,0.989659,4.324865,0.0727
+avgpool,361,event or gathering,0.863326,1.560310,0.0934
+avgpool,362,blue aquatic theme,0.908465,2.285224,0.0511
+avgpool,372,small creatures and waste,0.995214,6.477839,0.1066
+avgpool,384,clothing storage,0.998645,10.739912,0.2768
+avgpool,385,public transportation vehicles,0.959718,4.940972,0.0735
+avgpool,396,musical fashion display,0.965458,3.425834,0.0948
+avgpool,404,childhood scenes,0.926054,2.312990,0.0018
+avgpool,405,red-themed locations,0.877662,1.762450,0.0352
+avgpool,410,winter-themed structures,0.968535,3.639979,0.0616
+avgpool,413,cityscape with various landmarks,0.760219,0.925739,0.0261
+avgpool,417,kitchen preparations,0.825062,1.690472,0.0243
+avgpool,418,various living spaces,0.960628,3.330374,0.0914
+avgpool,425,office furniture,0.973623,3.061089,0.0876
+avgpool,433,dining and gathering,0.969023,2.990901,0.1580
+avgpool,436,group activities,0.420427,-0.173810,0.0454
+avgpool,444,red and black vehicles,0.989767,6.220588,0.0417
+avgpool,455,urban landmarks,0.679215,0.367799,0.0249
+avgpool,460,outdoor activities,0.937115,2.491129,0.0149
+avgpool,463,outdoor activities,0.681681,0.622069,0.0526
+avgpool,475,ancient and natural elements,0.980929,4.340668,0.0513
+avgpool,476,modern workspace concept,0.993747,5.012056,0.1555
+avgpool,480,winter transportation,0.893802,1.718558,0.0757
+avgpool,487,crowd and events,0.997056,6.149719,0.1148
+avgpool,488,entertainment performances,0.736418,0.740747,0.2050
+avgpool,494,physical activities,0.635119,1.039200,0.0480
+avgpool,495,storage and organization,0.819852,1.091956,0.0729
+avgpool,496,various yellow objects,0.917048,3.842415,0.0090
+avgpool,500,various types of cemeteries,0.991419,10.107779,0.0310
+avgpool,509,security and decay,0.970924,4.909528,0.0140

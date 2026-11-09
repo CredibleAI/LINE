@@ -1,0 +1,2101 @@
+layer,unit,iteration,stage,concept,score
+avgpool,87,0,initial,bighorn,2.205299
+avgpool,87,0,initial,ibex,2.058089
+avgpool,87,0,initial,bison,1.993516
+avgpool,87,0,initial,ram,1.642372
+avgpool,87,0,initial,alp,1.111421
+avgpool,87,0,initial,white wolf,1.019414
+avgpool,87,0,initial,bernese mountain dog,0.686922
+avgpool,87,0,initial,ant,0.627766
+avgpool,87,0,initial,hoopskirt,0.346019
+avgpool,87,0,initial,lhasa,0.260436
+avgpool,87,1,iteration,mountain horned,1.626199
+avgpool,87,2,iteration,horned animal,2.407018
+avgpool,87,3,iteration,curved protrusion,0.294469
+avgpool,87,4,iteration,horns,1.068000
+avgpool,87,5,iteration,bighorned,1.685275
+avgpool,87,6,iteration,antlers,0.948479
+avgpool,87,7,iteration,beastly headgear,0.256045
+avgpool,87,8,iteration,pointed head,0.183906
+avgpool,87,9,iteration,bighorned animal,2.232373
+avgpool,87,10,iteration,bighorned animal,2.232373
+avgpool,87,11,summary,horns,1.068000
+avgpool,126,0,initial,sussex spaniel,1.950705
+avgpool,126,0,initial,irish setter,1.745788
+avgpool,126,0,initial,gordon setter,1.722802
+avgpool,126,0,initial,altar,1.637360
+avgpool,126,0,initial,welsh springer spaniel,1.560753
+avgpool,126,0,initial,feather boa,0.387826
+avgpool,126,0,initial,american chameleon,0.242917
+avgpool,126,0,initial,reel,0.196945
+avgpool,126,0,initial,kite,0.127639
+avgpool,126,0,initial,band aid,0.055637
+avgpool,126,1,iteration,spaniel,1.425051
+avgpool,126,2,iteration,hunting dog,0.418741
+avgpool,126,3,iteration,gordon setter,1.722802
+avgpool,126,4,iteration,irish,0.278980
+avgpool,126,5,iteration,floppy ears,0.600900
+avgpool,126,6,iteration,long ears,0.340643
+avgpool,126,7,iteration,setter,1.468930
+avgpool,126,8,iteration,long ear dogs,0.814152
+avgpool,126,9,iteration,long ears,0.340643
+avgpool,126,10,iteration,ear,0.084710
+avgpool,126,11,summary,Irish setter-type dog,1.697484
+avgpool,135,0,initial,gondola,4.032742
+avgpool,135,0,initial,canoe,3.131873
+avgpool,135,0,initial,red-breasted merganser,2.153988
+avgpool,135,0,initial,paddle,1.894975
+avgpool,135,0,initial,boathouse,1.319038
+avgpool,135,0,initial,white wolf,0.917746
+avgpool,135,0,initial,warthog,0.701240
+avgpool,135,0,initial,revolver,0.608221
+avgpool,135,0,initial,lighter,0.389751
+avgpool,135,0,initial,castle,0.240230
+avgpool,135,1,iteration,watercraft,2.600770
+avgpool,135,2,iteration,flat bottom boat,2.144971
+avgpool,135,3,iteration,pointed hull,1.281950
+avgpool,135,4,iteration,rowing boat,3.350183
+avgpool,135,5,iteration,canal boat,2.515964
+avgpool,135,6,iteration,curved shape,0.488986
+avgpool,135,7,iteration,gondola,4.032742
+avgpool,135,8,iteration,manual boat,3.265386
+avgpool,135,9,iteration,flat bottom,0.524261
+avgpool,135,10,iteration,manual propulsion,0.325016
+avgpool,135,11,summary,human-powered,0.211886
+avgpool,153,0,initial,street sign,2.983244
+avgpool,153,0,initial,table lamp,2.926484
+avgpool,153,0,initial,traffic light,2.567805
+avgpool,153,0,initial,lampshade,2.090729
+avgpool,153,0,initial,radio telescope,1.878423
+avgpool,153,0,initial,book jacket,0.410346
+avgpool,153,0,initial,angora,0.266212
+avgpool,153,0,initial,football helmet,0.237085
+avgpool,153,0,initial,hartebeest,0.230777
+avgpool,153,0,initial,organ,0.151586
+avgpool,153,1,iteration,attachment,0.736560
+avgpool,153,2,iteration,signal,1.740348
+avgpool,153,3,iteration,signage,1.121690
+avgpool,153,4,iteration,direction marker,1.875968
+avgpool,153,5,iteration,indicator plate,0.344136
+avgpool,153,6,iteration,guidance,0.502281
+avgpool,153,7,iteration,sign,1.495281
+avgpool,153,8,iteration,traffic marker,1.665406
+avgpool,153,9,iteration,lighting fixture,1.668157
+avgpool,153,10,iteration,indicator,0.836179
+avgpool,153,11,summary,man-made object,0.266863
+avgpool,168,0,initial,consomme,1.847697
+avgpool,168,0,initial,hot pot,1.686625
+avgpool,168,0,initial,gar,1.379427
+avgpool,168,0,initial,spider web,0.705526
+avgpool,168,0,initial,goldfish,0.642105
+avgpool,168,0,initial,platypus,0.430458
+avgpool,168,0,initial,lawn mower,0.327440
+avgpool,168,0,initial,breakwater,0.288636
+avgpool,168,0,initial,brittany spaniel,0.167415
+avgpool,168,0,initial,fly,0.100553
+avgpool,168,1,iteration,soup bowl,1.163254
+avgpool,168,2,iteration,cooking pot,0.453612
+avgpool,168,3,iteration,consomme,1.847697
+avgpool,168,4,iteration,hot dish,1.270281
+avgpool,168,5,iteration,hot food,0.440407
+avgpool,168,6,iteration,hot cuisine,1.021123
+avgpool,168,7,iteration,braising,1.054634
+avgpool,168,8,iteration,roasting,0.126361
+avgpool,168,9,iteration,simmering,0.685051
+avgpool,168,10,iteration,braising,1.054634
+avgpool,168,11,summary,type of soup,1.793567
+avgpool,173,0,initial,fire engine,4.260314
+avgpool,173,0,initial,christmas stocking,3.702919
+avgpool,173,0,initial,fireboat,3.483993
+avgpool,173,0,initial,football helmet,1.700799
+avgpool,173,0,initial,porcupine,0.561814
+avgpool,173,0,initial,marmoset,0.455070
+avgpool,173,0,initial,bearskin,0.410002
+avgpool,173,0,initial,abaya,0.380307
+avgpool,173,0,initial,hand-held computer,0.338290
+avgpool,173,0,initial,monitor,0.189446
+avgpool,173,1,iteration,protective gear,0.397246
+avgpool,173,2,iteration,fireproof,0.049251
+avgpool,173,3,iteration,flameproof,0.153773
+avgpool,173,4,iteration,fire suit,0.989907
+avgpool,173,5,iteration,fire safety,2.819323
+avgpool,173,6,iteration,fireproofing,0.237495
+avgpool,173,7,iteration,fire helmet,2.893745
+avgpool,173,8,iteration,firefighter,0.980258
+avgpool,173,9,iteration,fireproof padding,0.362772
+avgpool,173,10,iteration,flame retardant,0.291078
+avgpool,173,11,summary,wheels,0.320969
+avgpool,182,0,initial,refrigerator,4.823539
+avgpool,182,0,initial,dishwasher,4.468108
+avgpool,182,0,initial,wardrobe,4.295187
+avgpool,182,0,initial,microwave,3.284893
+avgpool,182,0,initial,medicine chest,1.353395
+avgpool,182,0,initial,brittany spaniel,1.178236
+avgpool,182,0,initial,airedale,0.940130
+avgpool,182,0,initial,greater swiss mountain dog,0.759956
+avgpool,182,0,initial,football helmet,0.752951
+avgpool,182,0,initial,fireboat,0.421501
+avgpool,182,1,iteration,appliance cabinet,4.202862
+avgpool,182,2,iteration,storage unit,1.377158
+avgpool,182,3,iteration,closet,3.777524
+avgpool,182,4,iteration,hinged door,3.518833
+avgpool,182,5,iteration,doorway,3.615661
+avgpool,182,6,iteration,door,3.978999
+avgpool,182,7,iteration,cupboard,4.249528
+avgpool,182,8,iteration,hinged compartment,2.097837
+avgpool,182,9,iteration,container,1.417920
+avgpool,182,10,iteration,enclosure,0.862347
+avgpool,182,11,summary,household appliance,3.511866
+avgpool,184,0,initial,french horn,4.067446
+avgpool,184,0,initial,snail,3.422851
+avgpool,184,0,initial,cornet,3.138849
+avgpool,184,0,initial,trombone,2.680362
+avgpool,184,0,initial,chambered nautilus,2.411906
+avgpool,184,0,initial,bookshop,0.625445
+avgpool,184,0,initial,church,0.472226
+avgpool,184,0,initial,tiger,0.399438
+avgpool,184,0,initial,hip,0.304314
+avgpool,184,0,initial,sweatshirt,0.121910
+avgpool,184,1,iteration,wind instrument,2.785681
+avgpool,184,2,iteration,brass tube,1.630694
+avgpool,184,3,iteration,brass curve,2.146986
+avgpool,184,4,iteration,brass curve shape,2.110089
+avgpool,184,5,iteration,spiral horn,1.504245
+avgpool,184,6,iteration,curved horn,1.805437
+avgpool,184,7,iteration,horn shape,2.735077
+avgpool,184,8,iteration,brass shell,2.762779
+avgpool,184,9,iteration,brass spiral,2.017395
+avgpool,184,10,iteration,brass,2.220413
+avgpool,184,11,summary,brass instrument,3.472338
+avgpool,197,0,initial,french horn,2.660904
+avgpool,197,0,initial,safety pin,2.573279
+avgpool,197,0,initial,tricycle,2.076454
+avgpool,197,0,initial,unicycle,2.045503
+avgpool,197,0,initial,mountain bike,1.609206
+avgpool,197,0,initial,ibex,1.230648
+avgpool,197,0,initial,tank suit,0.252601
+avgpool,197,0,initial,ashcan,0.192557
+avgpool,197,0,initial,schipperke,0.147311
+avgpool,197,0,initial,lynx,0.087052
+avgpool,197,1,iteration,curved shape,0.278298
+avgpool,197,2,iteration,axle,0.800524
+avgpool,197,3,iteration,wheeled vehicle,0.941196
+avgpool,197,4,iteration,sound vehicle,0.445048
+avgpool,197,5,iteration,horn bike,1.843557
+avgpool,197,6,iteration,horn bike,1.843557
+avgpool,197,7,iteration,loudspeaker,0.841091
+avgpool,197,8,iteration,safety pin,2.573279
+avgpool,197,9,iteration,bell,0.635033
+avgpool,197,10,iteration,protrusion,0.168388
+avgpool,197,11,summary,curved shape,0.278298
+avgpool,251,0,initial,cheetah,2.713139
+avgpool,251,0,initial,leopard,2.676223
+avgpool,251,0,initial,snow leopard,2.462578
+avgpool,251,0,initial,jaguar,2.330462
+avgpool,251,0,initial,puffer,2.324850
+avgpool,251,0,initial,tiger,1.383580
+avgpool,251,0,initial,ruddy turnstone,0.920002
+avgpool,251,0,initial,bell pepper,0.676890
+avgpool,251,0,initial,broom,0.104053
+avgpool,251,0,initial,crock pot,0.067740
+avgpool,251,1,iteration,spotted animal,2.356987
+avgpool,251,2,iteration,coated pattern,0.568674
+avgpool,251,3,iteration,big cat,2.095355
+avgpool,251,4,iteration,spot coat,0.140147
+avgpool,251,5,iteration,striped beast,1.287462
+avgpool,251,6,iteration,spotting,0.213679
+avgpool,251,7,iteration,rosette,0.397517
+avgpool,251,8,iteration,wild cat,1.866529
+avgpool,251,9,iteration,big spotted cat,2.698560
+avgpool,251,10,iteration,leopard,2.676223
+avgpool,251,11,summary,large spots,0.678459
+avgpool,262,0,initial,crock pot,2.367735
+avgpool,262,0,initial,dishwasher,1.366550
+avgpool,262,0,initial,gar,1.185179
+avgpool,262,0,initial,triumphal arch,0.910946
+avgpool,262,0,initial,horizontal bar,0.889060
+avgpool,262,0,initial,jeep,0.878462
+avgpool,262,0,initial,thatch,0.637260
+avgpool,262,0,initial,paper towel,0.486948
+avgpool,262,0,initial,kite,0.190060
+avgpool,262,0,initial,otter,0.047739
+avgpool,262,1,iteration,horizontal appliance,0.600604
+avgpool,262,2,iteration,countertop,0.766802
+avgpool,262,3,iteration,flat surface,0.137764
+avgpool,262,4,iteration,horizontal bar,0.889060
+avgpool,262,5,iteration,horizontal base,0.377238
+avgpool,262,6,iteration,kitchen base,1.254176
+avgpool,262,7,iteration,kitchen top,0.858351
+avgpool,262,8,iteration,crock pot,2.367735
+avgpool,262,9,iteration,kitchen surface,0.807893
+avgpool,262,10,iteration,countertop surface,0.358254
+avgpool,262,11,summary,household appliance,0.600388
+avgpool,286,0,initial,potter's wheel,1.595556
+avgpool,286,0,initial,horned viper,0.734173
+avgpool,286,0,initial,bassinet,0.604337
+avgpool,286,0,initial,jersey,0.599857
+avgpool,286,0,initial,nipple,0.468602
+avgpool,286,0,initial,cardigan welsh corgi,0.356121
+avgpool,286,0,initial,hummingbird,0.338376
+avgpool,286,0,initial,submarine,0.216852
+avgpool,286,0,initial,safe,0.190196
+avgpool,286,0,initial,lakeland terrier,0.162727
+avgpool,286,1,iteration,rounded shield,0.294318
+avgpool,286,2,iteration,curved shape,0.526087
+avgpool,286,3,iteration,round,0.416340
+avgpool,286,4,iteration,container,0.275466
+avgpool,286,5,iteration,ceramic vessel,0.117269
+avgpool,286,6,iteration,pottery,0.332231
+avgpool,286,7,iteration,rounded object,0.221057
+avgpool,286,8,iteration,baby item,0.906085
+avgpool,286,9,iteration,spinning nest,0.368536
+avgpool,286,10,iteration,rotary,0.093122
+avgpool,286,11,summary,man-made object,0.346183
+avgpool,309,0,initial,volcano,2.102483
+avgpool,309,0,initial,mountain tent,1.588023
+avgpool,309,0,initial,sleeping bag,0.945546
+avgpool,309,0,initial,steel arch bridge,0.927381
+avgpool,309,0,initial,yurt,0.848716
+avgpool,309,0,initial,wing,0.265477
+avgpool,309,0,initial,common iguana,0.209802
+avgpool,309,0,initial,german shepherd,0.125020
+avgpool,309,0,initial,crash helmet,0.047739
+avgpool,309,0,initial,jigsaw puzzle,0.043628
+avgpool,309,1,iteration,dome shelter,0.256649
+avgpool,309,2,iteration,pointed roof,0.505380
+avgpool,309,3,iteration,shelter,0.406587
+avgpool,309,4,iteration,protective enclosure,0.351491
+avgpool,309,5,iteration,coverall,0.189726
+avgpool,309,6,iteration,volcanic tent,1.103166
+avgpool,309,7,iteration,peak tent,0.916234
+avgpool,309,8,iteration,pointed structure,0.283519
+avgpool,309,9,iteration,tented peak,1.194385
+avgpool,309,10,iteration,pointed structure,0.283519
+avgpool,309,11,summary,natural peak,1.126928
+avgpool,326,0,initial,windsor tie,1.970340
+avgpool,326,0,initial,maraca,1.686347
+avgpool,326,0,initial,bow tie,1.494401
+avgpool,326,0,initial,box turtle,0.981132
+avgpool,326,0,initial,necklace,0.799189
+avgpool,326,0,initial,spindle,0.538988
+avgpool,326,0,initial,syringe,0.481905
+avgpool,326,0,initial,tibetan terrier,0.319859
+avgpool,326,0,initial,gasmask,0.288231
+avgpool,326,0,initial,geyser,0.095367
+avgpool,326,1,iteration,ornament,0.723362
+avgpool,326,2,iteration,neckwear,1.777376
+avgpool,326,3,iteration,necklace,0.799189
+avgpool,326,4,iteration,knot,0.814565
+avgpool,326,5,iteration,bow tie,1.494401
+avgpool,326,6,iteration,wraps around,0.387822
+avgpool,326,7,iteration,neck wrap,0.581197
+avgpool,326,8,iteration,maraca,1.686347
+avgpool,326,9,iteration,necktie,1.783096
+avgpool,326,10,iteration,neck accessory,0.735201
+avgpool,326,11,summary,formal neckwear,2.104632
+avgpool,328,0,initial,spider web,4.143839
+avgpool,328,0,initial,radio telescope,3.670766
+avgpool,328,0,initial,head cabbage,3.418161
+avgpool,328,0,initial,solar dish,2.957013
+avgpool,328,0,initial,balloon,1.934276
+avgpool,328,0,initial,persian cat,1.012050
+avgpool,328,0,initial,vine snake,0.613916
+avgpool,328,0,initial,coral fungus,0.470068
+avgpool,328,0,initial,digital clock,0.419817
+avgpool,328,0,initial,agama,0.274233
+avgpool,328,1,iteration,dish antenna,2.336076
+avgpool,328,2,iteration,dish,0.362749
+avgpool,328,3,iteration,orb,1.421947
+avgpool,328,4,iteration,dish collector,0.767198
+avgpool,328,5,iteration,parabolic mirror,1.708627
+avgpool,328,6,iteration,focus point,1.332271
+avgpool,328,7,iteration,collector curve,0.809710
+avgpool,328,8,iteration,curved reflector,1.205710
+avgpool,328,9,iteration,collector,0.382586
+avgpool,328,10,iteration,cupola,0.572227
+avgpool,328,11,summary,intricate patterns,1.389828
+avgpool,359,0,initial,wall clock,3.160669
+avgpool,359,0,initial,analog clock,2.864611
+avgpool,359,0,initial,sundial,2.825344
+avgpool,359,0,initial,schooner,1.397504
+avgpool,359,0,initial,screw,1.177088
+avgpool,359,0,initial,bittern,0.930971
+avgpool,359,0,initial,panpipe,0.822735
+avgpool,359,0,initial,groenendael,0.449262
+avgpool,359,0,initial,apiary,0.406052
+avgpool,359,0,initial,ram,0.346563
+avgpool,359,1,iteration,round face,0.149646
+avgpool,359,2,iteration,circular time,3.533526
+avgpool,359,3,iteration,timepiece,1.884059
+avgpool,359,4,iteration,circle face,0.154705
+avgpool,359,5,iteration,clock face,2.772153
+avgpool,359,6,iteration,face,0.160159
+avgpool,359,7,iteration,round shape,0.107611
+avgpool,359,8,iteration,round vessel,0.416304
+avgpool,359,9,iteration,timekeeper,1.986968
+avgpool,359,10,iteration,time circle,1.350175
+avgpool,359,11,summary,moving hands,0.180760
+avgpool,382,0,initial,digital clock,2.762705
+avgpool,382,0,initial,digital watch,2.604091
+avgpool,382,0,initial,white stork,2.160110
+avgpool,382,0,initial,whistle,0.526407
+avgpool,382,0,initial,safe,0.377935
+avgpool,382,0,initial,mitten,0.353788
+avgpool,382,0,initial,harvester,0.352385
+avgpool,382,0,initial,tusker,0.259921
+avgpool,382,0,initial,jellyfish,0.239823
+avgpool,382,0,initial,worm fence,0.194909
+avgpool,382,1,iteration,display,0.246555
+avgpool,382,2,iteration,timepiece,2.503174
+avgpool,382,3,iteration,digital display,1.094306
+avgpool,382,4,iteration,digital display,1.094306
+avgpool,382,5,iteration,clock face,1.781327
+avgpool,382,6,iteration,time face,0.745276
+avgpool,382,7,iteration,digital timekeeping,2.373362
+avgpool,382,8,iteration,timepiece device,2.279402
+avgpool,382,9,iteration,numerical circle,0.455048
+avgpool,382,10,iteration,time circle,1.295334
+avgpool,382,11,summary,digital display,1.094306
+avgpool,389,0,initial,cliff dwelling,2.861855
+avgpool,389,0,initial,whiptail,2.713210
+avgpool,389,0,initial,sidewinder,2.335094
+avgpool,389,0,initial,dung beetle,2.262782
+avgpool,389,0,initial,horned viper,1.673763
+avgpool,389,0,initial,chickadee,1.452992
+avgpool,389,0,initial,grasshopper,1.325081
+avgpool,389,0,initial,passenger car,0.918855
+avgpool,389,0,initial,vase,0.796189
+avgpool,389,0,initial,breakwater,0.749767
+avgpool,389,1,iteration,arid adaptation,2.849501
+avgpool,389,2,iteration,desert dweller,3.402440
+avgpool,389,3,iteration,rock formation,2.738719
+avgpool,389,4,iteration,canyon,2.286981
+avgpool,389,5,iteration,desert dwelling,3.030517
+avgpool,389,6,iteration,high ground,1.329956
+avgpool,389,7,iteration,fortress,0.738352
+avgpool,389,8,iteration,elevation dwelling,0.967227
+avgpool,389,9,iteration,rocky,1.870385
+avgpool,389,10,iteration,cliffside,1.880778
+avgpool,389,11,summary,desert environment,2.391517
+avgpool,394,0,initial,bookshop,3.705981
+avgpool,394,0,initial,container ship,2.447165
+avgpool,394,0,initial,tiger,1.682457
+avgpool,394,0,initial,book jacket,1.248071
+avgpool,394,0,initial,echidna,1.075190
+avgpool,394,0,initial,thatch,0.663375
+avgpool,394,0,initial,brass,0.479847
+avgpool,394,0,initial,barber chair,0.426047
+avgpool,394,0,initial,killer whale,0.225767
+avgpool,394,0,initial,dough,0.145668
+avgpool,394,1,iteration,bookcase,2.238147
+avgpool,394,2,iteration,bookstore,3.391495
+avgpool,394,3,iteration,book container,2.744815
+avgpool,394,4,iteration,bookstorey,3.393911
+avgpool,394,5,iteration,bookstore,3.391495
+avgpool,394,6,iteration,bookshop,3.705981
+avgpool,394,7,iteration,bookstore,3.391495
+avgpool,394,8,iteration,book storage,3.590638
+avgpool,394,9,iteration,repository,2.975157
+avgpool,394,10,iteration,bookshelf,2.205634
+avgpool,394,11,summary,book-related,1.871311
+avgpool,449,0,initial,hare,4.226314
+avgpool,449,0,initial,hartebeest,3.588767
+avgpool,449,0,initial,impala,3.182535
+avgpool,449,0,initial,ibex,2.596851
+avgpool,449,0,initial,angora,1.226527
+avgpool,449,0,initial,acorn,0.454943
+avgpool,449,0,initial,indian cobra,0.166564
+avgpool,449,0,initial,golf ball,0.131803
+avgpool,449,0,initial,knot,0.129439
+avgpool,449,0,initial,file,0.086518
+avgpool,449,1,iteration,fast runner,0.116243
+avgpool,449,2,iteration,long legs,0.191174
+avgpool,449,3,iteration,hoofed mammal,2.479366
+avgpool,449,4,iteration,hoofed animal,2.510242
+avgpool,449,5,iteration,fast animal,0.356652
+avgpool,449,6,iteration,long-legged mammal,1.838253
+avgpool,449,7,iteration,long-legged animal,1.805376
+avgpool,449,8,iteration,hoofed mammal alternative,2.076043
+avgpool,449,9,iteration,hoofed mammal type,2.209358
+avgpool,449,10,iteration,hoofed mammal type,2.209358
+avgpool,449,11,summary,antelope,3.380824
+avgpool,459,0,initial,suit,0.554538
+avgpool,459,0,initial,groom,0.530003
+avgpool,459,0,initial,bikini,0.356663
+avgpool,459,0,initial,pirate,0.342102
+avgpool,459,0,initial,croquet ball,0.315186
+avgpool,459,0,initial,academic gown,0.192645
+avgpool,459,0,initial,monitor,0.162925
+avgpool,459,0,initial,pickup,0.135817
+avgpool,459,0,initial,mountain tent,0.122959
+avgpool,459,0,initial,japanese spaniel,0.108304
+avgpool,459,1,iteration,black tie,0.198712
+avgpool,459,2,iteration,formal wear,0.532913
+avgpool,459,3,iteration,vested,0.305371
+avgpool,459,4,iteration,wedding,0.613709
+avgpool,459,5,iteration,grooming attire,0.293986
+avgpool,459,6,iteration,formal suit,0.442403
+avgpool,459,7,iteration,tuxedo,0.408958
+avgpool,459,8,iteration,grooming,0.163596
+avgpool,459,9,iteration,menswear,0.448373
+avgpool,459,10,iteration,formal attire,0.577496
+avgpool,459,11,summary,formal clothing,0.433243
+avgpool,489,0,initial,window screen,3.995797
+avgpool,489,0,initial,fire screen,3.467731
+avgpool,489,0,initial,chainlink fence,2.646587
+avgpool,489,0,initial,space heater,1.994724
+avgpool,489,0,initial,electric fan,1.452628
+avgpool,489,0,initial,bikini,0.645286
+avgpool,489,0,initial,capuchin,0.618331
+avgpool,489,0,initial,teddy,0.430727
+avgpool,489,0,initial,cup,0.328873
+avgpool,489,0,initial,slide rule,0.157766
+avgpool,489,1,iteration,mesh guard,3.069247
+avgpool,489,2,iteration,grid barrier,3.131357
+avgpool,489,3,iteration,fire mesh,3.086333
+avgpool,489,4,iteration,safety grid,2.380785
+avgpool,489,5,iteration,screen,0.685041
+avgpool,489,6,iteration,fire barrier,1.984253
+avgpool,489,7,iteration,fire shield,1.445001
+avgpool,489,8,iteration,grid protection,1.743228
+avgpool,489,9,iteration,grid protector,3.211143
+avgpool,489,10,iteration,grid,1.790134
+avgpool,489,11,summary,grid pattern,2.676392
+avgpool,549,0,initial,envelope,1.394254
+avgpool,549,0,initial,menu,1.247305
+avgpool,549,0,initial,parachute,0.897075
+avgpool,549,0,initial,puck,0.725878
+avgpool,549,0,initial,totem pole,0.411069
+avgpool,549,0,initial,wing,0.373198
+avgpool,549,0,initial,water buffalo,0.356044
+avgpool,549,0,initial,ringlet,0.304447
+avgpool,549,0,initial,lycaenid,0.295549
+avgpool,549,0,initial,web site,0.149830
+avgpool,549,1,iteration,flat design,0.314538
+avgpool,549,2,iteration,folder,0.620215
+avgpool,549,3,iteration,leaflet,0.937761
+avgpool,549,4,iteration,brochure,0.846887
+avgpool,549,5,iteration,foldout,0.275556
+avgpool,549,6,iteration,folded paper,0.576632
+avgpool,549,7,iteration,menu card,1.128712
+avgpool,549,8,iteration,folded object,0.384553
+avgpool,549,9,iteration,compact item,0.729682
+avgpool,549,10,iteration,thin document,0.482885
+avgpool,549,11,summary,paper item,0.605832
+avgpool,589,0,initial,stage,4.136272
+avgpool,589,0,initial,theater curtain,1.896314
+avgpool,589,0,initial,slot,1.191662
+avgpool,589,0,initial,pedestal,0.993161
+avgpool,589,0,initial,jellyfish,0.953469
+avgpool,589,0,initial,balance beam,0.718680
+avgpool,589,0,initial,desk,0.592397
+avgpool,589,0,initial,goldfinch,0.445435
+avgpool,589,0,initial,colobus,0.295041
+avgpool,589,0,initial,black grouse,0.268922
+avgpool,589,1,iteration,riser,1.413893
+avgpool,589,2,iteration,elevated stage,3.509618
+avgpool,589,3,iteration,elevated platform,0.754078
+avgpool,589,4,iteration,platform,0.942629
+avgpool,589,5,iteration,elevated surface,1.024678
+avgpool,589,6,iteration,stage piece,1.720908
+avgpool,589,7,iteration,performance space,2.049894
+avgpool,589,8,iteration,raised form,0.777242
+avgpool,589,9,iteration,elevated display,0.890208
+avgpool,589,10,iteration,vertical form,0.860750
+avgpool,589,11,summary,performance platform,2.661514
+avgpool,635,0,initial,weasel,2.761908
+avgpool,635,0,initial,marmot,2.751432
+avgpool,635,0,initial,agama,2.624476
+avgpool,635,0,initial,frilled lizard,2.084841
+avgpool,635,0,initial,komodo dragon,1.615067
+avgpool,635,0,initial,bannister,0.417270
+avgpool,635,0,initial,traffic light,0.329637
+avgpool,635,0,initial,crossword puzzle,0.149804
+avgpool,635,0,initial,cloak,0.130788
+avgpool,635,0,initial,brittany spaniel,0.130514
+avgpool,635,1,iteration,frilled creature,0.649521
+avgpool,635,2,iteration,folded skin,0.062880
+avgpool,635,3,iteration,scaled animal,1.174153
+avgpool,635,4,iteration,frilled reptile,2.017024
+avgpool,635,5,iteration,reptile skin,0.250957
+avgpool,635,6,iteration,agama,2.624476
+avgpool,635,7,iteration,scaled mammal,1.402377
+avgpool,635,8,iteration,frill,0.299430
+avgpool,635,9,iteration,scaled mammal-like,1.217429
+avgpool,635,10,iteration,frilled lizard,2.084841
+avgpool,635,11,summary,small mammal,1.791096
+avgpool,656,0,initial,horizontal bar,2.817031
+avgpool,656,0,initial,parallel bars,2.059524
+avgpool,656,0,initial,garden spider,1.223696
+avgpool,656,0,initial,bee,1.212671
+avgpool,656,0,initial,turnstile,1.147031
+avgpool,656,0,initial,ice lolly,0.775380
+avgpool,656,0,initial,steel arch bridge,0.720524
+avgpool,656,0,initial,typewriter keyboard,0.662762
+avgpool,656,0,initial,balance beam,0.622486
+avgpool,656,0,initial,king penguin,0.103649
+avgpool,656,1,iteration,railing,1.804999
+avgpool,656,2,iteration,horizontal lines,0.332243
+avgpool,656,3,iteration,parallel lines,0.543508
+avgpool,656,4,iteration,parallel structure,0.315316
+avgpool,656,5,iteration,parallel bars,2.059524
+avgpool,656,6,iteration,horizontal bar,2.817031
+avgpool,656,7,iteration,parallel bars,2.059524
+avgpool,656,8,iteration,alignment,0.843708
+avgpool,656,9,iteration,orderly,0.966309
+avgpool,656,10,iteration,orderly structure,0.639509
+avgpool,656,11,summary,straight edges,0.546677
+avgpool,668,0,initial,breakwater,2.305248
+avgpool,668,0,initial,seat belt,2.243838
+avgpool,668,0,initial,container ship,2.091686
+avgpool,668,0,initial,parking meter,1.640632
+avgpool,668,0,initial,promontory,0.888628
+avgpool,668,0,initial,tow truck,0.741727
+avgpool,668,0,initial,ashcan,0.392079
+avgpool,668,0,initial,gibbon,0.316418
+avgpool,668,0,initial,screw,0.299622
+avgpool,668,0,initial,organ,0.096940
+avgpool,668,1,iteration,maritime structure,0.505876
+avgpool,668,2,iteration,water edge,0.582994
+avgpool,668,3,iteration,barrier,0.742051
+avgpool,668,4,iteration,jetty,1.663099
+avgpool,668,5,iteration,shoreline,2.171329
+avgpool,668,6,iteration,coastal defense,1.363789
+avgpool,668,7,iteration,breakwater,2.305248
+avgpool,668,8,iteration,safety net,0.413529
+avgpool,668,9,iteration,containment,0.398338
+avgpool,668,10,iteration,protected edge,0.465975
+avgpool,668,11,summary,protective function,0.447475
+avgpool,706,0,initial,sports car,3.046426
+avgpool,706,0,initial,chihuahua,2.978045
+avgpool,706,0,initial,convertible,2.973784
+avgpool,706,0,initial,pomeranian,2.905296
+avgpool,706,0,initial,projector,2.278023
+avgpool,706,0,initial,japanese spaniel,1.536683
+avgpool,706,0,initial,komodo dragon,0.600605
+avgpool,706,0,initial,pay-phone,0.436930
+avgpool,706,0,initial,moped,0.399234
+avgpool,706,0,initial,pillow,0.396853
+avgpool,706,1,iteration,exotic car,2.271024
+avgpool,706,2,iteration,compact car,1.931920
+avgpool,706,3,iteration,convertible sports car,3.811422
+avgpool,706,4,iteration,vehicle,1.986701
+avgpool,706,5,iteration,sports car,3.046426
+avgpool,706,6,iteration,open top car,2.745426
+avgpool,706,7,iteration,removable roof,0.975769
+avgpool,706,8,iteration,roofless car,3.480721
+avgpool,706,9,iteration,soft top,2.044369
+avgpool,706,10,iteration,retractable roof,1.449689
+avgpool,706,11,summary,open top,1.409273
+avgpool,728,0,initial,grasshopper,1.796732
+avgpool,728,0,initial,military uniform,1.345104
+avgpool,728,0,initial,assault rifle,1.334586
+avgpool,728,0,initial,cricket,1.055241
+avgpool,728,0,initial,tow truck,0.546073
+avgpool,728,0,initial,ping-pong ball,0.295935
+avgpool,728,0,initial,washbasin,0.266057
+avgpool,728,0,initial,car wheel,0.203693
+avgpool,728,0,initial,abaya,0.139595
+avgpool,728,0,initial,stingray,0.133797
+avgpool,728,1,iteration,armored shell,0.109023
+avgpool,728,2,iteration,bug armor,0.759571
+avgpool,728,3,iteration,armor,0.591744
+avgpool,728,4,iteration,insect armor,0.476027
+avgpool,728,5,iteration,exosuit,0.477812
+avgpool,728,6,iteration,insect shield,0.108181
+avgpool,728,7,iteration,shield,0.306611
+avgpool,728,8,iteration,insect armor,0.476027
+avgpool,728,9,iteration,insect shield,0.108181
+avgpool,728,10,iteration,bug suit,0.568393
+avgpool,728,11,summary,armored exterior,0.386579
+avgpool,730,0,initial,prayer rug,3.096778
+avgpool,730,0,initial,christmas stocking,1.976294
+avgpool,730,0,initial,handkerchief,1.807015
+avgpool,730,0,initial,sleeping bag,1.658889
+avgpool,730,0,initial,pillow,1.596786
+avgpool,730,0,initial,volcano,0.640783
+avgpool,730,0,initial,sulphur-crested cockatoo,0.451435
+avgpool,730,0,initial,fox squirrel,0.329506
+avgpool,730,0,initial,arctic fox,0.323136
+avgpool,730,0,initial,cab,0.115852
+avgpool,730,1,iteration,comforter,2.257701
+avgpool,730,2,iteration,blanket,1.513875
+avgpool,730,3,iteration,insulation,0.458396
+avgpool,730,4,iteration,throw,0.727119
+avgpool,730,5,iteration,bedding,2.287561
+avgpool,730,6,iteration,soft bedding,1.654668
+avgpool,730,7,iteration,heating pad,1.681260
+avgpool,730,8,iteration,warmth,0.216247
+avgpool,730,9,iteration,warmth cloth,1.064428
+avgpool,730,10,iteration,cozy fabric,1.074236
+avgpool,730,11,summary,bedding,2.287561
+avgpool,737,0,initial,sock,4.683167
+avgpool,737,0,initial,clog,2.890144
+avgpool,737,0,initial,loafer,2.723725
+avgpool,737,0,initial,christmas stocking,2.468369
+avgpool,737,0,initial,butternut squash,1.509933
+avgpool,737,0,initial,pillow,1.195018
+avgpool,737,0,initial,crash helmet,0.280960
+avgpool,737,0,initial,rock python,0.255063
+avgpool,737,0,initial,boston bull,0.213648
+avgpool,737,0,initial,mouse,0.124503
+avgpool,737,1,iteration,footwear,2.672074
+avgpool,737,2,iteration,garment,0.639978
+avgpool,737,3,iteration,shoe type,1.814026
+avgpool,737,4,iteration,foot cover,1.805928
+avgpool,737,5,iteration,stocking,2.964560
+avgpool,737,6,iteration,footwear accessory,1.461911
+avgpool,737,7,iteration,primary footwear,2.439754
+avgpool,737,8,iteration,footwear cover,1.774341
+avgpool,737,9,iteration,ankle cover,2.991818
+avgpool,737,10,iteration,foot protector,2.154725
+avgpool,737,11,summary,footwear cover,1.774341
+avgpool,746,0,initial,sunglass,4.047434
+avgpool,746,0,initial,sunglasses,4.028151
+avgpool,746,0,initial,tree frog,2.935369
+avgpool,746,0,initial,bullfrog,2.399865
+avgpool,746,0,initial,rock beauty,0.601688
+avgpool,746,0,initial,mosque,0.415313
+avgpool,746,0,initial,grey fox,0.399714
+avgpool,746,0,initial,drilling platform,0.282179
+avgpool,746,0,initial,lakeland terrier,0.246329
+avgpool,746,0,initial,photocopier,0.205293
+avgpool,746,1,iteration,eyewear,2.276484
+avgpool,746,2,iteration,eye shield,1.332868
+avgpool,746,3,iteration,eye guard,0.898654
+avgpool,746,4,iteration,frame,0.712850
+avgpool,746,5,iteration,sunglass,4.047434
+avgpool,746,6,iteration,eye protection,1.251436
+avgpool,746,7,iteration,eye cover,0.120782
+avgpool,746,8,iteration,eyeshield,0.357670
+avgpool,746,9,iteration,eye shield variant,1.141376
+avgpool,746,10,iteration,eyeglasses,0.983398
+avgpool,746,11,summary,face wear,0.408931
+avgpool,791,0,initial,ringlet,3.923605
+avgpool,791,0,initial,cabbage butterfly,2.873743
+avgpool,791,0,initial,spotted salamander,1.395388
+avgpool,791,0,initial,torch,0.956637
+avgpool,791,0,initial,lycaenid,0.894289
+avgpool,791,0,initial,admiral,0.627834
+avgpool,791,0,initial,garbage truck,0.594946
+avgpool,791,0,initial,american staffordshire terrier,0.524276
+avgpool,791,0,initial,seat belt,0.452515
+avgpool,791,0,initial,quilt,0.436401
+avgpool,791,1,iteration,patterned creature,0.451775
+avgpool,791,2,iteration,ring pattern,0.835570
+avgpool,791,3,iteration,ringed creature,0.609057
+avgpool,791,4,iteration,ringlet,3.923605
+avgpool,791,5,iteration,ringed pattern,0.156223
+avgpool,791,6,iteration,ringed design,0.722076
+avgpool,791,7,iteration,ringed,0.638843
+avgpool,791,8,iteration,ringed insect,0.902710
+avgpool,791,9,iteration,spotted ring,0.892627
+avgpool,791,10,iteration,ringed shape,0.756429
+avgpool,791,11,summary,curved shape,0.199924
+avgpool,794,0,initial,starfish,2.368512
+avgpool,794,0,initial,christmas stocking,1.946283
+avgpool,794,0,initial,maillot,1.145965
+avgpool,794,0,initial,pillow,0.752233
+avgpool,794,0,initial,hamster,0.537019
+avgpool,794,0,initial,rock python,0.404397
+avgpool,794,0,initial,steam locomotive,0.371854
+avgpool,794,0,initial,gibbon,0.244852
+avgpool,794,0,initial,water tower,0.217733
+avgpool,794,0,initial,tank suit,0.127109
+avgpool,794,1,iteration,bulbous shape,0.316990
+avgpool,794,2,iteration,pouch,0.859063
+avgpool,794,3,iteration,sack,0.487576
+avgpool,794,4,iteration,rounded object,0.231375
+avgpool,794,5,iteration,starfish,2.368512
+avgpool,794,6,iteration,soft pouch,0.723040
+avgpool,794,7,iteration,round object,0.133049
+avgpool,794,8,iteration,bag,0.626000
+avgpool,794,9,iteration,stocking,1.680400
+avgpool,794,10,iteration,pocket,0.315852
+avgpool,794,11,summary,star shape,0.766249
+avgpool,827,0,initial,white stork,1.553809
+avgpool,827,0,initial,bustard,1.424557
+avgpool,827,0,initial,coral fungus,1.387715
+avgpool,827,0,initial,ostrich,1.272951
+avgpool,827,0,initial,crane,0.720178
+avgpool,827,0,initial,cradle,0.312129
+avgpool,827,0,initial,nail,0.261766
+avgpool,827,0,initial,beer bottle,0.168560
+avgpool,827,0,initial,coffeepot,0.142695
+avgpool,827,0,initial,otter,0.101206
+avgpool,827,1,iteration,long leg,0.468467
+avgpool,827,2,iteration,long necked bird,1.612921
+avgpool,827,3,iteration,heron,1.165002
+avgpool,827,4,iteration,long necked creature,1.417598
+avgpool,827,5,iteration,long neck,0.932632
+avgpool,827,6,iteration,long necked,1.088678
+avgpool,827,7,iteration,long necked animal,0.870412
+avgpool,827,8,iteration,bird neck,0.855837
+avgpool,827,9,iteration,long necked animal,0.870412
+avgpool,827,10,iteration,long necked creature,1.417598
+avgpool,827,11,summary,long neck,0.932632
+avgpool,845,0,initial,crib,2.786068
+avgpool,845,0,initial,chest,1.895613
+avgpool,845,0,initial,picket fence,1.849241
+avgpool,845,0,initial,bassinet,1.812621
+avgpool,845,0,initial,file,1.056222
+avgpool,845,0,initial,window screen,0.519292
+avgpool,845,0,initial,chesapeake bay retriever,0.407194
+avgpool,845,0,initial,iron,0.387809
+avgpool,845,0,initial,agama,0.383974
+avgpool,845,0,initial,ibex,0.358102
+avgpool,845,1,iteration,baby box,1.815755
+avgpool,845,2,iteration,crib,2.786068
+avgpool,845,3,iteration,picket,0.589775
+avgpool,845,4,iteration,wooden box,2.322181
+avgpool,845,5,iteration,hinged box,2.410475
+avgpool,845,6,iteration,container,1.177999
+avgpool,845,7,iteration,boxy,1.049039
+avgpool,845,8,iteration,enclosure,0.990370
+avgpool,845,9,iteration,rectangular,0.564327
+avgpool,845,10,iteration,storage unit,1.904895
+avgpool,845,11,summary,hinged lid,1.457469
+avgpool,856,0,initial,spider web,3.432469
+avgpool,856,0,initial,barn spider,2.741733
+avgpool,856,0,initial,black widow,2.516965
+avgpool,856,0,initial,garden spider,2.415578
+avgpool,856,0,initial,black and gold garden spider,2.361918
+avgpool,856,0,initial,gondola,2.302789
+avgpool,856,0,initial,custard apple,0.512816
+avgpool,856,0,initial,admiral,0.411801
+avgpool,856,0,initial,garter snake,0.366735
+avgpool,856,0,initial,hammerhead,0.249842
+avgpool,856,1,iteration,web spinner,2.650318
+avgpool,856,2,iteration,arachnid,2.277791
+avgpool,856,3,iteration,eight leg,1.813113
+avgpool,856,4,iteration,spider body,2.237796
+avgpool,856,5,iteration,orb web,2.825349
+avgpool,856,6,iteration,spider,2.370275
+avgpool,856,7,iteration,black widow web,2.960215
+avgpool,856,8,iteration,(ignore this),0.851805
+avgpool,856,9,iteration,dark coloration,0.521141
+avgpool,856,10,iteration,black widow web,2.960215
+avgpool,856,11,summary,web structure,1.611349
+avgpool,877,0,initial,theater curtain,2.761564
+avgpool,877,0,initial,shower curtain,2.216962
+avgpool,877,0,initial,jack-o'-lantern,2.162716
+avgpool,877,0,initial,mosquito net,2.000849
+avgpool,877,0,initial,balloon,1.687830
+avgpool,877,0,initial,thatch,0.908725
+avgpool,877,0,initial,screwdriver,0.386430
+avgpool,877,0,initial,tarantula,0.292646
+avgpool,877,0,initial,agaric,0.255047
+avgpool,877,0,initial,black swan,0.211710
+avgpool,877,1,iteration,drapery,2.303842
+avgpool,877,2,iteration,hanging fabric,2.749563
+avgpool,877,3,iteration,curtain,2.187703
+avgpool,877,4,iteration,hangings,1.023293
+avgpool,877,5,iteration,enclosure,1.455167
+avgpool,877,6,iteration,stage drape,3.273264
+avgpool,877,7,iteration,divider,1.122349
+avgpool,877,8,iteration,coverup,0.603765
+avgpool,877,9,iteration,fabric cover,1.534782
+avgpool,877,10,iteration,partitioning,1.004257
+avgpool,877,11,summary,theater context,3.641598
+avgpool,886,0,initial,barn spider,2.325690
+avgpool,886,0,initial,black and gold garden spider,2.166054
+avgpool,886,0,initial,black widow,2.127012
+avgpool,886,0,initial,garden spider,1.932885
+avgpool,886,0,initial,tick,1.368492
+avgpool,886,0,initial,moving van,0.394149
+avgpool,886,0,initial,moped,0.327855
+avgpool,886,0,initial,purse,0.270337
+avgpool,886,0,initial,polaroid camera,0.091749
+avgpool,886,0,initial,proboscis monkey,0.038598
+avgpool,886,1,iteration,black gold,0.675893
+avgpool,886,2,iteration,arachnid,1.685833
+avgpool,886,3,iteration,eight legged,1.777962
+avgpool,886,4,iteration,spider type,1.967182
+avgpool,886,5,iteration,black gold spider,2.094470
+avgpool,886,6,iteration,black gold spider,2.094470
+avgpool,886,7,iteration,black spider,1.970611
+avgpool,886,8,iteration,black markings,0.859179
+avgpool,886,9,iteration,black gold spider,2.094470
+avgpool,886,10,iteration,golden spider,1.556352
+avgpool,886,11,summary,gold coloring,0.372422
+avgpool,887,0,initial,tree frog,2.899481
+avgpool,887,0,initial,staffordshire bullterrier,2.486885
+avgpool,887,0,initial,mexican hairless,1.881378
+avgpool,887,0,initial,scorpion,1.596093
+avgpool,887,0,initial,weevil,1.465698
+avgpool,887,0,initial,hammerhead,0.795883
+avgpool,887,0,initial,harmonica,0.338779
+avgpool,887,0,initial,arctic fox,0.242335
+avgpool,887,0,initial,street sign,0.114310
+avgpool,887,0,initial,flute,0.028374
+avgpool,887,1,iteration,odd creature,1.733179
+avgpool,887,2,iteration,exotic pet,1.233603
+avgpool,887,3,iteration,unusual pet,0.343980
+avgpool,887,4,iteration,rare animal,0.430617
+avgpool,887,5,iteration,unusual mammal,0.460116
+avgpool,887,6,iteration,unusual head,0.317764
+avgpool,887,7,iteration,alien creature,1.507606
+avgpool,887,8,iteration,mutant animal,1.236793
+avgpool,887,9,iteration,unusual head,0.317764
+avgpool,887,10,iteration,alien body,1.107969
+avgpool,887,11,summary,fur,0.004935
+avgpool,889,0,initial,fur coat,3.804184
+avgpool,889,0,initial,tarantula,3.600244
+avgpool,889,0,initial,zebra,2.568339
+avgpool,889,0,initial,pelican,2.407353
+avgpool,889,0,initial,prairie chicken,1.947764
+avgpool,889,0,initial,dishrag,0.885925
+avgpool,889,0,initial,hen-of-the-woods,0.620715
+avgpool,889,0,initial,hook,0.474531
+avgpool,889,0,initial,container ship,0.282370
+avgpool,889,0,initial,snowmobile,0.183460
+avgpool,889,1,iteration,hairy texture,0.845260
+avgpool,889,2,iteration,fur coat,3.804184
+avgpool,889,3,iteration,thick fur,0.521963
+avgpool,889,4,iteration,furry animal,0.635262
+avgpool,889,5,iteration,stripes,1.478835
+avgpool,889,6,iteration,striping pattern,1.547434
+avgpool,889,7,iteration,zebra pattern,2.144505
+avgpool,889,8,iteration,striped animal,2.077609
+avgpool,889,9,iteration,striped creature,1.895566
+avgpool,889,10,iteration,zebra patterned,2.661181
+avgpool,889,11,summary,thick fur,0.521963
+avgpool,891,0,initial,french horn,3.828719
+avgpool,891,0,initial,cornet,3.679885
+avgpool,891,0,initial,thimble,2.293274
+avgpool,891,0,initial,screw,1.574927
+avgpool,891,0,initial,bolo tie,1.365364
+avgpool,891,0,initial,odometer,0.405225
+avgpool,891,0,initial,crayfish,0.379922
+avgpool,891,0,initial,hyena,0.320882
+avgpool,891,0,initial,wig,0.282058
+avgpool,891,0,initial,buckeye,0.185666
+avgpool,891,1,iteration,handheld,0.380526
+avgpool,891,2,iteration,curved instrument,0.965687
+avgpool,891,3,iteration,mouthpiece,1.361703
+avgpool,891,4,iteration,metal instrument,2.156811
+avgpool,891,5,iteration,brass,2.982031
+avgpool,891,6,iteration,bell,2.187308
+avgpool,891,7,iteration,wind instrument,2.779036
+avgpool,891,8,iteration,metal cylinder,1.103930
+avgpool,891,9,iteration,ornament,0.993370
+avgpool,891,10,iteration,flared end,0.679888
+avgpool,891,11,summary,brass instrument,4.343776
+avgpool,934,0,initial,weimaraner,3.179919
+avgpool,934,0,initial,dial telephone,2.710678
+avgpool,934,0,initial,bedlington terrier,2.684710
+avgpool,934,0,initial,italian greyhound,2.660091
+avgpool,934,0,initial,whippet,2.451470
+avgpool,934,0,initial,borzoi,1.543598
+avgpool,934,0,initial,studio couch,0.806630
+avgpool,934,0,initial,soap dispenser,0.779708
+avgpool,934,0,initial,bald eagle,0.281196
+avgpool,934,0,initial,granny smith,0.182620
+avgpool,934,1,iteration,sighthound,2.273548
+avgpool,934,2,iteration,racing dog,0.752620
+avgpool,934,3,iteration,long leg,0.298853
+avgpool,934,4,iteration,slender breed,2.194359
+avgpool,934,5,iteration,racing dog breed,1.004879
+avgpool,934,6,iteration,speed dog,0.480731
+avgpool,934,7,iteration,racing dog type,0.743938
+avgpool,934,8,iteration,lean dog,1.111696
+avgpool,934,9,iteration,sleek dog,1.399485
+avgpool,934,10,iteration,fast dog,1.248516
+avgpool,934,11,summary,canine,0.868550
+avgpool,935,0,initial,bouvier des flandres,2.249179
+avgpool,935,0,initial,organ,2.157923
+avgpool,935,0,initial,giant schnauzer,2.039177
+avgpool,935,0,initial,marimba,1.772215
+avgpool,935,0,initial,old english sheepdog,1.332701
+avgpool,935,0,initial,lakeland terrier,1.241063
+avgpool,935,0,initial,palace,0.798414
+avgpool,935,0,initial,flute,0.543405
+avgpool,935,0,initial,dowitcher,0.189494
+avgpool,935,0,initial,quill,0.163936
+avgpool,935,1,iteration,woodwind,0.913834
+avgpool,935,2,iteration,wind instrument,1.015079
+avgpool,935,3,iteration,large dog breed,0.157060
+avgpool,935,4,iteration,grandeur,1.000745
+avgpool,935,5,iteration,bearded dog,1.423207
+avgpool,935,6,iteration,orchestra,0.616007
+avgpool,935,7,iteration,giant dog,0.215991
+avgpool,935,8,iteration,keyboard,1.044460
+avgpool,935,9,iteration,music,0.693284
+avgpool,935,10,iteration,big dog,0.226125
+avgpool,935,11,summary,dog breed,0.167602
+avgpool,947,0,initial,football helmet,2.828175
+avgpool,947,0,initial,ambulance,2.291260
+avgpool,947,0,initial,rugby ball,2.100362
+avgpool,947,0,initial,basketball,2.088663
+avgpool,947,0,initial,bearskin,0.739304
+avgpool,947,0,initial,silky terrier,0.685784
+avgpool,947,0,initial,irish wolfhound,0.569933
+avgpool,947,0,initial,bustard,0.462467
+avgpool,947,0,initial,jean,0.423119
+avgpool,947,0,initial,lotion,0.106070
+avgpool,947,1,iteration,protective gear,1.193300
+avgpool,947,2,iteration,headgear,1.363847
+avgpool,947,3,iteration,sports head,1.845635
+avgpool,947,4,iteration,helmet,1.566853
+avgpool,947,5,iteration,head protection,0.885959
+avgpool,947,6,iteration,sports headgear,1.882695
+avgpool,947,7,iteration,hard shell,0.379888
+avgpool,947,8,iteration,padding,0.181791
+avgpool,947,9,iteration,crash cap,0.806895
+avgpool,947,10,iteration,head,0.923091
+avgpool,947,11,summary,protective gear,1.193300
+avgpool,962,0,initial,king penguin,1.798124
+avgpool,962,0,initial,black-and-tan coonhound,1.585398
+avgpool,962,0,initial,weimaraner,1.444040
+avgpool,962,0,initial,remote control,1.275982
+avgpool,962,0,initial,parking meter,1.226066
+avgpool,962,0,initial,odometer,1.001299
+avgpool,962,0,initial,printer,0.390556
+avgpool,962,0,initial,prayer rug,0.258094
+avgpool,962,0,initial,plow,0.231026
+avgpool,962,0,initial,greenhouse,0.113794
+avgpool,962,1,iteration,canine,0.595667
+avgpool,962,2,iteration,king penguin,1.798124
+avgpool,962,3,iteration,breed dog,0.682802
+avgpool,962,4,iteration,coated dog,0.443865
+avgpool,962,5,iteration,coated animal,0.213077
+avgpool,962,6,iteration,tuxedo dog,0.995605
+avgpool,962,7,iteration,patterned dog,0.890608
+avgpool,962,8,iteration,patterned coat,0.231794
+avgpool,962,9,iteration,color pattern,0.127788
+avgpool,962,10,iteration,black and tan,1.101651
+avgpool,962,11,summary,dog breed,0.611452
+avgpool,985,0,initial,police van,3.203728
+avgpool,985,0,initial,damselfly,2.119194
+avgpool,985,0,initial,scorpion,0.637782
+avgpool,985,0,initial,lion,0.572060
+avgpool,985,0,initial,academic gown,0.482052
+avgpool,985,0,initial,ping-pong ball,0.400631
+avgpool,985,0,initial,screen,0.285686
+avgpool,985,0,initial,window screen,0.277142
+avgpool,985,0,initial,bell pepper,0.207873
+avgpool,985,0,initial,hotdog,0.169359
+avgpool,985,1,iteration,emergency vehicle,1.288211
+avgpool,985,2,iteration,police vehicle,2.811870
+avgpool,985,3,iteration,uniform,0.508606
+avgpool,985,4,iteration,vehicle,0.548820
+avgpool,985,5,iteration,blue light,0.287383
+avgpool,985,6,iteration,service van,0.871385
+avgpool,985,7,iteration,badge,0.663584
+avgpool,985,8,iteration,blue light,0.287383
+avgpool,985,9,iteration,law enforcement vehicle,2.658387
+avgpool,985,10,iteration,shield,0.343953
+avgpool,985,11,summary,law enforcement,0.605603
+avgpool,997,0,initial,barbell,3.391516
+avgpool,997,0,initial,dumbbell,2.959058
+avgpool,997,0,initial,affenpinscher,2.453845
+avgpool,997,0,initial,screw,1.834875
+avgpool,997,0,initial,gasmask,0.903166
+avgpool,997,0,initial,chihuahua,0.902283
+avgpool,997,0,initial,safe,0.800602
+avgpool,997,0,initial,earthstar,0.622936
+avgpool,997,0,initial,cd player,0.596689
+avgpool,997,0,initial,grey fox,0.271073
+avgpool,997,1,iteration,weight ball,0.357873
+avgpool,997,2,iteration,weightlift,3.467189
+avgpool,997,3,iteration,weight holder,1.116946
+avgpool,997,4,iteration,metal weight,0.939837
+avgpool,997,5,iteration,barbell,3.391516
+avgpool,997,6,iteration,weight plate,0.755265
+avgpool,997,7,iteration,free weight,2.150077
+avgpool,997,8,iteration,dumbbell,2.959058
+avgpool,997,9,iteration,weightlifting equipment,3.134356
+avgpool,997,10,iteration,weightlifting gear,2.759381
+avgpool,997,11,summary,strength training equipment,2.508476
+avgpool,1008,0,initial,jack-o'-lantern,1.385870
+avgpool,1008,0,initial,crossword puzzle,1.152900
+avgpool,1008,0,initial,axolotl,1.015043
+avgpool,1008,0,initial,trifle,0.908033
+avgpool,1008,0,initial,pill bottle,0.670944
+avgpool,1008,0,initial,parachute,0.392449
+avgpool,1008,0,initial,staffordshire bullterrier,0.333579
+avgpool,1008,0,initial,shih-tzu,0.257745
+avgpool,1008,0,initial,bassinet,0.194238
+avgpool,1008,0,initial,liner,0.186923
+avgpool,1008,1,iteration,symmetry,0.082922
+avgpool,1008,2,iteration,round shape,0.286297
+avgpool,1008,3,iteration,pill bottle,0.670944
+avgpool,1008,4,iteration,intricate design,0.294342
+avgpool,1008,5,iteration,pattern,0.200879
+avgpool,1008,6,iteration,carved object,0.301779
+avgpool,1008,7,iteration,designated object,0.173668
+avgpool,1008,8,iteration,halloween decoration,0.723127
+avgpool,1008,9,iteration,carved animal,0.743121
+avgpool,1008,10,iteration,design,0.195912
+avgpool,1008,11,summary,symmetry,0.082922
+avgpool,1031,0,initial,ox,3.235571
+avgpool,1031,0,initial,gong,3.225429
+avgpool,1031,0,initial,water buffalo,2.980534
+avgpool,1031,0,initial,oxcart,2.134686
+avgpool,1031,0,initial,chime,2.028798
+avgpool,1031,0,initial,steam locomotive,0.728664
+avgpool,1031,0,initial,hyena,0.600330
+avgpool,1031,0,initial,black widow,0.438611
+avgpool,1031,0,initial,mobile home,0.167456
+avgpool,1031,0,initial,car wheel,0.150788
+avgpool,1031,1,iteration,low rumble,0.413387
+avgpool,1031,2,iteration,loud animal,0.485560
+avgpool,1031,3,iteration,draft animal,1.504048
+avgpool,1031,4,iteration,oxen,3.233166
+avgpool,1031,5,iteration,draft power,0.408949
+avgpool,1031,6,iteration,beast of burden,0.687262
+avgpool,1031,7,iteration,(ignore this),0.227292
+avgpool,1031,8,iteration,power animal,0.672717
+avgpool,1031,9,iteration,drum animal,0.811252
+avgpool,1031,10,iteration,draft team,0.166814
+avgpool,1031,11,summary,low frequency sound,0.350050
+avgpool,1078,0,initial,pencil box,2.532722
+avgpool,1078,0,initial,teapot,1.789341
+avgpool,1078,0,initial,spindle,1.082072
+avgpool,1078,0,initial,mixing bowl,1.077463
+avgpool,1078,0,initial,ice bear,1.059866
+avgpool,1078,0,initial,pillow,0.490491
+avgpool,1078,0,initial,meerkat,0.486562
+avgpool,1078,0,initial,hoopskirt,0.465076
+avgpool,1078,0,initial,hyena,0.332715
+avgpool,1078,0,initial,rubber eraser,0.192589
+avgpool,1078,1,iteration,container,0.559098
+avgpool,1078,2,iteration,lidded object,1.717290
+avgpool,1078,3,iteration,teapot shape,1.768779
+avgpool,1078,4,iteration,spindle,1.082072
+avgpool,1078,5,iteration,pencil box,2.532722
+avgpool,1078,6,iteration,rounded body,0.359137
+avgpool,1078,7,iteration,curved vessel,0.670807
+avgpool,1078,8,iteration,teapot shape,1.768779
+avgpool,1078,9,iteration,lid,0.975483
+avgpool,1078,10,iteration,coverable,0.385644
+avgpool,1078,11,summary,handheld,0.746261
+avgpool,1095,0,initial,wooden spoon,3.776871
+avgpool,1095,0,initial,band aid,2.660805
+avgpool,1095,0,initial,butternut squash,2.477660
+avgpool,1095,0,initial,drumstick,2.335021
+avgpool,1095,0,initial,panpipe,2.261282
+avgpool,1095,0,initial,harp,2.172500
+avgpool,1095,0,initial,grand piano,0.866489
+avgpool,1095,0,initial,reel,0.685972
+avgpool,1095,0,initial,kite,0.577903
+avgpool,1095,0,initial,rock python,0.306477
+avgpool,1095,1,iteration,cylinder,0.371178
+avgpool,1095,2,iteration,drumstick,2.335021
+avgpool,1095,3,iteration,stick instrument,2.016010
+avgpool,1095,4,iteration,handheld instrument,0.425108
+avgpool,1095,5,iteration,long shape,0.973750
+avgpool,1095,6,iteration,handheld shape,0.437527
+avgpool,1095,7,iteration,curved handle,0.225914
+avgpool,1095,8,iteration,reed,0.791561
+avgpool,1095,9,iteration,wind instrument,0.840626
+avgpool,1095,10,iteration,panpipe,2.261282
+avgpool,1095,11,summary,kitchen item,0.813464
+avgpool,1099,0,initial,garbage truck,2.910514
+avgpool,1099,0,initial,thresher,2.879347
+avgpool,1099,0,initial,freight car,2.493735
+avgpool,1099,0,initial,harvester,2.316751
+avgpool,1099,0,initial,paddlewheel,1.647153
+avgpool,1099,0,initial,rottweiler,0.682728
+avgpool,1099,0,initial,dock,0.395420
+avgpool,1099,0,initial,mountain bike,0.371761
+avgpool,1099,0,initial,castle,0.143958
+avgpool,1099,0,initial,border collie,0.098566
+avgpool,1099,1,iteration,harvester,2.316751
+avgpool,1099,2,iteration,wheeled collector,1.085325
+avgpool,1099,3,iteration,garbage truck,2.910514
+avgpool,1099,4,iteration,collection cart,1.338784
+avgpool,1099,5,iteration,cargo hauler,1.240988
+avgpool,1099,6,iteration,bulk hauler,2.152033
+avgpool,1099,7,iteration,bulk transporter,1.933880
+avgpool,1099,8,iteration,flatbed,0.897256
+avgpool,1099,9,iteration,haul platform,1.931154
+avgpool,1099,10,iteration,bulk load,1.106014
+avgpool,1099,11,summary,large wheeled vehicle,1.147463
+avgpool,1144,0,initial,fountain pen,4.556326
+avgpool,1144,0,initial,lipstick,3.588648
+avgpool,1144,0,initial,ballpoint,3.009025
+avgpool,1144,0,initial,carpenter's kit,2.569010
+avgpool,1144,0,initial,paintbrush,1.605224
+avgpool,1144,0,initial,organ,1.435362
+avgpool,1144,0,initial,scottish deerhound,1.263184
+avgpool,1144,0,initial,schipperke,1.206088
+avgpool,1144,0,initial,angora,0.250404
+avgpool,1144,0,initial,dung beetle,0.207585
+avgpool,1144,1,iteration,pointed tool,2.115806
+avgpool,1144,2,iteration,fine tip,2.909052
+avgpool,1144,3,iteration,coloring tool,3.707910
+avgpool,1144,4,iteration,marker tip,2.682336
+avgpool,1144,5,iteration,writing tip,2.487634
+avgpool,1144,6,iteration,color applicator,2.669322
+avgpool,1144,7,iteration,color tip,1.777761
+avgpool,1144,8,iteration,color applicator,2.669322
+avgpool,1144,9,iteration,art tool,3.053384
+avgpool,1144,10,iteration,color marker,3.400104
+avgpool,1144,11,summary,writing instrument,4.501964
+avgpool,1255,0,initial,manhole cover,1.055243
+avgpool,1255,0,initial,lumbermill,1.033119
+avgpool,1255,0,initial,guillotine,0.737902
+avgpool,1255,0,initial,cliff dwelling,0.729629
+avgpool,1255,0,initial,porcupine,0.490881
+avgpool,1255,0,initial,silky terrier,0.159589
+avgpool,1255,0,initial,christmas stocking,0.159516
+avgpool,1255,0,initial,theater curtain,0.070107
+avgpool,1255,0,initial,chocolate sauce,0.049720
+avgpool,1255,0,initial,leaf beetle,0.027916
+avgpool,1255,1,iteration,grate,0.355689
+avgpool,1255,2,iteration,circular shape,0.034021
+avgpool,1255,3,iteration,cover,0.531993
+avgpool,1255,4,iteration,cutting wheel,0.133470
+avgpool,1255,5,iteration,hatch,0.317111
+avgpool,1255,6,iteration,round shield,0.761906
+avgpool,1255,7,iteration,round object,0.073652
+avgpool,1255,8,iteration,round plate,0.094090
+avgpool,1255,9,iteration,manhole,1.031536
+avgpool,1255,10,iteration,round plate,0.094090
+avgpool,1255,11,summary,round shape,0.140532
+avgpool,1270,0,initial,acorn squash,1.724305
+avgpool,1270,0,initial,standard schnauzer,1.623643
+avgpool,1270,0,initial,wild boar,1.613602
+avgpool,1270,0,initial,bison,1.430165
+avgpool,1270,0,initial,butternut squash,1.244722
+avgpool,1270,0,initial,brabancon griffon,0.524523
+avgpool,1270,0,initial,pitcher,0.299827
+avgpool,1270,0,initial,nematode,0.290557
+avgpool,1270,0,initial,great dane,0.235139
+avgpool,1270,0,initial,slide rule,0.175940
+avgpool,1270,1,iteration,gourd,1.044139
+avgpool,1270,2,iteration,winter squash,1.160259
+avgpool,1270,3,iteration,hard shell,0.245148
+avgpool,1270,4,iteration,outer coat,0.069549
+avgpool,1270,5,iteration,prickly exterior,0.124885
+avgpool,1270,6,iteration,hard shell fruit,0.771537
+avgpool,1270,7,iteration,shell fruit,0.100201
+avgpool,1270,8,iteration,ornamental squash,1.348670
+avgpool,1270,9,iteration,bitter melon,0.311795
+avgpool,1270,10,iteration,squat,0.189712
+avgpool,1270,11,summary,living thing,0.176993
+avgpool,1277,0,initial,geyser,3.772041
+avgpool,1277,0,initial,oxygen mask,2.904868
+avgpool,1277,0,initial,fountain,2.739823
+avgpool,1277,0,initial,football helmet,2.600631
+avgpool,1277,0,initial,fireboat,2.252640
+avgpool,1277,0,initial,knee pad,1.404547
+avgpool,1277,0,initial,brittany spaniel,0.862641
+avgpool,1277,0,initial,baboon,0.655552
+avgpool,1277,0,initial,catamaran,0.532167
+avgpool,1277,0,initial,scottish deerhound,0.379975
+avgpool,1277,1,iteration,safety helmet,2.609361
+avgpool,1277,2,iteration,outflow,1.498750
+avgpool,1277,3,iteration,fluid container,1.048687
+avgpool,1277,4,iteration,breathing apparatus,2.897787
+avgpool,1277,5,iteration,spout,1.972183
+avgpool,1277,6,iteration,fountain head,1.860785
+avgpool,1277,7,iteration,nozzle,0.800146
+avgpool,1277,8,iteration,water jet,2.462644
+avgpool,1277,9,iteration,outlet,0.615526
+avgpool,1277,10,iteration,fountainhead,1.520648
+avgpool,1277,11,summary,respiratory device,2.242407
+avgpool,1280,0,initial,garbage truck,2.719344
+avgpool,1280,0,initial,trailer truck,2.658730
+avgpool,1280,0,initial,recreational vehicle,1.269947
+avgpool,1280,0,initial,moving van,1.062274
+avgpool,1280,0,initial,bookshop,0.508966
+avgpool,1280,0,initial,mobile home,0.385815
+avgpool,1280,0,initial,thunder snake,0.262780
+avgpool,1280,0,initial,confectionery,0.259996
+avgpool,1280,0,initial,green lizard,0.067837
+avgpool,1280,0,initial,entertainment center,0.062175
+avgpool,1280,1,iteration,vehicle,0.396987
+avgpool,1280,2,iteration,moving cart,0.490174
+avgpool,1280,3,iteration,flatbed,1.861686
+avgpool,1280,4,iteration,dump truck,1.797150
+avgpool,1280,5,iteration,transporter,0.703329
+avgpool,1280,6,iteration,haul truck,1.116589
+avgpool,1280,7,iteration,semi trailer,2.159123
+avgpool,1280,8,iteration,towing truck,1.983765
+avgpool,1280,9,iteration,trailer,1.610390
+avgpool,1280,10,iteration,heavy hauler,2.192306
+avgpool,1280,11,summary,flatbed truck,2.416969
+avgpool,1303,0,initial,bulletproof vest,2.359315
+avgpool,1303,0,initial,pillow,2.281281
+avgpool,1303,0,initial,sweatshirt,1.802739
+avgpool,1303,0,initial,jersey,1.566703
+avgpool,1303,0,initial,quilt,1.366048
+avgpool,1303,0,initial,blenheim spaniel,0.820896
+avgpool,1303,0,initial,conch,0.597085
+avgpool,1303,0,initial,ibex,0.410898
+avgpool,1303,0,initial,lynx,0.403078
+avgpool,1303,0,initial,schipperke,0.199249
+avgpool,1303,1,iteration,padding,0.694483
+avgpool,1303,2,iteration,protective clothing,1.202069
+avgpool,1303,3,iteration,cushioning,0.345335
+avgpool,1303,4,iteration,soft armor,0.966001
+avgpool,1303,5,iteration,worn layer,0.280405
+avgpool,1303,6,iteration,protection layer,0.456834
+avgpool,1303,7,iteration,protective layer,0.535965
+avgpool,1303,8,iteration,bulletproof,0.135087
+avgpool,1303,9,iteration,protective layer,0.535965
+avgpool,1303,10,iteration,comfort layer,0.737528
+avgpool,1303,11,summary,protection,0.420920
+avgpool,1353,0,initial,tape player,2.434966
+avgpool,1353,0,initial,ipod,2.170980
+avgpool,1353,0,initial,cd player,2.093533
+avgpool,1353,0,initial,cassette player,2.058098
+avgpool,1353,0,initial,home theater,1.340779
+avgpool,1353,0,initial,broom,0.404958
+avgpool,1353,0,initial,appenzeller,0.310648
+avgpool,1353,0,initial,tiger,0.226742
+avgpool,1353,0,initial,dowitcher,0.117205
+avgpool,1353,0,initial,piggy bank,0.094799
+avgpool,1353,1,iteration,music player,2.124156
+avgpool,1353,2,iteration,sound device,1.408468
+avgpool,1353,3,iteration,portable player,1.748063
+avgpool,1353,4,iteration,audio,1.544584
+avgpool,1353,5,iteration,music box,0.185115
+avgpool,1353,6,iteration,portable media,0.649779
+avgpool,1353,7,iteration,portable music,1.273587
+avgpool,1353,8,iteration,portable music device,1.689071
+avgpool,1353,9,iteration,portable music device,1.689071
+avgpool,1353,10,iteration,compact player,0.874798
+avgpool,1353,11,summary,music device,1.211408
+avgpool,1358,0,initial,chain saw,5.720767
+avgpool,1358,0,initial,ladybug,2.954807
+avgpool,1358,0,initial,lesser panda,2.610106
+avgpool,1358,0,initial,space shuttle,2.423938
+avgpool,1358,0,initial,revolver,2.059734
+avgpool,1358,0,initial,otter,0.399595
+avgpool,1358,0,initial,dogsled,0.278089
+avgpool,1358,0,initial,trombone,0.195560
+avgpool,1358,0,initial,kite,0.137823
+avgpool,1358,0,initial,paper towel,0.111058
+avgpool,1358,1,iteration,cutting tool,1.015924
+avgpool,1358,2,iteration,harmful,0.440426
+avgpool,1358,3,iteration,sharp edge,0.051969
+avgpool,1358,4,iteration,blade,0.628095
+avgpool,1358,5,iteration,pointed object,0.154939
+avgpool,1358,6,iteration,pointed tip,0.255213
+avgpool,1358,7,iteration,cutting device,1.651147
+avgpool,1358,8,iteration,edge,0.250340
+avgpool,1358,9,iteration,knife,0.931604
+avgpool,1358,10,iteration,sharp,0.101836
+avgpool,1358,11,summary,sharp object,0.133994
+avgpool,1364,0,initial,peacock,3.316878
+avgpool,1364,0,initial,bottlecap,3.028369
+avgpool,1364,0,initial,black grouse,2.198182
+avgpool,1364,0,initial,fly,1.838091
+avgpool,1364,0,initial,bolo tie,1.693836
+avgpool,1364,0,initial,hip,0.500137
+avgpool,1364,0,initial,safe,0.440662
+avgpool,1364,0,initial,lakeland terrier,0.348863
+avgpool,1364,0,initial,submarine,0.238625
+avgpool,1364,0,initial,espresso,0.064213
+avgpool,1364,1,iteration,ornament,1.956020
+avgpool,1364,2,iteration,metal disk,0.040525
+avgpool,1364,3,iteration,patterned disk,0.432862
+avgpool,1364,4,iteration,bottlecap,3.028369
+avgpool,1364,5,iteration,display bird,0.715902
+avgpool,1364,6,iteration,bird pattern,1.265688
+avgpool,1364,7,iteration,eye catcher,0.592816
+avgpool,1364,8,iteration,showy bird,0.848446
+avgpool,1364,9,iteration,eye catcher,0.592816
+avgpool,1364,10,iteration,eye appeal,0.375534
+avgpool,1364,11,summary,iridescence,0.883333
+avgpool,1371,0,initial,cello,3.377766
+avgpool,1371,0,initial,violin,3.313664
+avgpool,1371,0,initial,acoustic guitar,2.857992
+avgpool,1371,0,initial,bassoon,1.875869
+avgpool,1371,0,initial,trombone,1.708379
+avgpool,1371,0,initial,ladybug,1.062637
+avgpool,1371,0,initial,common iguana,0.184646
+avgpool,1371,0,initial,ashcan,0.088052
+avgpool,1371,0,initial,sewing machine,0.082149
+avgpool,1371,0,initial,norwegian elkhound,0.047784
+avgpool,1371,1,iteration,stringed,3.144596
+avgpool,1371,2,iteration,orchestra,3.080665
+avgpool,1371,3,iteration,stringed instrument,3.600321
+avgpool,1371,4,iteration,stringed,3.144596
+avgpool,1371,5,iteration,stringed neck,3.240544
+avgpool,1371,6,iteration,stringed necked,3.218697
+avgpool,1371,7,iteration,necked,0.084466
+avgpool,1371,8,iteration,stringed neck,3.240544
+avgpool,1371,9,iteration,stringed body,3.520313
+avgpool,1371,10,iteration,stringed object,3.692834
+avgpool,1371,11,summary,stringed,3.144596
+avgpool,1388,0,initial,african chameleon,3.967066
+avgpool,1388,0,initial,agama,3.431537
+avgpool,1388,0,initial,pay-phone,3.088876
+avgpool,1388,0,initial,boa constrictor,2.539141
+avgpool,1388,0,initial,frilled lizard,2.382206
+avgpool,1388,0,initial,box turtle,0.773471
+avgpool,1388,0,initial,gasmask,0.688049
+avgpool,1388,0,initial,syringe,0.383407
+avgpool,1388,0,initial,black grouse,0.233557
+avgpool,1388,0,initial,cockroach,0.139750
+avgpool,1388,1,iteration,color shifter,0.314066
+avgpool,1388,2,iteration,color changing,0.322418
+avgpool,1388,3,iteration,chameleon,4.179306
+avgpool,1388,4,iteration,elongated body,0.298247
+avgpool,1388,5,iteration,lizard,3.329140
+avgpool,1388,6,iteration,color changer,0.327393
+avgpool,1388,7,iteration,color change animal,0.893170
+avgpool,1388,8,iteration,color morphing,0.483817
+avgpool,1388,9,iteration,(ignore this),0.270575
+avgpool,1388,10,iteration,(ignore this),0.270575
+avgpool,1388,11,summary,chameleon species,3.921251
+avgpool,1394,0,initial,proboscis monkey,3.590133
+avgpool,1394,0,initial,shower cap,3.246186
+avgpool,1394,0,initial,gorilla,2.794593
+avgpool,1394,0,initial,gyromitra,2.171916
+avgpool,1394,0,initial,swimming trunks,1.505543
+avgpool,1394,0,initial,coral fungus,1.357497
+avgpool,1394,0,initial,tub,0.995557
+avgpool,1394,0,initial,corn,0.837528
+avgpool,1394,0,initial,vine snake,0.168537
+avgpool,1394,0,initial,agama,0.132251
+avgpool,1394,1,iteration,long nose,1.191976
+avgpool,1394,2,iteration,head cover,1.365432
+avgpool,1394,3,iteration,snout,0.343152
+avgpool,1394,4,iteration,facial protrusion,2.092718
+avgpool,1394,5,iteration,prominent nose,1.735574
+avgpool,1394,6,iteration,nose appendage,1.625881
+avgpool,1394,7,iteration,proboscis,0.511187
+avgpool,1394,8,iteration,nose extension,1.557190
+avgpool,1394,9,iteration,distinct nose,1.633486
+avgpool,1394,10,iteration,nose feature,1.663475
+avgpool,1394,11,summary,large primate face,3.480921
+avgpool,1396,0,initial,wallaby,1.272924
+avgpool,1396,0,initial,skunk,1.254394
+avgpool,1396,0,initial,echidna,1.089589
+avgpool,1396,0,initial,manhole cover,0.981311
+avgpool,1396,0,initial,armadillo,0.624629
+avgpool,1396,0,initial,scuba diver,0.280590
+avgpool,1396,0,initial,bittern,0.183075
+avgpool,1396,0,initial,go-kart,0.152781
+avgpool,1396,0,initial,panpipe,0.145034
+avgpool,1396,0,initial,pot,0.125682
+avgpool,1396,1,iteration,burrowing armor,0.606141
+avgpool,1396,2,iteration,armor plate,0.498706
+avgpool,1396,3,iteration,shellback,0.150659
+avgpool,1396,4,iteration,armored creature,0.346433
+avgpool,1396,5,iteration,tough outer layer,0.270518
+avgpool,1396,6,iteration,small mammal,1.183266
+avgpool,1396,7,iteration,shield,0.677343
+avgpool,1396,8,iteration,manhole,0.920796
+avgpool,1396,9,iteration,armored animal,0.197781
+avgpool,1396,10,iteration,rounded shield,0.393656
+avgpool,1396,11,summary,mammal with pouch,0.952215
+avgpool,1408,0,initial,gong,3.257245
+avgpool,1408,0,initial,bell cote,2.632196
+avgpool,1408,0,initial,triumphal arch,2.243236
+avgpool,1408,0,initial,chime,2.038858
+avgpool,1408,0,initial,tusker,1.838687
+avgpool,1408,0,initial,viaduct,1.653701
+avgpool,1408,0,initial,mitten,0.776510
+avgpool,1408,0,initial,harvester,0.644564
+avgpool,1408,0,initial,worm fence,0.347767
+avgpool,1408,0,initial,jellyfish,0.339113
+avgpool,1408,1,iteration,soundmaker,0.454065
+avgpool,1408,2,iteration,noise maker,0.320125
+avgpool,1408,3,iteration,loud object,0.249079
+avgpool,1408,4,iteration,resonator,0.590545
+avgpool,1408,5,iteration,bell tower,2.492116
+avgpool,1408,6,iteration,pillar,1.071351
+avgpool,1408,7,iteration,noisemaker,0.677188
+avgpool,1408,8,iteration,bell shape,3.037015
+avgpool,1408,9,iteration,gong cote,3.550539
+avgpool,1408,10,iteration,metallic sound,0.850716
+avgpool,1408,11,summary,sound,0.625780
+avgpool,1424,0,initial,geyser,2.773191
+avgpool,1424,0,initial,sandbar,2.305190
+avgpool,1424,0,initial,albatross,2.124519
+avgpool,1424,0,initial,promontory,0.864296
+avgpool,1424,0,initial,beacon,0.565977
+avgpool,1424,0,initial,vase,0.529123
+avgpool,1424,0,initial,grasshopper,0.482429
+avgpool,1424,0,initial,water jug,0.474216
+avgpool,1424,0,initial,coyote,0.445502
+avgpool,1424,0,initial,wood rabbit,0.376226
+avgpool,1424,1,iteration,headland,2.425650
+avgpool,1424,2,iteration,landspit,1.516417
+avgpool,1424,3,iteration,promontory,0.864296
+avgpool,1424,4,iteration,point,0.360820
+avgpool,1424,5,iteration,cape,0.622741
+avgpool,1424,6,iteration,peninsula,2.066369
+avgpool,1424,7,iteration,narrow tongue,0.676031
+avgpool,1424,8,iteration,protrusion,0.426659
+avgpool,1424,9,iteration,fingerland,0.473443
+avgpool,1424,10,iteration,outcropping,0.885920
+avgpool,1424,11,summary,landform near water,2.190352
+avgpool,1442,0,initial,ladybug,2.044019
+avgpool,1442,0,initial,orange,1.730276
+avgpool,1442,0,initial,leaf beetle,1.680915
+avgpool,1442,0,initial,weevil,1.465557
+avgpool,1442,0,initial,nematode,1.364262
+avgpool,1442,0,initial,barometer,1.058749
+avgpool,1442,0,initial,dugong,1.029486
+avgpool,1442,0,initial,green lizard,0.817207
+avgpool,1442,0,initial,dogsled,0.628745
+avgpool,1442,0,initial,drake,0.507270
+avgpool,1442,1,iteration,beetle bug,1.638093
+avgpool,1442,2,iteration,insect shell,1.337345
+avgpool,1442,3,iteration,armor plating,0.480047
+avgpool,1442,4,iteration,exoskeleton,1.250540
+avgpool,1442,5,iteration,armor,0.528126
+avgpool,1442,6,iteration,hard shell,0.975977
+avgpool,1442,7,iteration,hard outer layer,1.134638
+avgpool,1442,8,iteration,beetle carapace,0.881398
+avgpool,1442,9,iteration,orange bug,1.297184
+avgpool,1442,10,iteration,shell,1.650927
+avgpool,1442,11,summary,spots,1.066825
+avgpool,1491,0,initial,lab coat,4.577472
+avgpool,1491,0,initial,suit,3.600499
+avgpool,1491,0,initial,sulphur-crested cockatoo,3.015453
+avgpool,1491,0,initial,bow tie,2.631319
+avgpool,1491,0,initial,schooner,2.501853
+avgpool,1491,0,initial,shower curtain,0.379415
+avgpool,1491,0,initial,golf ball,0.368860
+avgpool,1491,0,initial,hotdog,0.342201
+avgpool,1491,0,initial,king crab,0.311971
+avgpool,1491,0,initial,starfish,0.095734
+avgpool,1491,1,iteration,formal wear,3.458632
+avgpool,1491,2,iteration,formal attire,3.343009
+avgpool,1491,3,iteration,sleeved attire,2.664361
+avgpool,1491,4,iteration,dress shirt,1.885741
+avgpool,1491,5,iteration,professional coat,3.977898
+avgpool,1491,6,iteration,business attire,3.536620
+avgpool,1491,7,iteration,business attire,3.536620
+avgpool,1491,8,iteration,workwear,0.797218
+avgpool,1491,9,iteration,formal wear,3.458632
+avgpool,1491,10,iteration,business,0.962369
+avgpool,1491,11,summary,medical attire,3.256013
+avgpool,1493,0,initial,wig,2.556777
+avgpool,1493,0,initial,washbasin,2.227617
+avgpool,1493,0,initial,cuirass,2.152810
+avgpool,1493,0,initial,fire screen,2.138317
+avgpool,1493,0,initial,breastplate,2.120751
+avgpool,1493,0,initial,monitor,1.314905
+avgpool,1493,0,initial,hen,1.155594
+avgpool,1493,0,initial,pirate,0.993757
+avgpool,1493,0,initial,japanese spaniel,0.797163
+avgpool,1493,0,initial,mountain tent,0.696291
+avgpool,1493,1,iteration,armor plate,1.456443
+avgpool,1493,2,iteration,shield,2.108669
+avgpool,1493,3,iteration,protective gear,0.806159
+avgpool,1493,4,iteration,headgear,1.060513
+avgpool,1493,5,iteration,safeguard,1.569571
+avgpool,1493,6,iteration,defensive gear,0.982797
+avgpool,1493,7,iteration,head covering,1.853375
+avgpool,1493,8,iteration,barrier,1.432767
+avgpool,1493,9,iteration,body shield,2.174518
+avgpool,1493,10,iteration,covering,1.747840
+avgpool,1493,11,summary,rounded shape,2.128506
+avgpool,1496,0,initial,sliding door,2.707218
+avgpool,1496,0,initial,chiffonier,2.248843
+avgpool,1496,0,initial,chesapeake bay retriever,1.934458
+avgpool,1496,0,initial,wardrobe,1.157835
+avgpool,1496,0,initial,bikini,1.013967
+avgpool,1496,0,initial,medicine chest,0.730511
+avgpool,1496,0,initial,teddy,0.670986
+avgpool,1496,0,initial,cup,0.504241
+avgpool,1496,0,initial,capuchin,0.457328
+avgpool,1496,0,initial,slide rule,0.172065
+avgpool,1496,1,iteration,storage unit,1.339938
+avgpool,1496,2,iteration,sliding box,1.515755
+avgpool,1496,3,iteration,movable panel,2.185262
+avgpool,1496,4,iteration,sliding,1.284684
+avgpool,1496,5,iteration,movable panel,2.185262
+avgpool,1496,6,iteration,movable panel,2.185262
+avgpool,1496,7,iteration,secret compartment,1.726577
+avgpool,1496,8,iteration,hidden compartment,1.550266
+avgpool,1496,9,iteration,secret space,1.463535
+avgpool,1496,10,iteration,hidden panel,2.408524
+avgpool,1496,11,summary,movable part,1.059149
+avgpool,1508,0,initial,drum,3.985736
+avgpool,1508,0,initial,cello,3.170544
+avgpool,1508,0,initial,banjo,3.050058
+avgpool,1508,0,initial,grand piano,2.929528
+avgpool,1508,0,initial,acoustic guitar,2.523269
+avgpool,1508,0,initial,reel,1.100424
+avgpool,1508,0,initial,ladybug,0.873517
+avgpool,1508,0,initial,totem pole,0.393075
+avgpool,1508,0,initial,lycaenid,0.372853
+avgpool,1508,0,initial,water buffalo,0.159262
+avgpool,1508,1,iteration,stringed,3.092905
+avgpool,1508,2,iteration,string instrument,3.598897
+avgpool,1508,3,iteration,string,0.338059
+avgpool,1508,4,iteration,instrument,3.225223
+avgpool,1508,5,iteration,soundbox,1.109727
+avgpool,1508,6,iteration,drumming,5.475241
+avgpool,1508,7,iteration,vibration,0.648998
+avgpool,1508,8,iteration,percussion,4.039288
+avgpool,1508,9,iteration,drumming circle,2.211133
+avgpool,1508,10,iteration,striker,0.503088
+avgpool,1508,11,summary,music production,1.015924
+avgpool,1509,0,initial,echidna,1.206289
+avgpool,1509,0,initial,porcupine,1.195239
+avgpool,1509,0,initial,hand blower,1.032668
+avgpool,1509,0,initial,car mirror,0.889479
+avgpool,1509,0,initial,colobus,0.887099
+avgpool,1509,0,initial,pick,0.675940
+avgpool,1509,0,initial,geyser,0.179941
+avgpool,1509,0,initial,german short-haired pointer,0.161942
+avgpool,1509,0,initial,dishrag,0.127572
+avgpool,1509,0,initial,lifeboat,0.038529
+avgpool,1509,1,iteration,prickly,0.968966
+avgpool,1509,2,iteration,quill blower,0.472700
+avgpool,1509,3,iteration,quill animal,0.201667
+avgpool,1509,4,iteration,spike,0.611306
+avgpool,1509,5,iteration,pointy defense,0.189143
+avgpool,1509,6,iteration,quill defense,0.233429
+avgpool,1509,7,iteration,sharp armor,0.526435
+avgpool,1509,8,iteration,defensive spines,0.285639
+avgpool,1509,9,iteration,prickly coat,0.863720
+avgpool,1509,10,iteration,pointed shield,0.187012
+avgpool,1509,11,summary,quills,1.065410
+avgpool,1519,0,initial,sea lion,2.548735
+avgpool,1519,0,initial,platypus,2.163964
+avgpool,1519,0,initial,grey whale,2.122952
+avgpool,1519,0,initial,stingray,2.031326
+avgpool,1519,0,initial,crossword puzzle,0.456817
+avgpool,1519,0,initial,cloak,0.304574
+avgpool,1519,0,initial,traffic light,0.179872
+avgpool,1519,0,initial,jeep,0.094295
+avgpool,1519,0,initial,kite,0.061560
+avgpool,1519,0,initial,curly-coated retriever,0.034812
+avgpool,1519,1,iteration,mane,0.384740
+avgpool,1519,2,iteration,thick fur,0.210398
+avgpool,1519,3,iteration,aquatic mammal,2.064140
+avgpool,1519,4,iteration,flippers,1.790943
+avgpool,1519,5,iteration,marine tail,0.995245
+avgpool,1519,6,iteration,aquatic,0.774889
+avgpool,1519,7,iteration,swimmer,0.351498
+avgpool,1519,8,iteration,marine body,0.332052
+avgpool,1519,9,iteration,marine feature,0.247581
+avgpool,1519,10,iteration,finned,0.587693
+avgpool,1519,11,summary,marine mammal,1.967880
+avgpool,1542,0,initial,cougar,3.318210
+avgpool,1542,0,initial,norwegian elkhound,3.020336
+avgpool,1542,0,initial,siamese cat,2.157695
+avgpool,1542,0,initial,bikini,1.866442
+avgpool,1542,0,initial,maillot,1.229789
+avgpool,1542,0,initial,binoculars,0.708920
+avgpool,1542,0,initial,cowboy boot,0.671459
+avgpool,1542,0,initial,bolo tie,0.599117
+avgpool,1542,0,initial,tank suit,0.452138
+avgpool,1542,0,initial,dandie dinmont,0.221525
+avgpool,1542,1,iteration,upperwear,0.597790
+avgpool,1542,2,iteration,upper animal,0.595052
+avgpool,1542,3,iteration,big cat,1.909043
+avgpool,1542,4,iteration,feline,2.361123
+avgpool,1542,5,iteration,large cat,2.435498
+avgpool,1542,6,iteration,breed,0.572514
+avgpool,1542,7,iteration,wild cat,1.968636
+avgpool,1542,8,iteration,swimwear,1.844936
+avgpool,1542,9,iteration,domestic cat,1.972927
+avgpool,1542,10,iteration,predator,0.826643
+avgpool,1542,11,summary,feline,2.361123
+avgpool,1543,0,initial,carbonara,2.607591
+avgpool,1543,0,initial,mashed potato,2.337842
+avgpool,1543,0,initial,coral fungus,1.850069
+avgpool,1543,0,initial,tank,1.820552
+avgpool,1543,0,initial,half track,1.768578
+avgpool,1543,0,initial,tow truck,0.755319
+avgpool,1543,0,initial,german shepherd,0.605455
+avgpool,1543,0,initial,organ,0.377358
+avgpool,1543,0,initial,papillon,0.046685
+avgpool,1543,0,initial,hourglass,0.038212
+avgpool,1543,1,iteration,solid food,1.461174
+avgpool,1543,2,iteration,creamy sauce,0.667387
+avgpool,1543,3,iteration,pasta sauce,2.096369
+avgpool,1543,4,iteration,carbonara sauce,2.393448
+avgpool,1543,5,iteration,italian dish,1.793029
+avgpool,1543,6,iteration,rich flavor,1.037378
+avgpool,1543,7,iteration,italian cuisine,1.569503
+avgpool,1543,8,iteration,carbonara dish,2.738372
+avgpool,1543,9,iteration,,0.434108
+avgpool,1543,10,iteration,saucy dish,1.708194
+avgpool,1543,11,summary,complete dish,2.147824
+avgpool,1555,0,initial,rubber eraser,2.147222
+avgpool,1555,0,initial,ice lolly,1.840752
+avgpool,1555,0,initial,police van,1.538342
+avgpool,1555,0,initial,ballpoint,1.253536
+avgpool,1555,0,initial,ambulance,1.031161
+avgpool,1555,0,initial,japanese spaniel,0.432660
+avgpool,1555,0,initial,pay-phone,0.338016
+avgpool,1555,0,initial,moped,0.170594
+avgpool,1555,0,initial,pillow,0.125429
+avgpool,1555,0,initial,komodo dragon,0.082537
+avgpool,1555,1,iteration,colorful toy,0.859844
+avgpool,1555,2,iteration,rounded object,0.175568
+avgpool,1555,3,iteration,portable aid,0.268201
+avgpool,1555,4,iteration,utility object,0.294103
+avgpool,1555,5,iteration,red shape,0.510784
+avgpool,1555,6,iteration,colorful sphere,0.592556
+avgpool,1555,7,iteration,handheld object,0.169808
+avgpool,1555,8,iteration,small object,0.342573
+avgpool,1555,9,iteration,stationery,1.969712
+avgpool,1555,10,iteration,writing tool,0.841793
+avgpool,1555,11,summary,school supply,2.784546
+avgpool,1564,0,initial,hippopotamus,1.773657
+avgpool,1564,0,initial,ambulance,1.663390
+avgpool,1564,0,initial,indian elephant,1.524172
+avgpool,1564,0,initial,warthog,1.073022
+avgpool,1564,0,initial,tusker,1.065232
+avgpool,1564,0,initial,stingray,0.498958
+avgpool,1564,0,initial,carbonara,0.167756
+avgpool,1564,0,initial,spotlight,0.135069
+avgpool,1564,0,initial,tripod,0.118981
+avgpool,1564,0,initial,car wheel,0.077138
+avgpool,1564,1,iteration,tusked animal,1.314821
+avgpool,1564,2,iteration,large mammal,1.346511
+avgpool,1564,3,iteration,tusker mammal,1.140169
+avgpool,1564,4,iteration,giant beast,0.612124
+avgpool,1564,5,iteration,tusker,1.065232
+avgpool,1564,6,iteration,tusker,1.065232
+avgpool,1564,7,iteration,giant creature,0.457561
+avgpool,1564,8,iteration,prehistoric,0.507039
+avgpool,1564,9,iteration,wild beast,0.089603
+avgpool,1564,10,iteration,mega fauna,0.427486
+avgpool,1564,11,summary,land animal,0.386105
+avgpool,1606,0,initial,padlock,3.128282
+avgpool,1606,0,initial,bighorn,2.353384
+avgpool,1606,0,initial,black swan,1.614018
+avgpool,1606,0,initial,volcano,1.543261
+avgpool,1606,0,initial,parking meter,1.202216
+avgpool,1606,0,initial,yellow lady's slipper,1.188618
+avgpool,1606,0,initial,school bus,0.455007
+avgpool,1606,0,initial,arctic fox,0.254110
+avgpool,1606,0,initial,accordion,0.138353
+avgpool,1606,0,initial,indigo bunting,0.063596
+avgpool,1606,1,iteration,lockbox,0.527735
+avgpool,1606,2,iteration,security,0.860786
+avgpool,1606,3,iteration,lock,1.190354
+avgpool,1606,4,iteration,barrier,0.421092
+avgpool,1606,5,iteration,padlock,3.128282
+avgpool,1606,6,iteration,security device,0.370328
+avgpool,1606,7,iteration,access control,0.607576
+avgpool,1606,8,iteration,enclosure,0.351799
+avgpool,1606,9,iteration,restraint,0.456100
+avgpool,1606,10,iteration,locking mechanism,0.155299
+avgpool,1606,11,summary,horns,1.218752
+avgpool,1625,0,initial,cd player,1.527506
+avgpool,1625,0,initial,cassette player,1.033971
+avgpool,1625,0,initial,ocarina,0.930532
+avgpool,1625,0,initial,radio,0.717599
+avgpool,1625,0,initial,spotted salamander,0.651986
+avgpool,1625,0,initial,feather boa,0.312960
+avgpool,1625,0,initial,crash helmet,0.282244
+avgpool,1625,0,initial,hen-of-the-woods,0.125898
+avgpool,1625,0,initial,artichoke,0.111088
+avgpool,1625,0,initial,otterhound,0.055434
+avgpool,1625,1,iteration,disc player,1.144060
+avgpool,1625,2,iteration,music player,1.249050
+avgpool,1625,3,iteration,sound device,0.753550
+avgpool,1625,4,iteration,compact disc,0.040847
+avgpool,1625,5,iteration,record player,0.457885
+avgpool,1625,6,iteration,round media,0.138512
+avgpool,1625,7,iteration,turntable,0.286415
+avgpool,1625,8,iteration,music disc,0.085312
+avgpool,1625,9,iteration,music circle,0.181617
+avgpool,1625,10,iteration,cd,0.063399
+avgpool,1625,11,summary,disc slot,0.143523
+avgpool,1641,0,initial,dial telephone,2.742600
+avgpool,1641,0,initial,knot,2.569153
+avgpool,1641,0,initial,king crab,2.288289
+avgpool,1641,0,initial,boa constrictor,0.968037
+avgpool,1641,0,initial,madagascar cat,0.563682
+avgpool,1641,0,initial,reel,0.360466
+avgpool,1641,0,initial,drilling platform,0.317312
+avgpool,1641,0,initial,grey fox,0.298693
+avgpool,1641,0,initial,toyshop,0.124011
+avgpool,1641,0,initial,porcupine,0.122202
+avgpool,1641,1,iteration,ring,0.575225
+avgpool,1641,2,iteration,torus,0.590276
+avgpool,1641,3,iteration,dial,0.301651
+avgpool,1641,4,iteration,orbital,0.146202
+avgpool,1641,5,iteration,annulus,0.165568
+avgpool,1641,6,iteration,circular shape,0.389740
+avgpool,1641,7,iteration,ringed,0.471714
+avgpool,1641,8,iteration,ring form,0.507140
+avgpool,1641,9,iteration,hub,0.235964
+avgpool,1641,10,iteration,circular element,0.409105
+avgpool,1641,11,summary,circular shape,0.389740
+avgpool,1643,0,initial,broccoli,3.311295
+avgpool,1643,0,initial,custard apple,1.789142
+avgpool,1643,0,initial,oxcart,1.622965
+avgpool,1643,0,initial,tusker,1.346119
+avgpool,1643,0,initial,valley,0.823047
+avgpool,1643,0,initial,boathouse,0.794743
+avgpool,1643,0,initial,bib,0.582881
+avgpool,1643,0,initial,snowplow,0.562663
+avgpool,1643,0,initial,african crocodile,0.505018
+avgpool,1643,0,initial,american staffordshire terrier,0.143677
+avgpool,1643,1,iteration,bulbous,0.335803
+avgpool,1643,2,iteration,bulbous fruit,0.505232
+avgpool,1643,3,iteration,florets,0.395096
+avgpool,1643,4,iteration,head,0.141442
+avgpool,1643,5,iteration,oval,0.189505
+avgpool,1643,6,iteration,buds,0.589180
+avgpool,1643,7,iteration,flower,0.336688
+avgpool,1643,8,iteration,crown,0.015828
+avgpool,1643,9,iteration,cluster,0.495397
+avgpool,1643,10,iteration,sprouts,0.780854
+avgpool,1643,11,summary,vegetable,0.792194
+avgpool,1651,0,initial,leatherback turtle,3.887894
+avgpool,1651,0,initial,terrapin,3.782299
+avgpool,1651,0,initial,box turtle,3.719355
+avgpool,1651,0,initial,loggerhead,3.536559
+avgpool,1651,0,initial,mud turtle,3.447100
+avgpool,1651,0,initial,gibbon,0.997697
+avgpool,1651,0,initial,steam locomotive,0.236079
+avgpool,1651,0,initial,water tower,0.186437
+avgpool,1651,0,initial,abacus,0.077855
+avgpool,1651,0,initial,feather boa,0.024047
+avgpool,1651,1,iteration,turtle shell,2.426851
+avgpool,1651,2,iteration,armor plate,0.650420
+avgpool,1651,3,iteration,shelled creature,1.828178
+avgpool,1651,4,iteration,sea turtle,3.476720
+avgpool,1651,5,iteration,turtle,4.151246
+avgpool,1651,6,iteration,reptile,1.455716
+avgpool,1651,7,iteration,leather,0.080766
+avgpool,1651,8,iteration,hard shell,1.260926
+avgpool,1651,9,iteration,shellback,2.862284
+avgpool,1651,10,iteration,shell,0.817621
+avgpool,1651,11,summary,type of turtle,3.907046
+avgpool,1677,0,initial,nail,1.361007
+avgpool,1677,0,initial,parachute,1.290139
+avgpool,1677,0,initial,safety pin,1.137125
+avgpool,1677,0,initial,chiton,0.956030
+avgpool,1677,0,initial,trilobite,0.670854
+avgpool,1677,0,initial,bloodhound,0.539724
+avgpool,1677,0,initial,file,0.315187
+avgpool,1677,0,initial,beer bottle,0.254605
+avgpool,1677,0,initial,cock,0.208910
+avgpool,1677,0,initial,impala,0.145163
+avgpool,1677,1,iteration,fastener,0.118924
+avgpool,1677,2,iteration,pointed tip,0.193198
+avgpool,1677,3,iteration,anchor,0.383358
+avgpool,1677,4,iteration,pointed end,0.291759
+avgpool,1677,5,iteration,tapered shape,0.491162
+avgpool,1677,6,iteration,nub,0.502117
+avgpool,1677,7,iteration,sharp end,0.148473
+avgpool,1677,8,iteration,tip,0.342317
+avgpool,1677,9,iteration,chiton tip,1.336664
+avgpool,1677,10,iteration,holdfast,0.514742
+avgpool,1677,11,summary,protective covering,0.283541
+avgpool,1692,0,initial,ptarmigan,2.907344
+avgpool,1692,0,initial,ruffed grouse,2.709220
+avgpool,1692,0,initial,bald eagle,2.418809
+avgpool,1692,0,initial,house finch,2.070870
+avgpool,1692,0,initial,ibex,1.806020
+avgpool,1692,0,initial,kite,0.538799
+avgpool,1692,0,initial,horizontal bar,0.378351
+avgpool,1692,0,initial,tailed frog,0.302559
+avgpool,1692,0,initial,window screen,0.251651
+avgpool,1692,0,initial,west highland white terrier,0.173252
+avgpool,1692,1,iteration,feathered,2.789971
+avgpool,1692,2,iteration,grouse,2.437572
+avgpool,1692,3,iteration,ptarmigan,2.907344
+avgpool,1692,4,iteration,upland bird,2.200680
+avgpool,1692,5,iteration,game bird,2.022995
+avgpool,1692,6,iteration,plumage,1.507533
+avgpool,1692,7,iteration,ruffed,0.499425
+avgpool,1692,8,iteration,bird species,2.307192
+avgpool,1692,9,iteration,(ignore this),0.211423
+avgpool,1692,10,iteration,bird body,2.587382
+avgpool,1692,11,summary,bird,2.799661
+avgpool,1696,0,initial,tench,2.156514
+avgpool,1696,0,initial,coho,1.794431
+avgpool,1696,0,initial,american lobster,1.644801
+avgpool,1696,0,initial,rotisserie,1.637001
+avgpool,1696,0,initial,barracouta,1.305297
+avgpool,1696,0,initial,mask,0.450393
+avgpool,1696,0,initial,space heater,0.304269
+avgpool,1696,0,initial,agaric,0.286208
+avgpool,1696,0,initial,schipperke,0.117887
+avgpool,1696,0,initial,handkerchief,0.099574
+avgpool,1696,1,iteration,fish,1.429758
+avgpool,1696,2,iteration,gourmet fish,1.303287
+avgpool,1696,3,iteration,round body,0.041822
+avgpool,1696,4,iteration,body shape,0.060220
+avgpool,1696,5,iteration,elongated fish,1.429715
+avgpool,1696,6,iteration,streamlined fish,1.324663
+avgpool,1696,7,iteration,finned creature,0.732029
+avgpool,1696,8,iteration,long fish,1.325027
+avgpool,1696,9,iteration,elongated fish type,1.385074
+avgpool,1696,10,iteration,elongated creature,0.269015
+avgpool,1696,11,summary,fish,1.429758
+avgpool,1703,0,initial,terrapin,2.846159
+avgpool,1703,0,initial,boa constrictor,2.820745
+avgpool,1703,0,initial,rock python,2.695348
+avgpool,1703,0,initial,pug,2.670777
+avgpool,1703,0,initial,gila monster,2.473534
+avgpool,1703,0,initial,chihuahua,0.904730
+avgpool,1703,0,initial,admiral,0.344281
+avgpool,1703,0,initial,forklift,0.122460
+avgpool,1703,0,initial,tiger beetle,0.099378
+avgpool,1703,0,initial,table lamp,0.076009
+avgpool,1703,1,iteration,snake body,2.171191
+avgpool,1703,2,iteration,reptile,1.036807
+avgpool,1703,3,iteration,slinky animal,0.746949
+avgpool,1703,4,iteration,elongated,0.156957
+avgpool,1703,5,iteration,serpentine,0.588052
+avgpool,1703,6,iteration,scaled creature,0.731174
+avgpool,1703,7,iteration,reptilian,0.659347
+avgpool,1703,8,iteration,long snake,1.740716
+avgpool,1703,9,iteration,slinky creature,0.599023
+avgpool,1703,10,iteration,scaled reptile,1.384009
+avgpool,1703,11,summary,snake,2.148332
+avgpool,1717,0,initial,green lizard,4.229444
+avgpool,1717,0,initial,common iguana,3.990012
+avgpool,1717,0,initial,agama,3.658341
+avgpool,1717,0,initial,komodo dragon,2.458805
+avgpool,1717,0,initial,american chameleon,2.338972
+avgpool,1717,0,initial,moped,0.561322
+avgpool,1717,0,initial,purse,0.378219
+avgpool,1717,0,initial,proboscis monkey,0.366428
+avgpool,1717,0,initial,polaroid camera,0.196134
+avgpool,1717,0,initial,nail,0.195052
+avgpool,1717,1,iteration,green reptile,3.863585
+avgpool,1717,2,iteration,iguanid,3.750236
+avgpool,1717,3,iteration,green lizard,4.229444
+avgpool,1717,4,iteration,iguana,3.743652
+avgpool,1717,5,iteration,scaly skin,1.286286
+avgpool,1717,6,iteration,desert lizard,3.175169
+avgpool,1717,7,iteration,green lizard,4.229444
+avgpool,1717,8,iteration,reptile,2.357868
+avgpool,1717,9,iteration,green lizard type,4.240939
+avgpool,1717,10,iteration,iguana species,3.928763
+avgpool,1717,11,summary,specific lizard type,3.585159
+avgpool,1760,0,initial,strawberry,4.491886
+avgpool,1760,0,initial,trifle,3.532231
+avgpool,1760,0,initial,pomegranate,3.086076
+avgpool,1760,0,initial,ant,2.632982
+avgpool,1760,0,initial,handkerchief,0.989424
+avgpool,1760,0,initial,grocery store,0.793475
+avgpool,1760,0,initial,street sign,0.537388
+avgpool,1760,0,initial,hip,0.487780
+avgpool,1760,0,initial,chimpanzee,0.148480
+avgpool,1760,0,initial,vine snake,0.120163
+avgpool,1760,1,iteration,dessert course,3.146981
+avgpool,1760,2,iteration,sweet treat,0.977664
+avgpool,1760,3,iteration,layer cake,2.489373
+avgpool,1760,4,iteration,multi-layered food,1.688355
+avgpool,1760,5,iteration,layered,0.593801
+avgpool,1760,6,iteration,stack,0.645968
+avgpool,1760,7,iteration,tiered,0.655225
+avgpool,1760,8,iteration,tiered structure,0.267413
+avgpool,1760,9,iteration,layered dessert,3.316815
+avgpool,1760,10,iteration,(ignore this),0.663004
+avgpool,1760,11,summary,strawberry,4.491886
+avgpool,1782,0,initial,hummingbird,3.924403
+avgpool,1782,0,initial,african grey,2.437965
+avgpool,1782,0,initial,vulture,1.769676
+avgpool,1782,0,initial,red-backed sandpiper,1.604691
+avgpool,1782,0,initial,limpkin,1.271230
+avgpool,1782,0,initial,african elephant,0.647075
+avgpool,1782,0,initial,pirate,0.536186
+avgpool,1782,0,initial,sewing machine,0.226410
+avgpool,1782,0,initial,dandie dinmont,0.147539
+avgpool,1782,0,initial,lesser panda,0.056570
+avgpool,1782,1,iteration,feathers,1.133895
+avgpool,1782,2,iteration,songbird,0.447949
+avgpool,1782,3,iteration,bird flight,1.069422
+avgpool,1782,4,iteration,beak,0.915620
+avgpool,1782,5,iteration,avian,1.126690
+avgpool,1782,6,iteration,migrator,0.241205
+avgpool,1782,7,iteration,bird,0.802330
+avgpool,1782,8,iteration,winged,1.382406
+avgpool,1782,9,iteration,hummingbird,3.924403
+avgpool,1782,10,iteration,(ignore this),0.347575
+avgpool,1782,11,summary,bright plumage,0.663610
+avgpool,1824,0,initial,racket,2.369668
+avgpool,1824,0,initial,goldfinch,2.260799
+avgpool,1824,0,initial,sulphur butterfly,1.889567
+avgpool,1824,0,initial,scoreboard,1.824539
+avgpool,1824,0,initial,ballplayer,1.351394
+avgpool,1824,0,initial,ant,1.261888
+avgpool,1824,0,initial,corn,1.160085
+avgpool,1824,0,initial,lynx,0.912449
+avgpool,1824,0,initial,piggy bank,0.288642
+avgpool,1824,0,initial,doormat,0.187029
+avgpool,1824,1,iteration,sports equipment,0.768822
+avgpool,1824,2,iteration,stringed,0.278688
+avgpool,1824,3,iteration,scorekeeper,0.443200
+avgpool,1824,4,iteration,high score,0.740749
+avgpool,1824,5,iteration,color display,0.411746
+avgpool,1824,6,iteration,netting,0.742648
+avgpool,1824,7,iteration,high score,0.740749
+avgpool,1824,8,iteration,racketball,1.712875
+avgpool,1824,9,iteration,point system,0.322305
+avgpool,1824,10,iteration,scoring system,0.885244
+avgpool,1824,11,summary,flying object,0.527106
+avgpool,1827,0,initial,measuring cup,2.575172
+avgpool,1827,0,initial,barometer,2.304533
+avgpool,1827,0,initial,sulphur butterfly,1.795535
+avgpool,1827,0,initial,granny smith,1.313658
+avgpool,1827,0,initial,rule,0.687377
+avgpool,1827,0,initial,file,0.470287
+avgpool,1827,0,initial,soap dispenser,0.208815
+avgpool,1827,0,initial,borzoi,0.165975
+avgpool,1827,0,initial,earthstar,0.090798
+avgpool,1827,0,initial,chimpanzee,0.047025
+avgpool,1827,1,iteration,graduated scale,1.269889
+avgpool,1827,2,iteration,measuring tool,1.076914
+avgpool,1827,3,iteration,quantify,0.420034
+avgpool,1827,4,iteration,ruler,1.654673
+avgpool,1827,5,iteration,measure,1.732282
+avgpool,1827,6,iteration,precision tool,0.525548
+avgpool,1827,7,iteration,accuracy,0.386862
+avgpool,1827,8,iteration,calibrated,0.396754
+avgpool,1827,9,iteration,precision wing,0.344884
+avgpool,1827,10,iteration,linear,0.337426
+avgpool,1827,11,summary,measurable quantity,0.648804
+avgpool,1834,0,initial,golf ball,1.847993
+avgpool,1834,0,initial,solar dish,1.774403
+avgpool,1834,0,initial,milk can,1.739917
+avgpool,1834,0,initial,breastplate,1.657703
+avgpool,1834,0,initial,shovel,1.474211
+avgpool,1834,0,initial,steel drum,0.773853
+avgpool,1834,0,initial,hornbill,0.451813
+avgpool,1834,0,initial,palace,0.412124
+avgpool,1834,0,initial,carbonara,0.101644
+avgpool,1834,0,initial,bagel,0.028168
+avgpool,1834,1,iteration,disc,0.616163
+avgpool,1834,2,iteration,saucer,0.767821
+avgpool,1834,3,iteration,bowl shape,0.557802
+avgpool,1834,4,iteration,golf ball,1.847993
+avgpool,1834,5,iteration,cup,0.371498
+avgpool,1834,6,iteration,saucer plate,0.586255
+avgpool,1834,7,iteration,disk plate,1.011351
+avgpool,1834,8,iteration,plate armor,2.357433
+avgpool,1834,9,iteration,shield,1.182466
+avgpool,1834,10,iteration,armor plate,2.063442
+avgpool,1834,11,summary,flat plate,0.654999
+avgpool,1853,0,initial,obelisk,3.051031
+avgpool,1853,0,initial,guillotine,2.630069
+avgpool,1853,0,initial,geyser,1.867658
+avgpool,1853,0,initial,jacamar,1.764139
+avgpool,1853,0,initial,robin,1.660739
+avgpool,1853,0,initial,entertainment center,0.699817
+avgpool,1853,0,initial,jean,0.333946
+avgpool,1853,0,initial,plow,0.276537
+avgpool,1853,0,initial,green snake,0.089566
+avgpool,1853,0,initial,bulletproof vest,0.079629
+avgpool,1853,1,iteration,pointed tower,1.976786
+avgpool,1853,2,iteration,spire,0.578614
+avgpool,1853,3,iteration,sharp pillar,2.103410
+avgpool,1853,4,iteration,tall spike,1.250437
+avgpool,1853,5,iteration,obelisk,3.051031
+avgpool,1853,6,iteration,column,1.318487
+avgpool,1853,7,iteration,skyscraper,1.329222
+avgpool,1853,8,iteration,tall pillar,1.683271
+avgpool,1853,9,iteration,slender tower,1.704387
+avgpool,1853,10,iteration,narrow blade,2.566323
+avgpool,1853,11,summary,execution device,1.075207
+avgpool,1907,0,initial,sweatshirt,2.982625
+avgpool,1907,0,initial,cardigan,2.496131
+avgpool,1907,0,initial,african elephant,2.431637
+avgpool,1907,0,initial,tusker,2.230640
+avgpool,1907,0,initial,jersey,1.626032
+avgpool,1907,0,initial,ice bear,1.433094
+avgpool,1907,0,initial,bighorn,1.098383
+avgpool,1907,0,initial,weimaraner,0.654897
+avgpool,1907,0,initial,french loaf,0.136735
+avgpool,1907,0,initial,silky terrier,0.089915
+avgpool,1907,1,iteration,fleece,0.485015
+avgpool,1907,2,iteration,thick fabric,0.128721
+avgpool,1907,3,iteration,coat layer,1.555844
+avgpool,1907,4,iteration,layered,0.438596
+avgpool,1907,5,iteration,sweater,2.656934
+avgpool,1907,6,iteration,warm layer,0.317878
+avgpool,1907,7,iteration,outerwear,1.510288
+avgpool,1907,8,iteration,insulating layer,0.713718
+avgpool,1907,9,iteration,garment,1.420483
+avgpool,1907,10,iteration,layered clothing,1.058519
+avgpool,1907,11,summary,multiple layers,0.591888
+avgpool,1912,0,initial,trifle,2.353509
+avgpool,1912,0,initial,strawberry,1.950347
+avgpool,1912,0,initial,pomegranate,1.550870
+avgpool,1912,0,initial,abacus,1.073178
+avgpool,1912,0,initial,vending machine,0.878533
+avgpool,1912,0,initial,dowitcher,0.208269
+avgpool,1912,0,initial,buckeye,0.170280
+avgpool,1912,0,initial,shetland sheepdog,0.152862
+avgpool,1912,0,initial,scorpion,0.140420
+avgpool,1912,0,initial,lion,0.082822
+avgpool,1912,1,iteration,dessert machine,0.668963
+avgpool,1912,2,iteration,sweet dispenser,1.139140
+avgpool,1912,3,iteration,treat dispenser,0.777911
+avgpool,1912,4,iteration,layered dessert,1.804343
+avgpool,1912,5,iteration,multi layer,0.089999
+avgpool,1912,6,iteration,layered treat,1.054673
+avgpool,1912,7,iteration,layered food,0.674187
+avgpool,1912,8,iteration,tiered,0.213033
+avgpool,1912,9,iteration,layered,0.081524
+avgpool,1912,10,iteration,trifle,2.353509
+avgpool,1912,11,summary,distinct layers,0.050582
+avgpool,1935,0,initial,lipstick,4.642190
+avgpool,1935,0,initial,cardigan welsh corgi,3.232702
+avgpool,1935,0,initial,obelisk,2.602414
+avgpool,1935,0,initial,french bulldog,2.351498
+avgpool,1935,0,initial,kelpie,2.020162
+avgpool,1935,0,initial,ice lolly,1.769368
+avgpool,1935,0,initial,nipple,0.810101
+avgpool,1935,0,initial,american coot,0.595679
+avgpool,1935,0,initial,bald eagle,0.355007
+avgpool,1935,0,initial,sewing machine,0.290188
+avgpool,1935,1,iteration,colorful treat,0.691264
+avgpool,1935,2,iteration,colorful pet,1.782325
+avgpool,1935,3,iteration,colorful animal,1.437873
+avgpool,1935,4,iteration,fashion item,0.380932
+avgpool,1935,5,iteration,cosmetic,1.856072
+avgpool,1935,6,iteration,fashionable animal,1.868137
+avgpool,1935,7,iteration,lip gloss,3.100131
+avgpool,1935,8,iteration,lip product,3.210104
+avgpool,1935,9,iteration,lipstick tube,4.985967
+avgpool,1935,10,iteration,lip care,2.660922
+avgpool,1935,11,summary,cosmetic item,1.313367
+avgpool,1946,0,initial,bagel,4.160459
+avgpool,1946,0,initial,maze,3.823207
+avgpool,1946,0,initial,pretzel,3.671654
+avgpool,1946,0,initial,remote control,2.754722
+avgpool,1946,0,initial,dial telephone,2.582390
+avgpool,1946,0,initial,bannister,0.777012
+avgpool,1946,0,initial,shih-tzu,0.511317
+avgpool,1946,0,initial,bassinet,0.317641
+avgpool,1946,0,initial,liner,0.296698
+avgpool,1946,0,initial,bolete,0.271474
+avgpool,1946,1,iteration,ring shape,0.720010
+avgpool,1946,2,iteration,torus,1.038578
+avgpool,1946,3,iteration,ring food,1.143431
+avgpool,1946,4,iteration,ring pastry,2.302961
+avgpool,1946,5,iteration,circular food,2.521292
+avgpool,1946,6,iteration,baked ring,2.538230
+avgpool,1946,7,iteration,hole,0.730073
+avgpool,1946,8,iteration,snack ring,2.855593
+avgpool,1946,9,iteration,ring food alternative,1.180677
+avgpool,1946,10,iteration,donut hole,2.685590
+avgpool,1946,11,summary,ring shape,0.720010
+avgpool,2038,0,initial,street sign,3.015823
+avgpool,2038,0,initial,traffic light,2.524870
+avgpool,2038,0,initial,gasmask,2.425232
+avgpool,2038,0,initial,oxygen mask,2.333278
+avgpool,2038,0,initial,pinwheel,1.837504
+avgpool,2038,0,initial,steam locomotive,1.457110
+avgpool,2038,0,initial,black widow,1.298178
+avgpool,2038,0,initial,cowboy hat,0.922348
+avgpool,2038,0,initial,ant,0.525206
+avgpool,2038,0,initial,barbershop,0.428189
+avgpool,2038,1,iteration,warning sign,3.223888
+avgpool,2038,2,iteration,face mask,0.792391
+avgpool,2038,3,iteration,alert device,0.446030
+avgpool,2038,4,iteration,safety marker,0.585531
+avgpool,2038,5,iteration,indicator,0.475638
+avgpool,2038,6,iteration,hazard flag,0.533394
+avgpool,2038,7,iteration,protective gear,1.949168
+avgpool,2038,8,iteration,signal marker,0.828106
+avgpool,2038,9,iteration,safety symbol,2.657546
+avgpool,2038,10,iteration,safety signal,2.531988
+avgpool,2038,11,summary,rectangular sign,0.641861

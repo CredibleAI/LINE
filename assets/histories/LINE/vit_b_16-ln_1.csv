@@ -1,0 +1,2101 @@
+layer,unit,iteration,stage,concept,score
+ln_1,31,0,initial,ram,0.900802
+ln_1,31,0,initial,bighorn,0.787517
+ln_1,31,0,initial,hornbill,0.700520
+ln_1,31,0,initial,grand piano,0.676237
+ln_1,31,0,initial,potter's wheel,0.656057
+ln_1,31,0,initial,ant,0.328778
+ln_1,31,0,initial,black-and-tan coonhound,0.089097
+ln_1,31,0,initial,lhasa,0.005189
+ln_1,31,0,initial,pineapple,-0.098362
+ln_1,31,0,initial,hoopskirt,-0.154875
+ln_1,31,1,iteration,horned animal,0.246822
+ln_1,31,2,iteration,curved protrusion,-0.387155
+ln_1,31,3,iteration,outgrowth,-0.069677
+ln_1,31,4,iteration,horns,-0.266096
+ln_1,31,5,iteration,bighorned,0.532562
+ln_1,31,6,iteration,musical horn,0.073841
+ln_1,31,7,iteration,ram's horn,0.304658
+ln_1,31,8,iteration,protrusion,-0.027097
+ln_1,31,9,iteration,horns,-0.266096
+ln_1,31,10,iteration,bony growth,0.157009
+ln_1,31,11,summary,horns,-0.266096
+ln_1,44,0,initial,zucchini,0.591361
+ln_1,44,0,initial,cash machine,0.550308
+ln_1,44,0,initial,puffer,0.500841
+ln_1,44,0,initial,monitor,0.308329
+ln_1,44,0,initial,dough,0.276780
+ln_1,44,0,initial,espresso maker,0.166295
+ln_1,44,0,initial,screen,0.005383
+ln_1,44,0,initial,grand piano,-0.015294
+ln_1,44,0,initial,perfume,-0.066469
+ln_1,44,0,initial,polecat,-0.077842
+ln_1,44,1,iteration,cylinder,-0.181542
+ln_1,44,2,iteration,round shape,0.026673
+ln_1,44,3,iteration,cylindrical object,-0.066695
+ln_1,44,4,iteration,elongated body,0.185533
+ln_1,44,5,iteration,long object,-0.015048
+ln_1,44,6,iteration,bulbous object,0.059500
+ln_1,44,7,iteration,cash machine,0.550308
+ln_1,44,8,iteration,gourd,0.364322
+ln_1,44,9,iteration,swollen shape,0.253880
+ln_1,44,10,iteration,puffed vegetable,0.258820
+ln_1,44,11,summary,no head,0.048178
+ln_1,48,0,initial,cabbage butterfly,0.764707
+ln_1,48,0,initial,chickadee,0.734177
+ln_1,48,0,initial,squirrel monkey,0.720578
+ln_1,48,0,initial,bee eater,0.700791
+ln_1,48,0,initial,carton,0.699593
+ln_1,48,0,initial,wild boar,0.568127
+ln_1,48,0,initial,rottweiler,0.372668
+ln_1,48,0,initial,castle,0.005738
+ln_1,48,0,initial,mountain bike,-0.034357
+ln_1,48,0,initial,border collie,-0.236534
+ln_1,48,1,iteration,birdlike creature,0.637467
+ln_1,48,2,iteration,avian mammal,0.780514
+ln_1,48,3,iteration,feathered,0.545602
+ln_1,48,4,iteration,winged mammal,0.629246
+ln_1,48,5,iteration,mammal bird,0.773937
+ln_1,48,6,iteration,mammal,0.444304
+ln_1,48,7,iteration,avian mammal,0.780514
+ln_1,48,8,iteration,primate,0.592895
+ln_1,48,9,iteration,bird mammal hybrid,0.725167
+ln_1,48,10,iteration,,0.179618
+ln_1,48,11,summary,bird,0.592164
+ln_1,56,0,initial,marmot,0.732898
+ln_1,56,0,initial,sulphur-crested cockatoo,0.632493
+ln_1,56,0,initial,squirrel monkey,0.358929
+ln_1,56,0,initial,leafhopper,0.206504
+ln_1,56,0,initial,book jacket,0.138750
+ln_1,56,0,initial,football helmet,0.095636
+ln_1,56,0,initial,organ,-0.162103
+ln_1,56,0,initial,hartebeest,-0.195007
+ln_1,56,0,initial,gondola,-0.198409
+ln_1,56,0,initial,angora,-0.390107
+ln_1,56,1,iteration,crested animal,-0.251434
+ln_1,56,2,iteration,crown,-0.250821
+ln_1,56,3,iteration,headpiece,0.028127
+ln_1,56,4,iteration,tufted head,0.066381
+ln_1,56,5,iteration,tufted,-0.190995
+ln_1,56,6,iteration,tufted headgear,-0.111923
+ln_1,56,7,iteration,tufted animal,-0.096020
+ln_1,56,8,iteration,tufted crest,-0.209200
+ln_1,56,9,iteration,distinctive head,-0.138628
+ln_1,56,10,iteration,(ignore this),0.113632
+ln_1,56,11,summary,bird,-0.256634
+ln_1,58,0,initial,dragonfly,0.672504
+ln_1,58,0,initial,gondola,0.612977
+ln_1,58,0,initial,chickadee,0.607906
+ln_1,58,0,initial,chocolate sauce,0.559198
+ln_1,58,0,initial,basset,0.529048
+ln_1,58,0,initial,japanese spaniel,0.518024
+ln_1,58,0,initial,breakwater,0.497386
+ln_1,58,0,initial,brittany spaniel,0.273169
+ln_1,58,0,initial,fly,0.085163
+ln_1,58,0,initial,silky terrier,0.072311
+ln_1,58,1,iteration,skiff,-0.039113
+ln_1,58,2,iteration,skyscraper,-0.131910
+ln_1,58,3,iteration,ornament,0.144552
+ln_1,58,4,iteration,watercraft,0.276493
+ln_1,58,5,iteration,waterbird,-0.109688
+ln_1,58,6,iteration,raft,-0.063410
+ln_1,58,7,iteration,glider,0.523136
+ln_1,58,8,iteration,waterfly,0.414466
+ln_1,58,9,iteration,winged,-0.079062
+ln_1,58,10,iteration,airboat,0.252989
+ln_1,58,11,summary,wings,-0.454789
+ln_1,59,0,initial,macaw,0.164900
+ln_1,59,0,initial,polaroid camera,0.150837
+ln_1,59,0,initial,ostrich,0.134729
+ln_1,59,0,initial,ringlet,0.119195
+ln_1,59,0,initial,carbonara,0.088712
+ln_1,59,0,initial,spaghetti squash,-0.057438
+ln_1,59,0,initial,mosque,-0.060724
+ln_1,59,0,initial,wreck,-0.066351
+ln_1,59,0,initial,cliff,-0.164359
+ln_1,59,0,initial,lion,-0.181505
+ln_1,59,1,iteration,bird,-0.111493
+ln_1,59,2,iteration,disc shape,-0.111014
+ln_1,59,3,iteration,colorful orb,-0.027731
+ln_1,59,4,iteration,exotic item,-0.074623
+ln_1,59,5,iteration,large bird,-0.120546
+ln_1,59,6,iteration,instant camera,0.094584
+ln_1,59,7,iteration,avian camera,-0.047244
+ln_1,59,8,iteration,wildlife photography,-0.130226
+ln_1,59,9,iteration,avian object,-0.080315
+ln_1,59,10,iteration,(ignore this),-0.044413
+ln_1,59,11,summary,bird beak,0.036313
+ln_1,63,0,initial,cardigan welsh corgi,0.741341
+ln_1,63,0,initial,badger,0.691365
+ln_1,63,0,initial,tusker,0.524082
+ln_1,63,0,initial,brittany spaniel,0.289118
+ln_1,63,0,initial,baboon,0.267098
+ln_1,63,0,initial,marimba,0.215356
+ln_1,63,0,initial,bullet train,0.205650
+ln_1,63,0,initial,knee pad,0.161107
+ln_1,63,0,initial,sturgeon,0.051810
+ln_1,63,0,initial,catamaran,-0.310427
+ln_1,63,1,iteration,facial markings,-0.342667
+ln_1,63,2,iteration,coated animal,-0.343823
+ln_1,63,3,iteration,furry,-0.077325
+ln_1,63,4,iteration,short hair,0.023377
+ln_1,63,5,iteration,coated animal,-0.343823
+ln_1,63,6,iteration,coated animal,-0.343823
+ln_1,63,7,iteration,animal print,-0.149133
+ln_1,63,8,iteration,coated creature,-0.104290
+ln_1,63,9,iteration,spotted creature,-0.177126
+ln_1,63,10,iteration,patterned creature,-0.244025
+ln_1,63,11,summary,fur,0.064494
+ln_1,64,0,initial,container ship,0.279883
+ln_1,64,0,initial,hummingbird,0.231946
+ln_1,64,0,initial,hornbill,0.154857
+ln_1,64,0,initial,parachute,0.071555
+ln_1,64,0,initial,church,-0.033653
+ln_1,64,0,initial,hip,-0.081182
+ln_1,64,0,initial,bookshop,-0.083463
+ln_1,64,0,initial,eft,-0.084764
+ln_1,64,0,initial,sweatshirt,-0.113649
+ln_1,64,0,initial,bernese mountain dog,-0.121748
+ln_1,64,1,iteration,beak,-0.053955
+ln_1,64,2,iteration,nose cone,-0.143299
+ln_1,64,3,iteration,pointed tip,-0.158765
+ln_1,64,4,iteration,aircraft,-0.098482
+ln_1,64,5,iteration,bird shape,-0.099365
+ln_1,64,6,iteration,ship,0.006016
+ln_1,64,7,iteration,nose protuberance,0.042999
+ln_1,64,8,iteration,nose protuberance,0.042999
+ln_1,64,9,iteration,pointed tip,-0.158765
+ln_1,64,10,iteration,head protrusion,-0.106718
+ln_1,64,11,summary,flying object,-0.049725
+ln_1,73,0,initial,dam,0.835175
+ln_1,73,0,initial,water tower,0.817194
+ln_1,73,0,initial,proboscis monkey,0.652870
+ln_1,73,0,initial,mosquito net,0.527032
+ln_1,73,0,initial,conch,0.274331
+ln_1,73,0,initial,ashcan,0.254656
+ln_1,73,0,initial,crayfish,0.209731
+ln_1,73,0,initial,trilobite,0.155856
+ln_1,73,0,initial,greater swiss mountain dog,-0.108958
+ln_1,73,0,initial,backpack,-0.613787
+ln_1,73,1,iteration,water shield,0.174927
+ln_1,73,2,iteration,water filter,0.153837
+ln_1,73,3,iteration,reservoir,0.238696
+ln_1,73,4,iteration,water storage,0.515448
+ln_1,73,5,iteration,water tower,0.817194
+ln_1,73,6,iteration,container,0.229838
+ln_1,73,7,iteration,water holding,0.279824
+ln_1,73,8,iteration,dam wall,0.575620
+ln_1,73,9,iteration,water supply,0.462870
+ln_1,73,10,iteration,water tank,0.501314
+ln_1,73,11,summary,man-made structure,0.354188
+ln_1,87,0,initial,tiger,0.674045
+ln_1,87,0,initial,ice bear,0.644611
+ln_1,87,0,initial,mexican hairless,0.468981
+ln_1,87,0,initial,boston bull,0.400771
+ln_1,87,0,initial,malamute,0.361584
+ln_1,87,0,initial,appenzeller,-0.248694
+ln_1,87,0,initial,old english sheepdog,-0.281256
+ln_1,87,0,initial,cornet,-0.320631
+ln_1,87,0,initial,streetcar,-0.448544
+ln_1,87,0,initial,bernese mountain dog,-0.490378
+ln_1,87,1,iteration,large mammal,0.151544
+ln_1,87,2,iteration,furry bear,0.203278
+ln_1,87,3,iteration,fur,-0.082466
+ln_1,87,4,iteration,bear-like,0.242830
+ln_1,87,5,iteration,furry animal,-0.130575
+ln_1,87,6,iteration,bear type,0.337755
+ln_1,87,7,iteration,fierce animal,-0.214631
+ln_1,87,8,iteration,thick fur,-0.208955
+ln_1,87,9,iteration,ice bear,0.644611
+ln_1,87,10,iteration,fierce mammal,-0.572991
+ln_1,87,11,summary,furry carnivore,-0.440112
+ln_1,96,0,initial,trimaran,0.580033
+ln_1,96,0,initial,meerkat,0.551486
+ln_1,96,0,initial,snowmobile,0.486951
+ln_1,96,0,initial,malamute,0.467975
+ln_1,96,0,initial,dungeness crab,0.351865
+ln_1,96,0,initial,paper towel,0.227352
+ln_1,96,0,initial,little blue heron,0.115172
+ln_1,96,0,initial,puck,0.057447
+ln_1,96,0,initial,kite,-0.058777
+ln_1,96,0,initial,otter,-0.161407
+ln_1,96,1,iteration,high speed,-0.272053
+ln_1,96,2,iteration,transportation,-0.271618
+ln_1,96,3,iteration,boat,-0.079825
+ln_1,96,4,iteration,multisectional,0.136872
+ln_1,96,5,iteration,multi-part,-0.063036
+ln_1,96,6,iteration,sectioned,-0.137355
+ln_1,96,7,iteration,multi-part vessel,-0.046352
+ln_1,96,8,iteration,hybrid vehicle,0.122921
+ln_1,96,9,iteration,multi-sectioned creature,0.063620
+ln_1,96,10,iteration,multi-sectioned,-0.200493
+ln_1,96,11,summary,dominant shape,-0.140472
+ln_1,107,0,initial,starfish,0.860934
+ln_1,107,0,initial,custard apple,0.524494
+ln_1,107,0,initial,potter's wheel,0.500804
+ln_1,107,0,initial,oscilloscope,0.320845
+ln_1,107,0,initial,espresso,0.231245
+ln_1,107,0,initial,bell cote,0.219137
+ln_1,107,0,initial,sea slug,0.215719
+ln_1,107,0,initial,wig,0.110441
+ln_1,107,0,initial,theater curtain,-0.104730
+ln_1,107,0,initial,bagel,-0.446612
+ln_1,107,1,iteration,rounded shape,-0.041935
+ln_1,107,2,iteration,rounded object,-0.193703
+ln_1,107,3,iteration,marine curve,0.190251
+ln_1,107,4,iteration,starfish,0.860934
+ln_1,107,5,iteration,axis symmetry,0.052663
+ln_1,107,6,iteration,radial symmetry,0.040543
+ln_1,107,7,iteration,star shape,0.562502
+ln_1,107,8,iteration,radial pattern,0.249985
+ln_1,107,9,iteration,axisymmetric,-0.002071
+ln_1,107,10,iteration,starburst,-0.087971
+ln_1,107,11,summary,star shape,0.562502
+ln_1,112,0,initial,basset,0.556331
+ln_1,112,0,initial,harvestman,0.446564
+ln_1,112,0,initial,goldfish,0.433649
+ln_1,112,0,initial,white wolf,0.424300
+ln_1,112,0,initial,ladybug,0.309090
+ln_1,112,0,initial,rapeseed,0.168858
+ln_1,112,0,initial,eskimo dog,0.017381
+ln_1,112,0,initial,clumber,-0.012651
+ln_1,112,0,initial,sewing machine,-0.236429
+ln_1,112,0,initial,norwegian elkhound,-0.313321
+ln_1,112,1,iteration,dog breed,0.061678
+ln_1,112,2,iteration,small animal,-0.409098
+ln_1,112,3,iteration,legged creature,-0.355370
+ln_1,112,4,iteration,animal type,-0.341724
+ln_1,112,5,iteration,furry creature,0.249277
+ln_1,112,6,iteration,domesticated animal,-0.419185
+ln_1,112,7,iteration,rounded body,-0.382765
+ln_1,112,8,iteration,long tail,-0.255553
+ln_1,112,9,iteration,appendage,-0.258025
+ln_1,112,10,iteration,basset,0.556331
+ln_1,112,11,summary,eight legs,0.092642
+ln_1,117,0,initial,brittany spaniel,0.742990
+ln_1,117,0,initial,norfolk terrier,0.592221
+ln_1,117,0,initial,water buffalo,0.565064
+ln_1,117,0,initial,peacock,0.487977
+ln_1,117,0,initial,proboscis monkey,0.265181
+ln_1,117,0,initial,scotch terrier,0.194527
+ln_1,117,0,initial,puck,0.026523
+ln_1,117,0,initial,water jug,-0.011369
+ln_1,117,0,initial,langur,-0.106045
+ln_1,117,0,initial,gasmask,-0.502960
+ln_1,117,1,iteration,domestic mammal,0.064583
+ln_1,117,2,iteration,dog face,0.455633
+ln_1,117,3,iteration,spaniel,0.042215
+ln_1,117,4,iteration,breed dog,0.244427
+ln_1,117,5,iteration,canine,0.299573
+ln_1,117,6,iteration,terrier,0.186516
+ln_1,117,7,iteration,dog breed,0.426486
+ln_1,117,8,iteration,purebred,0.371402
+ln_1,117,9,iteration,coated breed,0.298755
+ln_1,117,10,iteration,longhaired dog,0.161242
+ln_1,117,11,summary,canine breed,0.353299
+ln_1,120,0,initial,triumphal arch,0.711621
+ln_1,120,0,initial,jack-o'-lantern,0.515396
+ln_1,120,0,initial,junco,0.474758
+ln_1,120,0,initial,bee eater,0.467712
+ln_1,120,0,initial,american alligator,0.305192
+ln_1,120,0,initial,pickelhaube,0.158744
+ln_1,120,0,initial,paddle,-0.070575
+ln_1,120,0,initial,vine snake,-0.095551
+ln_1,120,0,initial,malamute,-0.211934
+ln_1,120,0,initial,persian cat,-0.236533
+ln_1,120,1,iteration,rounded top,0.052502
+ln_1,120,2,iteration,pointed top,-0.074904
+ln_1,120,3,iteration,pointed top,-0.074904
+ln_1,120,4,iteration,pointed decoration,0.038343
+ln_1,120,5,iteration,pointed head,0.082280
+ln_1,120,6,iteration,pointed shape,0.017696
+ln_1,120,7,iteration,conical structure,0.155186
+ln_1,120,8,iteration,triangular decoration,-0.030240
+ln_1,120,9,iteration,pointed finial,-0.034302
+ln_1,120,10,iteration,pointed feature,0.035167
+ln_1,120,11,summary,carved,0.083397
+ln_1,126,0,initial,revolver,0.809684
+ln_1,126,0,initial,african grey,0.621386
+ln_1,126,0,initial,police van,0.579984
+ln_1,126,0,initial,groenendael,0.493142
+ln_1,126,0,initial,bolo tie,0.349645
+ln_1,126,0,initial,clumber,0.235239
+ln_1,126,0,initial,nail,0.194361
+ln_1,126,0,initial,pot,0.080694
+ln_1,126,0,initial,barn spider,-0.078099
+ln_1,126,0,initial,scuba diver,-0.144732
+ln_1,126,1,iteration,law enforcement,0.215772
+ln_1,126,2,iteration,badge,0.264475
+ln_1,126,3,iteration,uniform,0.181181
+ln_1,126,4,iteration,authority,-0.114275
+ln_1,126,5,iteration,authority symbol,0.396363
+ln_1,126,6,iteration,symbol,0.432886
+ln_1,126,7,iteration,emblem,0.317676
+ln_1,126,8,iteration,power,0.039689
+ln_1,126,9,iteration,insignia,0.363532
+ln_1,126,10,iteration,logo,0.357747
+ln_1,126,11,summary,round shape,0.074640
+ln_1,136,0,initial,teapot,0.862490
+ln_1,136,0,initial,coffeepot,0.788537
+ln_1,136,0,initial,snowmobile,0.578778
+ln_1,136,0,initial,rocking chair,0.401604
+ln_1,136,0,initial,vending machine,0.340874
+ln_1,136,0,initial,jellyfish,0.293289
+ln_1,136,0,initial,mitten,0.283849
+ln_1,136,0,initial,speedboat,0.242931
+ln_1,136,0,initial,worm fence,0.127543
+ln_1,136,0,initial,tusker,0.011616
+ln_1,136,1,iteration,spout,-0.038156
+ln_1,136,2,iteration,liquid dispenser,0.176613
+ln_1,136,3,iteration,liquid holder,-0.077226
+ln_1,136,4,iteration,pourer,-0.180050
+ln_1,136,5,iteration,hot drinker,0.210421
+ln_1,136,6,iteration,container,0.613585
+ln_1,136,7,iteration,dispenser,0.211938
+ln_1,136,8,iteration,nozzle,-0.132774
+ln_1,136,9,iteration,pouring device,0.206245
+ln_1,136,10,iteration,handleware,0.056355
+ln_1,136,11,summary,beverage brewer,0.369130
+ln_1,140,0,initial,hot pot,0.532779
+ln_1,140,0,initial,junco,0.515670
+ln_1,140,0,initial,goldfinch,0.492743
+ln_1,140,0,initial,irish water spaniel,0.459561
+ln_1,140,0,initial,bullet train,0.135901
+ln_1,140,0,initial,passenger car,0.084069
+ln_1,140,0,initial,chiffonier,0.036101
+ln_1,140,0,initial,leaf beetle,-0.142885
+ln_1,140,0,initial,vault,-0.162594
+ln_1,140,0,initial,french horn,-0.372831
+ln_1,140,1,iteration,bird species,-0.115410
+ln_1,140,2,iteration,swift thing,-0.199444
+ln_1,140,3,iteration,waterbird,-0.134855
+ln_1,140,4,iteration,ember,0.049775
+ln_1,140,5,iteration,speedster,-0.043544
+ln_1,140,6,iteration,glowing coal,0.300916
+ln_1,140,7,iteration,hot creature,-0.148263
+ln_1,140,8,iteration,hot bird,-0.104976
+ln_1,140,9,iteration,glowing object,-0.127387
+ln_1,140,10,iteration,metallic feather,-0.195196
+ln_1,140,11,summary,bird,-0.085519
+ln_1,159,0,initial,pool table,0.296401
+ln_1,159,0,initial,oystercatcher,0.278984
+ln_1,159,0,initial,bernese mountain dog,0.182277
+ln_1,159,0,initial,dowitcher,0.182246
+ln_1,159,0,initial,hen-of-the-woods,0.167933
+ln_1,159,0,initial,croquet ball,0.149721
+ln_1,159,0,initial,disk brake,0.141841
+ln_1,159,0,initial,puck,0.006400
+ln_1,159,0,initial,dugong,-0.012694
+ln_1,159,0,initial,drake,-0.022391
+ln_1,159,1,iteration,flat disk,-0.000238
+ln_1,159,2,iteration,round shape,0.044026
+ln_1,159,3,iteration,disk brake,0.141841
+ln_1,159,4,iteration,puck,0.006400
+ln_1,159,5,iteration,game piece,-0.085515
+ln_1,159,6,iteration,birdie,-0.168398
+ln_1,159,7,iteration,table top,-0.043971
+ln_1,159,8,iteration,oval shape,0.032153
+ln_1,159,9,iteration,flat surface,0.054195
+ln_1,159,10,iteration,game piece,-0.085515
+ln_1,159,11,summary,living creature,-0.003792
+ln_1,169,0,initial,brambling,0.241000
+ln_1,169,0,initial,west highland white terrier,0.235059
+ln_1,169,0,initial,goldfish,0.234717
+ln_1,169,0,initial,hornbill,0.214382
+ln_1,169,0,initial,picket fence,0.163106
+ln_1,169,0,initial,bubble,0.129462
+ln_1,169,0,initial,shower curtain,0.117774
+ln_1,169,0,initial,gyromitra,0.093264
+ln_1,169,0,initial,steam locomotive,0.088819
+ln_1,169,0,initial,hotdog,0.083307
+ln_1,169,1,iteration,crested animal,0.105639
+ln_1,169,2,iteration,bird dog,0.031202
+ln_1,169,3,iteration,head ornament,0.191611
+ln_1,169,4,iteration,ornament,0.100028
+ln_1,169,5,iteration,pet bird,0.079152
+ln_1,169,6,iteration,bird,0.143961
+ln_1,169,7,iteration,crested pet,0.065817
+ln_1,169,8,iteration,beak,0.019983
+ln_1,169,9,iteration,head,0.182777
+ln_1,169,10,iteration,plume,0.117097
+ln_1,169,11,summary,wings,0.068227
+ln_1,183,0,initial,great grey owl,0.498954
+ln_1,183,0,initial,spotted salamander,0.430289
+ln_1,183,0,initial,rhinoceros beetle,0.406534
+ln_1,183,0,initial,pillow,0.251012
+ln_1,183,0,initial,yellow lady's slipper,0.246027
+ln_1,183,0,initial,screen,0.120017
+ln_1,183,0,initial,beaver,0.075258
+ln_1,183,0,initial,violin,0.070514
+ln_1,183,0,initial,earthstar,0.002558
+ln_1,183,0,initial,wreck,-0.191491
+ln_1,183,1,iteration,spotted creature,0.086432
+ln_1,183,2,iteration,spot pattern,0.009622
+ln_1,183,3,iteration,speckled animal,0.229889
+ln_1,183,4,iteration,marked animal,0.171683
+ln_1,183,5,iteration,animal spots,0.047592
+ln_1,183,6,iteration,dotted animal,0.202296
+ln_1,183,7,iteration,wildlife markings,0.008942
+ln_1,183,8,iteration,marked animal,0.171683
+ln_1,183,9,iteration,wildlife markings,0.008942
+ln_1,183,10,iteration,patterned creature,0.049033
+ln_1,183,11,summary,nocturnal,0.087667
+ln_1,195,0,initial,afghan hound,0.248780
+ln_1,195,0,initial,leonberg,0.193436
+ln_1,195,0,initial,hartebeest,0.174773
+ln_1,195,0,initial,bustard,0.169115
+ln_1,195,0,initial,spiny lobster,0.165270
+ln_1,195,0,initial,bighorn,0.089815
+ln_1,195,0,initial,flat-coated retriever,0.044326
+ln_1,195,0,initial,cup,-0.079221
+ln_1,195,0,initial,grocery store,-0.104345
+ln_1,195,0,initial,drake,-0.127059
+ln_1,195,1,iteration,long hair animal,0.075342
+ln_1,195,2,iteration,pointed snout,0.072101
+ln_1,195,3,iteration,coated animal,0.113022
+ln_1,195,4,iteration,thick coat,0.130091
+ln_1,195,5,iteration,thick coat animal,0.068622
+ln_1,195,6,iteration,thick,0.101368
+ln_1,195,7,iteration,thick fur,0.075542
+ln_1,195,8,iteration,thick-coated animal,0.072218
+ln_1,195,9,iteration,thick-haired animal,0.102189
+ln_1,195,10,iteration,thick-haired,0.051736
+ln_1,195,11,summary,large dog breed,0.061068
+ln_1,220,0,initial,dalmatian,0.682637
+ln_1,220,0,initial,trolleybus,0.628300
+ln_1,220,0,initial,sulphur butterfly,0.605983
+ln_1,220,0,initial,stinkhorn,0.429198
+ln_1,220,0,initial,lycaenid,0.314217
+ln_1,220,0,initial,freight car,0.129259
+ln_1,220,0,initial,gyromitra,0.106626
+ln_1,220,0,initial,ringlet,0.011039
+ln_1,220,0,initial,water buffalo,-0.013955
+ln_1,220,0,initial,ladybug,-0.327212
+ln_1,220,1,iteration,spotted,0.112089
+ln_1,220,2,iteration,spotted animal,0.248438
+ln_1,220,3,iteration,polkaed,-0.091626
+ln_1,220,4,iteration,spotted creature,0.333207
+ln_1,220,5,iteration,spotted pattern,0.184889
+ln_1,220,6,iteration,speckled,0.108081
+ln_1,220,7,iteration,spots,0.158176
+ln_1,220,8,iteration,speckled creature,0.146063
+ln_1,220,9,iteration,speckled creature,0.146063
+ln_1,220,10,iteration,dalmatian spots,0.694170
+ln_1,220,11,summary,spots,0.158176
+ln_1,236,0,initial,standard poodle,0.640055
+ln_1,236,0,initial,irish water spaniel,0.566097
+ln_1,236,0,initial,arabian camel,0.508989
+ln_1,236,0,initial,whippet,0.417123
+ln_1,236,0,initial,coral fungus,0.295343
+ln_1,236,0,initial,desk,0.113393
+ln_1,236,0,initial,black grouse,-0.049093
+ln_1,236,0,initial,pedestal,-0.250021
+ln_1,236,0,initial,lifeboat,-0.269696
+ln_1,236,0,initial,printer,-0.507146
+ln_1,236,1,iteration,coated dog,-0.167265
+ln_1,236,2,iteration,breed dog,-0.206912
+ln_1,236,3,iteration,long-haired,-0.356209
+ln_1,236,4,iteration,sighthound,0.314925
+ln_1,236,5,iteration,dog breed,-0.192797
+ln_1,236,6,iteration,hair type,0.064895
+ln_1,236,7,iteration,coated animal,0.118212
+ln_1,236,8,iteration,thick fur,0.060301
+ln_1,236,9,iteration,coated breed,-0.273318
+ln_1,236,10,iteration,standard poodle type,0.630732
+ln_1,236,11,summary,poodle breed,0.522339
+ln_1,239,0,initial,shetland sheepdog,0.391869
+ln_1,239,0,initial,lion,0.311651
+ln_1,239,0,initial,hippopotamus,0.262693
+ln_1,239,0,initial,spoonbill,0.193646
+ln_1,239,0,initial,yellow lady's slipper,0.130696
+ln_1,239,0,initial,jeep,0.111027
+ln_1,239,0,initial,shopping basket,-0.036530
+ln_1,239,0,initial,ipod,-0.083562
+ln_1,239,0,initial,curly-coated retriever,-0.212353
+ln_1,239,0,initial,traffic light,-0.358208
+ln_1,239,1,iteration,coated animal,-0.108618
+ln_1,239,2,iteration,coated mammal,-0.123113
+ln_1,239,3,iteration,furry mammal,-0.057436
+ln_1,239,4,iteration,long coat,-0.113664
+ln_1,239,5,iteration,coated animal,-0.108618
+ln_1,239,6,iteration,coated pet,-0.089001
+ln_1,239,7,iteration,thick coat,-0.103861
+ln_1,239,8,iteration,coat pattern,-0.071680
+ln_1,239,9,iteration,shaggy coat,-0.103019
+ln_1,239,10,iteration,curly coat,0.140865
+ln_1,239,11,summary,large carnivorous mammal,-0.200591
+ln_1,245,0,initial,golfcart,0.125430
+ln_1,245,0,initial,oystercatcher,0.117541
+ln_1,245,0,initial,red-breasted merganser,0.078954
+ln_1,245,0,initial,kit fox,0.047087
+ln_1,245,0,initial,steel arch bridge,0.040720
+ln_1,245,0,initial,king penguin,0.040498
+ln_1,245,0,initial,indri,0.034808
+ln_1,245,0,initial,jellyfish,0.034713
+ln_1,245,0,initial,ice lolly,0.023783
+ln_1,245,0,initial,typewriter keyboard,-0.034566
+ln_1,245,1,iteration,beak,0.025383
+ln_1,245,2,iteration,pointed shape,0.011825
+ln_1,245,3,iteration,long neck,0.025690
+ln_1,245,4,iteration,bird-like,0.034076
+ln_1,245,5,iteration,beaked creature,0.016915
+ln_1,245,6,iteration,avian,0.017568
+ln_1,245,7,iteration,fowl,-0.005079
+ln_1,245,8,iteration,bill,-0.004853
+ln_1,245,9,iteration,pointed beak,0.025251
+ln_1,245,10,iteration,bird,0.039592
+ln_1,245,11,summary,bird or vehicle,0.031488
+ln_1,252,0,initial,hourglass,0.114413
+ln_1,252,0,initial,blenheim spaniel,0.088322
+ln_1,252,0,initial,airliner,0.085730
+ln_1,252,0,initial,organ,0.065766
+ln_1,252,0,initial,spotlight,0.064911
+ln_1,252,0,initial,american coot,0.061635
+ln_1,252,0,initial,mousetrap,0.045907
+ln_1,252,0,initial,parking meter,0.033364
+ln_1,252,0,initial,web site,0.009959
+ln_1,252,0,initial,gibbon,-0.008038
+ln_1,252,1,iteration,mechanism,0.058580
+ln_1,252,2,iteration,moving part,0.014786
+ln_1,252,3,iteration,timepiece,0.037195
+ln_1,252,4,iteration,rotating device,0.054944
+ln_1,252,5,iteration,vertical axis,0.028719
+ln_1,252,6,iteration,axisymmetric,0.026848
+ln_1,252,7,iteration,symmetry,0.015807
+ln_1,252,8,iteration,gears,0.065842
+ln_1,252,9,iteration,centerpiece,-0.016173
+ln_1,252,10,iteration,cylinder,0.024330
+ln_1,252,11,summary,man-made object,0.036863
+ln_1,255,0,initial,dome,0.547759
+ln_1,255,0,initial,snowmobile,0.449873
+ln_1,255,0,initial,throne,0.368786
+ln_1,255,0,initial,komodo dragon,0.248763
+ln_1,255,0,initial,coral fungus,0.240860
+ln_1,255,0,initial,yawl,0.132006
+ln_1,255,0,initial,pay-phone,-0.109727
+ln_1,255,0,initial,japanese spaniel,-0.139251
+ln_1,255,0,initial,pirate,-0.235651
+ln_1,255,0,initial,moped,-0.525990
+ln_1,255,1,iteration,raised platform,0.086649
+ln_1,255,2,iteration,elevated seat,-0.179073
+ln_1,255,3,iteration,dome shape,0.527436
+ln_1,255,4,iteration,rounded shape,0.066379
+ln_1,255,5,iteration,elevated dome,0.406297
+ln_1,255,6,iteration,thronelike,0.223367
+ln_1,255,7,iteration,crown,0.042212
+ln_1,255,8,iteration,rounded throne,0.374340
+ln_1,255,9,iteration,bulb,-0.315673
+ln_1,255,10,iteration,rounded seat,-0.032591
+ln_1,255,11,summary,man-made structure,-0.058854
+ln_1,262,0,initial,squirrel monkey,0.726077
+ln_1,262,0,initial,american coot,0.565590
+ln_1,262,0,initial,banana,0.320082
+ln_1,262,0,initial,spotlight,0.266672
+ln_1,262,0,initial,barn,0.232664
+ln_1,262,0,initial,boathouse,0.107046
+ln_1,262,0,initial,howler monkey,0.083758
+ln_1,262,0,initial,stingray,0.072444
+ln_1,262,0,initial,clumber,-0.020648
+ln_1,262,0,initial,tripod,-0.263587
+ln_1,262,1,iteration,monkey,0.275624
+ln_1,262,2,iteration,waterbird,-0.240347
+ln_1,262,3,iteration,primate,0.173026
+ln_1,262,4,iteration,primate-like,0.104047
+ln_1,262,5,iteration,monkey face,0.308686
+ln_1,262,6,iteration,tail,-0.060479
+ln_1,262,7,iteration,prehensile,-0.218339
+ln_1,262,8,iteration,primates,-0.018036
+ln_1,262,9,iteration,(ignore this),0.232130
+ln_1,262,10,iteration,expressive face,0.005068
+ln_1,262,11,summary,bird,-0.219445
+ln_1,268,0,initial,water buffalo,0.713754
+ln_1,268,0,initial,bee,0.509856
+ln_1,268,0,initial,artichoke,0.497657
+ln_1,268,0,initial,pay-phone,0.496323
+ln_1,268,0,initial,lifeboat,0.372348
+ln_1,268,0,initial,thresher,0.143493
+ln_1,268,0,initial,hornbill,0.089207
+ln_1,268,0,initial,cicada,-0.084747
+ln_1,268,0,initial,lotion,-0.149343
+ln_1,268,0,initial,plate rack,-0.171556
+ln_1,268,1,iteration,horned animal,0.497610
+ln_1,268,2,iteration,emergency horn,-0.266335
+ln_1,268,3,iteration,appendage,-0.136814
+ln_1,268,4,iteration,horned creature,0.106411
+ln_1,268,5,iteration,pronged,0.023474
+ln_1,268,6,iteration,growth,-0.031042
+ln_1,268,7,iteration,horned,0.184364
+ln_1,268,8,iteration,horned object,0.335415
+ln_1,268,9,iteration,protuberance,0.000435
+ln_1,268,10,iteration,horned being,0.238837
+ln_1,268,11,summary,large animal,0.126696
+ln_1,272,0,initial,teddy,0.762570
+ln_1,272,0,initial,goldfish,0.551025
+ln_1,272,0,initial,american lobster,0.344495
+ln_1,272,0,initial,mouse,0.323676
+ln_1,272,0,initial,king crab,0.269728
+ln_1,272,0,initial,dandie dinmont,0.132067
+ln_1,272,0,initial,rock python,-0.138157
+ln_1,272,0,initial,hen-of-the-woods,-0.271924
+ln_1,272,0,initial,rugby ball,-0.287421
+ln_1,272,0,initial,lakeland terrier,-0.445616
+ln_1,272,1,iteration,pet,-0.153743
+ln_1,272,2,iteration,cuddly creature,0.231152
+ln_1,272,3,iteration,small mammal,0.097233
+ln_1,272,4,iteration,cared for animal,-0.097884
+ln_1,272,5,iteration,captive,-0.172351
+ln_1,272,6,iteration,companion,-0.159077
+ln_1,272,7,iteration,handled animal,0.042600
+ln_1,272,8,iteration,household animal,-0.213473
+ln_1,272,9,iteration,aquarium,0.183905
+ln_1,272,10,iteration,household companion,-0.232474
+ln_1,272,11,summary,domesticated pet,-0.145722
+ln_1,279,0,initial,agaric,0.524167
+ln_1,279,0,initial,snow leopard,0.365092
+ln_1,279,0,initial,black and gold garden spider,0.363136
+ln_1,279,0,initial,tiger,0.296588
+ln_1,279,0,initial,brabancon griffon,0.240508
+ln_1,279,0,initial,polecat,0.158605
+ln_1,279,0,initial,chainlink fence,0.018772
+ln_1,279,0,initial,earthstar,0.012583
+ln_1,279,0,initial,bagel,-0.183747
+ln_1,279,0,initial,container ship,-0.193694
+ln_1,279,1,iteration,color pattern,-0.165402
+ln_1,279,2,iteration,gold coat,0.045589
+ln_1,279,3,iteration,coat pattern,0.195618
+ln_1,279,4,iteration,ground coat,0.045255
+ln_1,279,5,iteration,black gold,-0.297089
+ln_1,279,6,iteration,stripes,-0.162375
+ln_1,279,7,iteration,spotted coat,0.015663
+ln_1,279,8,iteration,spots,-0.016727
+ln_1,279,9,iteration,black and gold coat,0.126469
+ln_1,279,10,iteration,tiger-like coat,0.271630
+ln_1,279,11,summary,animal,0.018732
+ln_1,291,0,initial,ice bear,0.698678
+ln_1,291,0,initial,chihuahua,0.669365
+ln_1,291,0,initial,giant panda,0.468797
+ln_1,291,0,initial,yawl,0.323271
+ln_1,291,0,initial,cardoon,0.271935
+ln_1,291,0,initial,garbage truck,0.267791
+ln_1,291,0,initial,american staffordshire terrier,0.088789
+ln_1,291,0,initial,bib,0.012168
+ln_1,291,0,initial,quilt,-0.022087
+ln_1,291,0,initial,torch,-0.247104
+ln_1,291,1,iteration,bear,0.154785
+ln_1,291,2,iteration,cuddly animal,0.050806
+ln_1,291,3,iteration,polar pup,-0.349342
+ln_1,291,4,iteration,furry mammal,-0.065360
+ln_1,291,5,iteration,small mammal,0.232758
+ln_1,291,6,iteration,ice bear,0.698678
+ln_1,291,7,iteration,furry mammal-like creature,0.126117
+ln_1,291,8,iteration,petite mammal,0.184738
+ln_1,291,9,iteration,cute mammal,-0.216603
+ln_1,291,10,iteration,furry creature,0.185267
+ln_1,291,11,summary,large mammal,-0.341951
+ln_1,294,0,initial,horse cart,0.283441
+ln_1,294,0,initial,redshank,0.250105
+ln_1,294,0,initial,squirrel monkey,0.205263
+ln_1,294,0,initial,howler monkey,0.154226
+ln_1,294,0,initial,crane2,0.027377
+ln_1,294,0,initial,titi,-0.040273
+ln_1,294,0,initial,feather boa,-0.090150
+ln_1,294,0,initial,sliding door,-0.107493
+ln_1,294,0,initial,groenendael,-0.153902
+ln_1,294,0,initial,hamster,-0.181106
+ln_1,294,1,iteration,long legs,-0.050783
+ln_1,294,2,iteration,long appendage,-0.056529
+ln_1,294,3,iteration,thin legs,-0.067977
+ln_1,294,4,iteration,quadruped,-0.047303
+ln_1,294,5,iteration,legged object,-0.087014
+ln_1,294,6,iteration,hoofed animal,-0.119291
+ln_1,294,7,iteration,multi-legged,-0.093619
+ln_1,294,8,iteration,four legs,-0.131636
+ln_1,294,9,iteration,four-legged animal,-0.164560
+ln_1,294,10,iteration,(ignore this),-0.027344
+ln_1,294,11,summary,four legs,-0.131636
+ln_1,295,0,initial,rotisserie,0.414569
+ln_1,295,0,initial,chickadee,0.412131
+ln_1,295,0,initial,grey fox,0.335452
+ln_1,295,0,initial,moving van,0.287226
+ln_1,295,0,initial,robin,0.262066
+ln_1,295,0,initial,impala,0.253216
+ln_1,295,0,initial,odometer,0.050954
+ln_1,295,0,initial,cradle,-0.009498
+ln_1,295,0,initial,bloodhound,-0.064219
+ln_1,295,0,initial,beer bottle,-0.359872
+ln_1,295,1,iteration,yard bird,0.053370
+ln_1,295,2,iteration,bird feeder,0.057952
+ln_1,295,3,iteration,donut hole,-0.119897
+ln_1,295,4,iteration,roasting bird,-0.050336
+ln_1,295,5,iteration,rotisserie,0.414569
+ln_1,295,6,iteration,game bird,-0.005753
+ln_1,295,7,iteration,bird,0.184481
+ln_1,295,8,iteration,wildlife tree,-0.303443
+ln_1,295,9,iteration,wildlife transport,-0.017863
+ln_1,295,10,iteration,bird meat,0.262292
+ln_1,295,11,summary,bird,0.184481
+ln_1,301,0,initial,lorikeet,0.449513
+ln_1,301,0,initial,impala,0.413846
+ln_1,301,0,initial,squirrel monkey,0.371303
+ln_1,301,0,initial,langur,0.321774
+ln_1,301,0,initial,west highland white terrier,0.171107
+ln_1,301,0,initial,window screen,-0.021385
+ln_1,301,0,initial,titi,-0.045869
+ln_1,301,0,initial,tailed frog,-0.229331
+ln_1,301,0,initial,ibex,-0.328549
+ln_1,301,0,initial,chesapeake bay retriever,-0.366787
+ln_1,301,1,iteration,monkey,0.061362
+ln_1,301,2,iteration,primate,-0.055404
+ln_1,301,3,iteration,long tail,-0.158187
+ln_1,301,4,iteration,exotic animal,-0.313603
+ln_1,301,5,iteration,primates,0.186512
+ln_1,301,6,iteration,facial markings,-0.093052
+ln_1,301,7,iteration,facial markings,-0.093052
+ln_1,301,8,iteration,facial features,0.173221
+ln_1,301,9,iteration,species,-0.202845
+ln_1,301,10,iteration,distinctive face,0.268250
+ln_1,301,11,summary,primate,-0.055404
+ln_1,309,0,initial,head cabbage,0.635266
+ln_1,309,0,initial,water buffalo,0.362722
+ln_1,309,0,initial,pineapple,0.327042
+ln_1,309,0,initial,space heater,0.243264
+ln_1,309,0,initial,proboscis monkey,0.242190
+ln_1,309,0,initial,torch,0.142002
+ln_1,309,0,initial,agaric,0.040570
+ln_1,309,0,initial,mask,-0.002538
+ln_1,309,0,initial,schipperke,-0.087465
+ln_1,309,0,initial,harmonica,-0.146966
+ln_1,309,1,iteration,round food,0.163930
+ln_1,309,2,iteration,leafy green,0.385863
+ln_1,309,3,iteration,cabbage head,0.626234
+ln_1,309,4,iteration,vegetable head,0.172655
+ln_1,309,5,iteration,cabbage head,0.626234
+ln_1,309,6,iteration,plant head,-0.041266
+ln_1,309,7,iteration,head,0.079106
+ln_1,309,8,iteration,compact food,0.069085
+ln_1,309,9,iteration,round food item,0.096939
+ln_1,309,10,iteration,food head,0.023588
+ln_1,309,11,summary,compact head,0.024129
+ln_1,314,0,initial,revolver,0.346567
+ln_1,314,0,initial,jay,0.300832
+ln_1,314,0,initial,komodo dragon,0.272690
+ln_1,314,0,initial,tiger beetle,0.151218
+ln_1,314,0,initial,black swan,0.149572
+ln_1,314,0,initial,forklift,0.142990
+ln_1,314,0,initial,water snake,0.054632
+ln_1,314,0,initial,brabancon griffon,0.042641
+ln_1,314,0,initial,flatworm,0.036628
+ln_1,314,0,initial,admiral,-0.136882
+ln_1,314,1,iteration,wild animal,0.178880
+ln_1,314,2,iteration,beaklike,0.112649
+ln_1,314,3,iteration,sharp edge,0.029102
+ln_1,314,4,iteration,handgun,0.336649
+ln_1,314,5,iteration,sharp object,0.101719
+ln_1,314,6,iteration,pointed,0.052625
+ln_1,314,7,iteration,beak,0.166150
+ln_1,314,8,iteration,revolver shape,0.329887
+ln_1,314,9,iteration,gun barrel,0.156752
+ln_1,314,10,iteration,cylinder,0.067536
+ln_1,314,11,summary,revolver shape,0.329887
+ln_1,318,0,initial,goldfinch,0.709594
+ln_1,318,0,initial,great grey owl,0.674277
+ln_1,318,0,initial,albatross,0.663965
+ln_1,318,0,initial,oscilloscope,0.617539
+ln_1,318,0,initial,potter's wheel,0.562804
+ln_1,318,0,initial,english springer,0.086851
+ln_1,318,0,initial,tibetan terrier,-0.013377
+ln_1,318,0,initial,purse,-0.119427
+ln_1,318,0,initial,polaroid camera,-0.415498
+ln_1,318,0,initial,coral reef,-0.448661
+ln_1,318,1,iteration,feathered,0.400035
+ln_1,318,2,iteration,winged,0.001965
+ln_1,318,3,iteration,beak,0.233915
+ln_1,318,4,iteration,snout,0.154602
+ln_1,318,5,iteration,bird shape,0.114028
+ln_1,318,6,iteration,bird form,0.217702
+ln_1,318,7,iteration,beak-like,0.275717
+ln_1,318,8,iteration,beaklike,0.350348
+ln_1,318,9,iteration,perchable,-0.125254
+ln_1,318,10,iteration,peak,0.064858
+ln_1,318,11,summary,bird,0.282627
+ln_1,327,0,initial,otter,0.971251
+ln_1,327,0,initial,american coot,0.627109
+ln_1,327,0,initial,armadillo,0.619723
+ln_1,327,0,initial,leonberg,0.489285
+ln_1,327,0,initial,planetarium,0.073022
+ln_1,327,0,initial,harmonica,0.010595
+ln_1,327,0,initial,jacamar,-0.069357
+ln_1,327,0,initial,hammerhead,-0.195470
+ln_1,327,0,initial,flute,-0.228774
+ln_1,327,0,initial,arctic fox,-0.231032
+ln_1,327,1,iteration,semi-aquatic mammal,0.193221
+ln_1,327,2,iteration,water animal,0.098555
+ln_1,327,3,iteration,riverbank,0.180912
+ln_1,327,4,iteration,semi-float,0.094557
+ln_1,327,5,iteration,semi-aquatic,0.223218
+ln_1,327,6,iteration,webbed feet,-0.102289
+ln_1,327,7,iteration,aquatic mammal,-0.133718
+ln_1,327,8,iteration,streamlined body,0.047682
+ln_1,327,9,iteration,swimmer,0.183686
+ln_1,327,10,iteration,(ignore this),0.197061
+ln_1,327,11,summary,aquatic mammal,-0.133718
+ln_1,330,0,initial,throne,0.621663
+ln_1,330,0,initial,harvestman,0.294147
+ln_1,330,0,initial,leafhopper,0.243125
+ln_1,330,0,initial,acorn,0.195744
+ln_1,330,0,initial,dandie dinmont,-0.111111
+ln_1,330,0,initial,african elephant,-0.138139
+ln_1,330,0,initial,container ship,-0.176966
+ln_1,330,0,initial,dishrag,-0.183575
+ln_1,330,0,initial,lesser panda,-0.301246
+ln_1,330,0,initial,buckeye,-0.581481
+ln_1,330,1,iteration,throne seat,0.672369
+ln_1,330,2,iteration,throne-like,0.549225
+ln_1,330,3,iteration,"throne seat is forbidden, so I'll consider the general concept of a seat, which is also present in the high-scoring items",0.700437
+ln_1,330,4,iteration,high seat,0.021859
+ln_1,330,5,iteration,backed seat,-0.108720
+ln_1,330,6,iteration,elevated seat,0.036862
+ln_1,330,7,iteration,raised surface,-0.057198
+ln_1,330,8,iteration,elevated support,-0.187035
+ln_1,330,9,iteration,elevated throne,0.674184
+ln_1,330,10,iteration,(ignore this),-0.041658
+ln_1,330,11,summary,raised platform,-0.135756
+ln_1,336,0,initial,lemon,0.554271
+ln_1,336,0,initial,dugong,0.528881
+ln_1,336,0,initial,black swan,0.362299
+ln_1,336,0,initial,howler monkey,0.360447
+ln_1,336,0,initial,ostrich,0.355014
+ln_1,336,0,initial,drumstick,0.108360
+ln_1,336,0,initial,marmot,0.020991
+ln_1,336,0,initial,digital clock,-0.195397
+ln_1,336,0,initial,military uniform,-0.234765
+ln_1,336,0,initial,hyena,-0.427692
+ln_1,336,1,iteration,snake,-0.233148
+ln_1,336,2,iteration,aquatic mammal,0.003857
+ln_1,336,3,iteration,eel body,-0.360171
+ln_1,336,4,iteration,semi-aquatic,-0.146949
+ln_1,336,5,iteration,sea serpent,0.129870
+ln_1,336,6,iteration,streamlined body,-0.253094
+ln_1,336,7,iteration,aquatic mammal-like,0.041314
+ln_1,336,8,iteration,long body,0.056046
+ln_1,336,9,iteration,large aquatic mammal,0.450614
+ln_1,336,10,iteration,aquatic animal,-0.333675
+ln_1,336,11,summary,marine animal,-0.290364
+ln_1,343,0,initial,space shuttle,0.407179
+ln_1,343,0,initial,artichoke,0.357652
+ln_1,343,0,initial,bittern,0.317157
+ln_1,343,0,initial,sealyham terrier,0.305883
+ln_1,343,0,initial,scotch terrier,0.237526
+ln_1,343,0,initial,earthstar,0.143596
+ln_1,343,0,initial,borzoi,0.093724
+ln_1,343,0,initial,flute,0.055279
+ln_1,343,0,initial,mashed potato,-0.000453
+ln_1,343,0,initial,croquet ball,-0.023458
+ln_1,343,1,iteration,bulbous shape,0.044294
+ln_1,343,2,iteration,orb shape,0.110786
+ln_1,343,3,iteration,rounded shape,0.094113
+ln_1,343,4,iteration,spacecraft,0.149311
+ln_1,343,5,iteration,orbital shape,0.075717
+ln_1,343,6,iteration,rounded edge,0.088772
+ln_1,343,7,iteration,orbital body,0.106799
+ln_1,343,8,iteration,round object,0.084025
+ln_1,343,9,iteration,orbital body,0.106799
+ln_1,343,10,iteration,spacecraft part,0.231095
+ln_1,343,11,summary,man-made object,0.145842
+ln_1,344,0,initial,koala,0.204549
+ln_1,344,0,initial,bull mastiff,0.200127
+ln_1,344,0,initial,ladybug,0.185033
+ln_1,344,0,initial,trolleybus,0.162158
+ln_1,344,0,initial,bell pepper,0.144721
+ln_1,344,0,initial,jackfruit,0.130602
+ln_1,344,0,initial,palace,0.054361
+ln_1,344,0,initial,lakeland terrier,0.006130
+ln_1,344,0,initial,carbonara,-0.029815
+ln_1,344,0,initial,fox squirrel,-0.048662
+ln_1,344,1,iteration,furry creature,0.007753
+ln_1,344,2,iteration,facial markings,-0.007478
+ln_1,344,3,iteration,distinctive markings,0.020747
+ln_1,344,4,iteration,marked animal,0.012211
+ln_1,344,5,iteration,spots,-0.032797
+ln_1,344,6,iteration,patterned animal,-0.022367
+ln_1,344,7,iteration,koala,0.204549
+ln_1,344,8,iteration,coat,-0.039113
+ln_1,344,9,iteration,animal markings,0.014231
+ln_1,344,10,iteration,animal pattern,-0.054127
+ln_1,344,11,summary,furry animal,0.020949
+ln_1,346,0,initial,papillon,0.570123
+ln_1,346,0,initial,american lobster,0.563262
+ln_1,346,0,initial,lawn mower,0.446731
+ln_1,346,0,initial,oscilloscope,0.391606
+ln_1,346,0,initial,ptarmigan,0.362744
+ln_1,346,0,initial,keeshond,0.321292
+ln_1,346,0,initial,green snake,0.040512
+ln_1,346,0,initial,hip,0.035399
+ln_1,346,0,initial,beach wagon,0.011447
+ln_1,346,0,initial,jean,-0.350600
+ln_1,346,1,iteration,fan tail,0.144496
+ln_1,346,2,iteration,long tail,-0.017366
+ln_1,346,3,iteration,tail,-0.129619
+ln_1,346,4,iteration,distinct tail,-0.136369
+ln_1,346,5,iteration,animal tail,-0.071936
+ln_1,346,6,iteration,pompon,0.067607
+ln_1,346,7,iteration,furry tail,-0.200088
+ln_1,346,8,iteration,fluffy tail,-0.176233
+ln_1,346,9,iteration,pomponless tail,-0.103055
+ln_1,346,10,iteration,hairy tail,-0.181363
+ln_1,346,11,summary,animal,0.301419
+ln_1,351,0,initial,arabian camel,0.554946
+ln_1,351,0,initial,parachute,0.439526
+ln_1,351,0,initial,magpie,0.430985
+ln_1,351,0,initial,silky terrier,0.427041
+ln_1,351,0,initial,crash helmet,0.282565
+ln_1,351,0,initial,baboon,0.189904
+ln_1,351,0,initial,french loaf,0.042856
+ln_1,351,0,initial,lhasa,-0.001255
+ln_1,351,0,initial,prayer rug,-0.091087
+ln_1,351,0,initial,miniature pinscher,-0.422678
+ln_1,351,1,iteration,protective coat,0.422024
+ln_1,351,2,iteration,crash pad,0.252505
+ln_1,351,3,iteration,safety fabric,0.205039
+ln_1,351,4,iteration,crash protection,-0.059774
+ln_1,351,5,iteration,protective gear,0.089939
+ln_1,351,6,iteration,animal shield,0.335541
+ln_1,351,7,iteration,crash protection system,-0.139006
+ln_1,351,8,iteration,protective covering,0.328299
+ln_1,351,9,iteration,crash helmet,0.282565
+ln_1,351,10,iteration,hard shell,0.188418
+ln_1,351,11,summary,transportation,-0.092990
+ln_1,353,0,initial,fig,0.662744
+ln_1,353,0,initial,banjo,0.618975
+ln_1,353,0,initial,ipod,0.577415
+ln_1,353,0,initial,combination lock,0.576166
+ln_1,353,0,initial,guenon,0.474169
+ln_1,353,0,initial,bell pepper,0.205712
+ln_1,353,0,initial,great dane,0.085625
+ln_1,353,0,initial,lemon,-0.072861
+ln_1,353,0,initial,vending machine,-0.422034
+ln_1,353,0,initial,shetland sheepdog,-0.473653
+ln_1,353,1,iteration,portable item,0.497760
+ln_1,353,2,iteration,compact,0.088146
+ln_1,353,3,iteration,small object,-0.009466
+ln_1,353,4,iteration,curved shape,0.162419
+ln_1,353,5,iteration,handheld,0.071324
+ln_1,353,6,iteration,portable device,0.494587
+ln_1,353,7,iteration,handheld music,0.319800
+ln_1,353,8,iteration,stringed instrument,0.243418
+ln_1,353,9,iteration,miniature,0.180383
+ln_1,353,10,iteration,small object,-0.009466
+ln_1,353,11,summary,stringed,0.223975
+ln_1,357,0,initial,junco,0.433272
+ln_1,357,0,initial,gasmask,0.386711
+ln_1,357,0,initial,ambulance,0.369803
+ln_1,357,0,initial,skunk,0.341192
+ln_1,357,0,initial,lorikeet,0.324796
+ln_1,357,0,initial,sea slug,0.206580
+ln_1,357,0,initial,earthstar,0.009300
+ln_1,357,0,initial,motor scooter,-0.247729
+ln_1,357,0,initial,black swan,-0.366103
+ln_1,357,0,initial,container ship,-0.489996
+ln_1,357,1,iteration,safety gear,0.200527
+ln_1,357,2,iteration,emergency gear,0.201113
+ln_1,357,3,iteration,protective gear,0.169653
+ln_1,357,4,iteration,rescue,-0.143424
+ln_1,357,5,iteration,protect,-0.331856
+ln_1,357,6,iteration,life saver,-0.060442
+ln_1,357,7,iteration,gas mask,0.415062
+ln_1,357,8,iteration,shielding,-0.375725
+ln_1,357,9,iteration,emergency vehicle,0.001768
+ln_1,357,10,iteration,warning sign,-0.517641
+ln_1,357,11,summary,beak-like shape,-0.398730
+ln_1,359,0,initial,anemone fish,0.769290
+ln_1,359,0,initial,black swan,0.601332
+ln_1,359,0,initial,airliner,0.592078
+ln_1,359,0,initial,marimba,0.437198
+ln_1,359,0,initial,great pyrenees,0.290686
+ln_1,359,0,initial,lorikeet,0.263159
+ln_1,359,0,initial,rock beauty,0.169418
+ln_1,359,0,initial,liner,0.129405
+ln_1,359,0,initial,staffordshire bullterrier,0.058235
+ln_1,359,0,initial,slot,-0.142005
+ln_1,359,1,iteration,water creature,0.117671
+ln_1,359,2,iteration,finned creature,0.137429
+ln_1,359,3,iteration,pointed tail,0.101754
+ln_1,359,4,iteration,protrusion,0.048226
+ln_1,359,5,iteration,tail fin,0.252687
+ln_1,359,6,iteration,finned tail,0.273958
+ln_1,359,7,iteration,swan fish,0.439014
+ln_1,359,8,iteration,ornate fish,0.025539
+ln_1,359,9,iteration,swan tail,0.255469
+ln_1,359,10,iteration,swan fish tail,0.374819
+ln_1,359,11,summary,aquatic animal,0.177906
+ln_1,380,0,initial,pomeranian,0.684530
+ln_1,380,0,initial,scuba diver,0.662160
+ln_1,380,0,initial,oystercatcher,0.549079
+ln_1,380,0,initial,rugby ball,0.244956
+ln_1,380,0,initial,hartebeest,0.242709
+ln_1,380,0,initial,boxer,0.229304
+ln_1,380,0,initial,steam locomotive,-0.012336
+ln_1,380,0,initial,cowboy hat,-0.119252
+ln_1,380,0,initial,ant,-0.205118
+ln_1,380,0,initial,black widow,-0.282058
+ln_1,380,1,iteration,aquatic life,-0.114165
+ln_1,380,2,iteration,terrestrial animal,0.121581
+ln_1,380,3,iteration,land creature,0.004785
+ln_1,380,4,iteration,mammal,-0.257003
+ln_1,380,5,iteration,four legs,-0.151799
+ln_1,380,6,iteration,beaked creature,0.055455
+ln_1,380,7,iteration,hoofed,-0.134455
+ln_1,380,8,iteration,two legged,-0.157590
+ln_1,380,9,iteration,water creature,0.217745
+ln_1,380,10,iteration,beaked animal,-0.031751
+ln_1,380,11,summary,beak-like feature,-0.020864
+ln_1,389,0,initial,teapot,0.820535
+ln_1,389,0,initial,shopping cart,0.711764
+ln_1,389,0,initial,ant,0.680867
+ln_1,389,0,initial,white wolf,0.646034
+ln_1,389,0,initial,tiger beetle,0.604701
+ln_1,389,0,initial,ruddy turnstone,0.602812
+ln_1,389,0,initial,printer,0.576826
+ln_1,389,0,initial,hoopskirt,0.308354
+ln_1,389,0,initial,mosque,0.118670
+ln_1,389,0,initial,black-and-tan coonhound,0.094508
+ln_1,389,1,iteration,handleware,-0.027685
+ln_1,389,2,iteration,handled object,0.199706
+ln_1,389,3,iteration,carryall,0.457437
+ln_1,389,4,iteration,handled item,0.191251
+ln_1,389,5,iteration,handle,0.042503
+ln_1,389,6,iteration,grip,0.155070
+ln_1,389,7,iteration,carrying vessel,-0.140102
+ln_1,389,8,iteration,handled item,0.191251
+ln_1,389,9,iteration,container,-0.347459
+ln_1,389,10,iteration,carrying aid,0.216859
+ln_1,389,11,summary,man-made object,-0.192132
+ln_1,396,0,initial,chickadee,0.083678
+ln_1,396,0,initial,saint bernard,0.060836
+ln_1,396,0,initial,bell pepper,0.022711
+ln_1,396,0,initial,vulture,0.022571
+ln_1,396,0,initial,feather boa,-0.008479
+ln_1,396,0,initial,hip,-0.104176
+ln_1,396,0,initial,strainer,-0.107569
+ln_1,396,0,initial,band aid,-0.111959
+ln_1,396,0,initial,fiddler crab,-0.147601
+ln_1,396,0,initial,dough,-0.150517
+ln_1,396,1,iteration,feathered,-0.079019
+ln_1,396,2,iteration,bird dog,-0.106832
+ln_1,396,3,iteration,feathered creature,-0.070482
+ln_1,396,4,iteration,plumage,-0.078016
+ln_1,396,5,iteration,bird dog hybrid,-0.117535
+ln_1,396,6,iteration,black and white bird,-0.107370
+ln_1,396,7,iteration,bird,-0.066602
+ln_1,396,8,iteration,beard,-0.092248
+ln_1,396,9,iteration,black and white coat,-0.056581
+ln_1,396,10,iteration,spot pattern,-0.109062
+ln_1,396,11,summary,bird,-0.066602
+ln_1,421,0,initial,jaguar,0.171527
+ln_1,421,0,initial,ruddy turnstone,0.165362
+ln_1,421,0,initial,lesser panda,0.137132
+ln_1,421,0,initial,castle,0.112455
+ln_1,421,0,initial,mountain bike,0.084130
+ln_1,421,0,initial,lifeboat,0.002524
+ln_1,421,0,initial,earthstar,-0.027819
+ln_1,421,0,initial,ox,-0.070534
+ln_1,421,0,initial,dock,-0.104597
+ln_1,421,0,initial,baboon,-0.210244
+ln_1,421,1,iteration,terrestrial animal,-0.089809
+ln_1,421,2,iteration,spots,-0.047887
+ln_1,421,3,iteration,bird markings,-0.152456
+ln_1,421,4,iteration,stripes,-0.043743
+ln_1,421,5,iteration,coat markings,-0.074070
+ln_1,421,6,iteration,distinctive markings,-0.030435
+ln_1,421,7,iteration,coat pattern,-0.062155
+ln_1,421,8,iteration,coated animal,-0.164533
+ln_1,421,9,iteration,rosette pattern,-0.092152
+ln_1,421,10,iteration,dappled,-0.068985
+ln_1,421,11,summary,bird,-0.115715
+ln_1,439,0,initial,goldfish,0.657448
+ln_1,439,0,initial,great grey owl,0.626249
+ln_1,439,0,initial,lionfish,0.571898
+ln_1,439,0,initial,lorikeet,0.450518
+ln_1,439,0,initial,bobsled,0.343789
+ln_1,439,0,initial,organ,0.203580
+ln_1,439,0,initial,book jacket,-0.059509
+ln_1,439,0,initial,football helmet,-0.073038
+ln_1,439,0,initial,angora,-0.078854
+ln_1,439,0,initial,schipperke,-0.276527
+ln_1,439,1,iteration,fish species,0.520824
+ln_1,439,2,iteration,aquarium animal,0.438323
+ln_1,439,3,iteration,ocean creature,0.290223
+ln_1,439,4,iteration,waterbird,0.183214
+ln_1,439,5,iteration,aquatic life,0.293254
+ln_1,439,6,iteration,aquatic,0.306844
+ln_1,439,7,iteration,saltwater,0.148982
+ln_1,439,8,iteration,marine life,0.340636
+ln_1,439,9,iteration,freshwater creature,0.217219
+ln_1,439,10,iteration,water dwellers,0.074523
+ln_1,439,11,summary,fish,0.500025
+ln_1,446,0,initial,dogsled,0.816135
+ln_1,446,0,initial,cheetah,0.683873
+ln_1,446,0,initial,pier,0.616883
+ln_1,446,0,initial,guenon,0.557891
+ln_1,446,0,initial,wire-haired fox terrier,0.512490
+ln_1,446,0,initial,american chameleon,0.315923
+ln_1,446,0,initial,chocolate sauce,0.165280
+ln_1,446,0,initial,coyote,-0.005239
+ln_1,446,0,initial,beer glass,-0.053459
+ln_1,446,0,initial,flatworm,-0.166047
+ln_1,446,1,iteration,terrain,0.497015
+ln_1,446,2,iteration,land animal,0.135329
+ln_1,446,3,iteration,speedster,-0.070357
+ln_1,446,4,iteration,fast runner,0.364859
+ln_1,446,5,iteration,fast animal,0.349871
+ln_1,446,6,iteration,land speeder,-0.072439
+ln_1,446,7,iteration,draft animal,0.132379
+ln_1,446,8,iteration,sleddog,0.612723
+ln_1,446,9,iteration,sledder,0.379062
+ln_1,446,10,iteration,dogsled racing,0.906874
+ln_1,446,11,summary,dog-pulled,0.121351
+ln_1,447,0,initial,saluki,0.537261
+ln_1,447,0,initial,triceratops,0.448136
+ln_1,447,0,initial,groenendael,0.428472
+ln_1,447,0,initial,great dane,0.192957
+ln_1,447,0,initial,black swan,0.157327
+ln_1,447,0,initial,jinrikisha,0.023104
+ln_1,447,0,initial,plastic bag,-0.055657
+ln_1,447,0,initial,porcupine,-0.158609
+ln_1,447,0,initial,banana,-0.304853
+ln_1,447,0,initial,guacamole,-0.323492
+ln_1,447,1,iteration,rare breed,0.035003
+ln_1,447,2,iteration,majestic dog,0.110832
+ln_1,447,3,iteration,large animal,-0.050702
+ln_1,447,4,iteration,coated dog,0.044491
+ln_1,447,5,iteration,majestic canine,0.052568
+ln_1,447,6,iteration,saluki,0.537261
+ln_1,447,7,iteration,breed dog,0.115502
+ln_1,447,8,iteration,long-haired dog,0.129456
+ln_1,447,9,iteration,coated dog,0.044491
+ln_1,447,10,iteration,dog,0.106716
+ln_1,447,11,summary,dog breed,0.101021
+ln_1,471,0,initial,wreck,0.582954
+ln_1,471,0,initial,moped,0.519248
+ln_1,471,0,initial,arabian camel,0.510921
+ln_1,471,0,initial,ruddy turnstone,0.482507
+ln_1,471,0,initial,hamster,0.357479
+ln_1,471,0,initial,pill bottle,0.326135
+ln_1,471,0,initial,catamaran,0.245344
+ln_1,471,0,initial,sturgeon,0.112231
+ln_1,471,0,initial,baboon,-0.019611
+ln_1,471,0,initial,knee pad,-0.195008
+ln_1,471,1,iteration,exotic vehicle,-0.156465
+ln_1,471,2,iteration,rusty vehicle,0.170233
+ln_1,471,3,iteration,multiwheel vehicle,0.038333
+ln_1,471,4,iteration,vehicle part,-0.041599
+ln_1,471,5,iteration,damaged vehicle,0.091057
+ln_1,471,6,iteration,four-wheeler,-0.163868
+ln_1,471,7,iteration,wheeled,0.018058
+ln_1,471,8,iteration,crash,0.234352
+ln_1,471,9,iteration,broken vehicle,0.335898
+ln_1,471,10,iteration,wreckage,0.525240
+ln_1,471,11,summary,damaged vehicle,0.091057
+ln_1,474,0,initial,oscilloscope,0.811621
+ln_1,474,0,initial,langur,0.672989
+ln_1,474,0,initial,white stork,0.649811
+ln_1,474,0,initial,bookshop,0.585409
+ln_1,474,0,initial,orangutan,0.471936
+ln_1,474,0,initial,parachute,0.457022
+ln_1,474,0,initial,titi,0.426408
+ln_1,474,0,initial,thunder snake,0.393557
+ln_1,474,0,initial,green lizard,0.124238
+ln_1,474,0,initial,confectionery,-0.063400
+ln_1,474,1,iteration,primate tech,0.484921
+ln_1,474,2,iteration,dart shape,0.219392
+ln_1,474,3,iteration,curve,0.475321
+ln_1,474,4,iteration,patterned,0.314614
+ln_1,474,5,iteration,long shape,0.219673
+ln_1,474,6,iteration,scope,-0.001392
+ln_1,474,7,iteration,pointed shape,0.300986
+ln_1,474,8,iteration,observation,0.311163
+ln_1,474,9,iteration,monitor,0.275247
+ln_1,474,10,iteration,vision screen,0.210101
+ln_1,474,11,summary,long slender shape,0.373245
+ln_1,486,0,initial,teapot,0.546841
+ln_1,486,0,initial,capuchin,0.518438
+ln_1,486,0,initial,irish terrier,0.508664
+ln_1,486,0,initial,trifle,0.415112
+ln_1,486,0,initial,tank suit,0.238819
+ln_1,486,0,initial,american chameleon,0.224118
+ln_1,486,0,initial,marmot,0.084720
+ln_1,486,0,initial,hartebeest,0.006174
+ln_1,486,0,initial,eskimo dog,-0.234670
+ln_1,486,0,initial,crayfish,-0.685220
+ln_1,486,1,iteration,container,-0.034724
+ln_1,486,2,iteration,headpiece,0.273756
+ln_1,486,3,iteration,head shape,0.251576
+ln_1,486,4,iteration,rounded shape,-0.164476
+ln_1,486,5,iteration,head form,0.029946
+ln_1,486,6,iteration,upper part,-0.110020
+ln_1,486,7,iteration,head cap,0.044889
+ln_1,486,8,iteration,top,-0.210713
+ln_1,486,9,iteration,skull,-0.471757
+ln_1,486,10,iteration,cup shape,-0.375075
+ln_1,486,11,summary,primate,0.271243
+ln_1,488,0,initial,reflex camera,0.605395
+ln_1,488,0,initial,aircraft carrier,0.533964
+ln_1,488,0,initial,artichoke,0.361345
+ln_1,488,0,initial,old english sheepdog,0.336506
+ln_1,488,0,initial,ballpoint,0.228612
+ln_1,488,0,initial,safe,0.150666
+ln_1,488,0,initial,dowitcher,-0.161585
+ln_1,488,0,initial,tiger,-0.404137
+ln_1,488,0,initial,cornet,-0.416042
+ln_1,488,0,initial,appenzeller,-0.614546
+ln_1,488,1,iteration,catwalk,0.074789
+ln_1,488,2,iteration,angular object,-0.028649
+ln_1,488,3,iteration,enclosure,0.183920
+ln_1,488,4,iteration,flat surface,0.014236
+ln_1,488,5,iteration,large object,-0.307271
+ln_1,488,6,iteration,platform,0.032021
+ln_1,488,7,iteration,stage,0.119546
+ln_1,488,8,iteration,elevated,0.228507
+ln_1,488,9,iteration,elevation,0.293737
+ln_1,488,10,iteration,reflector,0.206580
+ln_1,488,11,summary,non-organic,0.288945
+ln_1,490,0,initial,cellular telephone,0.494650
+ln_1,490,0,initial,acorn,0.358155
+ln_1,490,0,initial,little blue heron,0.349118
+ln_1,490,0,initial,tibetan terrier,0.330030
+ln_1,490,0,initial,wire-haired fox terrier,0.275880
+ln_1,490,0,initial,bathtub,0.187292
+ln_1,490,0,initial,paper towel,0.148833
+ln_1,490,0,initial,otter,-0.017243
+ln_1,490,0,initial,kite,-0.052176
+ln_1,490,0,initial,thatch,-0.280508
+ln_1,490,1,iteration,shell,-0.008324
+ln_1,490,2,iteration,phone case,0.298739
+ln_1,490,3,iteration,household item,-0.364463
+ln_1,490,4,iteration,outer layer,0.027363
+ln_1,490,5,iteration,case,-0.058832
+ln_1,490,6,iteration,protective layer,-0.124176
+ln_1,490,7,iteration,cover,0.099293
+ln_1,490,8,iteration,telephone case,0.037246
+ln_1,490,9,iteration,protective coating,-0.061965
+ln_1,490,10,iteration,hard shell,-0.051291
+ln_1,490,11,summary,man-made object,-0.140986
+ln_1,497,0,initial,greater swiss mountain dog,0.552651
+ln_1,497,0,initial,grand piano,0.394751
+ln_1,497,0,initial,theater curtain,0.337610
+ln_1,497,0,initial,police van,0.337008
+ln_1,497,0,initial,schooner,0.296443
+ln_1,497,0,initial,trolleybus,0.229527
+ln_1,497,0,initial,lakeland terrier,0.088102
+ln_1,497,0,initial,safe,-0.178454
+ln_1,497,0,initial,cardigan welsh corgi,-0.204613
+ln_1,497,0,initial,submarine,-0.399326
+ln_1,497,1,iteration,covered vehicle,-0.266387
+ln_1,497,2,iteration,public transport,-0.054155
+ln_1,497,3,iteration,enclosure,-0.125707
+ln_1,497,4,iteration,enclosed vehicle,-0.246902
+ln_1,497,5,iteration,service vehicle,-0.160718
+ln_1,497,6,iteration,roofed vehicle,-0.185604
+ln_1,497,7,iteration,covered wagon,-0.189888
+ln_1,497,8,iteration,theater,0.244869
+ln_1,497,9,iteration,stage,-0.217040
+ln_1,497,10,iteration,curtain,0.376041
+ln_1,497,11,summary,domesticated animal,-0.276950
+ln_1,498,0,initial,carousel,0.371120
+ln_1,498,0,initial,miniature schnauzer,0.294207
+ln_1,498,0,initial,flat-coated retriever,0.205747
+ln_1,498,0,initial,miniature poodle,0.182629
+ln_1,498,0,initial,pembroke,0.030684
+ln_1,498,0,initial,norwegian elkhound,0.004904
+ln_1,498,0,initial,sewing machine,-0.006600
+ln_1,498,0,initial,shoe shop,-0.007483
+ln_1,498,0,initial,confectionery,-0.116596
+ln_1,498,0,initial,common iguana,-0.348324
+ln_1,498,1,iteration,small dog,0.074079
+ln_1,498,2,iteration,toy breed,0.047493
+ln_1,498,3,iteration,pet dog,-0.019767
+ln_1,498,4,iteration,breed name,0.005173
+ln_1,498,5,iteration,miniature,-0.055341
+ln_1,498,6,iteration,small canine,0.085028
+ln_1,498,7,iteration,small dog type,0.094760
+ln_1,498,8,iteration,dog,0.011147
+ln_1,498,9,iteration,teacup,-0.152468
+ln_1,498,10,iteration,small breed,0.098173
+ln_1,498,11,summary,dog breed,0.008565
+ln_1,501,0,initial,chimpanzee,0.109910
+ln_1,501,0,initial,tusker,0.106347
+ln_1,501,0,initial,lesser panda,0.099133
+ln_1,501,0,initial,dowitcher,0.087692
+ln_1,501,0,initial,box turtle,0.049721
+ln_1,501,0,initial,gasmask,0.048340
+ln_1,501,0,initial,mushroom,-0.002087
+ln_1,501,0,initial,steel drum,-0.012506
+ln_1,501,0,initial,syringe,-0.026548
+ln_1,501,0,initial,pajama,-0.030522
+ln_1,501,1,iteration,protected animal,0.036932
+ln_1,501,2,iteration,tusked,0.107317
+ln_1,501,3,iteration,mask face,0.006798
+ln_1,501,4,iteration,wild tusker,0.108889
+ln_1,501,5,iteration,tusked mammal,0.104453
+ln_1,501,6,iteration,tusked feature,0.109974
+ln_1,501,7,iteration,tusker,0.106347
+ln_1,501,8,iteration,chimpanzee,0.109910
+ln_1,501,9,iteration,tusked creature,0.120963
+ln_1,501,10,iteration,tusks,0.109397
+ln_1,501,11,summary,tusk,0.081973
+ln_1,510,0,initial,chickadee,0.426843
+ln_1,510,0,initial,weevil,0.358373
+ln_1,510,0,initial,sea urchin,0.270812
+ln_1,510,0,initial,crash helmet,0.244689
+ln_1,510,0,initial,persian cat,0.199824
+ln_1,510,0,initial,gyromitra,0.143273
+ln_1,510,0,initial,coral fungus,0.074432
+ln_1,510,0,initial,corn,0.048120
+ln_1,510,0,initial,agama,-0.267364
+ln_1,510,0,initial,vine snake,-0.270417
+ln_1,510,1,iteration,shellback,-0.115806
+ln_1,510,2,iteration,armor,0.315688
+ln_1,510,3,iteration,exoskeleton,-0.348586
+ln_1,510,4,iteration,protective layer,-0.150134
+ln_1,510,5,iteration,natural armor,0.126143
+ln_1,510,6,iteration,outer covering,-0.228275
+ln_1,510,7,iteration,body shield,-0.098523
+ln_1,510,8,iteration,hard shell,-0.210413
+ln_1,510,9,iteration,protective casing,0.056097
+ln_1,510,10,iteration,outer layer,-0.075426
+ln_1,510,11,summary,bird,-0.229109
+ln_1,518,0,initial,go-kart,0.352980
+ln_1,518,0,initial,squirrel monkey,0.270990
+ln_1,518,0,initial,proboscis monkey,0.200533
+ln_1,518,0,initial,harp,0.184630
+ln_1,518,0,initial,barracouta,0.172564
+ln_1,518,0,initial,tarantula,0.084669
+ln_1,518,0,initial,balance beam,0.003277
+ln_1,518,0,initial,ram,-0.070861
+ln_1,518,0,initial,nail,-0.162922
+ln_1,518,0,initial,apiary,-0.275232
+ln_1,518,1,iteration,speedster,-0.222269
+ln_1,518,2,iteration,stringed,-0.134025
+ln_1,518,3,iteration,agile creature,-0.106641
+ln_1,518,4,iteration,monkey kart,0.162509
+ln_1,518,5,iteration,fast animal,-0.008461
+ln_1,518,6,iteration,monkey bike,-0.012140
+ln_1,518,7,iteration,monkey go-kart,0.146366
+ln_1,518,8,iteration,monkey cart,-0.046236
+ln_1,518,9,iteration,monkey kart,0.162509
+ln_1,518,10,iteration,vehicle,-0.060068
+ln_1,518,11,summary,primate,-0.080543
+ln_1,519,0,initial,tree frog,0.825958
+ln_1,519,0,initial,american alligator,0.693551
+ln_1,519,0,initial,impala,0.511794
+ln_1,519,0,initial,paddlewheel,0.270148
+ln_1,519,0,initial,brain coral,0.247913
+ln_1,519,0,initial,scoreboard,0.225078
+ln_1,519,0,initial,sidewinder,-0.064702
+ln_1,519,0,initial,jellyfish,-0.136703
+ln_1,519,0,initial,suspension bridge,-0.207662
+ln_1,519,0,initial,malinois,-0.263713
+ln_1,519,1,iteration,aquatic animal,0.112754
+ln_1,519,2,iteration,wildlife,0.356958
+ln_1,519,3,iteration,water creature,0.178783
+ln_1,519,4,iteration,water dweller,0.403890
+ln_1,519,5,iteration,swamp,0.304037
+ln_1,519,6,iteration,water dweller,0.403890
+ln_1,519,7,iteration,amphibian,0.872792
+ln_1,519,8,iteration,wetland,0.122417
+ln_1,519,9,iteration,semi-aquatic,0.099150
+ln_1,519,10,iteration,semi-aquatic animal,-0.005411
+ln_1,519,11,summary,semi-aquatic,0.099150
+ln_1,522,0,initial,jay,0.446934
+ln_1,522,0,initial,ambulance,0.344169
+ln_1,522,0,initial,lionfish,0.339978
+ln_1,522,0,initial,jack-o'-lantern,0.326731
+ln_1,522,0,initial,grasshopper,0.236981
+ln_1,522,0,initial,scoreboard,0.163798
+ln_1,522,0,initial,chickadee,0.107556
+ln_1,522,0,initial,vase,0.052111
+ln_1,522,0,initial,breakwater,0.037014
+ln_1,522,0,initial,passenger car,-0.054392
+ln_1,522,1,iteration,symmetry,0.127603
+ln_1,522,2,iteration,natural shape,0.095238
+ln_1,522,3,iteration,color pattern,-0.088040
+ln_1,522,4,iteration,stripes,0.115442
+ln_1,522,5,iteration,patterned creature,0.221199
+ln_1,522,6,iteration,patterned animal,0.292703
+ln_1,522,7,iteration,symmetrical creature,0.243852
+ln_1,522,8,iteration,striped creature,0.184582
+ln_1,522,9,iteration,alternating colors,-0.020504
+ln_1,522,10,iteration,design element,0.115578
+ln_1,522,11,summary,stripes,0.115442
+ln_1,527,0,initial,oystercatcher,0.527804
+ln_1,527,0,initial,airliner,0.466203
+ln_1,527,0,initial,gyromitra,0.109792
+ln_1,527,0,initial,warthog,0.032682
+ln_1,527,0,initial,puck,-0.072247
+ln_1,527,0,initial,drake,-0.153686
+ln_1,527,0,initial,thatch,-0.157091
+ln_1,527,0,initial,bernese mountain dog,-0.185477
+ln_1,527,0,initial,soap dispenser,-0.188979
+ln_1,527,0,initial,dugong,-0.331161
+ln_1,527,1,iteration,aircraft,0.394838
+ln_1,527,2,iteration,bird flight,-0.521028
+ln_1,527,3,iteration,flying vehicle,-0.135374
+ln_1,527,4,iteration,birdplane,0.141644
+ln_1,527,5,iteration,winged base,-0.342910
+ln_1,527,6,iteration,plane,0.340437
+ln_1,527,7,iteration,flying creature,-0.267010
+ln_1,527,8,iteration,birdlike,-0.441577
+ln_1,527,9,iteration,aircraft,0.394838
+ln_1,527,10,iteration,(ignore this),-0.114341
+ln_1,527,11,summary,flying object,-0.084904
+ln_1,537,0,initial,mountain tent,0.830977
+ln_1,537,0,initial,american black bear,0.650626
+ln_1,537,0,initial,trifle,0.555354
+ln_1,537,0,initial,canoe,0.524389
+ln_1,537,0,initial,basketball,0.440666
+ln_1,537,0,initial,wine bottle,0.369557
+ln_1,537,0,initial,hotdog,0.273387
+ln_1,537,0,initial,gyromitra,0.260419
+ln_1,537,0,initial,cocker spaniel,0.092196
+ln_1,537,0,initial,bubble,-0.073958
+ln_1,537,1,iteration,outdoor adventure,-0.032383
+ln_1,537,2,iteration,camping gear,0.201125
+ln_1,537,3,iteration,wild shelter,0.040955
+ln_1,537,4,iteration,survival shelter,0.192684
+ln_1,537,5,iteration,wilderness,-0.289120
+ln_1,537,6,iteration,portable shelter,0.414144
+ln_1,537,7,iteration,backcountry shelter,0.352035
+ln_1,537,8,iteration,mountain hut,0.308332
+ln_1,537,9,iteration,dry sack,-0.216630
+ln_1,537,10,iteration,mountain dwelling,0.197458
+ln_1,537,11,summary,wilderness object,-0.177210
+ln_1,538,0,initial,tiger beetle,0.459318
+ln_1,538,0,initial,bison,0.437181
+ln_1,538,0,initial,accordion,0.408976
+ln_1,538,0,initial,soft-coated wheaten terrier,0.389659
+ln_1,538,0,initial,jackfruit,0.305148
+ln_1,538,0,initial,mountain tent,0.080065
+ln_1,538,0,initial,pillow,0.061102
+ln_1,538,0,initial,beaver,0.046404
+ln_1,538,0,initial,screen,0.027628
+ln_1,538,0,initial,wreck,-0.021504
+ln_1,538,1,iteration,portable,0.041352
+ln_1,538,2,iteration,ornament,0.140092
+ln_1,538,3,iteration,wildlife,-0.142821
+ln_1,538,4,iteration,land animal,-0.066315
+ln_1,538,5,iteration,mammal,0.085482
+ln_1,538,6,iteration,furry beast,0.114978
+ln_1,538,7,iteration,coated animal,-0.010248
+ln_1,538,8,iteration,fur,0.004835
+ln_1,538,9,iteration,thick coat,0.065133
+ln_1,538,10,iteration,thick coat animal,0.043032
+ln_1,538,11,summary,land animal/object,-0.007091
+ln_1,540,0,initial,indigo bunting,0.500613
+ln_1,540,0,initial,american black bear,0.316928
+ln_1,540,0,initial,schipperke,0.314433
+ln_1,540,0,initial,hummingbird,0.287895
+ln_1,540,0,initial,cup,0.235516
+ln_1,540,0,initial,ruffed grouse,0.218602
+ln_1,540,0,initial,barber chair,0.017168
+ln_1,540,0,initial,sea snake,-0.082657
+ln_1,540,0,initial,cliff,-0.202253
+ln_1,540,0,initial,folding chair,-0.224447
+ln_1,540,1,iteration,bird plumage,-0.227707
+ln_1,540,2,iteration,distinct coat,-0.467838
+ln_1,540,3,iteration,furry creature,-0.301686
+ln_1,540,4,iteration,bright bird,-0.058955
+ln_1,540,5,iteration,bird,-0.113678
+ln_1,540,6,iteration,feathered,-0.048002
+ln_1,540,7,iteration,colorful coat,-0.414414
+ln_1,540,8,iteration,bird coat,-0.201395
+ln_1,540,9,iteration,beast,-0.310345
+ln_1,540,10,iteration,coat,-0.593171
+ln_1,540,11,summary,bird,-0.113678
+ln_1,541,0,initial,ram,0.663143
+ln_1,541,0,initial,bighorn,0.623260
+ln_1,541,0,initial,cheeseburger,0.515530
+ln_1,541,0,initial,vending machine,0.397853
+ln_1,541,0,initial,great white shark,0.366832
+ln_1,541,0,initial,acorn,0.187106
+ln_1,541,0,initial,totem pole,0.067524
+ln_1,541,0,initial,spatula,0.045149
+ln_1,541,0,initial,ladybug,-0.102788
+ln_1,541,0,initial,reel,-0.127602
+ln_1,541,1,iteration,curved horn burger,0.459931
+ln_1,541,2,iteration,horned,0.097506
+ln_1,541,3,iteration,horns,0.085040
+ln_1,541,4,iteration,horned animal,0.026168
+ln_1,541,5,iteration,curved protrusion,-0.016573
+ln_1,541,6,iteration,horns feature,0.042289
+ln_1,541,7,iteration,bighorned,0.464558
+ln_1,541,8,iteration,(ignore this),-0.023556
+ln_1,541,9,iteration,ram burger,0.436800
+ln_1,541,10,iteration,bighorned ram,0.636814
+ln_1,541,11,summary,specific sheep,0.552002
+ln_1,543,0,initial,american alligator,0.191784
+ln_1,543,0,initial,african crocodile,0.170979
+ln_1,543,0,initial,cicada,0.143298
+ln_1,543,0,initial,ostrich,0.117549
+ln_1,543,0,initial,leonberg,0.049051
+ln_1,543,0,initial,dishrag,-0.034533
+ln_1,543,0,initial,goldfinch,-0.063756
+ln_1,543,0,initial,geyser,-0.083434
+ln_1,543,0,initial,printer,-0.093634
+ln_1,543,0,initial,german short-haired pointer,-0.145774
+ln_1,543,1,iteration,snout,-0.088322
+ln_1,543,2,iteration,reptile,-0.032603
+ln_1,543,3,iteration,jaws,-0.214532
+ln_1,543,4,iteration,long snout animal,-0.134606
+ln_1,543,5,iteration,large crocodile,0.187028
+ln_1,543,6,iteration,power jaws,-0.160493
+ln_1,543,7,iteration,pointed snout,-0.109867
+ln_1,543,8,iteration,aquatic creature,-0.105454
+ln_1,543,9,iteration,long snout reptile,-0.007919
+ln_1,543,10,iteration,alligator-like,0.069837
+ln_1,543,11,summary,large reptile,0.035162
+ln_1,546,0,initial,oscilloscope,0.898079
+ln_1,546,0,initial,geyser,0.799232
+ln_1,546,0,initial,reflex camera,0.484249
+ln_1,546,0,initial,trolleybus,0.447715
+ln_1,546,0,initial,bee,0.373979
+ln_1,546,0,initial,labrador retriever,0.301413
+ln_1,546,0,initial,hartebeest,0.213083
+ln_1,546,0,initial,banjo,0.053512
+ln_1,546,0,initial,sea snake,0.049196
+ln_1,546,0,initial,christmas stocking,-0.360336
+ln_1,546,1,iteration,display,-0.221801
+ln_1,546,2,iteration,eruption,0.282369
+ln_1,546,3,iteration,pattern,-0.262288
+ln_1,546,4,iteration,explosion,0.367780
+ln_1,546,5,iteration,burst,0.411703
+ln_1,546,6,iteration,energy display,-0.007028
+ln_1,546,7,iteration,flash moment,-0.057587
+ln_1,546,8,iteration,flash,0.041779
+ln_1,546,9,iteration,sudden release,0.024319
+ln_1,546,10,iteration,outburst,0.023032
+ln_1,546,11,summary,wave pattern,0.017178
+ln_1,558,0,initial,dragonfly,0.623615
+ln_1,558,0,initial,water tower,0.552116
+ln_1,558,0,initial,tiger beetle,0.541246
+ln_1,558,0,initial,black swan,0.489190
+ln_1,558,0,initial,cowboy boot,0.453510
+ln_1,558,0,initial,leonberg,0.219737
+ln_1,558,0,initial,binoculars,0.104487
+ln_1,558,0,initial,dandie dinmont,0.054282
+ln_1,558,0,initial,steel arch bridge,-0.000081
+ln_1,558,0,initial,jellyfish,-0.365455
+ln_1,558,1,iteration,dragonfly,0.623615
+ln_1,558,2,iteration,pointed shape,0.126380
+ln_1,558,3,iteration,pointed body,0.170524
+ln_1,558,4,iteration,needle,0.054135
+ln_1,558,5,iteration,narrow shape,-0.011005
+ln_1,558,6,iteration,elongated body,0.079036
+ln_1,558,7,iteration,long point,-0.033075
+ln_1,558,8,iteration,beak,0.054367
+ln_1,558,9,iteration,slender body,-0.000047
+ln_1,558,10,iteration,pointed tip,-0.197222
+ln_1,558,11,summary,insect,-0.069384
+ln_1,572,0,initial,brown bear,0.350918
+ln_1,572,0,initial,harvestman,0.246226
+ln_1,572,0,initial,centipede,0.231616
+ln_1,572,0,initial,orangutan,0.208291
+ln_1,572,0,initial,gyromitra,0.095658
+ln_1,572,0,initial,hourglass,0.064810
+ln_1,572,0,initial,cicada,0.003736
+ln_1,572,0,initial,german shepherd,-0.201292
+ln_1,572,0,initial,european gallinule,-0.269414
+ln_1,572,0,initial,organ,-0.542334
+ln_1,572,1,iteration,multi-legged,-0.366584
+ln_1,572,2,iteration,many-legged animal,0.135517
+ln_1,572,3,iteration,arachnid,0.144061
+ln_1,572,4,iteration,eight-legged,-0.133793
+ln_1,572,5,iteration,many-legged creature,-0.031623
+ln_1,572,6,iteration,multi-segmented,-0.398000
+ln_1,572,7,iteration,polyiped,-0.477323
+ln_1,572,8,iteration,segmented body,-0.282255
+ln_1,572,9,iteration,large body,-0.242276
+ln_1,572,10,iteration,multi-limbed,-0.411816
+ln_1,572,11,summary,arthropod,-0.017623
+ln_1,576,0,initial,zebra,0.533825
+ln_1,576,0,initial,garbage truck,0.481720
+ln_1,576,0,initial,ruddy turnstone,0.449079
+ln_1,576,0,initial,ruffed grouse,0.387933
+ln_1,576,0,initial,weevil,0.366253
+ln_1,576,0,initial,komodo dragon,0.357609
+ln_1,576,0,initial,moped,0.177971
+ln_1,576,0,initial,dishrag,0.082564
+ln_1,576,0,initial,pay-phone,-0.201433
+ln_1,576,0,initial,stingray,-0.221325
+ln_1,576,1,iteration,zebra stripes,0.473991
+ln_1,576,2,iteration,black and white,0.079281
+ln_1,576,3,iteration,black and white,0.079281
+ln_1,576,4,iteration,stripes,0.188190
+ln_1,576,5,iteration,multicolor,0.113332
+ln_1,576,6,iteration,checkered,0.009768
+ln_1,576,7,iteration,zebra pattern,0.195974
+ln_1,576,8,iteration,pattern,0.058220
+ln_1,576,9,iteration,black and white animal,0.491282
+ln_1,576,10,iteration,BW design,0.157097
+ln_1,576,11,summary,striped pattern,0.010827
+ln_1,578,0,initial,kimono,0.827535
+ln_1,578,0,initial,jack-o'-lantern,0.777832
+ln_1,578,0,initial,macaque,0.582606
+ln_1,578,0,initial,schipperke,0.323373
+ln_1,578,0,initial,ballplayer,0.302367
+ln_1,578,0,initial,nematode,0.103678
+ln_1,578,0,initial,mashed potato,0.027685
+ln_1,578,0,initial,ptarmigan,-0.055126
+ln_1,578,0,initial,frilled lizard,-0.122236
+ln_1,578,0,initial,carbonara,-0.123805
+ln_1,578,1,iteration,japanesestyle,0.514894
+ln_1,578,2,iteration,oriental,0.242144
+ln_1,578,3,iteration,japanese,0.066723
+ln_1,578,4,iteration,oriental lantern,0.613953
+ln_1,578,5,iteration,lantern,-0.061941
+ln_1,578,6,iteration,round door,0.388401
+ln_1,578,7,iteration,paper lantern,0.231266
+ln_1,578,8,iteration,oriental round,0.084263
+ln_1,578,9,iteration,oriental decor,0.446057
+ln_1,578,10,iteration,ornament,0.233604
+ln_1,578,11,summary,traditional lantern,0.262156
+ln_1,581,0,initial,badger,0.278048
+ln_1,581,0,initial,hummingbird,0.247339
+ln_1,581,0,initial,rugby ball,0.160955
+ln_1,581,0,initial,newfoundland,0.143248
+ln_1,581,0,initial,school bus,0.136708
+ln_1,581,0,initial,axolotl,0.025046
+ln_1,581,0,initial,indigo bunting,0.014864
+ln_1,581,0,initial,pay-phone,0.012653
+ln_1,581,0,initial,hornbill,-0.216857
+ln_1,581,0,initial,cab,-0.245602
+ln_1,581,1,iteration,rugby,0.069907
+ln_1,581,2,iteration,colorful animal,-0.058812
+ln_1,581,3,iteration,thick fur,0.013859
+ln_1,581,4,iteration,striped animal,-0.162945
+ln_1,581,5,iteration,large mammal,-0.138339
+ln_1,581,6,iteration,patterned animal,-0.111724
+ln_1,581,7,iteration,distinctive markings,-0.090348
+ln_1,581,8,iteration,patterned animal,-0.111724
+ln_1,581,9,iteration,coated animal,0.086400
+ln_1,581,10,iteration,distinctive markings,-0.090348
+ln_1,581,11,summary,animal,-0.033341
+ln_1,584,0,initial,four-poster,0.441936
+ln_1,584,0,initial,potter's wheel,0.411043
+ln_1,584,0,initial,acorn,0.315997
+ln_1,584,0,initial,bustard,0.201351
+ln_1,584,0,initial,mouse,0.198924
+ln_1,584,0,initial,whiptail,0.166420
+ln_1,584,0,initial,rotisserie,0.131939
+ln_1,584,0,initial,boston bull,-0.117664
+ln_1,584,0,initial,rugby ball,-0.159861
+ln_1,584,0,initial,rock python,-0.338843
+ln_1,584,1,iteration,workshop,0.019399
+ln_1,584,2,iteration,round object,-0.279862
+ln_1,584,3,iteration,rounded base,-0.102291
+ln_1,584,4,iteration,rounded base,-0.102291
+ln_1,584,5,iteration,rounded furniture,0.029246
+ln_1,584,6,iteration,rounded tool,-0.451707
+ln_1,584,7,iteration,rounded furniture,0.029246
+ln_1,584,8,iteration,rounded furniture,0.029246
+ln_1,584,9,iteration,rounded shape,-0.189656
+ln_1,584,10,iteration,rounded top,-0.196157
+ln_1,584,11,summary,furniture with legs,0.102064
+ln_1,588,0,initial,gibbon,0.531955
+ln_1,588,0,initial,dome,0.518008
+ln_1,588,0,initial,samoyed,0.459434
+ln_1,588,0,initial,drilling platform,0.268961
+ln_1,588,0,initial,langur,0.245431
+ln_1,588,0,initial,polecat,0.148857
+ln_1,588,0,initial,bagel,0.134081
+ln_1,588,0,initial,earthstar,0.114777
+ln_1,588,0,initial,porcupine,0.021477
+ln_1,588,0,initial,medicine chest,-0.073899
+ln_1,588,1,iteration,bagel,0.134081
+ln_1,588,2,iteration,domehead,0.200031
+ln_1,588,3,iteration,primate skull,-0.232499
+ln_1,588,4,iteration,rounded surface,0.020175
+ln_1,588,5,iteration,dome shape,0.328140
+ln_1,588,6,iteration,primate head,0.168854
+ln_1,588,7,iteration,primate head shape,0.159829
+ln_1,588,8,iteration,(ignore this),-0.055476
+ln_1,588,9,iteration,rounded shape,-0.045025
+ln_1,588,10,iteration,rounded animal head,0.078457
+ln_1,588,11,summary,mammal,-0.064468
+ln_1,605,0,initial,samoyed,0.801938
+ln_1,605,0,initial,bee eater,0.646905
+ln_1,605,0,initial,odometer,0.625275
+ln_1,605,0,initial,trimaran,0.600230
+ln_1,605,0,initial,barracouta,0.353686
+ln_1,605,0,initial,eel,0.334061
+ln_1,605,0,initial,freight car,0.238294
+ln_1,605,0,initial,red-breasted merganser,0.078016
+ln_1,605,0,initial,stinkhorn,-0.131153
+ln_1,605,0,initial,quilt,-0.512067
+ln_1,605,1,iteration,speedometer,0.768018
+ln_1,605,2,iteration,gauge,0.426546
+ln_1,605,3,iteration,dog sled,-0.151218
+ln_1,605,4,iteration,speed indicator,0.595251
+ln_1,605,5,iteration,speedometer,0.768018
+ln_1,605,6,iteration,speed tracker,0.185151
+ln_1,605,7,iteration,speedometer,0.768018
+ln_1,605,8,iteration,speed,0.155994
+ln_1,605,9,iteration,speed gauge,0.397183
+ln_1,605,10,iteration,multiunit,-0.020728
+ln_1,605,11,summary,animal,0.284609
+ln_1,611,0,initial,traffic light,0.797987
+ln_1,611,0,initial,lion,0.726009
+ln_1,611,0,initial,fox squirrel,0.669665
+ln_1,611,0,initial,hummingbird,0.657135
+ln_1,611,0,initial,barracouta,0.124576
+ln_1,611,0,initial,sliding door,0.120519
+ln_1,611,0,initial,soccer ball,0.022169
+ln_1,611,0,initial,brittany spaniel,0.003718
+ln_1,611,0,initial,leafhopper,-0.024959
+ln_1,611,0,initial,go-kart,-0.328521
+ln_1,611,1,iteration,traffic light,0.797987
+ln_1,611,2,iteration,orange,-0.090753
+ln_1,611,3,iteration,color pattern,0.093574
+ln_1,611,4,iteration,color pattern,0.093574
+ln_1,611,5,iteration,wildlife,0.068809
+ln_1,611,6,iteration,signal,0.444956
+ln_1,611,7,iteration,patterned,0.181869
+ln_1,611,8,iteration,wild,-0.066197
+ln_1,611,9,iteration,striped animal,0.295889
+ln_1,611,10,iteration,colorful animal,0.167744
+ln_1,611,11,summary,distinct colors,0.092319
+ln_1,624,0,initial,albatross,0.327217
+ln_1,624,0,initial,monarch,0.312304
+ln_1,624,0,initial,junco,0.300009
+ln_1,624,0,initial,black swan,0.238340
+ln_1,624,0,initial,jack-o'-lantern,0.220305
+ln_1,624,0,initial,nail,0.144726
+ln_1,624,0,initial,rock beauty,0.120253
+ln_1,624,0,initial,bloodhound,0.048049
+ln_1,624,0,initial,walking stick,0.015148
+ln_1,624,0,initial,beer bottle,0.008046
+ln_1,624,1,iteration,waterbird,0.046252
+ln_1,624,2,iteration,feathered,0.118709
+ln_1,624,3,iteration,black bird,0.170497
+ln_1,624,4,iteration,black bird type,0.163735
+ln_1,624,5,iteration,dark bird,0.184334
+ln_1,624,6,iteration,black swan,0.238340
+ln_1,624,7,iteration,all black bird,0.163929
+ln_1,624,8,iteration,beak,0.131858
+ln_1,624,9,iteration,raven,0.151272
+ln_1,624,10,iteration,dark bird type,0.195625
+ln_1,624,11,summary,bird,0.178589
+ln_1,626,0,initial,black widow,0.971144
+ln_1,626,0,initial,rhinoceros beetle,0.919694
+ln_1,626,0,initial,cabbage butterfly,0.813057
+ln_1,626,0,initial,agaric,0.798853
+ln_1,626,0,initial,ibex,0.343593
+ln_1,626,0,initial,horizontal bar,0.252414
+ln_1,626,0,initial,tench,0.181915
+ln_1,626,0,initial,boa constrictor,0.139988
+ln_1,626,0,initial,arabian camel,0.112886
+ln_1,626,0,initial,window screen,-0.216948
+ln_1,626,1,iteration,insect,0.352612
+ln_1,626,2,iteration,black and white,0.173397
+ln_1,626,3,iteration,black beetle,0.560919
+ln_1,626,4,iteration,black beetle shape,0.658109
+ln_1,626,5,iteration,black beetle type,0.525175
+ln_1,626,6,iteration,black body,-0.091034
+ln_1,626,7,iteration,black,0.048140
+ln_1,626,8,iteration,black widow beetle,0.656306
+ln_1,626,9,iteration,black widow,0.971144
+ln_1,626,10,iteration,hourglass bug,-0.003808
+ln_1,626,11,summary,black insect,0.367820
+ln_1,630,0,initial,black and gold garden spider,0.494260
+ln_1,630,0,initial,wreck,0.423762
+ln_1,630,0,initial,water buffalo,0.406645
+ln_1,630,0,initial,harmonica,0.394844
+ln_1,630,0,initial,acorn,0.348800
+ln_1,630,0,initial,dowitcher,0.322223
+ln_1,630,0,initial,wool,0.270996
+ln_1,630,0,initial,agaric,-0.057988
+ln_1,630,0,initial,manhole cover,-0.088220
+ln_1,630,0,initial,assault rifle,-0.439806
+ln_1,630,1,iteration,striped animal,0.360509
+ln_1,630,2,iteration,black gold pattern,-0.216400
+ln_1,630,3,iteration,black gold,-0.128040
+ln_1,630,4,iteration,black gold patterned,-0.009299
+ln_1,630,5,iteration,gold accents,0.128266
+ln_1,630,6,iteration,black and gold,-0.052415
+ln_1,630,7,iteration,gold leaf,0.005659
+ln_1,630,8,iteration,black gold patterned,-0.009299
+ln_1,630,9,iteration,black gold decor,-0.021354
+ln_1,630,10,iteration,black gold ornament,-0.225539
+ln_1,630,11,summary,animal,0.024111
+ln_1,639,0,initial,pedestal,1.084248
+ln_1,639,0,initial,gown,0.735049
+ln_1,639,0,initial,stupa,0.605949
+ln_1,639,0,initial,oystercatcher,0.577992
+ln_1,639,0,initial,nipple,0.502676
+ln_1,639,0,initial,thatch,0.468355
+ln_1,639,0,initial,admiral,0.372207
+ln_1,639,0,initial,coral fungus,0.336335
+ln_1,639,0,initial,screwdriver,0.136464
+ln_1,639,0,initial,tarantula,-0.166359
+ln_1,639,1,iteration,base,0.184648
+ln_1,639,2,iteration,column,0.499157
+ln_1,639,3,iteration,vertical axis,0.137280
+ln_1,639,4,iteration,pillar,0.325758
+ln_1,639,5,iteration,elevation,0.389426
+ln_1,639,6,iteration,elevated structure,0.013865
+ln_1,639,7,iteration,upright,0.237235
+ln_1,639,8,iteration,tall structure,0.188167
+ln_1,639,9,iteration,raised structure,0.223222
+ln_1,639,10,iteration,vertical form,0.112616
+ln_1,639,11,summary,raised base,0.248849
+ln_1,640,0,initial,killer whale,0.834530
+ln_1,640,0,initial,fig,0.637160
+ln_1,640,0,initial,persian cat,0.614363
+ln_1,640,0,initial,miniature schnauzer,0.398067
+ln_1,640,0,initial,admiral,0.314475
+ln_1,640,0,initial,nail,0.305321
+ln_1,640,0,initial,cockroach,0.230374
+ln_1,640,0,initial,polaroid camera,0.126851
+ln_1,640,0,initial,purse,-0.239677
+ln_1,640,0,initial,moped,-0.331316
+ln_1,640,1,iteration,pet,-0.091403
+ln_1,640,2,iteration,mammal,-0.102069
+ln_1,640,3,iteration,house pet,0.089273
+ln_1,640,4,iteration,domesticated animal,0.224123
+ln_1,640,5,iteration,high rank,-0.119211
+ln_1,640,6,iteration,giant creature,-0.356777
+ln_1,640,7,iteration,distinctive animal,-0.177696
+ln_1,640,8,iteration,large animal,-0.304457
+ln_1,640,9,iteration,marine animal,0.031672
+ln_1,640,10,iteration,exotic,-0.160240
+ln_1,640,11,summary,mammal,-0.102069
+ln_1,641,0,initial,chesapeake bay retriever,0.975929
+ln_1,641,0,initial,meerkat,0.863799
+ln_1,641,0,initial,go-kart,0.649374
+ln_1,641,0,initial,ski,0.586351
+ln_1,641,0,initial,convertible,0.511380
+ln_1,641,0,initial,grocery store,0.207708
+ln_1,641,0,initial,handkerchief,0.190364
+ln_1,641,0,initial,chimpanzee,0.145139
+ln_1,641,0,initial,street sign,0.037157
+ln_1,641,0,initial,arctic fox,-0.281015
+ln_1,641,1,iteration,furry mammal,0.192094
+ln_1,641,2,iteration,coated animal,-0.014443
+ln_1,641,3,iteration,water dog,0.603425
+ln_1,641,4,iteration,dog cart,-0.292885
+ln_1,641,5,iteration,canine,0.249646
+ln_1,641,6,iteration,water dog breed,0.608536
+ln_1,641,7,iteration,water dog type,0.588413
+ln_1,641,8,iteration,waterproof coat,0.242840
+ln_1,641,9,iteration,water breed,0.223062
+ln_1,641,10,iteration,water doghouse,-0.281991
+ln_1,641,11,summary,furriness,0.050320
+ln_1,663,0,initial,leonberg,0.360864
+ln_1,663,0,initial,white wolf,0.318563
+ln_1,663,0,initial,lesser panda,0.314679
+ln_1,663,0,initial,goldfish,0.308949
+ln_1,663,0,initial,jack-o'-lantern,0.285776
+ln_1,663,0,initial,lhasa,0.145267
+ln_1,663,0,initial,jigsaw puzzle,0.072303
+ln_1,663,0,initial,hook,0.057732
+ln_1,663,0,initial,snowmobile,0.051660
+ln_1,663,0,initial,artichoke,-0.096754
+ln_1,663,1,iteration,breed animal,0.133741
+ln_1,663,2,iteration,purebred,-0.031917
+ln_1,663,3,iteration,specific dog,0.009103
+ln_1,663,4,iteration,domesticated animal,0.076619
+ln_1,663,5,iteration,canine,0.043955
+ln_1,663,6,iteration,named dog,0.024223
+ln_1,663,7,iteration,coated animal,0.029052
+ln_1,663,8,iteration,white dog,0.061357
+ln_1,663,9,iteration,dog breed,0.020809
+ln_1,663,10,iteration,leopard,0.038001
+ln_1,663,11,summary,dog breed,0.020809
+ln_1,665,0,initial,orange,0.780177
+ln_1,665,0,initial,indian cobra,0.687422
+ln_1,665,0,initial,starfish,0.665914
+ln_1,665,0,initial,marmot,0.566081
+ln_1,665,0,initial,sea urchin,0.499096
+ln_1,665,0,initial,doormat,0.427751
+ln_1,665,0,initial,digital clock,0.335011
+ln_1,665,0,initial,sea slug,0.280382
+ln_1,665,0,initial,ant,0.127390
+ln_1,665,0,initial,piggy bank,-0.284795
+ln_1,665,1,iteration,multi part,-0.030758
+ln_1,665,2,iteration,round body,-0.043601
+ln_1,665,3,iteration,spikes,0.496811
+ln_1,665,4,iteration,armor plate,0.110727
+ln_1,665,5,iteration,protective shell,0.156952
+ln_1,665,6,iteration,shielded creature,0.198578
+ln_1,665,7,iteration,hard outer layer,0.093722
+ln_1,665,8,iteration,bony plate,0.048268
+ln_1,665,9,iteration,round shield,0.074005
+ln_1,665,10,iteration,armored creature,0.043239
+ln_1,665,11,summary,round shape,0.124617
+ln_1,672,0,initial,monarch,0.647602
+ln_1,672,0,initial,ringlet,0.517771
+ln_1,672,0,initial,mexican hairless,0.466329
+ln_1,672,0,initial,borzoi,0.310831
+ln_1,672,0,initial,hippopotamus,0.182885
+ln_1,672,0,initial,mashed potato,-0.004339
+ln_1,672,0,initial,hartebeest,-0.048669
+ln_1,672,0,initial,volleyball,-0.146127
+ln_1,672,0,initial,earthstar,-0.212428
+ln_1,672,0,initial,radio telescope,-0.547160
+ln_1,672,1,iteration,curved wing,0.122078
+ln_1,672,2,iteration,irregular shape,0.005843
+ln_1,672,3,iteration,butterfly wing,0.372950
+ln_1,672,4,iteration,winged creature,-0.202872
+ln_1,672,5,iteration,delicate structure,-0.307351
+ln_1,672,6,iteration,scale pattern,0.175211
+ln_1,672,7,iteration,butterfly type,0.258077
+ln_1,672,8,iteration,ring pattern,0.105584
+ln_1,672,9,iteration,ringlet pattern,0.006251
+ln_1,672,10,iteration,ringlet pattern,0.006251
+ln_1,672,11,summary,butterfly,0.214573
+ln_1,685,0,initial,spoonbill,0.663417
+ln_1,685,0,initial,irish water spaniel,0.637091
+ln_1,685,0,initial,european fire salamander,0.425740
+ln_1,685,0,initial,bell pepper,0.407329
+ln_1,685,0,initial,clumber,0.188622
+ln_1,685,0,initial,unicycle,0.142798
+ln_1,685,0,initial,pomegranate,0.119034
+ln_1,685,0,initial,radiator,0.068272
+ln_1,685,0,initial,teapot,0.001124
+ln_1,685,0,initial,lakeland terrier,-0.103965
+ln_1,685,1,iteration,curved bill,0.304294
+ln_1,685,2,iteration,flat bill,0.118376
+ln_1,685,3,iteration,spoon bill shape,-0.073980
+ln_1,685,4,iteration,water bird,0.433414
+ln_1,685,5,iteration,bill shape,0.068921
+ln_1,685,6,iteration,spoonbill,0.663417
+ln_1,685,7,iteration,beak shape,0.381900
+ln_1,685,8,iteration,elongated beak,0.373384
+ln_1,685,9,iteration,long bill,0.225175
+ln_1,685,10,iteration,pointed bill,0.204186
+ln_1,685,11,summary,water bird type,0.430747
+ln_1,693,0,initial,go-kart,0.599534
+ln_1,693,0,initial,brambling,0.590306
+ln_1,693,0,initial,house finch,0.491767
+ln_1,693,0,initial,red-backed sandpiper,0.448313
+ln_1,693,0,initial,angora,0.411429
+ln_1,693,0,initial,plow,0.354245
+ln_1,693,0,initial,entertainment center,0.290822
+ln_1,693,0,initial,beach wagon,0.283167
+ln_1,693,0,initial,chain mail,0.103461
+ln_1,693,0,initial,green snake,-0.179549
+ln_1,693,1,iteration,speedster,-0.010498
+ln_1,693,2,iteration,mini vehicle,-0.093124
+ln_1,693,3,iteration,small creature,0.042330
+ln_1,693,4,iteration,bird type,0.319966
+ln_1,693,5,iteration,fast mover,-0.044200
+ln_1,693,6,iteration,miniature,0.166209
+ln_1,693,7,iteration,miniature vehicle,-0.063385
+ln_1,693,8,iteration,flying speed,0.061598
+ln_1,693,9,iteration,"speedster (replaced with) fast mover is forbidden, so I'll choose a related concept: speedy",-0.100919
+ln_1,693,10,iteration,speedy bird,0.196994
+ln_1,693,11,summary,wheels,0.147296
+ln_1,697,0,initial,bulbul,0.878679
+ln_1,697,0,initial,trailer truck,0.794821
+ln_1,697,0,initial,chickadee,0.750092
+ln_1,697,0,initial,lhasa,0.592767
+ln_1,697,0,initial,eft,0.383869
+ln_1,697,0,initial,sliding door,0.359942
+ln_1,697,0,initial,teddy,0.000102
+ln_1,697,0,initial,greenhouse,-0.020537
+ln_1,697,0,initial,earthstar,-0.114683
+ln_1,697,0,initial,triumphal arch,-0.447099
+ln_1,697,1,iteration,rounded shape,-0.014803
+ln_1,697,2,iteration,flying creature,0.104768
+ln_1,697,3,iteration,bird truck,0.698748
+ln_1,697,4,iteration,bird vehicle,0.250013
+ln_1,697,5,iteration,small vehicle,0.335626
+ln_1,697,6,iteration,bird trailer,0.211686
+ln_1,697,7,iteration,birdmobile,0.031686
+ln_1,697,8,iteration,small bird,0.287465
+ln_1,697,9,iteration,bulbulidae,0.101882
+ln_1,697,10,iteration,bird buggy,-0.070091
+ln_1,697,11,summary,bird,0.141358
+ln_1,704,0,initial,cello,0.649553
+ln_1,704,0,initial,coyote,0.567685
+ln_1,704,0,initial,poncho,0.510687
+ln_1,704,0,initial,soccer ball,0.496465
+ln_1,704,0,initial,yellow lady's slipper,0.335373
+ln_1,704,0,initial,shovel,0.169881
+ln_1,704,0,initial,hair slide,0.121787
+ln_1,704,0,initial,shetland sheepdog,0.094430
+ln_1,704,0,initial,vending machine,-0.375838
+ln_1,704,0,initial,great dane,-0.459990
+ln_1,704,1,iteration,outdoor instrument,0.595545
+ln_1,704,2,iteration,weather gear,0.139902
+ln_1,704,3,iteration,outdoor music,0.417021
+ln_1,704,4,iteration,accessory,-0.027293
+ln_1,704,5,iteration,music gear,0.120005
+ln_1,704,6,iteration,outdoor activity,-0.079837
+ln_1,704,7,iteration,outdoor performance,-0.223175
+ln_1,704,8,iteration,holder,-0.179422
+ln_1,704,9,iteration,musical ballad,0.031310
+ln_1,704,10,iteration,portable stage,-0.164676
+ln_1,704,11,summary,stringed instrument,0.618524
+ln_1,708,0,initial,hippopotamus,0.303582
+ln_1,708,0,initial,goldfinch,0.294427
+ln_1,708,0,initial,monarch,0.289378
+ln_1,708,0,initial,motor scooter,0.176104
+ln_1,708,0,initial,echidna,0.161558
+ln_1,708,0,initial,envelope,0.131655
+ln_1,708,0,initial,garter snake,0.098527
+ln_1,708,0,initial,carousel,0.090947
+ln_1,708,0,initial,earthstar,0.089994
+ln_1,708,0,initial,american coot,0.041178
+ln_1,708,1,iteration,waterlife,0.048955
+ln_1,708,2,iteration,bright plumage,0.035238
+ln_1,708,3,iteration,colorful animal,0.106707
+ln_1,708,4,iteration,exotic bird,-0.056443
+ln_1,708,5,iteration,splash of color,0.150075
+ln_1,708,6,iteration,birdlife,-0.001996
+ln_1,708,7,iteration,bright animal,0.034989
+ln_1,708,8,iteration,vibrant animal,0.062679
+ln_1,708,9,iteration,plumage,0.035520
+ln_1,708,10,iteration,vibrant animal,0.062679
+ln_1,708,11,summary,bird,0.047218
+ln_1,739,0,initial,peacock,0.735572
+ln_1,739,0,initial,rapeseed,0.733404
+ln_1,739,0,initial,little blue heron,0.669653
+ln_1,739,0,initial,bee,0.613968
+ln_1,739,0,initial,apiary,0.459952
+ln_1,739,0,initial,slot,-0.026744
+ln_1,739,0,initial,great pyrenees,-0.161102
+ln_1,739,0,initial,admiral,-0.205385
+ln_1,739,0,initial,staffordshire bullterrier,-0.205827
+ln_1,739,0,initial,liner,-0.293284
+ln_1,739,1,iteration,long neck bird,-0.151265
+ln_1,739,2,iteration,birdhouse,0.168809
+ln_1,739,3,iteration,feathered creature,-0.262896
+ln_1,739,4,iteration,long neck,-0.020470
+ln_1,739,5,iteration,bird,-0.084699
+ln_1,739,6,iteration,plumage display,-0.082214
+ln_1,739,7,iteration,colorful,-0.014414
+ln_1,739,8,iteration,display bird,-0.185114
+ln_1,739,9,iteration,rainbow bird,-0.110269
+ln_1,739,10,iteration,ir,0.078990
+ln_1,739,11,summary,bright plumage,0.114010
+ln_1,747,0,initial,hamster,0.325244
+ln_1,747,0,initial,barn spider,0.319624
+ln_1,747,0,initial,siamang,0.272783
+ln_1,747,0,initial,safe,0.139331
+ln_1,747,0,initial,boxer,-0.056049
+ln_1,747,0,initial,black widow,-0.063240
+ln_1,747,0,initial,cowboy hat,-0.169755
+ln_1,747,0,initial,ant,-0.204968
+ln_1,747,0,initial,steam locomotive,-0.216820
+ln_1,747,0,initial,gyromitra,-0.262577
+ln_1,747,1,iteration,enclosure,0.053583
+ln_1,747,2,iteration,cage animal,0.347213
+ln_1,747,3,iteration,container,0.149945
+ln_1,747,4,iteration,habitat,-0.124270
+ln_1,747,5,iteration,barred space,0.274763
+ln_1,747,6,iteration,prison,0.146430
+ln_1,747,7,iteration,bar,0.570692
+ln_1,747,8,iteration,barred,0.164544
+ln_1,747,9,iteration,grid,0.264462
+ln_1,747,10,iteration,penitentiary,0.235861
+ln_1,747,11,summary,animal enclosure,0.093500

@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+avgpool,20,circular building,0.443283,-0.153979,-0.0001
+avgpool,28,weight bar,0.755121,0.837577,0.0007
+avgpool,31,tiger shark,0.943466,2.889816,0.0371
+avgpool,36,multi-hull,0.967696,3.539015,0.0021
+avgpool,39,pizza,0.898437,1.578958,0.0498
+avgpool,41,butcher shop,0.999818,15.085146,0.1383
+avgpool,48,spider web,0.986548,3.962541,-0.0061
+avgpool,55,cliff dwelling,0.994053,4.832349,0.0223
+avgpool,63,two-piece swimsuit,0.451302,0.910093,0.0411
+avgpool,71,venetian gondola,0.963455,3.544553,0.0158
+avgpool,72,waterfowl sound,0.998382,7.831297,0.1007
+avgpool,74,monastery,0.980293,3.597359,0.0717
+avgpool,79,supermarket,0.974751,3.211651,0.0831
+avgpool,84,triangle sail,0.975192,4.524473,0.0366
+avgpool,90,carousel,0.997485,7.940320,0.1342
+avgpool,91,rabbit,0.913036,2.614857,0.0190
+avgpool,100,facial accessory,0.986184,3.619988,0.0445
+avgpool,111,fire engine,0.981957,3.767332,0.0653
+avgpool,121,park bench,0.916869,2.000968,0.0441
+avgpool,124,beer glass,0.871215,2.020747,0.0499
+avgpool,146,shoe shop,0.997708,5.698873,0.0554
+avgpool,155,aquatic ecosystem,0.985437,3.737069,0.0656
+avgpool,156,potter's wheel,0.826139,1.966364,0.0048
+avgpool,160,ballplayer,0.925210,2.636667,0.1521
+avgpool,161,grocery store,0.981704,4.707048,0.1252
+avgpool,169,greenhouse,0.994625,4.649692,0.1004
+avgpool,174,headgear,0.787668,0.841124,-0.0077
+avgpool,176,castle,0.988359,4.207865,0.0315
+avgpool,177,striped fur,0.789731,0.991740,0.0153
+avgpool,180,pot,0.542052,0.852730,0.0379
+avgpool,182,horse cart,0.945729,2.811815,0.0829
+avgpool,194,carousel,0.999821,10.929427,0.2192
+avgpool,195,barn,0.978038,3.941827,0.0449
+avgpool,196,boathouse,0.981985,4.806727,0.0667
+avgpool,199,promontory,0.908308,1.950737,-0.0014
+avgpool,204,natural environment,0.900137,1.849186,0.0933
+avgpool,215,entertainment center,0.770871,0.976541,0.0369
+avgpool,216,wig,0.998969,6.883283,0.0288
+avgpool,217,bullet train,0.990779,5.179291,0.0003
+avgpool,218,warplane,0.985579,4.170717,0.1479
+avgpool,220,carousel,0.996058,5.694872,0.1529
+avgpool,222,barn,0.981362,3.978957,0.0416
+avgpool,224,monitor,0.925796,2.261931,0.0089
+avgpool,226,desert dweller,0.985148,4.219484,0.0098
+avgpool,232,water tower,0.954612,3.015701,0.0963
+avgpool,240,aquatic bird,0.883953,1.648236,0.0308
+avgpool,247,workstation,0.983047,3.989931,0.1313
+avgpool,256,trolleybus,0.990187,4.758998,0.0214
+avgpool,271,ocean life,0.995684,6.075268,0.0351
+avgpool,277,echidna,0.973620,3.384344,-0.0078
+avgpool,282,streetcar,0.990784,4.342907,0.0109
+avgpool,285,studio couch,0.952073,2.742629,0.0014
+avgpool,292,library,0.993775,5.408001,0.1141
+avgpool,306,stone wall,0.956319,2.840679,0.1506
+avgpool,312,picket fence,0.749986,1.197394,0.0434
+avgpool,318,lab coat,0.869032,1.704136,0.0084
+avgpool,320,pointed monument,0.981815,4.557965,0.0280
+avgpool,322,ambulance,0.941797,2.538374,0.0137
+avgpool,324,neck protection device,0.512278,0.151140,0.0503
+avgpool,325,entertainment center,0.950991,2.681212,0.0491
+avgpool,329,camouflage use,0.113145,-0.778695,0.1094
+avgpool,334,boathouse,0.948059,2.673910,0.0348
+avgpool,336,marina,0.482540,0.306803,0.0704
+avgpool,341,drilling platform,0.983710,3.979326,0.0513
+avgpool,344,trolleybus,0.974226,2.980162,0.0397
+avgpool,348,upright form,0.843267,1.979296,-0.0009
+avgpool,350,secure space,0.981316,3.782600,0.0255
+avgpool,351,snow sport,0.914015,3.004203,0.0746
+avgpool,353,dining table,0.943423,2.490474,0.0612
+avgpool,358,gas pump,0.954703,3.622529,0.0443
+avgpool,359,oystercatcher,0.953135,3.469886,0.0309
+avgpool,361,shoe shop,0.976865,3.215746,0.0314
+avgpool,362,jellyfish,0.911313,2.499275,0.0479
+avgpool,372,tiger beetle,0.923437,2.057387,0.0039
+avgpool,384,sleeved garment,0.964539,2.802541,0.0677
+avgpool,385,trolleybus,0.997582,6.745661,0.0194
+avgpool,396,shoe shop,0.913676,1.918869,0.0657
+avgpool,404,thatched structure,0.924342,2.925404,0.0007
+avgpool,405,volcano,0.999685,11.204008,0.0813
+avgpool,410,winter sport,0.919259,2.637978,0.1357
+avgpool,413,mosque,0.971725,5.238889,0.0474
+avgpool,417,mashed potato,0.989636,4.139884,0.0587
+avgpool,418,studio couch,0.997105,6.070359,0.0526
+avgpool,425,photocopier,0.985509,3.827297,0.0775
+avgpool,433,beer glass,0.903923,2.004882,0.0443
+avgpool,436,barber chair,0.978295,3.354864,0.0399
+avgpool,444,car wheel,0.985539,4.009166,0.1560
+avgpool,455,tall structure,0.737198,1.007443,0.0520
+avgpool,460,heavy equipment,0.947941,2.898647,0.0815
+avgpool,463,ball sports,0.302991,-0.495170,0.0550
+avgpool,475,rock temple,0.997533,7.137483,0.0575
+avgpool,476,office space,0.997925,7.038998,0.1754
+avgpool,480,streetcar,0.931505,2.202333,0.0058
+avgpool,487,sea slug,0.933372,2.555493,0.0022
+avgpool,488,mosquito net,0.512533,0.041561,0.0378
+avgpool,494,balance weight,0.847072,1.233282,0.0177
+avgpool,495,grocery store,0.980140,3.449552,0.0340
+avgpool,496,cauliflower,0.997299,6.919310,-0.0024
+avgpool,500,drilling platform,0.986836,3.688180,0.0481
+avgpool,509,lock mechanism,0.854131,1.707787,0.0241

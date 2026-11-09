@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+avgpool,20,baby bed,0.869169,1.367520,0.0210
+avgpool,28,toiletry,0.805637,1.017369,0.0097
+avgpool,31,shark,0.936045,2.490876,0.0709
+avgpool,36,sailing vessel,0.974008,3.555779,0.1227
+avgpool,39,dish,0.810728,1.148745,0.0111
+avgpool,41,dish,0.745441,0.985053,0.0162
+avgpool,48,white goods,0.914385,2.168567,-0.0183
+avgpool,55,dwelling,0.237909,-0.646486,0.0084
+avgpool,63,swimsuit,0.502120,0.947682,0.0198
+avgpool,71,bus,0.645455,0.276938,-0.0264
+avgpool,72,shorebird,0.994112,6.508629,0.0559
+avgpool,74,place of worship,0.936955,2.278320,0.0193
+avgpool,79,fungus,0.826799,1.077804,0.0001
+avgpool,84,sailing vessel,0.973191,3.734516,0.0393
+avgpool,90,public transport,0.952430,2.509299,0.0914
+avgpool,91,antelope,0.894442,2.186954,0.0252
+avgpool,100,portable computer,0.896101,1.696572,0.0556
+avgpool,111,antelope,0.266099,-0.642133,0.0069
+avgpool,121,cart,0.724100,0.647608,-0.0357
+avgpool,124,condiment,0.733812,0.610256,-0.0019
+avgpool,146,necktie,0.343462,-0.315276,-0.0003
+avgpool,155,spiny-finned fish,0.905259,2.159368,0.0301
+avgpool,156,personal computer,0.898847,1.706150,0.0250
+avgpool,160,ball,0.542986,0.102573,0.0334
+avgpool,161,bus,0.597420,0.029291,-0.0138
+avgpool,169,roof,0.992207,4.795860,-0.0074
+avgpool,174,gymnastic apparatus,0.859734,1.266441,0.0556
+avgpool,176,place of worship,0.952581,2.411687,0.0261
+avgpool,177,shorebird,0.988505,4.007344,0.0480
+avgpool,180,butterfly,0.490803,-0.162606,-0.0164
+avgpool,182,cart,0.764860,0.913967,0.0283
+avgpool,194,brass,0.991816,6.280182,0.0003
+avgpool,195,gymnastic apparatus,0.905632,1.920495,0.0310
+avgpool,196,roof,0.502507,-0.028141,-0.0080
+avgpool,199,personal computer,0.812737,1.114391,0.0041
+avgpool,204,viper,0.817089,0.914271,-0.0365
+avgpool,215,personal computer,0.805818,1.281668,0.0098
+avgpool,216,toiletry,0.985190,4.090488,0.0467
+avgpool,217,car,0.744968,0.679466,-0.0141
+avgpool,218,aircraft,0.993855,5.474098,-0.0103
+avgpool,220,mercantile establishment,0.654866,0.185464,-0.0143
+avgpool,222,van,0.875938,1.479874,-0.0139
+avgpool,224,personal computer,0.913188,1.994229,0.0209
+avgpool,226,viper,0.917877,1.992676,-0.0081
+avgpool,232,place of worship,0.444487,-0.265747,-0.0002
+avgpool,240,anseriform bird,0.624355,0.182122,0.0330
+avgpool,247,personal computer,0.972106,4.222166,0.0764
+avgpool,256,bus,0.983525,4.539191,0.0011
+avgpool,271,spiny-finned fish,0.969083,4.145289,0.0820
+avgpool,277,big cat,0.970111,3.165009,-0.0052
+avgpool,282,bus,0.954724,3.679087,0.0367
+avgpool,285,spitz,0.704015,0.380324,-0.0317
+avgpool,292,spitz,0.699458,0.542138,-0.0020
+avgpool,306,fence,0.699194,0.560405,0.0190
+avgpool,312,box,0.890399,1.971292,-0.0173
+avgpool,318,white goods,0.972365,3.668463,0.0273
+avgpool,320,memorial,0.949428,3.494046,0.0059
+avgpool,322,van,0.845158,1.440272,-0.0314
+avgpool,324,swimsuit,0.534587,0.286332,0.0423
+avgpool,325,condiment,0.615424,0.224583,0.0025
+avgpool,329,tracked vehicle,0.992088,4.195011,0.0157
+avgpool,334,bridge,0.698337,0.466973,-0.0373
+avgpool,336,boat,0.915134,2.346013,0.0714
+avgpool,341,bus,0.860136,1.551366,-0.0002
+avgpool,344,bus,0.983971,3.831550,0.0195
+avgpool,348,bear,0.586538,0.081566,0.0213
+avgpool,350,white goods,0.744204,0.696490,0.0211
+avgpool,351,tracked vehicle,0.943692,2.798801,0.0403
+avgpool,353,chair,0.973001,3.851785,-0.0015
+avgpool,358,gymnastic apparatus,0.917723,2.355482,0.0298
+avgpool,359,anseriform bird,0.694386,0.438459,0.0507
+avgpool,361,keyboard instrument,0.714842,0.555545,0.0279
+avgpool,362,shark,0.858206,1.508579,0.0229
+avgpool,372,fungus,0.978044,3.520845,0.0024
+avgpool,384,bag,0.944828,2.466779,-0.0138
+avgpool,385,bus,0.969072,5.779279,0.0351
+avgpool,396,beating-reed instrument,0.732336,0.496814,0.1009
+avgpool,404,cart,0.851752,1.396531,0.0040
+avgpool,405,gymnastic apparatus,0.831853,1.558751,0.0340
+avgpool,410,tracked vehicle,0.638416,0.271056,0.0086
+avgpool,413,place of worship,0.871885,1.577644,0.0478
+avgpool,417,condiment,0.771703,1.095763,0.0176
+avgpool,418,personal computer,0.945405,2.639407,0.0534
+avgpool,425,white goods,0.945734,2.642111,0.0163
+avgpool,433,condiment,0.737854,0.973058,0.0343
+avgpool,436,cart,0.703759,0.511163,0.0225
+avgpool,444,car,0.972119,3.248933,0.0036
+avgpool,455,place of worship,0.848329,1.168847,0.0149
+avgpool,460,truck,0.591485,0.057601,0.0561
+avgpool,463,butterfly,0.654519,0.600509,0.0020
+avgpool,475,memorial,0.890123,2.190307,0.0065
+avgpool,476,personal computer,0.956666,4.158349,0.0725
+avgpool,480,public transport,0.836807,2.421409,0.0702
+avgpool,487,spiny-finned fish,0.587843,0.057342,0.0066
+avgpool,488,beating-reed instrument,0.556565,0.057245,0.1348
+avgpool,494,portable computer,0.871778,1.488143,0.0538
+avgpool,495,mercantile establishment,0.738045,1.291221,-0.0209
+avgpool,496,cruciferous vegetable,0.976744,7.535475,0.0325
+avgpool,500,place of worship,0.392304,-0.251015,0.0175
+avgpool,509,fungus,0.763444,0.898455,-0.0002

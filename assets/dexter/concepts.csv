@@ -1,0 +1,31 @@
+label,class_name,column,neuron,concept
+609,Jeep,0,1067,golfcart
+609,Jeep,1,1100,european fire salamander
+609,Jeep,2,1208,tractor
+609,Jeep,3,1515,pickup
+609,Jeep,4,691,limousine
+985,Daisy,0,1105,sulphur-crested cockatoo
+985,Daisy,1,120,ground beetle
+985,Daisy,2,298,spiny
+985,Daisy,3,595,daisy
+985,Daisy,4,859,tick spider
+764,Rifle,0,1259,revolver
+764,Rifle,1,1928,tripod
+764,Rifle,2,400,grand piano
+764,Rifle,3,515,gun accessory
+764,Rifle,4,522,revolver
+706,Patio,0,1016,sliding door
+706,Patio,1,1633,oxcart
+706,Patio,2,194,ipod
+706,Patio,3,451,golfcart
+706,Patio,4,654,barber chair
+433,Bathing Cap,0,121,head
+433,Bathing Cap,1,1340,swimsuit
+433,Bathing Cap,2,1591,macaque
+433,Bathing Cap,3,1609,shower cap
+433,Bathing Cap,4,755,graduation attire
+785,Seat Belt,0,1010,scooter mower
+785,Seat Belt,1,108,eye coverings
+785,Seat Belt,2,116,car mirror
+785,Seat Belt,3,1493,car mirror
+785,Seat Belt,4,50,car mirror

@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+avgpool,87,wildlife in natural habitats,0.766533,0.797899,0.0534
+avgpool,126,colorful and spiritual scenes,0.958030,4.132521,0.0279
+avgpool,135,water activities,0.982442,3.797900,0.0831
+avgpool,153,various objects and activities,0.599045,0.084500,0.0025
+avgpool,168,aquatic and captive animals,0.623558,0.300133,0.1339
+avgpool,173,holiday and emergency scenes,0.919502,2.376827,0.0305
+avgpool,182,kitchen-themed spaces,0.996342,6.111329,0.0614
+avgpool,184,musical brass instrument theme,0.999390,8.888151,0.1330
+avgpool,197,colorful objects and activities,0.874470,1.642512,0.0032
+avgpool,251,leopard-inspired art,0.999143,7.277316,0.0414
+avgpool,262,kitchen and fitness theme,0.706435,0.560742,0.0095
+avgpool,286,creation and rest,0.863214,1.696825,0.0441
+avgpool,309,outdoor adventure,0.645709,0.360518,0.0177
+avgpool,326,colorful accessories and attire,0.940262,2.075135,0.0254
+avgpool,328,spider web-inspired elements,0.999638,9.236300,0.1024
+avgpool,359,time-related objects,0.993809,5.138039,0.0740
+avgpool,382,household items,0.386039,-0.350668,0.0019
+avgpool,389,rocky environment,0.884952,1.471634,0.0284
+avgpool,394,bookstore theme,0.998295,6.504720,0.0745
+avgpool,449,wildlife with antlers,0.996974,5.979286,0.0677
+avgpool,459,outdoor activities,0.669345,0.624452,0.0882
+avgpool,489,screened views,0.974255,4.929133,0.1259
+avgpool,549,visual representation,0.671069,0.547161,0.0058
+avgpool,589,live entertainment event,0.994214,7.499589,0.1096
+avgpool,635,wildlife observations,0.639179,0.432439,0.1204
+avgpool,656,athletic movements,0.845642,1.213527,0.0551
+avgpool,668,transportation and relaxation,0.879809,1.490502,0.0613
+avgpool,706,various silver and white vehicles,0.911107,3.304511,0.0409
+avgpool,728,military and nature,0.941982,3.934246,0.0614
+avgpool,730,textile and fabric items,0.963733,3.521163,0.0525
+avgpool,737,socks and injuries,0.994670,7.710775,0.1586
+avgpool,746,colorful reflections and views,0.700746,0.843021,-0.0054
+avgpool,791,butterfly-themed nature items,0.731666,1.437129,0.1484
+avgpool,794,home decor items,0.413369,-0.346780,0.0028
+avgpool,827,bird-related imagery,0.889908,1.688652,0.0789
+avgpool,845,baby-related spaces,0.989756,5.478785,0.0725
+avgpool,856,arachnid theme,0.979028,3.914433,0.0991
+avgpool,877,entertainment venues,0.988973,4.718729,0.0579
+avgpool,886,plates and spiders,0.947676,2.781890,0.0154
+avgpool,887,animal encounters,0.510920,-0.009787,-0.0031
+avgpool,889,tara and spiders,0.995598,7.270155,0.1650
+avgpool,891,musical brass instruments,0.999851,10.504403,0.1153
+avgpool,934,dog-related scenes,0.789804,1.305831,0.1112
+avgpool,935,various objects and settings,0.658346,0.457880,0.0263
+avgpool,947,team sports participants,0.986565,4.560221,0.1213
+avgpool,962,everyday objects,0.512882,-0.092800,0.0373
+avgpool,985,police car patrol,0.973753,4.915322,0.1169
+avgpool,997,fitness and tools,0.988724,4.532772,0.1167
+avgpool,1008,items in containers,0.399305,-0.307893,-0.0062
+avgpool,1031,vintage sound objects,0.379658,-0.415269,0.0271
+avgpool,1078,striped patterns,0.981818,4.840211,0.0999
+avgpool,1095,wooden utensils,0.999707,10.434941,0.0897
+avgpool,1099,transportation and storage,0.870768,1.891260,0.0444
+avgpool,1144,creative tools,0.999286,9.456136,0.0912
+avgpool,1255,outdoor rustic elements,0.756779,0.653854,0.0370
+avgpool,1270,food preparation,0.875414,1.500257,0.0834
+avgpool,1277,water-themed scenes,0.838996,1.258203,0.0560
+avgpool,1280,various vehicles,0.733449,0.809857,0.0719
+avgpool,1303,clothing and bedding,0.996421,6.510247,0.0946
+avgpool,1353,electronics and black decor,0.983532,4.042511,0.0770
+avgpool,1358,chainsaw-related items,0.999548,11.020238,0.0946
+avgpool,1364,red-themed objects,0.926367,3.123314,0.0081
+avgpool,1371,string musicians,0.999069,7.957645,0.0504
+avgpool,1388,reptile-themed objects,0.962246,3.588364,0.0126
+avgpool,1394,bathing scenes,0.982474,5.722529,0.0338
+avgpool,1396,nature and wildlife,0.555898,-0.030055,0.0816
+avgpool,1408,bell-themed objects,0.997900,8.113160,0.0036
+avgpool,1424,coastal and natural landscapes,0.996924,6.511731,0.0898
+avgpool,1442,colorful light objects,0.674980,0.446311,0.0619
+avgpool,1491,scientists,0.977644,6.251463,0.0319
+avgpool,1493,bathroom décor,0.994288,4.782677,0.0979
+avgpool,1496,room with women,0.971522,3.421464,0.0492
+avgpool,1508,musical performance,0.955718,2.719308,0.0910
+avgpool,1509,undercover accessories,0.937688,2.650506,0.0262
+avgpool,1519,aquarium life,0.711593,0.648721,0.0574
+avgpool,1542,various consumer products,0.910097,1.819443,0.0323
+avgpool,1543,italian cuisine,0.910347,1.602688,0.1215
+avgpool,1555,school supplies,0.997127,6.899756,0.0367
+avgpool,1564,animal encounters,0.487055,0.065856,0.0503
+avgpool,1606,security and accessories,0.364192,-0.477653,0.0666
+avgpool,1625,aquatic and nature elements,0.687248,0.447087,0.0140
+avgpool,1641,rope and telephone,0.998902,8.101020,0.1464
+avgpool,1643,lush natural environments,0.923137,1.979495,0.0924
+avgpool,1651,turtle variations,0.998799,9.689269,0.2074
+avgpool,1677,household items,0.936743,3.502933,0.0497
+avgpool,1692,bird-themed imagery,0.986621,4.146884,0.0803
+avgpool,1696,culinary and marine activities,0.978668,3.679489,0.0279
+avgpool,1703,snake-related items,0.704068,0.592392,0.0877
+avgpool,1717,green reptiles,0.985785,5.837678,0.1335
+avgpool,1760,fruit-themed table décor,0.993010,4.956945,0.0974
+avgpool,1782,bird-related scenes,0.804724,1.127079,0.2108
+avgpool,1824,tennis-related concepts,0.997235,6.425779,0.1072
+avgpool,1827,white and wooden storage solutions,0.785856,0.894400,0.0226
+avgpool,1834,metallic-themed items,0.933204,2.900069,-0.0042
+avgpool,1853,furniture and accessories,0.844072,1.268215,0.0440
+avgpool,1907,casual clothing items,0.467918,-0.194131,0.0389
+avgpool,1912,food and containers,0.781080,0.787713,0.0591
+avgpool,1935,various objects in monochrome,0.870204,2.023649,0.0083
+avgpool,1946,assorted baked goods,0.998328,7.255838,0.1346
+avgpool,2038,colorful accessories,0.599099,0.162271,0.0112

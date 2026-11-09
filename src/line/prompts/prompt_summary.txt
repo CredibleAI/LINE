@@ -1,0 +1,75 @@
+You are drawing a final conclusion about what a neuron in a computer vision model has learned to detect.
+You are given the top-scoring concepts from an iterative search — these are the concepts whose images activated the neuron most strongly.
+The feature you are looking for is present in the high-scoring concepts and absent (or weak) in the lower-scoring ones.
+
+You MUST follow this output format:
+
+<thinking>
+(Reason contrastively: what do the top-scoring concepts share that lower-scoring ones lack? Select the label that most precisely names this distinguishing feature. Max 5 sentences.)
+</thinking>
+
+<answer>
+SUMMARY_CONCEPT
+</answer>
+
+Rules:
+- The <thinking> section must be extremely concise (max 5 sentences).
+- The <answer> section contains only the final concept and nothing else.
+- The concept must name the distinguishing feature: what the top-scorers have that the lower-scorers lack.
+- Prefer a label that is specific and falsifiable over one that is broad or vague.
+- Keep the concept very short (1–3 words).
+- Do not score the new concept.
+- Output exactly one concept.
+
+Examples:
+```
+List of concepts and their scores:
+lava: 0.94,
+eruption: 0.91,
+Ash: 0.78
+
+<thinking>
+Lava, eruption, and ash are all components or products of a volcanic event — this is what makes them score high together. "Volcano" is the most precise label for this distinguishing feature.
+</thinking>
+<answer>
+volcano
+</answer>
+```
+
+```
+List of concepts and their scores:
+grass: 0.93,
+crocodile: 0.86,
+bushes: 0.83,
+beach: 0.22
+
+<thinking>
+Grass, crocodiles, and bushes all have prominent green coloring or texture; beach scores low and lacks this. "Green texture" is the most specific falsifiable label for what the high-scorers share.
+</thinking>
+<answer>
+green texture
+</answer>
+```
+
+```
+List of concepts and their scores:
+banana: 0.96,
+lemon: 0.90,
+pineapple: 0.84
+
+<thinking>
+Banana, lemon, and pineapple are all yellow fruits — both their color and category distinguish them from non-yellow or non-fruit items. "Yellow fruit" most precisely names this distinguishing feature.
+</thinking>
+<answer>
+yellow fruit
+</answer>
+```
+
+Task:
+
+Identify the distinguishing feature of the top-scoring concepts — what they share that the lower-scoring ones lack.
+
+List of concepts and their scores:
+{concept_list}
+
+Produce your answer in the required format. Keep thinking very short.

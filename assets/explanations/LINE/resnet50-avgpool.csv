@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+avgpool,87,horned animal,0.970852,2.809896,0.1476
+avgpool,126,sussex spaniel,0.999586,6.279997,0.2386
+avgpool,135,gondola,0.966006,4.590755,0.0295
+avgpool,153,street sign,0.993741,6.202337,0.0823
+avgpool,168,consomme,0.881581,2.791771,-0.0111
+avgpool,173,fire engine,0.995161,5.354607,0.0731
+avgpool,182,refrigerator,0.999090,7.954376,0.1359
+avgpool,184,french horn,0.999420,8.576059,0.1486
+avgpool,197,french horn,0.988032,3.876036,0.0675
+avgpool,251,cheetah,0.996634,5.641770,0.1299
+avgpool,262,crock pot,0.993105,5.761657,0.0643
+avgpool,286,potter's wheel,0.962851,4.114736,0.1009
+avgpool,309,volcano,0.997091,6.087115,0.0270
+avgpool,326,formal neckwear,0.768584,2.738561,0.0670
+avgpool,328,spider web,0.999444,8.286621,0.1091
+avgpool,359,circular time,0.977107,4.756608,0.1061
+avgpool,382,digital clock,0.987944,5.281590,0.0892
+avgpool,389,desert dweller,0.928233,2.774874,-0.0104
+avgpool,394,bookshop,0.997958,6.240545,0.0729
+avgpool,449,hare,0.998488,6.900061,0.1366
+avgpool,459,wedding,0.732092,0.605261,0.0545
+avgpool,489,window screen,0.992260,6.934562,0.1483
+avgpool,549,envelope,0.980677,3.516739,0.0487
+avgpool,589,stage,0.971492,4.638632,0.1961
+avgpool,635,weasel,0.971446,2.978018,0.0056
+avgpool,656,horizontal bar,0.888964,2.133250,0.0182
+avgpool,668,breakwater,0.970395,3.722172,0.0444
+avgpool,706,convertible sports car,0.977549,5.052046,0.0455
+avgpool,728,grasshopper,0.995798,5.702404,0.1456
+avgpool,730,prayer rug,0.993542,5.049802,0.1024
+avgpool,737,sock,0.674029,3.843429,0.1685
+avgpool,746,sunglass,0.998871,11.331075,0.0864
+avgpool,791,ringlet,0.996875,6.277188,0.0437
+avgpool,794,starfish,0.994569,5.120426,0.0928
+avgpool,827,long necked bird,0.972304,2.972061,0.1794
+avgpool,845,crib,0.995194,7.206400,0.0542
+avgpool,856,spider web,0.998451,6.253095,0.2005
+avgpool,877,theater context,0.996852,6.629821,0.0819
+avgpool,886,barn spider,0.988603,4.146149,0.1472
+avgpool,887,tree frog,0.997348,6.093691,0.1192
+avgpool,889,fur coat,0.986352,4.890900,0.0292
+avgpool,891,brass instrument,0.999659,10.193391,0.1331
+avgpool,934,weimaraner,0.994085,4.716709,0.1345
+avgpool,935,bouvier des flandres,0.988178,4.070829,0.2178
+avgpool,947,football helmet,0.979408,3.839887,0.0669
+avgpool,962,king penguin,0.987627,3.916368,0.1131
+avgpool,985,police van,0.988416,5.716847,0.0686
+avgpool,997,weightlift,0.989030,6.234226,0.1330
+avgpool,1008,jack-o'-lantern,0.525764,0.056193,0.0676
+avgpool,1031,ox,0.994825,5.364584,0.0017
+avgpool,1078,pencil box,0.991990,6.810399,0.0174
+avgpool,1095,wooden spoon,0.998525,8.948089,0.0704
+avgpool,1099,garbage truck,0.983186,5.201531,0.1259
+avgpool,1144,fountain pen,0.996898,7.224711,0.1352
+avgpool,1255,manhole cover,0.818056,1.048967,-0.0354
+avgpool,1270,acorn squash,0.965485,3.268054,0.0851
+avgpool,1277,geyser,0.994773,5.960375,0.0559
+avgpool,1280,garbage truck,0.998610,6.563098,0.1095
+avgpool,1303,bulletproof vest,0.992175,5.209087,0.0455
+avgpool,1353,tape player,0.992296,4.724928,0.0085
+avgpool,1358,chain saw,0.932063,6.941759,0.0650
+avgpool,1364,peacock,0.994300,6.517988,0.0762
+avgpool,1371,stringed object,0.946699,5.086883,0.0374
+avgpool,1388,chameleon,0.994626,5.251917,0.0942
+avgpool,1394,proboscis monkey,0.999227,7.380815,0.2065
+avgpool,1396,wallaby,0.915598,1.663877,0.0614
+avgpool,1408,gong cote,0.939441,2.723625,0.0225
+avgpool,1424,geyser,0.983090,4.251392,0.0327
+avgpool,1442,ladybug,0.957228,2.456133,0.0856
+avgpool,1491,lab coat,0.997989,7.907066,0.0559
+avgpool,1493,wig,0.933862,2.926001,0.0318
+avgpool,1496,sliding door,0.986640,3.986666,0.0687
+avgpool,1508,drumming,0.999552,9.423700,0.1238
+avgpool,1509,echidna,0.970470,2.713648,0.0034
+avgpool,1519,sea lion,0.977772,3.368036,0.1014
+avgpool,1542,cougar,0.998933,6.258474,0.0824
+avgpool,1543,carbonara dish,0.987378,4.701185,0.0352
+avgpool,1555,school supply,0.997126,7.400883,0.0267
+avgpool,1564,hippopotamus,0.994527,5.209198,0.1154
+avgpool,1606,padlock,0.984400,4.408349,0.0805
+avgpool,1625,cd player,0.973572,4.637644,0.0348
+avgpool,1641,dial telephone,0.997905,7.240443,0.0312
+avgpool,1643,broccoli,0.986004,3.662510,0.0791
+avgpool,1651,turtle,0.999266,9.296416,0.2184
+avgpool,1677,nail,0.947743,3.138943,0.0016
+avgpool,1692,ptarmigan,0.985356,3.960636,0.0402
+avgpool,1696,tench,0.989772,4.579552,-0.0012
+avgpool,1703,terrapin,0.989279,4.190538,0.0971
+avgpool,1717,green lizard type,0.998645,6.764098,0.1628
+avgpool,1760,strawberry,0.999528,8.542597,0.0820
+avgpool,1782,hummingbird,0.998915,7.556572,0.1472
+avgpool,1824,racket,0.990160,4.390296,-0.0032
+avgpool,1827,measuring cup,0.993186,6.496167,0.0822
+avgpool,1834,plate armor,0.994606,5.738559,0.1140
+avgpool,1853,obelisk,0.992970,4.813352,0.0148
+avgpool,1907,sweatshirt,0.829886,2.126587,0.0777
+avgpool,1912,trifle,0.998158,7.316498,0.0084
+avgpool,1935,lipstick tube,0.994466,6.553310,0.0584
+avgpool,1946,bagel,0.999747,9.667194,0.0972
+avgpool,2038,warning sign,0.976083,5.526122,0.0125

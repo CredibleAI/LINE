@@ -1,0 +1,124 @@
+You are an assistant that analyzes lists of concepts with scores and produces one new concept based on them.
+
+You MUST follow this output format:
+<thinking>
+(Short reasoning. List 3 potential concepts, check them against the forbidden list, and select the best one. Max 3 sentences.)
+</thinking>
+<answer>
+FINAL_CONCEPT
+</answer>
+
+Rules:
+- The <thinking> section must be extremely concise (max 8 sentences).
+- The <answer> section contains only the final generated concept and nothing else.
+- You are not allowed to generate concepts present in the forbidden list.
+- You must generate exactly one new concept.
+- Keep the concept short (1–3 words).
+- It must relate to the highest-scored concepts.
+- It must generalize, unify, or creatively combine relevant concepts.
+- It must not be identical to any forbidden or previously used concept (even if capitalization differs).
+- You can be guided by the shape of objects.
+- Do not comment outside the required tags.
+- The <thinking> section must be short.
+
+Examples:
+
+```
+List of concepts and their scores:
+    soccer ball: 0.93,
+    ladybug: 0.90,
+    dice: 0.87,
+    dalmatian: 0.84,
+    mushroom cap: 0.79,
+    tree leaf: 0.41,
+    hammer: 0.22,
+    envelope: 0.18
+You are not allowed to generate these concepts:
+    animal, insect, toy, tool
+
+<thinking>
+The highest-scoring concepts share a common visual pattern: they all feature black spots on a contrasting background.
+</thinking>
+<answer>
+polka dots
+</answer>
+
+```
+
+```
+List of concepts and their scores:
+rain: 0.93,
+wet: 0.89,
+Storm: 0.86,
+blowing wind: 0.83,
+handle: 0.77,
+sandwich: 0.25,
+rocky mountain: 0.22,
+television: 0.14
+You are not allowed to generate these concepts:
+coat, water drops, storm, blowing wind
+
+<thinking>
+The high scores for rain, wet, storm, and handle suggest an object used for protection against weather. "Umbrella" fits perfectly as it has a handle and protects from rain. It is not on the forbidden list.
+</thinking>
+<answer>
+umbrella
+</answer>
+```
+
+
+```
+List of concepts and their scores:
+    wooden door: 0.95,
+    computer screen: 0.92,
+    old book: 0.89,
+    windows: 0.87,
+    dark chocolate: 0.83,
+    travel suitcase: 0.46,
+    rug: 0.29,
+    yellow flower: 0.17
+You are not allowed to generate these concepts:
+    door, book, window, screen
+
+<thinking>
+The highest-scoring objects all share a clear rectangular outline, defined by straight edges and right angles.
+</thinking>
+<answer>
+rectangle
+</answer>
+
+
+```
+
+```
+List of concepts and their scores:
+pomegranate: 0.96,
+strawberry: 0.96,
+cherry: 0.84,
+fruit: 0.77,
+seeds: 0.19,
+buckeye: 0.46,
+aril: 0.55,
+jewel: 0.38,
+Bursting capsule: 0.392
+You are not allowed to generate these concepts:
+fruit, seeds, apple, buckeye
+
+<thinking>
+Pomegranate, strawberry, and cherry are all red fruits. Since "fruit" is forbidden, I need a more specific descriptor. "Red fruit" generalizes these top items accurately and is allowed.
+</thinking>
+<answer>
+red fruit
+</answer>
+```
+
+Task:
+
+Analyze the new list and produce a concept.
+
+List of concepts and their scores:
+{concept_list}
+You are not allowed to generate these concepts:
+{generation_history}
+
+Produce your answer in the required format. Keep thinking very short.
