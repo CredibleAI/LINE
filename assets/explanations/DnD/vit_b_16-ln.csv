@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+ln,31,homey décor,0.942666,1.978990,0.0253
+ln,44,child exploring surroundings,0.671075,0.726160,-0.0032
+ln,48,red and green elements,0.749674,0.898800,-0.0003
+ln,56,diverse activities,0.291272,-0.750369,-0.0007
+ln,58,various life scenes,0.710162,0.831048,0.0122
+ln,59,dog-related activities,0.406254,-0.299847,0.0137
+ln,63,various scenes with objects,0.280381,-0.835475,-0.0046
+ln,64,domestic and outdoor scenes,0.674414,0.561340,0.0160
+ln,73,paisley-themed spaces,0.633294,0.393429,0.0165
+ln,87,colorful objects and animals,0.761956,1.005737,-0.0080
+ln,96,urban kitchen design,0.658793,0.507684,0.0011
+ln,107,urban elements,0.558872,0.190281,0.0064
+ln,112,patterned designs,0.727215,0.774856,0.0040
+ln,117,winter scenes,0.578056,0.246421,0.0363
+ln,120,domestic scenes,0.726877,0.761956,0.0092
+ln,126,varied objects and accessories,0.391881,-0.373537,-0.0059
+ln,136,social gathering,0.611738,0.332833,0.0017
+ln,140,checkered patterns,0.670783,0.579923,0.0182
+ln,159,home entertainment vibe,0.530191,0.077303,0.0085
+ln,169,various objects and animals,0.481855,-0.064251,0.0036
+ln,183,home and nature,0.687806,0.652509,-0.0001
+ln,195,various objects in a room,0.332848,-0.629239,0.0036
+ln,220,urban nature scenes,0.820640,1.376775,0.0030
+ln,236,modern living spaces,0.943989,1.931145,0.0227
+ln,239,storage and activities,0.135353,-1.492625,0.0046
+ln,245,pet play and transportation,0.760044,0.887446,0.0360
+ln,252,animal and activity themes,0.474736,-0.063661,0.0048
+ln,255,various red settings,0.499642,0.020252,-0.0011
+ln,262,nature and relaxation,0.335763,-0.652586,-0.0022
+ln,268,diverse urban elements,0.734329,0.808467,0.0090
+ln,272,domestic living spaces,0.716915,0.716493,0.0090
+ln,279,pets and animals,0.909588,2.115992,0.0739
+ln,291,home and work spaces,0.718468,0.903312,0.0272
+ln,294,home decor,0.616527,0.383918,0.0061
+ln,295,red carpet scenes,0.452434,-0.221180,0.0128
+ln,301,various views,0.638744,0.603101,-0.0082
+ln,309,varied indoor scenes,0.661165,0.507346,0.0039
+ln,314,assorted animal scenes,0.268670,-0.757838,0.0003
+ln,318,various everyday settings,0.799499,1.428027,0.0102
+ln,327,various interior settings,0.938574,2.074252,0.0506
+ln,330,colorful nature scenes,0.801472,1.291618,-0.0041
+ln,336,relaxation and sports,0.772120,1.139698,-0.0076
+ln,343,various activities and companions,0.418438,-0.217939,-0.0049
+ln,344,red-themed bedroom items,0.847108,1.282038,-0.0035
+ln,346,home and comfort,0.555860,0.205263,0.0000
+ln,351,diverse recreational settings,0.809313,1.368494,-0.0045
+ln,353,outdoor structures and objects,0.647068,0.557913,0.0026
+ln,357,assorted items,0.934912,1.872592,0.0248
+ln,359,bakery theme,0.499102,-0.006475,0.0085
+ln,380,various room settings,0.831907,1.153178,0.0097
+ln,389,various objects and settings,0.432597,-0.222958,-0.0089
+ln,396,transportation and people,0.569906,0.202365,0.0045
+ln,421,various resting animals,0.605052,0.383499,0.0059
+ln,439,nature-inspired scenes,0.575379,0.217475,-0.0073
+ln,446,home decor,0.599864,0.469940,0.0369
+ln,447,various indoor scenes,0.325670,-0.529043,0.0074
+ln,471,financial transactions,0.892363,1.528831,-0.0069
+ln,474,workspaces,0.725440,0.730478,0.0054
+ln,486,everyday items,0.312638,-0.643002,0.0027
+ln,488,various outdoor scenes,0.792022,1.370207,-0.0011
+ln,490,various scenes of activity,0.262684,-0.884995,-0.0117
+ln,497,woman in brown attire,0.954039,2.129390,0.0239
+ln,498,various scenes with man,0.705152,0.652726,0.0163
+ln,501,household items,0.515641,0.041641,0.0165
+ln,510,daily life,0.466900,-0.130378,-0.0035
+ln,518,various places and people,0.575060,0.223507,0.0099
+ln,519,cat-related scenes,0.774910,1.014202,0.0319
+ln,522,bathroom essentials,0.960054,2.031550,-0.0027
+ln,527,event planning,0.795270,1.153423,-0.0032
+ln,537,creative hobbies,0.877931,1.704509,0.0131
+ln,538,various activities,0.739316,0.749835,-0.0074
+ln,540,home decor,0.616928,0.353612,-0.0170
+ln,541,domestic scenes,0.473078,-0.037084,-0.0048
+ln,543,white-themed living spaces,0.200011,-1.012104,-0.0064
+ln,546,various objects and animals,0.749999,1.031538,0.0095
+ln,558,everyday life scenes,0.453148,-0.185333,0.0125
+ln,572,various activities,0.776905,1.214681,0.0004
+ln,576,umbrella-themed scenes,0.816996,1.879170,0.0147
+ln,578,animal interactions,0.577416,0.304701,0.0275
+ln,581,urban activities,0.528033,0.101400,0.0120
+ln,584,food and materials,0.981171,2.975024,0.0165
+ln,588,colorful floral scenes,0.944748,1.993999,0.0023
+ln,605,striped and patterned items,0.727971,1.108078,0.0046
+ln,611,various everyday objects,0.473032,-0.018020,-0.0064
+ln,624,various modes of transportation,0.445511,-0.176845,0.0075
+ln,626,domestic scenes,0.442301,-0.203740,-0.0180
+ln,630,fashion and accessories,0.688106,0.635890,0.0113
+ln,639,metallic decor pieces,0.803203,1.050659,0.0152
+ln,640,outdoor nature scenes,0.510716,0.056413,0.0129
+ln,641,cooking and baking,0.583847,0.301946,0.0160
+ln,663,pet-friendly shopping and home,0.393678,-0.385047,0.0554
+ln,665,bathroom essentials,0.727267,0.918203,-0.0098
+ln,672,everyday urban scenes,0.770952,0.980348,0.0071
+ln,685,various interior spaces,0.419288,-0.290193,-0.0032
+ln,693,interior spaces,0.858554,1.436497,0.0051
+ln,697,urban city scenes,0.632628,0.485186,-0.0007
+ln,704,patterned designs background,0.837522,1.363691,0.0114
+ln,708,farmhouse aesthetics,0.876361,1.557557,0.0027
+ln,739,cooking and community,0.937687,1.901493,0.0020
+ln,747,industrial-themed objects,0.847515,1.409506,0.0059

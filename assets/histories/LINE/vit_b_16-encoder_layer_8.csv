@@ -1,0 +1,2101 @@
+layer,unit,iteration,stage,concept,score
+encoder_layer_8,31,0,initial,leonberg,0.351760
+encoder_layer_8,31,0,initial,polaroid camera,0.242411
+encoder_layer_8,31,0,initial,ambulance,0.205473
+encoder_layer_8,31,0,initial,clumber,0.128044
+encoder_layer_8,31,0,initial,ice bear,0.107265
+encoder_layer_8,31,0,initial,grille,0.064644
+encoder_layer_8,31,0,initial,black-and-tan coonhound,0.062061
+encoder_layer_8,31,0,initial,african hunting dog,0.040416
+encoder_layer_8,31,0,initial,white wolf,-0.031630
+encoder_layer_8,31,0,initial,hyena,-0.113811
+encoder_layer_8,31,1,iteration,coated dog,0.001061
+encoder_layer_8,31,2,iteration,pale breed,0.038778
+encoder_layer_8,31,3,iteration,white animal,0.067008
+encoder_layer_8,31,4,iteration,white coat,-0.078288
+encoder_layer_8,31,5,iteration,light coat,-0.032236
+encoder_layer_8,31,6,iteration,light object,-0.084762
+encoder_layer_8,31,7,iteration,white creature,-0.122552
+encoder_layer_8,31,8,iteration,polar bear,0.070594
+encoder_layer_8,31,9,iteration,polaroid,0.140505
+encoder_layer_8,31,10,iteration,polaroid,0.140505
+encoder_layer_8,31,11,summary,dog breed,-0.013732
+encoder_layer_8,44,0,initial,cash machine,0.500024
+encoder_layer_8,44,0,initial,cd player,0.461730
+encoder_layer_8,44,0,initial,police van,0.399761
+encoder_layer_8,44,0,initial,minibus,0.370518
+encoder_layer_8,44,0,initial,american chameleon,0.246088
+encoder_layer_8,44,0,initial,black-footed ferret,0.219038
+encoder_layer_8,44,0,initial,web site,0.134995
+encoder_layer_8,44,0,initial,reel,0.081074
+encoder_layer_8,44,0,initial,feather boa,0.057694
+encoder_layer_8,44,0,initial,kite,0.021610
+encoder_layer_8,44,1,iteration,vehicle,0.390721
+encoder_layer_8,44,2,iteration,mounted box,0.103374
+encoder_layer_8,44,3,iteration,electronic box,0.298785
+encoder_layer_8,44,4,iteration,kiosk,0.333061
+encoder_layer_8,44,5,iteration,public box,0.228829
+encoder_layer_8,44,6,iteration,cd player,0.461730
+encoder_layer_8,44,7,iteration,dispenser,0.111792
+encoder_layer_8,44,8,iteration,public display,0.258262
+encoder_layer_8,44,9,iteration,access point,0.262491
+encoder_layer_8,44,10,iteration,public box,0.228829
+encoder_layer_8,44,11,summary,man-made object,0.101195
+encoder_layer_8,48,0,initial,siamese cat,0.629303
+encoder_layer_8,48,0,initial,indri,0.596117
+encoder_layer_8,48,0,initial,bee eater,0.558233
+encoder_layer_8,48,0,initial,baboon,0.429895
+encoder_layer_8,48,0,initial,consomme,0.425671
+encoder_layer_8,48,0,initial,hammerhead,0.364653
+encoder_layer_8,48,0,initial,lighter,0.268251
+encoder_layer_8,48,0,initial,chime,0.265604
+encoder_layer_8,48,0,initial,spindle,0.219484
+encoder_layer_8,48,0,initial,dock,0.168256
+encoder_layer_8,48,1,iteration,pointed head,0.311743
+encoder_layer_8,48,2,iteration,long head,0.183618
+encoder_layer_8,48,3,iteration,elongated head,0.327085
+encoder_layer_8,48,4,iteration,distinctive head,0.276162
+encoder_layer_8,48,5,iteration,odd head,0.243227
+encoder_layer_8,48,6,iteration,notable head,0.255964
+encoder_layer_8,48,7,iteration,exotic head,0.098689
+encoder_layer_8,48,8,iteration,unique head,0.186114
+encoder_layer_8,48,9,iteration,head shape,0.296189
+encoder_layer_8,48,10,iteration,hammerhead,0.364653
+encoder_layer_8,48,11,summary,bird,0.461897
+encoder_layer_8,56,0,initial,baseball,0.554550
+encoder_layer_8,56,0,initial,beaver,0.279690
+encoder_layer_8,56,0,initial,totem pole,0.120636
+encoder_layer_8,56,0,initial,balloon,0.101688
+encoder_layer_8,56,0,initial,book jacket,0.077022
+encoder_layer_8,56,0,initial,strawberry,0.001719
+encoder_layer_8,56,0,initial,orangutan,-0.019651
+encoder_layer_8,56,0,initial,organ,-0.064067
+encoder_layer_8,56,0,initial,hartebeest,-0.221876
+encoder_layer_8,56,0,initial,angora,-0.285415
+encoder_layer_8,56,1,iteration,stitching,0.054339
+encoder_layer_8,56,2,iteration,seams,0.078853
+encoder_layer_8,56,3,iteration,sewable,0.022039
+encoder_layer_8,56,4,iteration,book jacket,0.077022
+encoder_layer_8,56,5,iteration,sewing,-0.236558
+encoder_layer_8,56,6,iteration,stitched,0.078946
+encoder_layer_8,56,7,iteration,embroidery,-0.076406
+encoder_layer_8,56,8,iteration,sewable fabric,0.007114
+encoder_layer_8,56,9,iteration,patterned object,0.052204
+encoder_layer_8,56,10,iteration,sewn,0.139581
+encoder_layer_8,56,11,summary,man-made object,0.115917
+encoder_layer_8,58,0,initial,consomme,0.236556
+encoder_layer_8,58,0,initial,valley,0.181081
+encoder_layer_8,58,0,initial,lhasa,0.180078
+encoder_layer_8,58,0,initial,espresso,0.084495
+encoder_layer_8,58,0,initial,chocolate sauce,0.051527
+encoder_layer_8,58,0,initial,soup bowl,0.047814
+encoder_layer_8,58,0,initial,beer glass,-0.036976
+encoder_layer_8,58,0,initial,pier,-0.040324
+encoder_layer_8,58,0,initial,flatworm,-0.099454
+encoder_layer_8,58,0,initial,coyote,-0.334397
+encoder_layer_8,58,1,iteration,soup,0.135545
+encoder_layer_8,58,2,iteration,valley,0.181081
+encoder_layer_8,58,3,iteration,bowl food,0.105482
+encoder_layer_8,58,4,iteration,liquid,-0.164857
+encoder_layer_8,58,5,iteration,coffee cup,0.010588
+encoder_layer_8,58,6,iteration,hot beverage,0.147111
+encoder_layer_8,58,7,iteration,consomme,0.236556
+encoder_layer_8,58,8,iteration,cup,-0.008886
+encoder_layer_8,58,9,iteration,serving vessel,-0.157166
+encoder_layer_8,58,10,iteration,warm drink,0.089632
+encoder_layer_8,58,11,summary,place name,-0.070604
+encoder_layer_8,59,0,initial,tabby,0.165404
+encoder_layer_8,59,0,initial,ruffed grouse,0.139723
+encoder_layer_8,59,0,initial,meat loaf,0.128791
+encoder_layer_8,59,0,initial,liner,0.061226
+encoder_layer_8,59,0,initial,banana,0.041641
+encoder_layer_8,59,0,initial,mosque,0.009003
+encoder_layer_8,59,0,initial,tiger,0.002217
+encoder_layer_8,59,0,initial,cliff,0.001434
+encoder_layer_8,59,0,initial,plastic bag,-0.028541
+encoder_layer_8,59,0,initial,lion,-0.051747
+encoder_layer_8,59,1,iteration,bird plumage,-0.009189
+encoder_layer_8,59,2,iteration,stripes,-0.001054
+encoder_layer_8,59,3,iteration,layering,0.037452
+encoder_layer_8,59,4,iteration,vertical stripes,-0.034985
+encoder_layer_8,59,5,iteration,tabby pattern,0.181090
+encoder_layer_8,59,6,iteration,striped pattern,-0.034024
+encoder_layer_8,59,7,iteration,tiger skin,0.030728
+encoder_layer_8,59,8,iteration,horizontal stripes,0.011692
+encoder_layer_8,59,9,iteration,striped design,0.004910
+encoder_layer_8,59,10,iteration,tabby,0.165404
+encoder_layer_8,59,11,summary,feline pattern,0.167565
+encoder_layer_8,63,0,initial,coral reef,0.377612
+encoder_layer_8,63,0,initial,persian cat,0.262710
+encoder_layer_8,63,0,initial,knee pad,0.210682
+encoder_layer_8,63,0,initial,scottish deerhound,0.200285
+encoder_layer_8,63,0,initial,jellyfish,0.191481
+encoder_layer_8,63,0,initial,hamster,0.096564
+encoder_layer_8,63,0,initial,catamaran,0.094048
+encoder_layer_8,63,0,initial,rock beauty,0.064316
+encoder_layer_8,63,0,initial,revolver,-0.145958
+encoder_layer_8,63,0,initial,brittany spaniel,-0.171786
+encoder_layer_8,63,1,iteration,marine life,0.188415
+encoder_layer_8,63,2,iteration,reef fish,0.148824
+encoder_layer_8,63,3,iteration,underwater,0.096159
+encoder_layer_8,63,4,iteration,coral,0.145183
+encoder_layer_8,63,5,iteration,ocean,0.067753
+encoder_layer_8,63,6,iteration,aquatic,0.169733
+encoder_layer_8,63,7,iteration,reef dweller,0.293142
+encoder_layer_8,63,8,iteration,ocean creature,-0.008963
+encoder_layer_8,63,9,iteration,habitat,0.099071
+encoder_layer_8,63,10,iteration,colorful sea,-0.041551
+encoder_layer_8,63,11,summary,aquatic environment,0.145518
+encoder_layer_8,64,0,initial,red-breasted merganser,0.276858
+encoder_layer_8,64,0,initial,little blue heron,0.175531
+encoder_layer_8,64,0,initial,snow leopard,0.136618
+encoder_layer_8,64,0,initial,black swan,0.113503
+encoder_layer_8,64,0,initial,bernese mountain dog,0.096998
+encoder_layer_8,64,0,initial,king snake,0.075757
+encoder_layer_8,64,0,initial,bookshop,-0.051532
+encoder_layer_8,64,0,initial,confectionery,-0.057345
+encoder_layer_8,64,0,initial,entertainment center,-0.063546
+encoder_layer_8,64,0,initial,thunder snake,-0.075757
+encoder_layer_8,64,1,iteration,bird,0.105547
+encoder_layer_8,64,2,iteration,feathers,0.065838
+encoder_layer_8,64,3,iteration,streamlined animal,-0.102012
+encoder_layer_8,64,4,iteration,waterfowl,0.177166
+encoder_layer_8,64,5,iteration,beak,-0.042683
+encoder_layer_8,64,6,iteration,waterbird,0.217974
+encoder_layer_8,64,7,iteration,black and red bird,0.115915
+encoder_layer_8,64,8,iteration,red plumage,-0.023525
+encoder_layer_8,64,9,iteration,red head,-0.180198
+encoder_layer_8,64,10,iteration,red crest,0.051508
+encoder_layer_8,64,11,summary,water bird,0.150443
+encoder_layer_8,73,0,initial,convertible,0.192754
+encoder_layer_8,73,0,initial,sports car,0.115879
+encoder_layer_8,73,0,initial,bullet train,0.113840
+encoder_layer_8,73,0,initial,ashcan,0.028073
+encoder_layer_8,73,0,initial,megalith,-0.008957
+encoder_layer_8,73,0,initial,badger,-0.062567
+encoder_layer_8,73,0,initial,marmot,-0.098097
+encoder_layer_8,73,0,initial,crayfish,-0.183386
+encoder_layer_8,73,0,initial,schipperke,-0.232615
+encoder_layer_8,73,0,initial,planetarium,-0.348895
+encoder_layer_8,73,1,iteration,high-performance vehicle,0.116498
+encoder_layer_8,73,2,iteration,speedster,0.260315
+encoder_layer_8,73,3,iteration,convertible car,0.243609
+encoder_layer_8,73,4,iteration,convertible car body style,0.091538
+encoder_layer_8,73,5,iteration,open top,0.025243
+encoder_layer_8,73,6,iteration,convertible roof,-0.035319
+encoder_layer_8,73,7,iteration,convertible body,0.153534
+encoder_layer_8,73,8,iteration,soft top,0.142835
+encoder_layer_8,73,9,iteration,foldable top,-0.165798
+encoder_layer_8,73,10,iteration,removable top,0.046735
+encoder_layer_8,73,11,summary,removable roof,-0.174337
+encoder_layer_8,87,0,initial,doberman,0.136214
+encoder_layer_8,87,0,initial,dugong,-0.042958
+encoder_layer_8,87,0,initial,spiny lobster,-0.049896
+encoder_layer_8,87,0,initial,appenzeller,-0.070334
+encoder_layer_8,87,0,initial,swimming trunks,-0.097816
+encoder_layer_8,87,0,initial,eft,-0.189392
+encoder_layer_8,87,0,initial,sea lion,-0.265231
+encoder_layer_8,87,0,initial,drumstick,-0.276623
+encoder_layer_8,87,0,initial,dowitcher,-0.279587
+encoder_layer_8,87,0,initial,flatworm,-0.320436
+encoder_layer_8,87,1,iteration,mammal,-0.361487
+encoder_layer_8,87,2,iteration,canine,-0.229889
+encoder_layer_8,87,3,iteration,eel,-0.230816
+encoder_layer_8,87,4,iteration,aquatic mammal,-0.223156
+encoder_layer_8,87,5,iteration,marine animal,-0.190344
+encoder_layer_8,87,6,iteration,doberman,0.136214
+encoder_layer_8,87,7,iteration,dugong,-0.042958
+encoder_layer_8,87,8,iteration,aquatic,-0.200307
+encoder_layer_8,87,9,iteration,eel shape,-0.262892
+encoder_layer_8,87,10,iteration,elongated body,-0.037833
+encoder_layer_8,87,11,summary,canine,-0.229889
+encoder_layer_8,96,0,initial,ruddy turnstone,0.531723
+encoder_layer_8,96,0,initial,weimaraner,0.521015
+encoder_layer_8,96,0,initial,banded gecko,0.410468
+encoder_layer_8,96,0,initial,tiger,0.337242
+encoder_layer_8,96,0,initial,paper towel,0.249372
+encoder_layer_8,96,0,initial,dishwasher,0.124087
+encoder_layer_8,96,0,initial,clumber,0.067209
+encoder_layer_8,96,0,initial,thatch,0.013662
+encoder_layer_8,96,0,initial,kite,-0.025813
+encoder_layer_8,96,0,initial,otter,-0.102759
+encoder_layer_8,96,1,iteration,stripes,0.280423
+encoder_layer_8,96,2,iteration,banded animal,0.308829
+encoder_layer_8,96,3,iteration,banded animal,0.308829
+encoder_layer_8,96,4,iteration,color pattern,0.045869
+encoder_layer_8,96,5,iteration,horizontal stripes animal,0.277683
+encoder_layer_8,96,6,iteration,coloration,0.046057
+encoder_layer_8,96,7,iteration,horizontal banding,0.063266
+encoder_layer_8,96,8,iteration,banding,0.141968
+encoder_layer_8,96,9,iteration,striped animal,0.337361
+encoder_layer_8,96,10,iteration,patterned animal,0.120905
+encoder_layer_8,96,11,summary,brown coloring,0.131789
+encoder_layer_8,107,0,initial,tiger,0.196437
+encoder_layer_8,107,0,initial,hummingbird,0.139957
+encoder_layer_8,107,0,initial,timber wolf,0.139761
+encoder_layer_8,107,0,initial,safe,0.076242
+encoder_layer_8,107,0,initial,ambulance,0.024191
+encoder_layer_8,107,0,initial,nematode,0.018028
+encoder_layer_8,107,0,initial,cardigan welsh corgi,-0.049446
+encoder_layer_8,107,0,initial,submarine,-0.055937
+encoder_layer_8,107,0,initial,odometer,-0.090340
+encoder_layer_8,107,0,initial,bagel,-0.377662
+encoder_layer_8,107,1,iteration,feral animal,-0.050982
+encoder_layer_8,107,2,iteration,clawed animal,-0.050331
+encoder_layer_8,107,3,iteration,wild animal,0.062912
+encoder_layer_8,107,4,iteration,sharp claw,0.080963
+encoder_layer_8,107,5,iteration,sharp feature,-0.042109
+encoder_layer_8,107,6,iteration,predator,0.141026
+encoder_layer_8,107,7,iteration,wildlife,-0.158806
+encoder_layer_8,107,8,iteration,sharp tooth,-0.186442
+encoder_layer_8,107,9,iteration,deadly animal,0.100844
+encoder_layer_8,107,10,iteration,ferocity,0.013138
+encoder_layer_8,107,11,summary,mammal,0.019556
+encoder_layer_8,112,0,initial,spider web,0.346156
+encoder_layer_8,112,0,initial,house finch,0.262246
+encoder_layer_8,112,0,initial,garden spider,0.166174
+encoder_layer_8,112,0,initial,harvestman,0.132069
+encoder_layer_8,112,0,initial,pomeranian,0.107493
+encoder_layer_8,112,0,initial,container ship,-0.019263
+encoder_layer_8,112,0,initial,eskimo dog,-0.064037
+encoder_layer_8,112,0,initial,desk,-0.100652
+encoder_layer_8,112,0,initial,standard schnauzer,-0.240073
+encoder_layer_8,112,0,initial,worm fence,-0.242470
+encoder_layer_8,112,1,iteration,arachnid,-0.049064
+encoder_layer_8,112,2,iteration,nesting bird,-0.006502
+encoder_layer_8,112,3,iteration,web,0.460487
+encoder_layer_8,112,4,iteration,spiderwork,0.382745
+encoder_layer_8,112,5,iteration,mesh,0.211426
+encoder_layer_8,112,6,iteration,network,0.591816
+encoder_layer_8,112,7,iteration,interconnect,0.038575
+encoder_layer_8,112,8,iteration,pattern,-0.035713
+encoder_layer_8,112,9,iteration,threads,-0.213416
+encoder_layer_8,112,10,iteration,connection lines,0.305637
+encoder_layer_8,112,11,summary,interconnectedness,0.408874
+encoder_layer_8,117,0,initial,speedboat,0.386953
+encoder_layer_8,117,0,initial,little blue heron,0.308125
+encoder_layer_8,117,0,initial,gasmask,0.220904
+encoder_layer_8,117,0,initial,brass,0.200538
+encoder_layer_8,117,0,initial,dogsled,0.166962
+encoder_layer_8,117,0,initial,proboscis monkey,0.143158
+encoder_layer_8,117,0,initial,bullet train,0.106769
+encoder_layer_8,117,0,initial,box turtle,0.007730
+encoder_layer_8,117,0,initial,syringe,-0.007227
+encoder_layer_8,117,0,initial,briard,-0.071488
+encoder_layer_8,117,1,iteration,safety gear,0.182664
+encoder_layer_8,117,2,iteration,breathing mask,0.220797
+encoder_layer_8,117,3,iteration,face shield,0.041968
+encoder_layer_8,117,4,iteration,windscreen,-0.188155
+encoder_layer_8,117,5,iteration,gas tube,0.278021
+encoder_layer_8,117,6,iteration,protection gear,0.072710
+encoder_layer_8,117,7,iteration,shielding,0.064466
+encoder_layer_8,117,8,iteration,air shield,0.050386
+encoder_layer_8,117,9,iteration,gas shield,0.258648
+encoder_layer_8,117,10,iteration,mask,0.114327
+encoder_layer_8,117,11,summary,watercraft,0.115469
+encoder_layer_8,120,0,initial,ground beetle,0.129348
+encoder_layer_8,120,0,initial,dung beetle,0.106151
+encoder_layer_8,120,0,initial,great grey owl,0.001967
+encoder_layer_8,120,0,initial,spiny lobster,-0.011931
+encoder_layer_8,120,0,initial,magpie,-0.017568
+encoder_layer_8,120,0,initial,banded gecko,-0.067025
+encoder_layer_8,120,0,initial,tench,-0.087819
+encoder_layer_8,120,0,initial,arctic fox,-0.118230
+encoder_layer_8,120,0,initial,tub,-0.130059
+encoder_layer_8,120,0,initial,digital clock,-0.164961
+encoder_layer_8,120,1,iteration,roller,-0.115040
+encoder_layer_8,120,2,iteration,ground dweller,-0.089635
+encoder_layer_8,120,3,iteration,insect roller,-0.017364
+encoder_layer_8,120,4,iteration,beetle roller,0.011878
+encoder_layer_8,120,5,iteration,scarab,0.053223
+encoder_layer_8,120,6,iteration,beetle,0.032981
+encoder_layer_8,120,7,iteration,ground insect,0.112244
+encoder_layer_8,120,8,iteration,ground dweller,-0.089635
+encoder_layer_8,120,9,iteration,ground insect,0.112244
+encoder_layer_8,120,10,iteration,ground roller,-0.185409
+encoder_layer_8,120,11,summary,ground insect,0.112244
+encoder_layer_8,126,0,initial,car wheel,0.575166
+encoder_layer_8,126,0,initial,photocopier,0.529949
+encoder_layer_8,126,0,initial,dalmatian,0.509947
+encoder_layer_8,126,0,initial,apiary,0.456500
+encoder_layer_8,126,0,initial,groenendael,0.402455
+encoder_layer_8,126,0,initial,coil,0.376746
+encoder_layer_8,126,0,initial,beach wagon,0.338165
+encoder_layer_8,126,0,initial,panpipe,0.291047
+encoder_layer_8,126,0,initial,moving van,0.227920
+encoder_layer_8,126,0,initial,pot,0.074332
+encoder_layer_8,126,1,iteration,cylinder,0.211140
+encoder_layer_8,126,2,iteration,round shape,0.143622
+encoder_layer_8,126,3,iteration,ring,0.241041
+encoder_layer_8,126,4,iteration,rotating circle,0.427484
+encoder_layer_8,126,5,iteration,spokes,0.406553
+encoder_layer_8,126,6,iteration,moving wheel,0.539153
+encoder_layer_8,126,7,iteration,turntable,0.142794
+encoder_layer_8,126,8,iteration,sectioned circle,0.448694
+encoder_layer_8,126,9,iteration,multi-part circle,0.309273
+encoder_layer_8,126,10,iteration,hub,0.275821
+encoder_layer_8,126,11,summary,rotating motion,0.534397
+encoder_layer_8,136,0,initial,ringlet,0.092450
+encoder_layer_8,136,0,initial,running shoe,0.025358
+encoder_layer_8,136,0,initial,tibetan mastiff,-0.034703
+encoder_layer_8,136,0,initial,monarch,-0.040874
+encoder_layer_8,136,0,initial,odometer,-0.054133
+encoder_layer_8,136,0,initial,knee pad,-0.081717
+encoder_layer_8,136,0,initial,mitten,-0.138138
+encoder_layer_8,136,0,initial,worm fence,-0.181132
+encoder_layer_8,136,0,initial,tusker,-0.375273
+encoder_layer_8,136,0,initial,harvester,-0.403332
+encoder_layer_8,136,1,iteration,sole,0.158744
+encoder_layer_8,136,2,iteration,shoe sole,-0.022012
+encoder_layer_8,136,3,iteration,outsole,-0.008258
+encoder_layer_8,136,4,iteration,bottom part,-0.062129
+encoder_layer_8,136,5,iteration,round base,-0.186066
+encoder_layer_8,136,6,iteration,base,-0.273695
+encoder_layer_8,136,7,iteration,rounded edge,-0.078472
+encoder_layer_8,136,8,iteration,shoe part,0.118817
+encoder_layer_8,136,9,iteration,footwear,-0.033097
+encoder_layer_8,136,10,iteration,heel,0.075773
+encoder_layer_8,136,11,summary,footwear part,-0.052748
+encoder_layer_8,140,0,initial,hay,0.244513
+encoder_layer_8,140,0,initial,hot pot,0.134390
+encoder_layer_8,140,0,initial,chickadee,0.133132
+encoder_layer_8,140,0,initial,vase,0.012251
+encoder_layer_8,140,0,initial,breakwater,-0.004142
+encoder_layer_8,140,0,initial,african elephant,-0.023272
+encoder_layer_8,140,0,initial,indian elephant,-0.025818
+encoder_layer_8,140,0,initial,passenger car,-0.059286
+encoder_layer_8,140,0,initial,bearskin,-0.164501
+encoder_layer_8,140,0,initial,grasshopper,-0.180280
+encoder_layer_8,140,1,iteration,dry grass,0.199181
+encoder_layer_8,140,2,iteration,hayfield,0.270764
+encoder_layer_8,140,3,iteration,dried grass,0.180940
+encoder_layer_8,140,4,iteration,harvested grass,0.038434
+encoder_layer_8,140,5,iteration,hay bale,0.193540
+encoder_layer_8,140,6,iteration,dried plant,-0.051065
+encoder_layer_8,140,7,iteration,haystack,0.192682
+encoder_layer_8,140,8,iteration,bundled grass,0.048060
+encoder_layer_8,140,9,iteration,grass stack,0.073019
+encoder_layer_8,140,10,iteration,bundled,-0.133203
+encoder_layer_8,140,11,summary,agricultural context,0.042356
+encoder_layer_8,159,0,initial,lipstick,0.515725
+encoder_layer_8,159,0,initial,maraca,0.512796
+encoder_layer_8,159,0,initial,barrel,0.503523
+encoder_layer_8,159,0,initial,ping-pong ball,0.460530
+encoder_layer_8,159,0,initial,soap dispenser,0.445493
+encoder_layer_8,159,0,initial,abacus,0.429807
+encoder_layer_8,159,0,initial,dugong,0.376593
+encoder_layer_8,159,0,initial,drake,0.229350
+encoder_layer_8,159,0,initial,green lizard,0.168833
+encoder_layer_8,159,0,initial,thatch,0.129474
+encoder_layer_8,159,1,iteration,round object,0.356131
+encoder_layer_8,159,2,iteration,container,0.444726
+encoder_layer_8,159,3,iteration,cylinder,0.379618
+encoder_layer_8,159,4,iteration,circular container,0.252838
+encoder_layer_8,159,5,iteration,barrel shape,0.581121
+encoder_layer_8,159,6,iteration,lipstick shape,0.444015
+encoder_layer_8,159,7,iteration,lipstick case,0.469885
+encoder_layer_8,159,8,iteration,rounded shape,0.301729
+encoder_layer_8,159,9,iteration,cylinderic,0.366851
+encoder_layer_8,159,10,iteration,maraca,0.512796
+encoder_layer_8,159,11,summary,rounded shape,0.301729
+encoder_layer_8,169,0,initial,worm fence,0.195087
+encoder_layer_8,169,0,initial,spotted salamander,0.150177
+encoder_layer_8,169,0,initial,gyromitra,0.089827
+encoder_layer_8,169,0,initial,golf ball,0.088691
+encoder_layer_8,169,0,initial,stone wall,0.081486
+encoder_layer_8,169,0,initial,whiptail,0.058764
+encoder_layer_8,169,0,initial,cliff dwelling,0.048358
+encoder_layer_8,169,0,initial,wine bottle,0.014822
+encoder_layer_8,169,0,initial,lycaenid,-0.004342
+encoder_layer_8,169,0,initial,cocker spaniel,-0.079570
+encoder_layer_8,169,1,iteration,hole pattern,0.177095
+encoder_layer_8,169,2,iteration,fence pattern,0.049772
+encoder_layer_8,169,3,iteration,grid pattern,-0.012439
+encoder_layer_8,169,4,iteration,burrow,-0.004635
+encoder_layer_8,169,5,iteration,hole pattern,0.177095
+encoder_layer_8,169,6,iteration,dimpled surface,0.214786
+encoder_layer_8,169,7,iteration,pockmarked,-0.115967
+encoder_layer_8,169,8,iteration,pockmark pattern,-0.037874
+encoder_layer_8,169,9,iteration,pockmarks,0.212965
+encoder_layer_8,169,10,iteration,pockered surface,0.025147
+encoder_layer_8,169,11,summary,small imperfections,-0.023809
+encoder_layer_8,183,0,initial,jeep,0.371971
+encoder_layer_8,183,0,initial,black grouse,0.267703
+encoder_layer_8,183,0,initial,bison,0.249462
+encoder_layer_8,183,0,initial,limpkin,0.200688
+encoder_layer_8,183,0,initial,beaver,0.197682
+encoder_layer_8,183,0,initial,snowplow,0.177129
+encoder_layer_8,183,0,initial,wreck,0.032717
+encoder_layer_8,183,0,initial,screen,-0.006923
+encoder_layer_8,183,0,initial,pirate,-0.019921
+encoder_layer_8,183,0,initial,mountain tent,-0.107235
+encoder_layer_8,183,1,iteration,land vehicle,0.143933
+encoder_layer_8,183,2,iteration,off-road vehicle,0.226705
+encoder_layer_8,183,3,iteration,four-wheel drive,0.230823
+encoder_layer_8,183,4,iteration,tundra runner,-0.064887
+encoder_layer_8,183,5,iteration,vehicle,0.232982
+encoder_layer_8,183,6,iteration,rugged vehicle,0.159299
+encoder_layer_8,183,7,iteration,all-terrain,0.219540
+encoder_layer_8,183,8,iteration,wilderness explorer,-0.170460
+encoder_layer_8,183,9,iteration,four wheeler,-0.061040
+encoder_layer_8,183,10,iteration,jeep,0.371971
+encoder_layer_8,183,11,summary,four legs,-0.030023
+encoder_layer_8,195,0,initial,cauliflower,0.257191
+encoder_layer_8,195,0,initial,odometer,0.249215
+encoder_layer_8,195,0,initial,cheetah,0.204997
+encoder_layer_8,195,0,initial,indigo bunting,0.077681
+encoder_layer_8,195,0,initial,teddy,0.044640
+encoder_layer_8,195,0,initial,brass,0.032745
+encoder_layer_8,195,0,initial,capuchin,-0.009486
+encoder_layer_8,195,0,initial,bikini,-0.037155
+encoder_layer_8,195,0,initial,cup,-0.048264
+encoder_layer_8,195,0,initial,slide rule,-0.290834
+encoder_layer_8,195,1,iteration,gauge,0.196398
+encoder_layer_8,195,2,iteration,vehicle gauge,0.269629
+encoder_layer_8,195,3,iteration,dial,0.031596
+encoder_layer_8,195,4,iteration,pointer,0.072642
+encoder_layer_8,195,5,iteration,scale,-0.113842
+encoder_layer_8,195,6,iteration,round shape,0.110224
+encoder_layer_8,195,7,iteration,circle gauge,0.259304
+encoder_layer_8,195,8,iteration,circle,0.171982
+encoder_layer_8,195,9,iteration,measuring circle,0.084553
+encoder_layer_8,195,10,iteration,round object,-0.088288
+encoder_layer_8,195,11,summary,circular shape,0.146979
+encoder_layer_8,220,0,initial,komodo dragon,0.633737
+encoder_layer_8,220,0,initial,cliff dwelling,0.545004
+encoder_layer_8,220,0,initial,dung beetle,0.492860
+encoder_layer_8,220,0,initial,ambulance,0.227245
+encoder_layer_8,220,0,initial,cairn,0.205563
+encoder_layer_8,220,0,initial,reel,0.203230
+encoder_layer_8,220,0,initial,disk brake,0.109937
+encoder_layer_8,220,0,initial,hare,0.091831
+encoder_layer_8,220,0,initial,standard schnauzer,0.090106
+encoder_layer_8,220,0,initial,freight car,0.023010
+encoder_layer_8,220,1,iteration,overhang,0.437936
+encoder_layer_8,220,2,iteration,rocky terrain,0.404841
+encoder_layer_8,220,3,iteration,rock shelter,0.614565
+encoder_layer_8,220,4,iteration,stone pile,0.067565
+encoder_layer_8,220,5,iteration,arch,0.003078
+encoder_layer_8,220,6,iteration,cave,0.483918
+encoder_layer_8,220,7,iteration,rock formation,0.574519
+encoder_layer_8,220,8,iteration,rocky habitat,0.496707
+encoder_layer_8,220,9,iteration,rock mass,0.425324
+encoder_layer_8,220,10,iteration,rocky outcropping,0.531562
+encoder_layer_8,220,11,summary,wild terrain,0.174218
+encoder_layer_8,236,0,initial,china cabinet,0.321411
+encoder_layer_8,236,0,initial,sock,0.202390
+encoder_layer_8,236,0,initial,go-kart,0.196365
+encoder_layer_8,236,0,initial,sidewinder,0.170901
+encoder_layer_8,236,0,initial,pedestal,0.160890
+encoder_layer_8,236,0,initial,puck,0.115111
+encoder_layer_8,236,0,initial,goldfinch,-0.010461
+encoder_layer_8,236,0,initial,colobus,-0.055491
+encoder_layer_8,236,0,initial,pickelhaube,-0.071442
+encoder_layer_8,236,0,initial,bookcase,-0.072556
+encoder_layer_8,236,1,iteration,pedestal,0.160890
+encoder_layer_8,236,2,iteration,display case,0.256880
+encoder_layer_8,236,3,iteration,storage unit,0.005499
+encoder_layer_8,236,4,iteration,container,0.101669
+encoder_layer_8,236,5,iteration,furniture,0.203080
+encoder_layer_8,236,6,iteration,base stand,0.035682
+encoder_layer_8,236,7,iteration,shelf,0.198882
+encoder_layer_8,236,8,iteration,holder,0.034876
+encoder_layer_8,236,9,iteration,cabinet,0.344076
+encoder_layer_8,236,10,iteration,vertical unit,-0.066762
+encoder_layer_8,236,11,summary,glass component,0.057889
+encoder_layer_8,239,0,initial,brittany spaniel,0.200217
+encoder_layer_8,239,0,initial,entlebucher,0.191746
+encoder_layer_8,239,0,initial,bulbul,0.172261
+encoder_layer_8,239,0,initial,labrador retriever,0.119017
+encoder_layer_8,239,0,initial,african hunting dog,0.104388
+encoder_layer_8,239,0,initial,hartebeest,0.064006
+encoder_layer_8,239,0,initial,ipod,0.031659
+encoder_layer_8,239,0,initial,banjo,-0.008768
+encoder_layer_8,239,0,initial,robin,-0.035664
+encoder_layer_8,239,0,initial,shopping basket,-0.096990
+encoder_layer_8,239,1,iteration,canine,0.055587
+encoder_layer_8,239,2,iteration,dog breed,0.057420
+encoder_layer_8,239,3,iteration,breed dog,0.204787
+encoder_layer_8,239,4,iteration,long muzzle,0.022217
+encoder_layer_8,239,5,iteration,spaniel,0.234804
+encoder_layer_8,239,6,iteration,long faced dog,0.183329
+encoder_layer_8,239,7,iteration,faced dog,0.228285
+encoder_layer_8,239,8,iteration,muzzle,0.140399
+encoder_layer_8,239,9,iteration,snout,0.021767
+encoder_layer_8,239,10,iteration,facial features,0.017683
+encoder_layer_8,239,11,summary,specific breed,0.114211
+encoder_layer_8,245,0,initial,persian cat,0.588286
+encoder_layer_8,245,0,initial,arctic fox,0.321275
+encoder_layer_8,245,0,initial,french loaf,0.299356
+encoder_layer_8,245,0,initial,airliner,0.285177
+encoder_layer_8,245,0,initial,clumber,0.255460
+encoder_layer_8,245,0,initial,tusker,0.250584
+encoder_layer_8,245,0,initial,carbonara,0.245416
+encoder_layer_8,245,0,initial,jellyfish,0.215997
+encoder_layer_8,245,0,initial,steel arch bridge,0.116731
+encoder_layer_8,245,0,initial,red fox,-0.087642
+encoder_layer_8,245,1,iteration,long coat,0.167550
+encoder_layer_8,245,2,iteration,domesticated fox,-0.073308
+encoder_layer_8,245,3,iteration,furry animal,0.320747
+encoder_layer_8,245,4,iteration,white coat,0.282113
+encoder_layer_8,245,5,iteration,fox,-0.071467
+encoder_layer_8,245,6,iteration,thick fur,0.557804
+encoder_layer_8,245,7,iteration,feline,0.247572
+encoder_layer_8,245,8,iteration,(ignore this),0.213985
+encoder_layer_8,245,9,iteration,thick coat,0.404008
+encoder_layer_8,245,10,iteration,cold climate,0.255063
+encoder_layer_8,245,11,summary,thick fur,0.557804
+encoder_layer_8,252,0,initial,projector,0.244033
+encoder_layer_8,252,0,initial,carbonara,0.241957
+encoder_layer_8,252,0,initial,screw,0.183210
+encoder_layer_8,252,0,initial,ashcan,0.151091
+encoder_layer_8,252,0,initial,flagpole,0.142590
+encoder_layer_8,252,0,initial,cauliflower,0.130261
+encoder_layer_8,252,0,initial,gibbon,0.074082
+encoder_layer_8,252,0,initial,fireboat,0.072521
+encoder_layer_8,252,0,initial,organ,0.032725
+encoder_layer_8,252,0,initial,european gallinule,-0.033105
+encoder_layer_8,252,1,iteration,skewer,0.003015
+encoder_layer_8,252,2,iteration,food display,0.146283
+encoder_layer_8,252,3,iteration,vertical object,0.089914
+encoder_layer_8,252,4,iteration,pole,0.231947
+encoder_layer_8,252,5,iteration,elongated object,0.162177
+encoder_layer_8,252,6,iteration,long thin shape,0.131325
+encoder_layer_8,252,7,iteration,cylinder,0.113818
+encoder_layer_8,252,8,iteration,narrow rod,0.053719
+encoder_layer_8,252,9,iteration,rod-like object,0.063741
+encoder_layer_8,252,10,iteration,stick,-0.026027
+encoder_layer_8,252,11,summary,long thin shape,0.131325
+encoder_layer_8,255,0,initial,carbonara,0.756732
+encoder_layer_8,255,0,initial,jack-o'-lantern,0.475564
+encoder_layer_8,255,0,initial,daisy,0.369619
+encoder_layer_8,255,0,initial,harvestman,0.235453
+encoder_layer_8,255,0,initial,stingray,0.185059
+encoder_layer_8,255,0,initial,minibus,0.173416
+encoder_layer_8,255,0,initial,dishrag,0.073965
+encoder_layer_8,255,0,initial,pay-phone,0.068042
+encoder_layer_8,255,0,initial,garter snake,0.054997
+encoder_layer_8,255,0,initial,moped,0.013397
+encoder_layer_8,255,1,iteration,round food,0.314739
+encoder_layer_8,255,2,iteration,autumn treat,0.218760
+encoder_layer_8,255,3,iteration,fall dish,0.314686
+encoder_layer_8,255,4,iteration,pasta dish,0.392034
+encoder_layer_8,255,5,iteration,fall food,0.303656
+encoder_layer_8,255,6,iteration,halloween food,0.409812
+encoder_layer_8,255,7,iteration,pumpkin,0.209463
+encoder_layer_8,255,8,iteration,round dish,-0.116507
+encoder_layer_8,255,9,iteration,holiday dish,0.310402
+encoder_layer_8,255,10,iteration,carved food,0.654475
+encoder_layer_8,255,11,summary,carved food,0.654475
+encoder_layer_8,262,0,initial,tiger shark,0.286405
+encoder_layer_8,262,0,initial,american egret,0.257534
+encoder_layer_8,262,0,initial,washbasin,0.228218
+encoder_layer_8,262,0,initial,spaghetti squash,0.091379
+encoder_layer_8,262,0,initial,clumber,0.038721
+encoder_layer_8,262,0,initial,grille,0.026726
+encoder_layer_8,262,0,initial,great grey owl,-0.040758
+encoder_layer_8,262,0,initial,granny smith,-0.051168
+encoder_layer_8,262,0,initial,ballplayer,-0.076003
+encoder_layer_8,262,0,initial,frilled lizard,-0.141670
+encoder_layer_8,262,1,iteration,pointed beak,0.066297
+encoder_layer_8,262,2,iteration,pointed snout,-0.074900
+encoder_layer_8,262,3,iteration,bill,-0.103684
+encoder_layer_8,262,4,iteration,beaked animal,-0.047508
+encoder_layer_8,262,5,iteration,sharpness,-0.044266
+encoder_layer_8,262,6,iteration,sharp feature,-0.016987
+encoder_layer_8,262,7,iteration,bird beak,-0.033461
+encoder_layer_8,262,8,iteration,projection,0.138606
+encoder_layer_8,262,9,iteration,predator,-0.199473
+encoder_layer_8,262,10,iteration,fishhook,0.124450
+encoder_layer_8,262,11,summary,large predator,-0.254388
+encoder_layer_8,268,0,initial,pizza,0.647596
+encoder_layer_8,268,0,initial,leafhopper,0.332260
+encoder_layer_8,268,0,initial,lacewing,0.305567
+encoder_layer_8,268,0,initial,lycaenid,0.248269
+encoder_layer_8,268,0,initial,home theater,0.147823
+encoder_layer_8,268,0,initial,guacamole,0.122525
+encoder_layer_8,268,0,initial,radiator,0.013210
+encoder_layer_8,268,0,initial,soccer ball,-0.095550
+encoder_layer_8,268,0,initial,volcano,-0.116743
+encoder_layer_8,268,0,initial,arctic fox,-0.137084
+encoder_layer_8,268,1,iteration,dough,0.094587
+encoder_layer_8,268,2,iteration,circular food,-0.000035
+encoder_layer_8,268,3,iteration,rounded food,0.017328
+encoder_layer_8,268,4,iteration,round food,0.072176
+encoder_layer_8,268,5,iteration,oval insect,0.139600
+encoder_layer_8,268,6,iteration,insect food,-0.109338
+encoder_layer_8,268,7,iteration,dip,0.196398
+encoder_layer_8,268,8,iteration,flatbread,0.302695
+encoder_layer_8,268,9,iteration,edible round food,-0.033046
+encoder_layer_8,268,10,iteration,edible round shape,-0.028462
+encoder_layer_8,268,11,summary,insect,0.142818
+encoder_layer_8,272,0,initial,oystercatcher,0.286858
+encoder_layer_8,272,0,initial,leonberg,0.196943
+encoder_layer_8,272,0,initial,rock python,0.168331
+encoder_layer_8,272,0,initial,tibetan mastiff,0.164568
+encoder_layer_8,272,0,initial,japanese spaniel,0.156360
+encoder_layer_8,272,0,initial,rotisserie,0.139872
+encoder_layer_8,272,0,initial,mouse,0.118418
+encoder_layer_8,272,0,initial,blenheim spaniel,0.065975
+encoder_layer_8,272,0,initial,rugby ball,0.017506
+encoder_layer_8,272,0,initial,hen-of-the-woods,-0.022315
+encoder_layer_8,272,1,iteration,giant animal,-0.009280
+encoder_layer_8,272,2,iteration,beaked face,-0.348615
+encoder_layer_8,272,3,iteration,beaked dog,-0.103227
+encoder_layer_8,272,4,iteration,long muzzle,0.163120
+encoder_layer_8,272,5,iteration,snout,-0.026620
+encoder_layer_8,272,6,iteration,beaked head,0.097074
+encoder_layer_8,272,7,iteration,beak-like,0.023903
+encoder_layer_8,272,8,iteration,large beaked dog,0.018488
+encoder_layer_8,272,9,iteration,dog breed,-0.076718
+encoder_layer_8,272,10,iteration,bird beak,0.111426
+encoder_layer_8,272,11,summary,bird-like animal,0.167968
+encoder_layer_8,279,0,initial,red wolf,0.209898
+encoder_layer_8,279,0,initial,lynx,0.075501
+encoder_layer_8,279,0,initial,lakeland terrier,0.054954
+encoder_layer_8,279,0,initial,porcupine,0.045652
+encoder_layer_8,279,0,initial,grey fox,0.026688
+encoder_layer_8,279,0,initial,langur,0.010756
+encoder_layer_8,279,0,initial,patas,-0.013819
+encoder_layer_8,279,0,initial,medicine chest,-0.092311
+encoder_layer_8,279,0,initial,photocopier,-0.458567
+encoder_layer_8,279,0,initial,snowplow,-0.629263
+encoder_layer_8,279,1,iteration,red mammal,-0.095536
+encoder_layer_8,279,2,iteration,wild animal,0.048646
+encoder_layer_8,279,3,iteration,mammal,-0.009974
+encoder_layer_8,279,4,iteration,red fur,-0.009590
+encoder_layer_8,279,5,iteration,red coat,-0.249887
+encoder_layer_8,279,6,iteration,red animal,-0.162526
+encoder_layer_8,279,7,iteration,coated animal,-0.038399
+encoder_layer_8,279,8,iteration,red wolf,0.209898
+encoder_layer_8,279,9,iteration,red coat,-0.249887
+encoder_layer_8,279,10,iteration,red animal,-0.162526
+encoder_layer_8,279,11,summary,wolf species,0.144298
+encoder_layer_8,291,0,initial,brain coral,0.134583
+encoder_layer_8,291,0,initial,hamster,0.105917
+encoder_layer_8,291,0,initial,flatworm,0.044732
+encoder_layer_8,291,0,initial,polecat,-0.004371
+encoder_layer_8,291,0,initial,eel,-0.015923
+encoder_layer_8,291,0,initial,stinkhorn,-0.069278
+encoder_layer_8,291,0,initial,quilt,-0.116575
+encoder_layer_8,291,0,initial,rock beauty,-0.118343
+encoder_layer_8,291,0,initial,barracouta,-0.268659
+encoder_layer_8,291,0,initial,saluki,-0.271237
+encoder_layer_8,291,1,iteration,globe,-0.104979
+encoder_layer_8,291,2,iteration,rounded creature,-0.122898
+encoder_layer_8,291,3,iteration,marine animal,0.011301
+encoder_layer_8,291,4,iteration,rounded body,-0.120112
+encoder_layer_8,291,5,iteration,rounded organism,0.025523
+encoder_layer_8,291,6,iteration,round animal,-0.081816
+encoder_layer_8,291,7,iteration,small sphere,-0.051138
+encoder_layer_8,291,8,iteration,ball,-0.100009
+encoder_layer_8,291,9,iteration,rounded animal,-0.059441
+encoder_layer_8,291,10,iteration,rounded mammal,0.035761
+encoder_layer_8,291,11,summary,aquatic organism,-0.104382
+encoder_layer_8,294,0,initial,cauliflower,0.269000
+encoder_layer_8,294,0,initial,broccoli,0.265512
+encoder_layer_8,294,0,initial,screw,0.247714
+encoder_layer_8,294,0,initial,leafhopper,0.179049
+encoder_layer_8,294,0,initial,brittany spaniel,0.095922
+encoder_layer_8,294,0,initial,brass,0.078166
+encoder_layer_8,294,0,initial,strawberry,0.051902
+encoder_layer_8,294,0,initial,crane2,0.024256
+encoder_layer_8,294,0,initial,sliding door,-0.031225
+encoder_layer_8,294,0,initial,go-kart,-0.075454
+encoder_layer_8,294,1,iteration,florets,0.098602
+encoder_layer_8,294,2,iteration,vegetable florets,0.056160
+encoder_layer_8,294,3,iteration,vegetable,0.124383
+encoder_layer_8,294,4,iteration,clustered growth,-0.064283
+encoder_layer_8,294,5,iteration,tight buds,0.031647
+encoder_layer_8,294,6,iteration,green buds,0.028880
+encoder_layer_8,294,7,iteration,buds,0.121358
+encoder_layer_8,294,8,iteration,small clusters,0.096986
+encoder_layer_8,294,9,iteration,tight florets,-0.040139
+encoder_layer_8,294,10,iteration,tight groupings,-0.001997
+encoder_layer_8,294,11,summary,vegetable,0.124383
+encoder_layer_8,295,0,initial,chickadee,0.310040
+encoder_layer_8,295,0,initial,african hunting dog,0.255853
+encoder_layer_8,295,0,initial,jacamar,0.250205
+encoder_layer_8,295,0,initial,odometer,0.167752
+encoder_layer_8,295,0,initial,otter,0.142590
+encoder_layer_8,295,0,initial,moving van,0.070090
+encoder_layer_8,295,0,initial,robin,-0.018211
+encoder_layer_8,295,0,initial,rock beauty,-0.040303
+encoder_layer_8,295,0,initial,warplane,-0.046439
+encoder_layer_8,295,0,initial,cradle,-0.178182
+encoder_layer_8,295,1,iteration,small bird,0.053611
+encoder_layer_8,295,2,iteration,birdlet,0.053443
+encoder_layer_8,295,3,iteration,songbird,0.078818
+encoder_layer_8,295,4,iteration,winged creature,0.115129
+encoder_layer_8,295,5,iteration,small bird,0.053611
+encoder_layer_8,295,6,iteration,bird,0.188478
+encoder_layer_8,295,7,iteration,flying animal,0.098578
+encoder_layer_8,295,8,iteration,songless bird,0.157534
+encoder_layer_8,295,9,iteration,flying creature,-0.043154
+encoder_layer_8,295,10,iteration,song,0.035097
+encoder_layer_8,295,11,summary,bird,0.188478
+encoder_layer_8,301,0,initial,colobus,0.308706
+encoder_layer_8,301,0,initial,shetland sheepdog,0.221437
+encoder_layer_8,301,0,initial,japanese spaniel,0.217508
+encoder_layer_8,301,0,initial,yellow lady's slipper,0.166915
+encoder_layer_8,301,0,initial,abaya,0.117260
+encoder_layer_8,301,0,initial,wing,0.101985
+encoder_layer_8,301,0,initial,iron,-0.086959
+encoder_layer_8,301,0,initial,crayfish,-0.138273
+encoder_layer_8,301,0,initial,green snake,-0.138969
+encoder_layer_8,301,0,initial,chesapeake bay retriever,-0.221400
+encoder_layer_8,301,1,iteration,coat pattern,0.185236
+encoder_layer_8,301,2,iteration,furry coat,-0.074964
+encoder_layer_8,301,3,iteration,breed,0.107391
+encoder_layer_8,301,4,iteration,multicolored,0.082358
+encoder_layer_8,301,5,iteration,colorful,0.063719
+encoder_layer_8,301,6,iteration,spot coat,-0.006875
+encoder_layer_8,301,7,iteration,unique coat,0.198868
+encoder_layer_8,301,8,iteration,dog coat,0.019896
+encoder_layer_8,301,9,iteration,fur,-0.016628
+encoder_layer_8,301,10,iteration,distinctive markings,-0.160548
+encoder_layer_8,301,11,summary,primate or dog,0.090901
+encoder_layer_8,309,0,initial,chainlink fence,0.457927
+encoder_layer_8,309,0,initial,spider web,0.236389
+encoder_layer_8,309,0,initial,handkerchief,0.154305
+encoder_layer_8,309,0,initial,hognose snake,0.148129
+encoder_layer_8,309,0,initial,sea urchin,0.131929
+encoder_layer_8,309,0,initial,gondola,0.044159
+encoder_layer_8,309,0,initial,assault rifle,-0.004224
+encoder_layer_8,309,0,initial,alp,-0.017719
+encoder_layer_8,309,0,initial,custard apple,-0.048592
+encoder_layer_8,309,0,initial,french bulldog,-0.159099
+encoder_layer_8,309,1,iteration,mesh,0.262720
+encoder_layer_8,309,2,iteration,chain web,0.158942
+encoder_layer_8,309,3,iteration,grid pattern,0.009905
+encoder_layer_8,309,4,iteration,interlock,0.071741
+encoder_layer_8,309,5,iteration,chain pattern,0.053841
+encoder_layer_8,309,6,iteration,chainlink,0.422917
+encoder_layer_8,309,7,iteration,interconnected links,0.265318
+encoder_layer_8,309,8,iteration,linkage,-0.002100
+encoder_layer_8,309,9,iteration,netting,0.314605
+encoder_layer_8,309,10,iteration,webbing,0.058734
+encoder_layer_8,309,11,summary,mesh structure,0.193078
+encoder_layer_8,314,0,initial,barometer,0.358600
+encoder_layer_8,314,0,initial,electric fan,0.356705
+encoder_layer_8,314,0,initial,odometer,0.338829
+encoder_layer_8,314,0,initial,manhole cover,0.229390
+encoder_layer_8,314,0,initial,tarantula,-0.016731
+encoder_layer_8,314,0,initial,table lamp,-0.051505
+encoder_layer_8,314,0,initial,puck,-0.064597
+encoder_layer_8,314,0,initial,freight car,-0.110160
+encoder_layer_8,314,0,initial,admiral,-0.150563
+encoder_layer_8,314,0,initial,chihuahua,-0.155191
+encoder_layer_8,314,1,iteration,rotating dial,0.348108
+encoder_layer_8,314,2,iteration,round gauge,0.346371
+encoder_layer_8,314,3,iteration,gauge,0.376460
+encoder_layer_8,314,4,iteration,circular meter,0.354470
+encoder_layer_8,314,5,iteration,speedometer,0.327317
+encoder_layer_8,314,6,iteration,dial face,0.331648
+encoder_layer_8,314,7,iteration,pointer,-0.083262
+encoder_layer_8,314,8,iteration,gizmo,-0.166667
+encoder_layer_8,314,9,iteration,dial plate,0.296725
+encoder_layer_8,314,10,iteration,round measurement,0.327524
+encoder_layer_8,314,11,summary,pressure gauge,0.288361
+encoder_layer_8,318,0,initial,barometer,0.275256
+encoder_layer_8,318,0,initial,planetarium,0.180114
+encoder_layer_8,318,0,initial,bullet train,0.019803
+encoder_layer_8,318,0,initial,alp,-0.052550
+encoder_layer_8,318,0,initial,bassinet,-0.078496
+encoder_layer_8,318,0,initial,purse,-0.098990
+encoder_layer_8,318,0,initial,briard,-0.109120
+encoder_layer_8,318,0,initial,nail,-0.270484
+encoder_layer_8,318,0,initial,moped,-0.296035
+encoder_layer_8,318,0,initial,polaroid camera,-0.478682
+encoder_layer_8,318,1,iteration,celestial body,-0.001819
+encoder_layer_8,318,2,iteration,telescope,-0.105154
+encoder_layer_8,318,3,iteration,round object,0.089557
+encoder_layer_8,318,4,iteration,astronomical sphere,0.371551
+encoder_layer_8,318,5,iteration,globe,-0.076543
+encoder_layer_8,318,6,iteration,cosmic gauge,0.294086
+encoder_layer_8,318,7,iteration,cosmic gauge,0.294086
+encoder_layer_8,318,8,iteration,orbital,0.233016
+encoder_layer_8,318,9,iteration,space sphere,0.192352
+encoder_layer_8,318,10,iteration,bar,0.212404
+encoder_layer_8,318,11,summary,space measurement,0.134524
+encoder_layer_8,327,0,initial,triumphal arch,0.671411
+encoder_layer_8,327,0,initial,dowitcher,0.421286
+encoder_layer_8,327,0,initial,grocery store,0.394620
+encoder_layer_8,327,0,initial,trailer truck,0.346598
+encoder_layer_8,327,0,initial,prairie chicken,0.274714
+encoder_layer_8,327,0,initial,liner,0.188696
+encoder_layer_8,327,0,initial,chimpanzee,0.168356
+encoder_layer_8,327,0,initial,handkerchief,0.162556
+encoder_layer_8,327,0,initial,jacamar,0.073369
+encoder_layer_8,327,0,initial,vine snake,0.026694
+encoder_layer_8,327,1,iteration,arched structure,0.371343
+encoder_layer_8,327,2,iteration,monumental arch,0.335590
+encoder_layer_8,327,3,iteration,arch,0.353894
+encoder_layer_8,327,4,iteration,monument,0.284484
+encoder_layer_8,327,5,iteration,triumphal,0.358401
+encoder_layer_8,327,6,iteration,gateway,0.476424
+encoder_layer_8,327,7,iteration,entry,0.255413
+encoder_layer_8,327,8,iteration,passage,0.323598
+encoder_layer_8,327,9,iteration,entranceway,0.224808
+encoder_layer_8,327,10,iteration,rounded top,0.125049
+encoder_layer_8,327,11,summary,monumental structure,0.427537
+encoder_layer_8,330,0,initial,electric ray,0.241983
+encoder_layer_8,330,0,initial,stingray,0.215105
+encoder_layer_8,330,0,initial,rapeseed,0.173455
+encoder_layer_8,330,0,initial,volcano,0.118372
+encoder_layer_8,330,0,initial,jellyfish,0.108194
+encoder_layer_8,330,0,initial,container ship,-0.075468
+encoder_layer_8,330,0,initial,pedestal,-0.123415
+encoder_layer_8,330,0,initial,dandie dinmont,-0.190415
+encoder_layer_8,330,0,initial,lesser panda,-0.225250
+encoder_layer_8,330,0,initial,african elephant,-0.309578
+encoder_layer_8,330,1,iteration,ocean creature,0.186446
+encoder_layer_8,330,2,iteration,rayfish,0.002468
+encoder_layer_8,330,3,iteration,flatfish,-0.039119
+encoder_layer_8,330,4,iteration,ray type,0.166500
+encoder_layer_8,330,5,iteration,flat body,-0.097727
+encoder_layer_8,330,6,iteration,flatfish,-0.039119
+encoder_layer_8,330,7,iteration,disk fish,-0.050279
+encoder_layer_8,330,8,iteration,disk body,0.007027
+encoder_layer_8,330,9,iteration,disk shape,0.010945
+encoder_layer_8,330,10,iteration,disk fish,-0.050279
+encoder_layer_8,330,11,summary,aquatic animal,0.151760
+encoder_layer_8,336,0,initial,junco,0.288451
+encoder_layer_8,336,0,initial,upright,0.176442
+encoder_layer_8,336,0,initial,lynx,0.150690
+encoder_layer_8,336,0,initial,drumstick,0.119740
+encoder_layer_8,336,0,initial,freight car,0.042501
+encoder_layer_8,336,0,initial,affenpinscher,0.018225
+encoder_layer_8,336,0,initial,digital clock,-0.003419
+encoder_layer_8,336,0,initial,patas,-0.015197
+encoder_layer_8,336,0,initial,hyena,-0.110985
+encoder_layer_8,336,0,initial,military uniform,-0.146025
+encoder_layer_8,336,1,iteration,verticality,0.033205
+encoder_layer_8,336,2,iteration,junco bird,0.304707
+encoder_layer_8,336,3,iteration,bird stick,0.208885
+encoder_layer_8,336,4,iteration,upright bird,0.107238
+encoder_layer_8,336,5,iteration,stick figure,0.247069
+encoder_layer_8,336,6,iteration,small bird,0.078347
+encoder_layer_8,336,7,iteration,bird shape,0.075064
+encoder_layer_8,336,8,iteration,junco,0.288451
+encoder_layer_8,336,9,iteration,perch,-0.204576
+encoder_layer_8,336,10,iteration,bird shape stick,0.145702
+encoder_layer_8,336,11,summary,bird type,0.076606
+encoder_layer_8,343,0,initial,valley,0.340377
+encoder_layer_8,343,0,initial,sidewinder,0.217686
+encoder_layer_8,343,0,initial,horned viper,0.172730
+encoder_layer_8,343,0,initial,gila monster,0.114779
+encoder_layer_8,343,0,initial,trilobite,0.082361
+encoder_layer_8,343,0,initial,earthstar,-0.010043
+encoder_layer_8,343,0,initial,borzoi,-0.085278
+encoder_layer_8,343,0,initial,studio couch,-0.126406
+encoder_layer_8,343,0,initial,mashed potato,-0.174528
+encoder_layer_8,343,0,initial,soap dispenser,-0.194343
+encoder_layer_8,343,1,iteration,desert creature,0.044749
+encoder_layer_8,343,2,iteration,long snake,0.070989
+encoder_layer_8,343,3,iteration,herringbone pattern,0.119582
+encoder_layer_8,343,4,iteration,stripes,0.021039
+encoder_layer_8,343,5,iteration,venomous snake,0.053916
+encoder_layer_8,343,6,iteration,cactus snake,0.195250
+encoder_layer_8,343,7,iteration,herringbone,0.071915
+encoder_layer_8,343,8,iteration,horned reptile,0.149262
+encoder_layer_8,343,9,iteration,horned,-0.018129
+encoder_layer_8,343,10,iteration,patterned snake,0.095400
+encoder_layer_8,343,11,summary,desert,0.195277
+encoder_layer_8,344,0,initial,revolver,0.131485
+encoder_layer_8,344,0,initial,lakeland terrier,0.072473
+encoder_layer_8,344,0,initial,espresso maker,0.067308
+encoder_layer_8,344,0,initial,koala,0.054319
+encoder_layer_8,344,0,initial,fox squirrel,0.047879
+encoder_layer_8,344,0,initial,dowitcher,0.028711
+encoder_layer_8,344,0,initial,proboscis monkey,-0.020583
+encoder_layer_8,344,0,initial,palace,-0.041017
+encoder_layer_8,344,0,initial,flute,-0.113335
+encoder_layer_8,344,0,initial,barn,-0.155716
+encoder_layer_8,344,1,iteration,coffee maker,0.096112
+encoder_layer_8,344,2,iteration,coffee gun,0.049914
+encoder_layer_8,344,3,iteration,dispensing nozzle,0.000648
+encoder_layer_8,344,4,iteration,coffee dispenser,0.031371
+encoder_layer_8,344,5,iteration,coffee spout,-0.047167
+encoder_layer_8,344,6,iteration,coffee,-0.044213
+encoder_layer_8,344,7,iteration,coffee dispenser,0.031371
+encoder_layer_8,344,8,iteration,container,0.060571
+encoder_layer_8,344,9,iteration,handgun,0.030157
+encoder_layer_8,344,10,iteration,coffee nozzle,0.074062
+encoder_layer_8,344,11,summary,non-coffee,-0.014185
+encoder_layer_8,346,0,initial,fly,0.557206
+encoder_layer_8,346,0,initial,impala,0.436334
+encoder_layer_8,346,0,initial,coucal,0.346965
+encoder_layer_8,346,0,initial,hartebeest,0.281797
+encoder_layer_8,346,0,initial,gazelle,0.253075
+encoder_layer_8,346,0,initial,lotion,0.241964
+encoder_layer_8,346,0,initial,hip,0.228234
+encoder_layer_8,346,0,initial,bustard,0.149522
+encoder_layer_8,346,0,initial,plow,0.108097
+encoder_layer_8,346,0,initial,jean,-0.084376
+encoder_layer_8,346,1,iteration,large mammal,0.062963
+encoder_layer_8,346,2,iteration,hoofed animal,0.210098
+encoder_layer_8,346,3,iteration,four-legged,0.082732
+encoder_layer_8,346,4,iteration,legged animal,0.219712
+encoder_layer_8,346,5,iteration,swift animal,0.141868
+encoder_layer_8,346,6,iteration,hoofed creature,0.249176
+encoder_layer_8,346,7,iteration,runners,-0.016419
+encoder_layer_8,346,8,iteration,runner,0.054283
+encoder_layer_8,346,9,iteration,fast runner,0.130197
+encoder_layer_8,346,10,iteration,long legged animal,0.245996
+encoder_layer_8,346,11,summary,large animal,0.066441
+encoder_layer_8,351,0,initial,sleeping bag,0.314539
+encoder_layer_8,351,0,initial,wool,0.308283
+encoder_layer_8,351,0,initial,knee pad,0.195358
+encoder_layer_8,351,0,initial,head cabbage,0.186774
+encoder_layer_8,351,0,initial,french loaf,0.121597
+encoder_layer_8,351,0,initial,crash helmet,0.068611
+encoder_layer_8,351,0,initial,red wine,0.057204
+encoder_layer_8,351,0,initial,colobus,-0.042917
+encoder_layer_8,351,0,initial,folding chair,-0.216525
+encoder_layer_8,351,0,initial,miniature pinscher,-0.396319
+encoder_layer_8,351,1,iteration,insulator,-0.265950
+encoder_layer_8,351,2,iteration,warmth layer,-0.146348
+encoder_layer_8,351,3,iteration,insulating layer,0.214891
+encoder_layer_8,351,4,iteration,thermal layer,0.052384
+encoder_layer_8,351,5,iteration,warmth keeper,0.021290
+encoder_layer_8,351,6,iteration,natural insulation,-0.022419
+encoder_layer_8,351,7,iteration,protective wrap,0.146668
+encoder_layer_8,351,8,iteration,thermal,-0.091543
+encoder_layer_8,351,9,iteration,envelope,0.164634
+encoder_layer_8,351,10,iteration,blanket,0.385628
+encoder_layer_8,351,11,summary,warmth item,0.009152
+encoder_layer_8,353,0,initial,granny smith,0.236879
+encoder_layer_8,353,0,initial,chickadee,0.186578
+encoder_layer_8,353,0,initial,american coot,0.157859
+encoder_layer_8,353,0,initial,oystercatcher,0.156294
+encoder_layer_8,353,0,initial,jack-o'-lantern,0.084413
+encoder_layer_8,353,0,initial,hair slide,-0.016400
+encoder_layer_8,353,0,initial,great dane,-0.105829
+encoder_layer_8,353,0,initial,shovel,-0.170089
+encoder_layer_8,353,0,initial,vending machine,-0.304526
+encoder_layer_8,353,0,initial,shetland sheepdog,-0.315485
+encoder_layer_8,353,1,iteration,bird species,0.112073
+encoder_layer_8,353,2,iteration,beaked,0.002379
+encoder_layer_8,353,3,iteration,feathered creature,-0.019309
+encoder_layer_8,353,4,iteration,beak-like,-0.094827
+encoder_layer_8,353,5,iteration,beak,-0.171684
+encoder_layer_8,353,6,iteration,plumage,-0.180870
+encoder_layer_8,353,7,iteration,waterbird,-0.034513
+encoder_layer_8,353,8,iteration,waterbird,-0.034513
+encoder_layer_8,353,9,iteration,granny bird,0.090473
+encoder_layer_8,353,10,iteration,(ignore this),-0.234543
+encoder_layer_8,353,11,summary,bird,0.053798
+encoder_layer_8,357,0,initial,beagle,0.166944
+encoder_layer_8,357,0,initial,carbonara,0.158574
+encoder_layer_8,357,0,initial,gasmask,0.125076
+encoder_layer_8,357,0,initial,chihuahua,0.016294
+encoder_layer_8,357,0,initial,earthstar,0.010561
+encoder_layer_8,357,0,initial,hamster,-0.067154
+encoder_layer_8,357,0,initial,grey fox,-0.092332
+encoder_layer_8,357,0,initial,boston bull,-0.154757
+encoder_layer_8,357,0,initial,black swan,-0.238216
+encoder_layer_8,357,0,initial,motor scooter,-0.254664
+encoder_layer_8,357,1,iteration,pet food,-0.167852
+encoder_layer_8,357,2,iteration,toy dog,-0.199742
+encoder_layer_8,357,3,iteration,small animal,-0.218381
+encoder_layer_8,357,4,iteration,breed dog,-0.116508
+encoder_layer_8,357,5,iteration,pet,-0.214589
+encoder_layer_8,357,6,iteration,miniature,-0.268657
+encoder_layer_8,357,7,iteration,dog face,-0.093122
+encoder_layer_8,357,8,iteration,mammal,-0.158517
+encoder_layer_8,357,9,iteration,house,-0.246390
+encoder_layer_8,357,10,iteration,canine,-0.135479
+encoder_layer_8,357,11,summary,dog-related,-0.218824
+encoder_layer_8,359,0,initial,nail,0.260906
+encoder_layer_8,359,0,initial,gyromitra,0.212069
+encoder_layer_8,359,0,initial,lemon,0.205814
+encoder_layer_8,359,0,initial,wig,0.121768
+encoder_layer_8,359,0,initial,parachute,0.079343
+encoder_layer_8,359,0,initial,schooner,0.072221
+encoder_layer_8,359,0,initial,liner,0.018213
+encoder_layer_8,359,0,initial,shih-tzu,-0.016311
+encoder_layer_8,359,0,initial,staffordshire bullterrier,-0.024115
+encoder_layer_8,359,0,initial,bassinet,-0.123971
+encoder_layer_8,359,1,iteration,pointed tip,0.112926
+encoder_layer_8,359,2,iteration,pointed object,0.189723
+encoder_layer_8,359,3,iteration,narrow end,0.125043
+encoder_layer_8,359,4,iteration,nailhead,0.181059
+encoder_layer_8,359,5,iteration,pointed end,0.193876
+encoder_layer_8,359,6,iteration,tapered shape,0.153673
+encoder_layer_8,359,7,iteration,conical,-0.041878
+encoder_layer_8,359,8,iteration,sharp tip,0.070319
+encoder_layer_8,359,9,iteration,apex,-0.002534
+encoder_layer_8,359,10,iteration,nail tip,0.291378
+encoder_layer_8,359,11,summary,body extremity,0.024531
+encoder_layer_8,380,0,initial,lorikeet,0.456177
+encoder_layer_8,380,0,initial,ambulance,0.349054
+encoder_layer_8,380,0,initial,trifle,0.321260
+encoder_layer_8,380,0,initial,jaguar,0.306107
+encoder_layer_8,380,0,initial,boxer,0.138737
+encoder_layer_8,380,0,initial,speedboat,0.118812
+encoder_layer_8,380,0,initial,black widow,0.062997
+encoder_layer_8,380,0,initial,groenendael,0.009784
+encoder_layer_8,380,0,initial,ant,-0.202152
+encoder_layer_8,380,0,initial,cowboy hat,-0.239599
+encoder_layer_8,380,1,iteration,fast animal,0.031258
+encoder_layer_8,380,2,iteration,exotic bird,0.223304
+encoder_layer_8,380,3,iteration,speedster,0.109987
+encoder_layer_8,380,4,iteration,bird of prey,0.200389
+encoder_layer_8,380,5,iteration,colorful bird,0.268606
+encoder_layer_8,380,6,iteration,parrot,0.167782
+encoder_layer_8,380,7,iteration,lorikeet,0.456177
+encoder_layer_8,380,8,iteration,swift bird,-0.061906
+encoder_layer_8,380,9,iteration,vibrant bird,0.235526
+encoder_layer_8,380,10,iteration,bright plumage,0.194937
+encoder_layer_8,380,11,summary,moving vehicle,0.149411
+encoder_layer_8,389,0,initial,barometer,0.772932
+encoder_layer_8,389,0,initial,ruddy turnstone,0.417918
+encoder_layer_8,389,0,initial,hyena,0.350838
+encoder_layer_8,389,0,initial,meerkat,0.338551
+encoder_layer_8,389,0,initial,dalmatian,0.309914
+encoder_layer_8,389,0,initial,african hunting dog,0.265374
+encoder_layer_8,389,0,initial,whiptail,0.249227
+encoder_layer_8,389,0,initial,colobus,0.233312
+encoder_layer_8,389,0,initial,liner,0.115329
+encoder_layer_8,389,0,initial,pineapple,-0.075897
+encoder_layer_8,389,1,iteration,ringtail,0.112851
+encoder_layer_8,389,2,iteration,spotted animal,0.234007
+encoder_layer_8,389,3,iteration,dalmatian spots,0.327603
+encoder_layer_8,389,4,iteration,marked coat,0.084499
+encoder_layer_8,389,5,iteration,distinctive markings,0.184024
+encoder_layer_8,389,6,iteration,spotting,0.086069
+encoder_layer_8,389,7,iteration,coat pattern,0.215445
+encoder_layer_8,389,8,iteration,spots,0.242027
+encoder_layer_8,389,9,iteration,dalmatian pattern,0.228180
+encoder_layer_8,389,10,iteration,dalmatian-like,0.311447
+encoder_layer_8,389,11,summary,bird,0.177360
+encoder_layer_8,396,0,initial,indigo bunting,0.225476
+encoder_layer_8,396,0,initial,goldfinch,0.219326
+encoder_layer_8,396,0,initial,jacamar,0.170282
+encoder_layer_8,396,0,initial,anemone fish,0.152364
+encoder_layer_8,396,0,initial,reel,0.049099
+encoder_layer_8,396,0,initial,kite,0.041574
+encoder_layer_8,396,0,initial,espresso maker,0.010155
+encoder_layer_8,396,0,initial,rock beauty,-0.031976
+encoder_layer_8,396,0,initial,black-footed ferret,-0.056538
+encoder_layer_8,396,0,initial,grand piano,-0.106559
+encoder_layer_8,396,1,iteration,colorful bird,0.158759
+encoder_layer_8,396,2,iteration,plumage,0.037560
+encoder_layer_8,396,3,iteration,blue bird,0.133455
+encoder_layer_8,396,4,iteration,indigo bird,0.062900
+encoder_layer_8,396,5,iteration,bird beauty,0.053133
+encoder_layer_8,396,6,iteration,indigold bird,0.121111
+encoder_layer_8,396,7,iteration,birdlike,0.126485
+encoder_layer_8,396,8,iteration,iridescent feather,0.079820
+encoder_layer_8,396,9,iteration,feathered,0.051157
+encoder_layer_8,396,10,iteration,indigofinch,0.116052
+encoder_layer_8,396,11,summary,bird,0.119783
+encoder_layer_8,421,0,initial,leopard,0.377153
+encoder_layer_8,421,0,initial,jaguar,0.326224
+encoder_layer_8,421,0,initial,fireboat,0.257439
+encoder_layer_8,421,0,initial,blenheim spaniel,0.217944
+encoder_layer_8,421,0,initial,revolver,0.180340
+encoder_layer_8,421,0,initial,castle,0.176225
+encoder_layer_8,421,0,initial,lighter,0.169292
+encoder_layer_8,421,0,initial,spindle,0.096514
+encoder_layer_8,421,0,initial,brain coral,-0.011196
+encoder_layer_8,421,0,initial,stone wall,-0.094123
+encoder_layer_8,421,1,iteration,big cat,0.149855
+encoder_layer_8,421,2,iteration,spot cat,0.146332
+encoder_layer_8,421,3,iteration,wild cat,0.261652
+encoder_layer_8,421,4,iteration,predator,0.056382
+encoder_layer_8,421,5,iteration,spots,0.076340
+encoder_layer_8,421,6,iteration,spotted,0.004639
+encoder_layer_8,421,7,iteration,leopard,0.377153
+encoder_layer_8,421,8,iteration,spot pattern,-0.009857
+encoder_layer_8,421,9,iteration,spotted animal,0.298485
+encoder_layer_8,421,10,iteration,spot patterned,-0.038076
+encoder_layer_8,421,11,summary,spotted coat,0.051434
+encoder_layer_8,439,0,initial,sea anemone,0.216306
+encoder_layer_8,439,0,initial,organ,0.213161
+encoder_layer_8,439,0,initial,monarch,0.211338
+encoder_layer_8,439,0,initial,lionfish,0.200482
+encoder_layer_8,439,0,initial,tiger beetle,0.184443
+encoder_layer_8,439,0,initial,bobsled,0.125718
+encoder_layer_8,439,0,initial,angora,-0.017969
+encoder_layer_8,439,0,initial,book jacket,-0.098925
+encoder_layer_8,439,0,initial,football helmet,-0.237627
+encoder_layer_8,439,0,initial,manhole cover,-0.314926
+encoder_layer_8,439,1,iteration,marine bulb,0.041487
+encoder_layer_8,439,2,iteration,animal body,0.050690
+encoder_layer_8,439,3,iteration,rounded shape,-0.071014
+encoder_layer_8,439,4,iteration,marine life,0.187426
+encoder_layer_8,439,5,iteration,sea flower,0.015963
+encoder_layer_8,439,6,iteration,colorful coral,0.077811
+encoder_layer_8,439,7,iteration,colorful creature,0.139905
+encoder_layer_8,439,8,iteration,exotic flower,0.075333
+encoder_layer_8,439,9,iteration,colorful,0.090675
+encoder_layer_8,439,10,iteration,coral reef,0.121510
+encoder_layer_8,439,11,summary,animal,-0.064969
+encoder_layer_8,446,0,initial,otter,0.355371
+encoder_layer_8,446,0,initial,meerkat,0.316458
+encoder_layer_8,446,0,initial,beaver,0.263230
+encoder_layer_8,446,0,initial,siamese cat,0.220292
+encoder_layer_8,446,0,initial,breakwater,0.016241
+encoder_layer_8,446,0,initial,admiral,0.013032
+encoder_layer_8,446,0,initial,chocolate sauce,0.011016
+encoder_layer_8,446,0,initial,brittany spaniel,-0.058101
+encoder_layer_8,446,0,initial,lawn mower,-0.187476
+encoder_layer_8,446,0,initial,fly,-0.357391
+encoder_layer_8,446,1,iteration,semi-aquatic mammal,0.114581
+encoder_layer_8,446,2,iteration,aquatic mammal,0.014101
+encoder_layer_8,446,3,iteration,upright mammal,0.181107
+encoder_layer_8,446,4,iteration,water mammal,0.119099
+encoder_layer_8,446,5,iteration,rodent,-0.036522
+encoder_layer_8,446,6,iteration,water mammal-like,0.100835
+encoder_layer_8,446,7,iteration,water mammal,0.119099
+encoder_layer_8,446,8,iteration,semi-aquatic,0.006490
+encoder_layer_8,446,9,iteration,semi-aquatic mammal body,-0.022578
+encoder_layer_8,446,10,iteration,semi-aquatic mammal-like,0.130177
+encoder_layer_8,446,11,summary,semi-aquatic animal,-0.088536
+encoder_layer_8,447,0,initial,pomegranate,0.364749
+encoder_layer_8,447,0,initial,bell pepper,0.351977
+encoder_layer_8,447,0,initial,granny smith,0.313580
+encoder_layer_8,447,0,initial,proboscis monkey,0.283568
+encoder_layer_8,447,0,initial,spaghetti squash,0.161922
+encoder_layer_8,447,0,initial,mosque,0.150763
+encoder_layer_8,447,0,initial,hamster,0.129413
+encoder_layer_8,447,0,initial,wreck,0.052025
+encoder_layer_8,447,0,initial,lion,0.012150
+encoder_layer_8,447,0,initial,cliff,-0.029477
+encoder_layer_8,447,1,iteration,gourd,0.273301
+encoder_layer_8,447,2,iteration,round fruit,0.309478
+encoder_layer_8,447,3,iteration,hard fruit,0.261562
+encoder_layer_8,447,4,iteration,stone fruit,0.217214
+encoder_layer_8,447,5,iteration,leathery fruit,0.254181
+encoder_layer_8,447,6,iteration,tough skin,0.157137
+encoder_layer_8,447,7,iteration,hard fruit,0.261562
+encoder_layer_8,447,8,iteration,edible outer layer,0.006295
+encoder_layer_8,447,9,iteration,firm fruit,0.291986
+encoder_layer_8,447,10,iteration,green fruit,0.264551
+encoder_layer_8,447,11,summary,fruit,0.293353
+encoder_layer_8,471,0,initial,carbonara,0.416316
+encoder_layer_8,471,0,initial,brown bear,0.239979
+encoder_layer_8,471,0,initial,photocopier,0.183960
+encoder_layer_8,471,0,initial,lion,0.150423
+encoder_layer_8,471,0,initial,hard disc,0.111550
+encoder_layer_8,471,0,initial,abacus,0.054392
+encoder_layer_8,471,0,initial,strawberry,0.006512
+encoder_layer_8,471,0,initial,bee eater,-0.018002
+encoder_layer_8,471,0,initial,dome,-0.085672
+encoder_layer_8,471,0,initial,hartebeest,-0.177433
+encoder_layer_8,471,1,iteration,wild pasta,-0.044771
+encoder_layer_8,471,2,iteration,Italian food,0.179224
+encoder_layer_8,471,3,iteration,Italian dish,0.369326
+encoder_layer_8,471,4,iteration,italian cuisine,0.264861
+encoder_layer_8,471,5,iteration,Italian,-0.113477
+encoder_layer_8,471,6,iteration,pasta,0.048521
+encoder_layer_8,471,7,iteration,italian cooking,0.068367
+encoder_layer_8,471,8,iteration,creamy sauce,0.298455
+encoder_layer_8,471,9,iteration,italian recipe,0.265742
+encoder_layer_8,471,10,iteration,(ignore this),-0.163954
+encoder_layer_8,471,11,summary,Italian food,0.179224
+encoder_layer_8,474,0,initial,oscilloscope,0.390351
+encoder_layer_8,474,0,initial,photocopier,0.367458
+encoder_layer_8,474,0,initial,bald eagle,0.365494
+encoder_layer_8,474,0,initial,jack-o'-lantern,0.337172
+encoder_layer_8,474,0,initial,thunder snake,0.332441
+encoder_layer_8,474,0,initial,green lizard,0.195741
+encoder_layer_8,474,0,initial,titi,0.174358
+encoder_layer_8,474,0,initial,nematode,0.159428
+encoder_layer_8,474,0,initial,bookshop,0.107631
+encoder_layer_8,474,0,initial,confectionery,-0.132024
+encoder_layer_8,474,1,iteration,eyecatcher,0.117512
+encoder_layer_8,474,2,iteration,display device,0.113250
+encoder_layer_8,474,3,iteration,display,0.160306
+encoder_layer_8,474,4,iteration,glowing screen,0.123432
+encoder_layer_8,474,5,iteration,display device,0.113250
+encoder_layer_8,474,6,iteration,screen,0.228558
+encoder_layer_8,474,7,iteration,device,0.161207
+encoder_layer_8,474,8,iteration,monitor,0.231821
+encoder_layer_8,474,9,iteration,visualizer,0.084751
+encoder_layer_8,474,10,iteration,output display,0.098435
+encoder_layer_8,474,11,summary,no beak,0.247151
+encoder_layer_8,486,0,initial,ostrich,0.449725
+encoder_layer_8,486,0,initial,irish water spaniel,0.248118
+encoder_layer_8,486,0,initial,irish terrier,0.113475
+encoder_layer_8,486,0,initial,baboon,0.105027
+encoder_layer_8,486,0,initial,common iguana,0.099473
+encoder_layer_8,486,0,initial,ibex,0.078331
+encoder_layer_8,486,0,initial,schipperke,-0.045028
+encoder_layer_8,486,0,initial,eskimo dog,-0.110244
+encoder_layer_8,486,0,initial,megalith,-0.189782
+encoder_layer_8,486,0,initial,lynx,-0.223612
+encoder_layer_8,486,1,iteration,long necked bird,-0.192432
+encoder_layer_8,486,2,iteration,giant,-0.249766
+encoder_layer_8,486,3,iteration,large bird,-0.100950
+encoder_layer_8,486,4,iteration,long neck,-0.077504
+encoder_layer_8,486,5,iteration,long necked animal,-0.173786
+encoder_layer_8,486,6,iteration,bird,-0.133128
+encoder_layer_8,486,7,iteration,mammal,0.013330
+encoder_layer_8,486,8,iteration,"long necked bird is forbidden, but long necked is not. However, I need to combine with a more specific descriptor.",-0.137723
+encoder_layer_8,486,9,iteration,long necked waterbird,-0.392150
+encoder_layer_8,486,10,iteration,(ignore this),-0.246961
+encoder_layer_8,486,11,summary,large bird,-0.100950
+encoder_layer_8,488,0,initial,damselfly,0.303993
+encoder_layer_8,488,0,initial,scoreboard,0.248239
+encoder_layer_8,488,0,initial,lacewing,0.223799
+encoder_layer_8,488,0,initial,oscilloscope,0.148326
+encoder_layer_8,488,0,initial,odometer,0.135944
+encoder_layer_8,488,0,initial,bell pepper,0.014599
+encoder_layer_8,488,0,initial,cauliflower,-0.146389
+encoder_layer_8,488,0,initial,green lizard,-0.154572
+encoder_layer_8,488,0,initial,cornet,-0.310584
+encoder_layer_8,488,0,initial,crock pot,-0.491931
+encoder_layer_8,488,1,iteration,flying insect,-0.034317
+encoder_layer_8,488,2,iteration,lace pattern,-0.740135
+encoder_layer_8,488,3,iteration,delicate pattern,-0.273276
+encoder_layer_8,488,4,iteration,intricate pattern,-0.569415
+encoder_layer_8,488,5,iteration,pattern display,-0.481321
+encoder_layer_8,488,6,iteration,display,-0.124752
+encoder_layer_8,488,7,iteration,ornate display,-0.480272
+encoder_layer_8,488,8,iteration,lacy,-0.182691
+encoder_layer_8,488,9,iteration,lace,-0.433765
+encoder_layer_8,488,10,iteration,netting,-0.350975
+encoder_layer_8,488,11,summary,iridescent wings,0.137785
+encoder_layer_8,490,0,initial,affenpinscher,0.341514
+encoder_layer_8,490,0,initial,keeshond,0.256865
+encoder_layer_8,490,0,initial,newfoundland,0.249045
+encoder_layer_8,490,0,initial,bell pepper,0.206756
+encoder_layer_8,490,0,initial,bouvier des flandres,0.196043
+encoder_layer_8,490,0,initial,book jacket,0.169640
+encoder_layer_8,490,0,initial,puck,0.083283
+encoder_layer_8,490,0,initial,little blue heron,0.071055
+encoder_layer_8,490,0,initial,dough,-0.104446
+encoder_layer_8,490,0,initial,sax,-0.115014
+encoder_layer_8,490,1,iteration,dog face,0.290413
+encoder_layer_8,490,2,iteration,canine,0.219457
+encoder_layer_8,490,3,iteration,dog ears,0.046515
+encoder_layer_8,490,4,iteration,floppy ears,0.141089
+encoder_layer_8,490,5,iteration,ear shape,0.180667
+encoder_layer_8,490,6,iteration,pointy ears,0.042269
+encoder_layer_8,490,7,iteration,hanging ears,-0.096653
+encoder_layer_8,490,8,iteration,folded ears,0.217286
+encoder_layer_8,490,9,iteration,ear,0.180327
+encoder_layer_8,490,10,iteration,breed,0.200833
+encoder_layer_8,490,11,summary,dog face,0.290413
+encoder_layer_8,497,0,initial,bookcase,0.280893
+encoder_layer_8,497,0,initial,organ,0.242300
+encoder_layer_8,497,0,initial,shoji,0.088384
+encoder_layer_8,497,0,initial,crossword puzzle,0.085053
+encoder_layer_8,497,0,initial,rotisserie,0.065531
+encoder_layer_8,497,0,initial,french loaf,0.034592
+encoder_layer_8,497,0,initial,espresso,-0.192830
+encoder_layer_8,497,0,initial,fly,-0.360812
+encoder_layer_8,497,0,initial,cucumber,-0.416407
+encoder_layer_8,497,0,initial,sulphur butterfly,-0.480411
+encoder_layer_8,497,1,iteration,multicompartment,-0.118245
+encoder_layer_8,497,2,iteration,multishelf,0.070745
+encoder_layer_8,497,3,iteration,multistorey,0.122275
+encoder_layer_8,497,4,iteration,shelf,-0.104543
+encoder_layer_8,497,5,iteration,multilevel storage,0.220268
+encoder_layer_8,497,6,iteration,tiered storage,0.199747
+encoder_layer_8,497,7,iteration,layered,-0.152786
+encoder_layer_8,497,8,iteration,multi level,-0.184052
+encoder_layer_8,497,9,iteration,stacked,0.030727
+encoder_layer_8,497,10,iteration,multile,-0.157905
+encoder_layer_8,497,11,summary,vertical storage,0.123233
+encoder_layer_8,498,0,initial,convertible,0.216067
+encoder_layer_8,498,0,initial,limousine,0.180854
+encoder_layer_8,498,0,initial,go-kart,0.124259
+encoder_layer_8,498,0,initial,trolleybus,0.085980
+encoder_layer_8,498,0,initial,minivan,0.015167
+encoder_layer_8,498,0,initial,shoe shop,0.003594
+encoder_layer_8,498,0,initial,grey fox,-0.145801
+encoder_layer_8,498,0,initial,confectionery,-0.156646
+encoder_layer_8,498,0,initial,german short-haired pointer,-0.235644
+encoder_layer_8,498,0,initial,common iguana,-0.323774
+encoder_layer_8,498,1,iteration,open top,-0.077580
+encoder_layer_8,498,2,iteration,convertible body,0.131501
+encoder_layer_8,498,3,iteration,roadster,0.058948
+encoder_layer_8,498,4,iteration,convertible,0.216067
+encoder_layer_8,498,5,iteration,open car,0.123826
+encoder_layer_8,498,6,iteration,carriage,-0.065729
+encoder_layer_8,498,7,iteration,soft top,0.160343
+encoder_layer_8,498,8,iteration,roof,-0.104772
+encoder_layer_8,498,9,iteration,drop top,0.030875
+encoder_layer_8,498,10,iteration,drive top down,0.133410
+encoder_layer_8,498,11,summary,removable roof,0.045850
+encoder_layer_8,501,0,initial,syringe,0.184169
+encoder_layer_8,501,0,initial,irish setter,0.104653
+encoder_layer_8,501,0,initial,junco,0.092128
+encoder_layer_8,501,0,initial,goldfinch,0.063216
+encoder_layer_8,501,0,initial,tibetan terrier,0.046725
+encoder_layer_8,501,0,initial,water ouzel,0.039371
+encoder_layer_8,501,0,initial,black grouse,0.016083
+encoder_layer_8,501,0,initial,american coot,0.008797
+encoder_layer_8,501,0,initial,welsh springer spaniel,0.007798
+encoder_layer_8,501,0,initial,box turtle,-0.060471
+encoder_layer_8,501,1,iteration,bird species,0.027112
+encoder_layer_8,501,2,iteration,dog breed,-0.034945
+encoder_layer_8,501,3,iteration,beak,-0.020340
+encoder_layer_8,501,4,iteration,tip,-0.010905
+encoder_layer_8,501,5,iteration,beak-like shape,0.024322
+encoder_layer_8,501,6,iteration,pointed nose,-0.031150
+encoder_layer_8,501,7,iteration,feathered,-0.004341
+encoder_layer_8,501,8,iteration,conical shape,0.132973
+encoder_layer_8,501,9,iteration,pointed tip,-0.175126
+encoder_layer_8,501,10,iteration,pointed object,-0.019996
+encoder_layer_8,501,11,summary,medical context,0.029909
+encoder_layer_8,510,0,initial,geyser,0.263876
+encoder_layer_8,510,0,initial,cheetah,0.183186
+encoder_layer_8,510,0,initial,hen-of-the-woods,0.183086
+encoder_layer_8,510,0,initial,digital clock,0.081162
+encoder_layer_8,510,0,initial,tench,-0.006362
+encoder_layer_8,510,0,initial,magpie,-0.010110
+encoder_layer_8,510,0,initial,vine snake,-0.103003
+encoder_layer_8,510,0,initial,palace,-0.110051
+encoder_layer_8,510,0,initial,persian cat,-0.195247
+encoder_layer_8,510,0,initial,brass,-0.258094
+encoder_layer_8,510,1,iteration,eruption,0.324109
+encoder_layer_8,510,2,iteration,outburst,-0.202886
+encoder_layer_8,510,3,iteration,geyser spray,0.200438
+encoder_layer_8,510,4,iteration,explosive force,0.303178
+encoder_layer_8,510,5,iteration,geyser,0.263876
+encoder_layer_8,510,6,iteration,geyseric,0.063716
+encoder_layer_8,510,7,iteration,blast,0.323679
+encoder_layer_8,510,8,iteration,release,-0.133333
+encoder_layer_8,510,9,iteration,explosion,0.273928
+encoder_layer_8,510,10,iteration,force,-0.047414
+encoder_layer_8,510,11,summary,explosive force,0.303178
+encoder_layer_8,518,0,initial,organ,0.165267
+encoder_layer_8,518,0,initial,pomeranian,0.038400
+encoder_layer_8,518,0,initial,pot,-0.056326
+encoder_layer_8,518,0,initial,panpipe,-0.114655
+encoder_layer_8,518,0,initial,groenendael,-0.114809
+encoder_layer_8,518,0,initial,scuba diver,-0.182227
+encoder_layer_8,518,0,initial,brass,-0.195095
+encoder_layer_8,518,0,initial,bittern,-0.221541
+encoder_layer_8,518,0,initial,web site,-0.282639
+encoder_layer_8,518,0,initial,nematode,-0.283712
+encoder_layer_8,518,1,iteration,pet instrument,-0.033513
+encoder_layer_8,518,2,iteration,human instrument,-0.029765
+encoder_layer_8,518,3,iteration,soundbox,-0.111792
+encoder_layer_8,518,4,iteration,organ,0.165267
+encoder_layer_8,518,5,iteration,pet music,-0.106947
+encoder_layer_8,518,6,iteration,music device,-0.149110
+encoder_layer_8,518,7,iteration,pomeranian,0.038400
+encoder_layer_8,518,8,iteration,keyed instrument,-0.061061
+encoder_layer_8,518,9,iteration,bellows,-0.231603
+encoder_layer_8,518,10,iteration,instrument,-0.067299
+encoder_layer_8,518,11,summary,living being,-0.060936
+encoder_layer_8,519,0,initial,photocopier,0.582184
+encoder_layer_8,519,0,initial,stupa,0.317380
+encoder_layer_8,519,0,initial,corn,0.291151
+encoder_layer_8,519,0,initial,mitten,0.275092
+encoder_layer_8,519,0,initial,arctic fox,0.238734
+encoder_layer_8,519,0,initial,tiger shark,0.224133
+encoder_layer_8,519,0,initial,rocking chair,0.178199
+encoder_layer_8,519,0,initial,slide rule,0.161918
+encoder_layer_8,519,0,initial,running shoe,0.161884
+encoder_layer_8,519,0,initial,worm fence,0.142214
+encoder_layer_8,519,1,iteration,man-made,0.340752
+encoder_layer_8,519,2,iteration,precision mechanism,0.017035
+encoder_layer_8,519,3,iteration,hand guard,0.278033
+encoder_layer_8,519,4,iteration,protective gear,0.224801
+encoder_layer_8,519,5,iteration,safety device,0.035823
+encoder_layer_8,519,6,iteration,cover,0.223432
+encoder_layer_8,519,7,iteration,hand shield,-0.042658
+encoder_layer_8,519,8,iteration,shield,-0.085304
+encoder_layer_8,519,9,iteration,protection,0.232209
+encoder_layer_8,519,10,iteration,barrier device,0.175775
+encoder_layer_8,519,11,summary,man-made object,0.164867
+encoder_layer_8,522,0,initial,goldfish,0.369513
+encoder_layer_8,522,0,initial,dugong,0.272434
+encoder_layer_8,522,0,initial,chambered nautilus,0.264444
+encoder_layer_8,522,0,initial,chickadee,0.193430
+encoder_layer_8,522,0,initial,proboscis monkey,0.188311
+encoder_layer_8,522,0,initial,tiger shark,0.143161
+encoder_layer_8,522,0,initial,water jug,0.111965
+encoder_layer_8,522,0,initial,grasshopper,0.058673
+encoder_layer_8,522,0,initial,breakwater,0.042997
+encoder_layer_8,522,0,initial,chiffonier,-0.075664
+encoder_layer_8,522,1,iteration,marine animal,0.340406
+encoder_layer_8,522,2,iteration,marine mammal,0.294326
+encoder_layer_8,522,3,iteration,coiled shell,0.154023
+encoder_layer_8,522,4,iteration,aquatic shell,0.101362
+encoder_layer_8,522,5,iteration,shellfish,-0.212071
+encoder_layer_8,522,6,iteration,nautiloid,0.003365
+encoder_layer_8,522,7,iteration,spiral shell,0.228556
+encoder_layer_8,522,8,iteration,spiral shape,0.024487
+encoder_layer_8,522,9,iteration,chambered,0.130525
+encoder_layer_8,522,10,iteration,coastal spiral,0.057463
+encoder_layer_8,522,11,summary,fish,0.213269
+encoder_layer_8,527,0,initial,can opener,0.300914
+encoder_layer_8,527,0,initial,coral reef,0.206199
+encoder_layer_8,527,0,initial,airliner,0.143326
+encoder_layer_8,527,0,initial,puck,0.042288
+encoder_layer_8,527,0,initial,espresso maker,-0.003004
+encoder_layer_8,527,0,initial,dugong,-0.015573
+encoder_layer_8,527,0,initial,tiger,-0.037784
+encoder_layer_8,527,0,initial,croquet ball,-0.040579
+encoder_layer_8,527,0,initial,screw,-0.090158
+encoder_layer_8,527,0,initial,weevil,-0.105826
+encoder_layer_8,527,1,iteration,circular object,-0.098550
+encoder_layer_8,527,2,iteration,pointed object,-0.169202
+encoder_layer_8,527,3,iteration,utility tool,-0.091997
+encoder_layer_8,527,4,iteration,piercer,-0.246721
+encoder_layer_8,527,5,iteration,hollow object,-0.058301
+encoder_layer_8,527,6,iteration,sharp edge,-0.281038
+encoder_layer_8,527,7,iteration,holey,0.085516
+encoder_layer_8,527,8,iteration,opening device,0.039855
+encoder_layer_8,527,9,iteration,piercing device,0.020839
+encoder_layer_8,527,10,iteration,piercing,-0.107144
+encoder_layer_8,527,11,summary,man-made,-0.085666
+encoder_layer_8,537,0,initial,barometer,0.571783
+encoder_layer_8,537,0,initial,pizza,0.482069
+encoder_layer_8,537,0,initial,magnetic compass,0.477855
+encoder_layer_8,537,0,initial,laptop,0.326895
+encoder_layer_8,537,0,initial,shower curtain,0.226550
+encoder_layer_8,537,0,initial,king crab,0.212512
+encoder_layer_8,537,0,initial,admiral,0.206441
+encoder_layer_8,537,0,initial,lycaenid,0.200068
+encoder_layer_8,537,0,initial,starfish,0.001418
+encoder_layer_8,537,0,initial,wooden spoon,-0.112923
+encoder_layer_8,537,1,iteration,navigation tool,0.127431
+encoder_layer_8,537,2,iteration,pointer,0.307912
+encoder_layer_8,537,3,iteration,direction indicator,0.368469
+encoder_layer_8,537,4,iteration,compass rose,0.481662
+encoder_layer_8,537,5,iteration,magnetic needle,0.181082
+encoder_layer_8,537,6,iteration,orientation,0.153744
+encoder_layer_8,537,7,iteration,direction,0.239996
+encoder_layer_8,537,8,iteration,rose needle,0.185715
+encoder_layer_8,537,9,iteration,needle,0.186780
+encoder_layer_8,537,10,iteration,magnetic pointer,0.110294
+encoder_layer_8,537,11,summary,navigational tool,0.198613
+encoder_layer_8,538,0,initial,rhodesian ridgeback,0.276762
+encoder_layer_8,538,0,initial,lesser panda,0.274358
+encoder_layer_8,538,0,initial,hourglass,0.184431
+encoder_layer_8,538,0,initial,ground beetle,0.022754
+encoder_layer_8,538,0,initial,mixing bowl,0.022029
+encoder_layer_8,538,0,initial,petri dish,0.011811
+encoder_layer_8,538,0,initial,nematode,-0.017969
+encoder_layer_8,538,0,initial,pillow,-0.039513
+encoder_layer_8,538,0,initial,mountain tent,-0.051976
+encoder_layer_8,538,0,initial,screen,-0.071507
+encoder_layer_8,538,1,iteration,coat pattern,0.033246
+encoder_layer_8,538,2,iteration,coat markings,0.027363
+encoder_layer_8,538,3,iteration,coat pattern,0.033246
+encoder_layer_8,538,4,iteration,coat pattern,0.033246
+encoder_layer_8,538,5,iteration,coat pattern,0.033246
+encoder_layer_8,538,6,iteration,unique coat,0.048756
+encoder_layer_8,538,7,iteration,pattern,-0.117355
+encoder_layer_8,538,8,iteration,coat design,-0.038369
+encoder_layer_8,538,9,iteration,coat markings,0.027363
+encoder_layer_8,538,10,iteration,stripes,0.157689
+encoder_layer_8,538,11,summary,breed of dog,-0.047315
+encoder_layer_8,540,0,initial,hartebeest,0.137505
+encoder_layer_8,540,0,initial,saltshaker,-0.016754
+encoder_layer_8,540,0,initial,hummingbird,-0.017413
+encoder_layer_8,540,0,initial,bikini,-0.040035
+encoder_layer_8,540,0,initial,frilled lizard,-0.051920
+encoder_layer_8,540,0,initial,komodo dragon,-0.096942
+encoder_layer_8,540,0,initial,toilet tissue,-0.109974
+encoder_layer_8,540,0,initial,teddy,-0.226644
+encoder_layer_8,540,0,initial,slide rule,-0.232431
+encoder_layer_8,540,0,initial,capuchin,-0.232983
+encoder_layer_8,540,1,iteration,skewer,-0.156543
+encoder_layer_8,540,2,iteration,miniature,-0.252722
+encoder_layer_8,540,3,iteration,object,-0.272863
+encoder_layer_8,540,4,iteration,horned animal,-0.002847
+encoder_layer_8,540,5,iteration,long protrusion,-0.200297
+encoder_layer_8,540,6,iteration,humped,-0.371467
+encoder_layer_8,540,7,iteration,horned,-0.224135
+encoder_layer_8,540,8,iteration,hartebeest horn,0.049147
+encoder_layer_8,540,9,iteration,pointed,-0.256296
+encoder_layer_8,540,10,iteration,horn,-0.041094
+encoder_layer_8,540,11,summary,hartebeest,0.137505
+encoder_layer_8,541,0,initial,jacamar,0.271783
+encoder_layer_8,541,0,initial,anemone fish,0.265195
+encoder_layer_8,541,0,initial,jigsaw puzzle,0.179702
+encoder_layer_8,541,0,initial,gondola,0.161758
+encoder_layer_8,541,0,initial,harvestman,0.153258
+encoder_layer_8,541,0,initial,seashore,0.114498
+encoder_layer_8,541,0,initial,polecat,0.061470
+encoder_layer_8,541,0,initial,european gallinule,0.005462
+encoder_layer_8,541,0,initial,ski mask,-0.021245
+encoder_layer_8,541,0,initial,standard schnauzer,-0.132699
+encoder_layer_8,541,1,iteration,fish,0.220893
+encoder_layer_8,541,2,iteration,colorful creature,0.096745
+encoder_layer_8,541,3,iteration,coral reef,-0.054716
+encoder_layer_8,541,4,iteration,aquatic,-0.009496
+encoder_layer_8,541,5,iteration,tropical scene,-0.081645
+encoder_layer_8,541,6,iteration,coastal bird,0.133599
+encoder_layer_8,541,7,iteration,seashore dweller,0.117139
+encoder_layer_8,541,8,iteration,reef,-0.029007
+encoder_layer_8,541,9,iteration,colorful bird,0.022093
+encoder_layer_8,541,10,iteration,exotic creature,0.121158
+encoder_layer_8,541,11,summary,specific fish type,0.145233
+encoder_layer_8,543,0,initial,african chameleon,0.217888
+encoder_layer_8,543,0,initial,lhasa,0.133837
+encoder_layer_8,543,0,initial,bald eagle,0.109515
+encoder_layer_8,543,0,initial,jacamar,0.102985
+encoder_layer_8,543,0,initial,daisy,0.077500
+encoder_layer_8,543,0,initial,komodo dragon,0.064454
+encoder_layer_8,543,0,initial,junco,0.058004
+encoder_layer_8,543,0,initial,sock,-0.103569
+encoder_layer_8,543,0,initial,puck,-0.113749
+encoder_layer_8,543,0,initial,lifeboat,-0.132599
+encoder_layer_8,543,1,iteration,bird,-0.078251
+encoder_layer_8,543,2,iteration,avian species,-0.012174
+encoder_layer_8,543,3,iteration,colorful plumage,0.025058
+encoder_layer_8,543,4,iteration,color change,-0.164124
+encoder_layer_8,543,5,iteration,color shift,-0.112382
+encoder_layer_8,543,6,iteration,color morph,-0.081012
+encoder_layer_8,543,7,iteration,colorful plumage,0.025058
+encoder_layer_8,543,8,iteration,chameleon,0.165771
+encoder_layer_8,543,9,iteration,color changing,-0.193009
+encoder_layer_8,543,10,iteration,color changer,-0.315444
+encoder_layer_8,543,11,summary,chameleon,0.165771
+encoder_layer_8,546,0,initial,red-backed sandpiper,0.339015
+encoder_layer_8,546,0,initial,european gallinule,0.283139
+encoder_layer_8,546,0,initial,otter,0.238665
+encoder_layer_8,546,0,initial,marimba,0.228772
+encoder_layer_8,546,0,initial,clumber,0.188059
+encoder_layer_8,546,0,initial,spoonbill,0.132199
+encoder_layer_8,546,0,initial,traffic light,0.081176
+encoder_layer_8,546,0,initial,hamster,0.078587
+encoder_layer_8,546,0,initial,shopping basket,0.041579
+encoder_layer_8,546,0,initial,ipod,0.019814
+encoder_layer_8,546,1,iteration,long bill,0.017844
+encoder_layer_8,546,2,iteration,beak,-0.120068
+encoder_layer_8,546,3,iteration,long head,-0.076536
+encoder_layer_8,546,4,iteration,curved bill,0.114260
+encoder_layer_8,546,5,iteration,bill,0.073697
+encoder_layer_8,546,6,iteration,bird,-0.034223
+encoder_layer_8,546,7,iteration,pointed,0.033377
+encoder_layer_8,546,8,iteration,snout,0.471419
+encoder_layer_8,546,9,iteration,nose shape,-0.008419
+encoder_layer_8,546,10,iteration,nose tip,-0.061232
+encoder_layer_8,546,11,summary,bird,-0.034223
+encoder_layer_8,558,0,initial,bustard,0.086000
+encoder_layer_8,558,0,initial,redshank,0.085322
+encoder_layer_8,558,0,initial,wig,0.018678
+encoder_layer_8,558,0,initial,cowboy boot,0.012775
+encoder_layer_8,558,0,initial,binoculars,-0.017764
+encoder_layer_8,558,0,initial,hyena,-0.041996
+encoder_layer_8,558,0,initial,kerry blue terrier,-0.058451
+encoder_layer_8,558,0,initial,dandie dinmont,-0.069121
+encoder_layer_8,558,0,initial,siamese cat,-0.165038
+encoder_layer_8,558,0,initial,lionfish,-0.191373
+encoder_layer_8,558,1,iteration,bird,-0.052268
+encoder_layer_8,558,2,iteration,wader,0.006197
+encoder_layer_8,558,3,iteration,feathered headgear,-0.192833
+encoder_layer_8,558,4,iteration,long leg,0.053961
+encoder_layer_8,558,5,iteration,crested head,-0.062415
+encoder_layer_8,558,6,iteration,upland bird,-0.106916
+encoder_layer_8,558,7,iteration,game bird,0.108171
+encoder_layer_8,558,8,iteration,marsh bird,0.054572
+encoder_layer_8,558,9,iteration,bird headgear,-0.209681
+encoder_layer_8,558,10,iteration,(ignore this),0.063287
+encoder_layer_8,558,11,summary,bird,-0.052268
+encoder_layer_8,572,0,initial,lesser panda,0.146989
+encoder_layer_8,572,0,initial,cheeseburger,-0.028455
+encoder_layer_8,572,0,initial,lorikeet,-0.040081
+encoder_layer_8,572,0,initial,black-and-tan coonhound,-0.113662
+encoder_layer_8,572,0,initial,gyromitra,-0.255976
+encoder_layer_8,572,0,initial,ashcan,-0.294048
+encoder_layer_8,572,0,initial,tow truck,-0.335982
+encoder_layer_8,572,0,initial,organ,-0.413294
+encoder_layer_8,572,0,initial,gibbon,-0.449182
+encoder_layer_8,572,0,initial,screw,-0.550788
+encoder_layer_8,572,1,iteration,fast food,0.127869
+encoder_layer_8,572,2,iteration,burger,-0.040507
+encoder_layer_8,572,3,iteration,meat,-0.502917
+encoder_layer_8,572,4,iteration,bear,-0.294661
+encoder_layer_8,572,5,iteration,sandwich,-0.044996
+encoder_layer_8,572,6,iteration,panda food,-0.023741
+encoder_layer_8,572,7,iteration,panda food,-0.023741
+encoder_layer_8,572,8,iteration,carnivore,-0.402418
+encoder_layer_8,572,9,iteration,panda food,-0.023741
+encoder_layer_8,572,10,iteration,pandish,-0.355974
+encoder_layer_8,572,11,summary,full panda,-0.202324
+encoder_layer_8,576,0,initial,palace,0.331159
+encoder_layer_8,576,0,initial,garter snake,0.257354
+encoder_layer_8,576,0,initial,library,0.241932
+encoder_layer_8,576,0,initial,steel arch bridge,0.206845
+encoder_layer_8,576,0,initial,planetarium,0.168410
+encoder_layer_8,576,0,initial,television,0.099693
+encoder_layer_8,576,0,initial,pedestal,0.007206
+encoder_layer_8,576,0,initial,dome,0.002073
+encoder_layer_8,576,0,initial,pay-phone,-0.000275
+encoder_layer_8,576,0,initial,moped,-0.046522
+encoder_layer_8,576,1,iteration,turret,0.002371
+encoder_layer_8,576,2,iteration,dome shape,0.045262
+encoder_layer_8,576,3,iteration,dome structure,0.208448
+encoder_layer_8,576,4,iteration,dome building,-0.018613
+encoder_layer_8,576,5,iteration,palace,0.331159
+encoder_layer_8,576,6,iteration,arched,0.088171
+encoder_layer_8,576,7,iteration,dome building,-0.018613
+encoder_layer_8,576,8,iteration,rounded building,0.011692
+encoder_layer_8,576,9,iteration,curved architecture,0.038629
+encoder_layer_8,576,10,iteration,dome shape,0.045262
+encoder_layer_8,576,11,summary,man-made structure,0.152861
+encoder_layer_8,578,0,initial,ice bear,0.394676
+encoder_layer_8,578,0,initial,tiger,0.177779
+encoder_layer_8,578,0,initial,ballplayer,0.139408
+encoder_layer_8,578,0,initial,tripod,0.111573
+encoder_layer_8,578,0,initial,nematode,0.061863
+encoder_layer_8,578,0,initial,spotlight,0.043699
+encoder_layer_8,578,0,initial,earthstar,0.015197
+encoder_layer_8,578,0,initial,mashed potato,-0.000144
+encoder_layer_8,578,0,initial,blenheim spaniel,-0.009612
+encoder_layer_8,578,0,initial,abaya,-0.020762
+encoder_layer_8,578,1,iteration,polar animal,0.479583
+encoder_layer_8,578,2,iteration,tripod,0.111573
+encoder_layer_8,578,3,iteration,whiteness,-0.113524
+encoder_layer_8,578,4,iteration,frosty creature,-0.064652
+encoder_layer_8,578,5,iteration,cold,-0.005340
+encoder_layer_8,578,6,iteration,icy creature,0.131362
+encoder_layer_8,578,7,iteration,arctic,0.114657
+encoder_layer_8,578,8,iteration,cold adapted,-0.133530
+encoder_layer_8,578,9,iteration,carnivore,-0.042911
+encoder_layer_8,578,10,iteration,cold adapted,-0.133530
+encoder_layer_8,578,11,summary,cold adaptation,0.014336
+encoder_layer_8,581,0,initial,fig,0.487119
+encoder_layer_8,581,0,initial,limpkin,0.392480
+encoder_layer_8,581,0,initial,cicada,0.311195
+encoder_layer_8,581,0,initial,hamster,0.221380
+encoder_layer_8,581,0,initial,bustard,0.203678
+encoder_layer_8,581,0,initial,ruffed grouse,0.183029
+encoder_layer_8,581,0,initial,fox squirrel,0.013194
+encoder_layer_8,581,0,initial,arctic fox,0.000813
+encoder_layer_8,581,0,initial,volcano,-0.062447
+encoder_layer_8,581,0,initial,cab,-0.103501
+encoder_layer_8,581,1,iteration,waterbird bill,0.175608
+encoder_layer_8,581,2,iteration,bird species,0.077307
+encoder_layer_8,581,3,iteration,waterfowl,0.132777
+encoder_layer_8,581,4,iteration,feathered,0.088725
+encoder_layer_8,581,5,iteration,game bird,0.098445
+encoder_layer_8,581,6,iteration,bird,0.079120
+encoder_layer_8,581,7,iteration,waterfowl,0.132777
+encoder_layer_8,581,8,iteration,upland bird,0.181550
+encoder_layer_8,581,9,iteration,beak,0.102517
+encoder_layer_8,581,10,iteration,fowl,0.124615
+encoder_layer_8,581,11,summary,bird,0.079120
+encoder_layer_8,584,0,initial,bagel,0.426991
+encoder_layer_8,584,0,initial,butternut squash,0.285373
+encoder_layer_8,584,0,initial,vizsla,0.252667
+encoder_layer_8,584,0,initial,cheeseburger,0.247633
+encoder_layer_8,584,0,initial,gyromitra,0.228085
+encoder_layer_8,584,0,initial,mouse,-0.000183
+encoder_layer_8,584,0,initial,three-toed sloth,-0.101010
+encoder_layer_8,584,0,initial,rock python,-0.190370
+encoder_layer_8,584,0,initial,artichoke,-0.237093
+encoder_layer_8,584,0,initial,norwegian elkhound,-0.362539
+encoder_layer_8,584,1,iteration,savory food,0.376537
+encoder_layer_8,584,2,iteration,round bread,0.533354
+encoder_layer_8,584,3,iteration,ring food,0.014647
+encoder_layer_8,584,4,iteration,baked good,0.392468
+encoder_layer_8,584,5,iteration,donut,0.273253
+encoder_layer_8,584,6,iteration,hole food,0.250481
+encoder_layer_8,584,7,iteration,hole food,0.250481
+encoder_layer_8,584,8,iteration,bagel hole,0.369350
+encoder_layer_8,584,9,iteration,ringed,-0.479061
+encoder_layer_8,584,10,iteration,ring food,0.014647
+encoder_layer_8,584,11,summary,round baked good,0.493739
+encoder_layer_8,588,0,initial,carpenter's kit,0.357645
+encoder_layer_8,588,0,initial,espresso maker,0.325710
+encoder_layer_8,588,0,initial,paddlewheel,0.313709
+encoder_layer_8,588,0,initial,bagel,0.274928
+encoder_layer_8,588,0,initial,mosque,0.088364
+encoder_layer_8,588,0,initial,chainlink fence,0.038093
+encoder_layer_8,588,0,initial,polecat,0.027556
+encoder_layer_8,588,0,initial,proboscis monkey,0.014774
+encoder_layer_8,588,0,initial,container ship,-0.004347
+encoder_layer_8,588,0,initial,screw,-0.019557
+encoder_layer_8,588,1,iteration,machine,0.473128
+encoder_layer_8,588,2,iteration,maker,0.105897
+encoder_layer_8,588,3,iteration,turning tool,0.366435
+encoder_layer_8,588,4,iteration,rotator,0.229825
+encoder_layer_8,588,5,iteration,rotating device,0.138364
+encoder_layer_8,588,6,iteration,rotation,0.166383
+encoder_layer_8,588,7,iteration,circular motion,-0.098463
+encoder_layer_8,588,8,iteration,wheel,0.412426
+encoder_layer_8,588,9,iteration,turning mechanism,0.455358
+encoder_layer_8,588,10,iteration,spinning,-0.055569
+encoder_layer_8,588,11,summary,mechanical movement,0.482650
+encoder_layer_8,605,0,initial,spider web,0.595534
+encoder_layer_8,605,0,initial,tiger,0.463492
+encoder_layer_8,605,0,initial,saluki,0.269638
+encoder_layer_8,605,0,initial,bee eater,0.204652
+encoder_layer_8,605,0,initial,chickadee,0.165749
+encoder_layer_8,605,0,initial,lion,0.165744
+encoder_layer_8,605,0,initial,barracouta,0.131307
+encoder_layer_8,605,0,initial,eel,0.014864
+encoder_layer_8,605,0,initial,stinkhorn,-0.036432
+encoder_layer_8,605,0,initial,quilt,-0.099859
+encoder_layer_8,605,1,iteration,striped animal,0.270729
+encoder_layer_8,605,2,iteration,stripes,0.220125
+encoder_layer_8,605,3,iteration,stripes pattern,0.196661
+encoder_layer_8,605,4,iteration,striping,0.201096
+encoder_layer_8,605,5,iteration,striping pattern,0.144698
+encoder_layer_8,605,6,iteration,alternating pattern,-0.241610
+encoder_layer_8,605,7,iteration,repeating lines,0.078653
+encoder_layer_8,605,8,iteration,striped fabric,0.124878
+encoder_layer_8,605,9,iteration,tiger stripes,0.436368
+encoder_layer_8,605,10,iteration,patterned weave,-0.466154
+encoder_layer_8,605,11,summary,repeating pattern,-0.248232
+encoder_layer_8,611,0,initial,snow leopard,0.355575
+encoder_layer_8,611,0,initial,lion,0.288599
+encoder_layer_8,611,0,initial,red wine,0.194837
+encoder_layer_8,611,0,initial,rock python,0.105612
+encoder_layer_8,611,0,initial,papillon,0.092782
+encoder_layer_8,611,0,initial,window screen,0.059646
+encoder_layer_8,611,0,initial,organ,0.021267
+encoder_layer_8,611,0,initial,steam locomotive,-0.055069
+encoder_layer_8,611,0,initial,web site,-0.187598
+encoder_layer_8,611,0,initial,abacus,-0.198553
+encoder_layer_8,611,1,iteration,exotic animal,0.123235
+encoder_layer_8,611,2,iteration,spotted coat,0.206701
+encoder_layer_8,611,3,iteration,big cat,0.281517
+encoder_layer_8,611,4,iteration,wild animal,0.273351
+encoder_layer_8,611,5,iteration,leopard,0.242232
+encoder_layer_8,611,6,iteration,rosette,-0.175596
+encoder_layer_8,611,7,iteration,coat pattern,0.116696
+encoder_layer_8,611,8,iteration,spotted animal,0.289602
+encoder_layer_8,611,9,iteration,spot pattern,-0.015005
+encoder_layer_8,611,10,iteration,leopard spots,0.273124
+encoder_layer_8,611,11,summary,spotted coat,0.206701
+encoder_layer_8,624,0,initial,fly,0.372931
+encoder_layer_8,624,0,initial,honeycomb,0.315996
+encoder_layer_8,624,0,initial,nail,0.134530
+encoder_layer_8,624,0,initial,cornet,0.124728
+encoder_layer_8,624,0,initial,dishrag,0.111871
+encoder_layer_8,624,0,initial,three-toed sloth,-0.069831
+encoder_layer_8,624,0,initial,bloodhound,-0.111267
+encoder_layer_8,624,0,initial,beer bottle,-0.141482
+encoder_layer_8,624,0,initial,impala,-0.168550
+encoder_layer_8,624,0,initial,walking stick,-0.244167
+encoder_layer_8,624,1,iteration,hexagon,0.135120
+encoder_layer_8,624,2,iteration,bee,-0.088194
+encoder_layer_8,624,3,iteration,wax,-0.078932
+encoder_layer_8,624,4,iteration,insect wing,0.116571
+encoder_layer_8,624,5,iteration,polygon,0.195271
+encoder_layer_8,624,6,iteration,honeycomb cell,0.359345
+encoder_layer_8,624,7,iteration,beehive,0.055162
+encoder_layer_8,624,8,iteration,honeycomb cell,0.359345
+encoder_layer_8,624,9,iteration,cellular structure,0.325780
+encoder_layer_8,624,10,iteration,cellular,0.123840
+encoder_layer_8,624,11,summary,organized structure,0.182414
+encoder_layer_8,626,0,initial,squirrel monkey,0.391041
+encoder_layer_8,626,0,initial,hare,0.215648
+encoder_layer_8,626,0,initial,barracouta,0.212034
+encoder_layer_8,626,0,initial,tench,0.208935
+encoder_layer_8,626,0,initial,crayfish,0.166033
+encoder_layer_8,626,0,initial,shetland sheepdog,0.152674
+encoder_layer_8,626,0,initial,arabian camel,0.129054
+encoder_layer_8,626,0,initial,keeshond,0.087842
+encoder_layer_8,626,0,initial,wood rabbit,0.028270
+encoder_layer_8,626,0,initial,chesapeake bay retriever,-0.151037
+encoder_layer_8,626,1,iteration,long tail,0.080638
+encoder_layer_8,626,2,iteration,mammal,0.207880
+encoder_layer_8,626,3,iteration,leaper,-0.011534
+encoder_layer_8,626,4,iteration,rodent,0.153278
+encoder_layer_8,626,5,iteration,jumping animal,0.209601
+encoder_layer_8,626,6,iteration,primate,0.013041
+encoder_layer_8,626,7,iteration,long body,0.061802
+encoder_layer_8,626,8,iteration,agile tail,0.136522
+encoder_layer_8,626,9,iteration,fast runner,-0.097474
+encoder_layer_8,626,10,iteration,swift creature,0.041645
+encoder_layer_8,626,11,summary,primate,0.013041
+encoder_layer_8,630,0,initial,drilling platform,0.340977
+encoder_layer_8,630,0,initial,espresso,0.332001
+encoder_layer_8,630,0,initial,geyser,0.310822
+encoder_layer_8,630,0,initial,measuring cup,0.274667
+encoder_layer_8,630,0,initial,recreational vehicle,0.138053
+encoder_layer_8,630,0,initial,gown,0.070744
+encoder_layer_8,630,0,initial,schipperke,0.049993
+encoder_layer_8,630,0,initial,indri,0.040081
+encoder_layer_8,630,0,initial,mask,0.019710
+encoder_layer_8,630,0,initial,plunger,-0.080438
+encoder_layer_8,630,1,iteration,fluid flow,-0.060150
+encoder_layer_8,630,2,iteration,pressure,0.096320
+encoder_layer_8,630,3,iteration,liquid handler,0.183174
+encoder_layer_8,630,4,iteration,cylinder,0.076125
+encoder_layer_8,630,5,iteration,spout,0.097054
+encoder_layer_8,630,6,iteration,dispensing device,0.054525
+encoder_layer_8,630,7,iteration,outlet,-0.079242
+encoder_layer_8,630,8,iteration,pump,0.127217
+encoder_layer_8,630,9,iteration,nozzle,0.059374
+encoder_layer_8,630,10,iteration,narrow opening,0.059840
+encoder_layer_8,630,11,summary,high-pressure release,0.057242
+encoder_layer_8,639,0,initial,mixing bowl,0.514950
+encoder_layer_8,639,0,initial,pekinese,0.367781
+encoder_layer_8,639,0,initial,chihuahua,0.349425
+encoder_layer_8,639,0,initial,french bulldog,0.321875
+encoder_layer_8,639,0,initial,silky terrier,0.316170
+encoder_layer_8,639,0,initial,border terrier,0.313793
+encoder_layer_8,639,0,initial,pug,0.186345
+encoder_layer_8,639,0,initial,tiger beetle,0.095562
+encoder_layer_8,639,0,initial,water snake,0.064481
+encoder_layer_8,639,0,initial,brain coral,-0.082675
+encoder_layer_8,639,1,iteration,teacup dog,0.339118
+encoder_layer_8,639,2,iteration,small dog,0.321451
+encoder_layer_8,639,3,iteration,miniature,0.243947
+encoder_layer_8,639,4,iteration,breed dog,0.136586
+encoder_layer_8,639,5,iteration,toy dog,0.192689
+encoder_layer_8,639,6,iteration,small breed,0.327174
+encoder_layer_8,639,7,iteration,small,0.128021
+encoder_layer_8,639,8,iteration,lapdog,0.255291
+encoder_layer_8,639,9,iteration,companion dog,0.261446
+encoder_layer_8,639,10,iteration,miniature,0.243947
+encoder_layer_8,639,11,summary,small dog,0.321451
+encoder_layer_8,640,0,initial,red-backed sandpiper,0.136328
+encoder_layer_8,640,0,initial,harvestman,0.089025
+encoder_layer_8,640,0,initial,laptop,0.054042
+encoder_layer_8,640,0,initial,junco,0.019361
+encoder_layer_8,640,0,initial,moving van,-0.011227
+encoder_layer_8,640,0,initial,whippet,-0.019617
+encoder_layer_8,640,0,initial,polaroid camera,-0.044070
+encoder_layer_8,640,0,initial,english springer,-0.161660
+encoder_layer_8,640,0,initial,purse,-0.223780
+encoder_layer_8,640,0,initial,briard,-0.313160
+encoder_layer_8,640,1,iteration,bird,-0.191597
+encoder_layer_8,640,2,iteration,red markings,-0.420998
+encoder_layer_8,640,3,iteration,red back,-0.161470
+encoder_layer_8,640,4,iteration,red pattern,-0.468547
+encoder_layer_8,640,5,iteration,red back coloration,-0.262095
+encoder_layer_8,640,6,iteration,backing,-0.295552
+encoder_layer_8,640,7,iteration,red coloration,-0.448103
+encoder_layer_8,640,8,iteration,red backside,-0.389204
+encoder_layer_8,640,9,iteration,red backed,-0.209626
+encoder_layer_8,640,10,iteration,red backed creature,-0.518501
+encoder_layer_8,640,11,summary,non-animal,-0.188558
+encoder_layer_8,641,0,initial,weimaraner,0.189846
+encoder_layer_8,641,0,initial,handkerchief,0.107652
+encoder_layer_8,641,0,initial,street sign,0.092758
+encoder_layer_8,641,0,initial,african elephant,0.051520
+encoder_layer_8,641,0,initial,rapeseed,0.021577
+encoder_layer_8,641,0,initial,chimpanzee,0.020241
+encoder_layer_8,641,0,initial,can opener,0.002167
+encoder_layer_8,641,0,initial,vine snake,-0.029258
+encoder_layer_8,641,0,initial,whistle,-0.053799
+encoder_layer_8,641,0,initial,grocery store,-0.109813
+encoder_layer_8,641,1,iteration,flat object,-0.048891
+encoder_layer_8,641,2,iteration,dog towel,-0.163598
+encoder_layer_8,641,3,iteration,cloth,0.145523
+encoder_layer_8,641,4,iteration,dog accessory,0.011263
+encoder_layer_8,641,5,iteration,dog item,-0.010917
+encoder_layer_8,641,6,iteration,dog wipe,-0.036665
+encoder_layer_8,641,7,iteration,dog wipe,-0.036665
+encoder_layer_8,641,8,iteration,pet wipe,0.070448
+encoder_layer_8,641,9,iteration,pet wipe,0.070448
+encoder_layer_8,641,10,iteration,square cloth,0.053915
+encoder_layer_8,641,11,summary,fabric,0.151233
+encoder_layer_8,663,0,initial,revolver,0.240293
+encoder_layer_8,663,0,initial,timber wolf,0.230289
+encoder_layer_8,663,0,initial,leonberg,0.168282
+encoder_layer_8,663,0,initial,lion,0.115710
+encoder_layer_8,663,0,initial,orangutan,0.092028
+encoder_layer_8,663,0,initial,african elephant,0.049633
+encoder_layer_8,663,0,initial,freight car,-0.045702
+encoder_layer_8,663,0,initial,colobus,-0.071939
+encoder_layer_8,663,0,initial,dandie dinmont,-0.095983
+encoder_layer_8,663,0,initial,pillow,-0.178593
+encoder_layer_8,663,1,iteration,carnivore,0.090016
+encoder_layer_8,663,2,iteration,predator,0.028833
+encoder_layer_8,663,3,iteration,large animal,0.041524
+encoder_layer_8,663,4,iteration,canine,0.033263
+encoder_layer_8,663,5,iteration,fierce mammal,0.115912
+encoder_layer_8,663,6,iteration,sharp teeth,0.022256
+encoder_layer_8,663,7,iteration,hunting fang,0.068048
+encoder_layer_8,663,8,iteration,fangs,-0.014222
+encoder_layer_8,663,9,iteration,teeth,-0.023534
+encoder_layer_8,663,10,iteration,fangs,-0.014222
+encoder_layer_8,663,11,summary,dog breed,0.030815
+encoder_layer_8,665,0,initial,american egret,0.486513
+encoder_layer_8,665,0,initial,crayfish,0.450830
+encoder_layer_8,665,0,initial,rapeseed,0.421661
+encoder_layer_8,665,0,initial,black grouse,0.302716
+encoder_layer_8,665,0,initial,doormat,0.218544
+encoder_layer_8,665,0,initial,corn,0.216714
+encoder_layer_8,665,0,initial,nematode,0.206646
+encoder_layer_8,665,0,initial,mixing bowl,0.189659
+encoder_layer_8,665,0,initial,lynx,0.183778
+encoder_layer_8,665,0,initial,grey whale,0.167557
+encoder_layer_8,665,1,iteration,long leg,0.046235
+encoder_layer_8,665,2,iteration,long appendage,0.190293
+encoder_layer_8,665,3,iteration,feather,0.150608
+encoder_layer_8,665,4,iteration,bird foot,0.322485
+encoder_layer_8,665,5,iteration,appendage,0.005194
+encoder_layer_8,665,6,iteration,bird leg,0.280165
+encoder_layer_8,665,7,iteration,leggy,0.126373
+encoder_layer_8,665,8,iteration,webbed foot,0.010720
+encoder_layer_8,665,9,iteration,bird leg,0.280165
+encoder_layer_8,665,10,iteration,clawed foot,0.035880
+encoder_layer_8,665,11,summary,no prominent beak,0.371637
+encoder_layer_8,672,0,initial,borzoi,0.211855
+encoder_layer_8,672,0,initial,go-kart,0.153473
+encoder_layer_8,672,0,initial,screw,0.013016
+encoder_layer_8,672,0,initial,studio couch,0.012638
+encoder_layer_8,672,0,initial,school bus,-0.027707
+encoder_layer_8,672,0,initial,canoe,-0.102963
+encoder_layer_8,672,0,initial,hippopotamus,-0.126312
+encoder_layer_8,672,0,initial,earthstar,-0.176572
+encoder_layer_8,672,0,initial,mashed potato,-0.185796
+encoder_layer_8,672,0,initial,soap dispenser,-0.333178
+encoder_layer_8,672,1,iteration,vehicle,-0.100129
+encoder_layer_8,672,2,iteration,dog racing,-0.101905
+encoder_layer_8,672,3,iteration,speedster,-0.245133
+encoder_layer_8,672,4,iteration,fast animal,-0.227428
+encoder_layer_8,672,5,iteration,speed machine,-0.042019
+encoder_layer_8,672,6,iteration,circle,-0.126942
+encoder_layer_8,672,7,iteration,racing dog,-0.142231
+encoder_layer_8,672,8,iteration,wheeled,-0.111139
+encoder_layer_8,672,9,iteration,speed,-0.153271
+encoder_layer_8,672,10,iteration,high speed,-0.124343
+encoder_layer_8,672,11,summary,vehicle,-0.100129
+encoder_layer_8,685,0,initial,quail,0.444232
+encoder_layer_8,685,0,initial,great white shark,0.254588
+encoder_layer_8,685,0,initial,electric locomotive,0.205422
+encoder_layer_8,685,0,initial,bagel,0.196044
+encoder_layer_8,685,0,initial,irish terrier,0.156357
+encoder_layer_8,685,0,initial,fox squirrel,0.044301
+encoder_layer_8,685,0,initial,scoreboard,0.041465
+encoder_layer_8,685,0,initial,carbonara,-0.033514
+encoder_layer_8,685,0,initial,minibus,-0.056359
+encoder_layer_8,685,0,initial,shovel,-0.175241
+encoder_layer_8,685,1,iteration,bird speed,-0.070992
+encoder_layer_8,685,2,iteration,beak,0.110223
+encoder_layer_8,685,3,iteration,sharp point,-0.054180
+encoder_layer_8,685,4,iteration,pointed tip,0.099509
+encoder_layer_8,685,5,iteration,pointed,0.163445
+encoder_layer_8,685,6,iteration,beaked animal,0.180460
+encoder_layer_8,685,7,iteration,conical shape,-0.044396
+encoder_layer_8,685,8,iteration,nose cone,0.136033
+encoder_layer_8,685,9,iteration,beaked,0.103734
+encoder_layer_8,685,10,iteration,snout,0.122746
+encoder_layer_8,685,11,summary,legged,-0.058055
+encoder_layer_8,693,0,initial,chow,0.282933
+encoder_layer_8,693,0,initial,hare,0.280848
+encoder_layer_8,693,0,initial,wood rabbit,0.242057
+encoder_layer_8,693,0,initial,earthstar,0.222235
+encoder_layer_8,693,0,initial,junco,0.197314
+encoder_layer_8,693,0,initial,bustard,0.068830
+encoder_layer_8,693,0,initial,beach wagon,0.012691
+encoder_layer_8,693,0,initial,jean,-0.032303
+encoder_layer_8,693,0,initial,hip,-0.180196
+encoder_layer_8,693,0,initial,sliding door,-0.236992
+encoder_layer_8,693,1,iteration,four legs,-0.045762
+encoder_layer_8,693,2,iteration,rabbit,0.293163
+encoder_layer_8,693,3,iteration,long ear,-0.146273
+encoder_layer_8,693,4,iteration,carnivore,0.062910
+encoder_layer_8,693,5,iteration,mammal,0.178178
+encoder_layer_8,693,6,iteration,woodland creature,0.064251
+encoder_layer_8,693,7,iteration,long eared,0.316349
+encoder_layer_8,693,8,iteration,ear,-0.403817
+encoder_layer_8,693,9,iteration,long ears,-0.084902
+encoder_layer_8,693,10,iteration,furry animal,0.117712
+encoder_layer_8,693,11,summary,ears,-0.217599
+encoder_layer_8,697,0,initial,cougar,0.440134
+encoder_layer_8,697,0,initial,red wolf,0.388732
+encoder_layer_8,697,0,initial,maypole,0.202090
+encoder_layer_8,697,0,initial,dhole,0.154223
+encoder_layer_8,697,0,initial,french loaf,0.110212
+encoder_layer_8,697,0,initial,prayer rug,0.094630
+encoder_layer_8,697,0,initial,plow,0.089843
+encoder_layer_8,697,0,initial,leonberg,0.018638
+encoder_layer_8,697,0,initial,junco,-0.020043
+encoder_layer_8,697,0,initial,printer,-0.254388
+encoder_layer_8,697,1,iteration,wild canine,0.153881
+encoder_layer_8,697,2,iteration,large predator,0.160315
+encoder_layer_8,697,3,iteration,red dog,0.195029
+encoder_layer_8,697,4,iteration,red canine,0.195582
+encoder_layer_8,697,5,iteration,red wolf,0.388732
+encoder_layer_8,697,6,iteration,red hound,0.151731
+encoder_layer_8,697,7,iteration,red fox,0.300249
+encoder_layer_8,697,8,iteration,red animal,0.259568
+encoder_layer_8,697,9,iteration,red,0.248658
+encoder_layer_8,697,10,iteration,red fur,0.227066
+encoder_layer_8,697,11,summary,reddish coloring,0.166712
+encoder_layer_8,704,0,initial,cauliflower,0.166100
+encoder_layer_8,704,0,initial,lion,0.006794
+encoder_layer_8,704,0,initial,corn,-0.034053
+encoder_layer_8,704,0,initial,yellow lady's slipper,-0.035604
+encoder_layer_8,704,0,initial,web site,-0.075431
+encoder_layer_8,704,0,initial,shetland sheepdog,-0.175585
+encoder_layer_8,704,0,initial,shovel,-0.208745
+encoder_layer_8,704,0,initial,great dane,-0.257498
+encoder_layer_8,704,0,initial,vending machine,-0.271162
+encoder_layer_8,704,0,initial,scorpion,-0.297133
+encoder_layer_8,704,1,iteration,bulbous vegetable,-0.052189
+encoder_layer_8,704,2,iteration,cabbage head,-0.079922
+encoder_layer_8,704,3,iteration,vegetable head,-0.083733
+encoder_layer_8,704,4,iteration,cauliflower head,0.164241
+encoder_layer_8,704,5,iteration,rounded head,-0.332273
+encoder_layer_8,704,6,iteration,head,-0.327902
+encoder_layer_8,704,7,iteration,rounded food,0.114478
+encoder_layer_8,704,8,iteration,vegetable crown,0.027714
+encoder_layer_8,704,9,iteration,vegetable sphere,0.004172
+encoder_layer_8,704,10,iteration,plant crown,-0.294607
+encoder_layer_8,704,11,summary,rounded shape,-0.177484
+encoder_layer_8,708,0,initial,carbonara,0.397780
+encoder_layer_8,708,0,initial,granny smith,0.231837
+encoder_layer_8,708,0,initial,monarch,0.132812
+encoder_layer_8,708,0,initial,great white shark,0.071049
+encoder_layer_8,708,0,initial,chihuahua,0.021865
+encoder_layer_8,708,0,initial,earthstar,0.005614
+encoder_layer_8,708,0,initial,gasmask,-0.019272
+encoder_layer_8,708,0,initial,cd player,-0.064551
+encoder_layer_8,708,0,initial,model t,-0.092944
+encoder_layer_8,708,0,initial,grey fox,-0.148737
+encoder_layer_8,708,1,iteration,pasta,0.066774
+encoder_layer_8,708,2,iteration,savory dish,0.225485
+encoder_layer_8,708,3,iteration,italian food,0.241069
+encoder_layer_8,708,4,iteration,italian pasta,0.113133
+encoder_layer_8,708,5,iteration,carbonara,0.397780
+encoder_layer_8,708,6,iteration,fusion,-0.014581
+encoder_layer_8,708,7,iteration,italian cuisine,0.205301
+encoder_layer_8,708,8,iteration,italian,0.132681
+encoder_layer_8,708,9,iteration,italian dish,0.188183
+encoder_layer_8,708,10,iteration,italian cooking,0.168584
+encoder_layer_8,708,11,summary,italian dish,0.188183
+encoder_layer_8,739,0,initial,agaric,0.126022
+encoder_layer_8,739,0,initial,red-backed sandpiper,0.062526
+encoder_layer_8,739,0,initial,collie,0.053052
+encoder_layer_8,739,0,initial,german shepherd,0.047907
+encoder_layer_8,739,0,initial,staffordshire bullterrier,0.047798
+encoder_layer_8,739,0,initial,tench,-0.029844
+encoder_layer_8,739,0,initial,great pyrenees,-0.153511
+encoder_layer_8,739,0,initial,bassinet,-0.176544
+encoder_layer_8,739,0,initial,liner,-0.217595
+encoder_layer_8,739,0,initial,giant schnauzer,-0.232699
+encoder_layer_8,739,1,iteration,canine,-0.016743
+encoder_layer_8,739,2,iteration,medium dog,-0.032882
+encoder_layer_8,739,3,iteration,red animal,-0.085312
+encoder_layer_8,739,4,iteration,red dog,-0.090779
+encoder_layer_8,739,5,iteration,reddish,-0.214977
+encoder_layer_8,739,6,iteration,red bird,-0.139537
+encoder_layer_8,739,7,iteration,coated dog,-0.016292
+encoder_layer_8,739,8,iteration,red back,-0.118050
+encoder_layer_8,739,9,iteration,back shell,0.020825
+encoder_layer_8,739,10,iteration,coated dog type,-0.024145
+encoder_layer_8,739,11,summary,bird,-0.108250
+encoder_layer_8,747,0,initial,cocktail shaker,0.242376
+encoder_layer_8,747,0,initial,beer bottle,0.237588
+encoder_layer_8,747,0,initial,hamster,0.187363
+encoder_layer_8,747,0,initial,barometer,0.163859
+encoder_layer_8,747,0,initial,wood rabbit,0.144469
+encoder_layer_8,747,0,initial,cowboy hat,0.011689
+encoder_layer_8,747,0,initial,boxer,-0.132318
+encoder_layer_8,747,0,initial,black widow,-0.137563
+encoder_layer_8,747,0,initial,hyena,-0.259144
+encoder_layer_8,747,0,initial,gyromitra,-0.351250
+encoder_layer_8,747,1,iteration,mixing cup,0.252899
+encoder_layer_8,747,2,iteration,liquids container,0.209846
+encoder_layer_8,747,3,iteration,barware,0.265362
+encoder_layer_8,747,4,iteration,cocktail shaker,0.242376
+encoder_layer_8,747,5,iteration,cylinder,0.068184
+encoder_layer_8,747,6,iteration,beer bottle,0.237588
+encoder_layer_8,747,7,iteration,barware item,0.162580
+encoder_layer_8,747,8,iteration,container,-0.006981
+encoder_layer_8,747,9,iteration,drinking glass,0.064470
+encoder_layer_8,747,10,iteration,stemware,0.074583
+encoder_layer_8,747,11,summary,cocktail-related,0.151339

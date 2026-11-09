@@ -1,0 +1,2101 @@
+layer,unit,iteration,stage,concept,score
+layer2,2,0,initial,mosque,0.100398
+layer2,2,0,initial,abacus,0.095900
+layer2,2,0,initial,organ,0.094509
+layer2,2,0,initial,altar,0.093686
+layer2,2,0,initial,typewriter keyboard,0.072198
+layer2,2,0,initial,hyena,0.070352
+layer2,2,0,initial,meerkat,0.057534
+layer2,2,0,initial,spindle,0.049466
+layer2,2,0,initial,printer,0.046902
+layer2,2,0,initial,hoopskirt,0.042920
+layer2,2,1,iteration,pedestal,0.042334
+layer2,2,2,iteration,dais,0.067867
+layer2,2,3,iteration,centerpiece,0.091184
+layer2,2,4,iteration,elevation,0.043177
+layer2,2,5,iteration,platform,0.036159
+layer2,2,6,iteration,raised surface,0.027911
+layer2,2,7,iteration,altar piece,0.110030
+layer2,2,8,iteration,elevated,0.043966
+layer2,2,9,iteration,tiered,0.057522
+layer2,2,10,iteration,sanctuary,0.082061
+layer2,2,11,summary,religious structure,0.082735
+layer2,3,0,initial,vending machine,0.240519
+layer2,3,0,initial,menu,0.234040
+layer2,3,0,initial,safe,0.221476
+layer2,3,0,initial,window shade,0.209601
+layer2,3,0,initial,kite,0.179383
+layer2,3,0,initial,american chameleon,0.161156
+layer2,3,0,initial,web site,0.158738
+layer2,3,0,initial,band aid,0.147672
+layer2,3,0,initial,strainer,0.142287
+layer2,3,0,initial,rock python,0.129538
+layer2,3,1,iteration,display menu,0.225250
+layer2,3,2,iteration,display,0.196404
+layer2,3,3,iteration,menu,0.234040
+layer2,3,4,iteration,transparent cover,0.221019
+layer2,3,5,iteration,showcase,0.218824
+layer2,3,6,iteration,catalog,0.156864
+layer2,3,7,iteration,glass box,0.222675
+layer2,3,8,iteration,display case,0.222616
+layer2,3,9,iteration,display screen,0.189409
+layer2,3,10,iteration,protective case,0.194764
+layer2,3,11,summary,present options,0.164821
+layer2,4,0,initial,picket fence,0.499048
+layer2,4,0,initial,chime,0.488493
+layer2,4,0,initial,bookcase,0.381936
+layer2,4,0,initial,harp,0.362303
+layer2,4,0,initial,organ,0.359907
+layer2,4,0,initial,altar,0.267363
+layer2,4,0,initial,mountain bike,0.239629
+layer2,4,0,initial,dock,0.184541
+layer2,4,0,initial,border collie,0.171104
+layer2,4,0,initial,baboon,0.119043
+layer2,4,1,iteration,picket,0.357761
+layer2,4,2,iteration,picket fence music,0.376888
+layer2,4,3,iteration,vertical sound,0.218381
+layer2,4,4,iteration,chime,0.488493
+layer2,4,5,iteration,vertical melody,0.250418
+layer2,4,6,iteration,vertical panel,0.354294
+layer2,4,7,iteration,vertical structure,0.317816
+layer2,4,8,iteration,music,0.225113
+layer2,4,9,iteration,vertical array,0.165291
+layer2,4,10,iteration,tower,0.251158
+layer2,4,11,summary,vertical posts,0.467907
+layer2,5,0,initial,scuba diver,0.314792
+layer2,5,0,initial,tiger shark,0.266130
+layer2,5,0,initial,dugong,0.259223
+layer2,5,0,initial,brain coral,0.239137
+layer2,5,0,initial,stingray,0.226572
+layer2,5,0,initial,strawberry,0.204946
+layer2,5,0,initial,organ,0.204707
+layer2,5,0,initial,angora,0.199619
+layer2,5,0,initial,book jacket,0.181286
+layer2,5,0,initial,manhole cover,0.133214
+layer2,5,1,iteration,ocean creature,0.278572
+layer2,5,2,iteration,helmet,0.188578
+layer2,5,3,iteration,dome,0.153734
+layer2,5,4,iteration,submersible,0.228965
+layer2,5,5,iteration,hard shell,0.161287
+layer2,5,6,iteration,diving suit,0.209818
+layer2,5,7,iteration,scuba gear,0.188181
+layer2,5,8,iteration,protective layer,0.161582
+layer2,5,9,iteration,shellfish,0.215783
+layer2,5,10,iteration,deep diver,0.293024
+layer2,5,11,summary,diving gear,0.196819
+layer2,7,0,initial,grille,0.465100
+layer2,7,0,initial,radio,0.318579
+layer2,7,0,initial,ambulance,0.315091
+layer2,7,0,initial,pier,0.306238
+layer2,7,0,initial,web site,0.246264
+layer2,7,0,initial,red-breasted merganser,0.184908
+layer2,7,0,initial,chocolate sauce,0.181822
+layer2,7,0,initial,diamondback,0.177891
+layer2,7,0,initial,flatworm,0.122106
+layer2,7,0,initial,coyote,0.105935
+layer2,7,1,iteration,gridiron,0.237052
+layer2,7,2,iteration,grid pattern,0.331280
+layer2,7,3,iteration,grille,0.465100
+layer2,7,4,iteration,mesh,0.209691
+layer2,7,5,iteration,crosshatch,0.139702
+layer2,7,6,iteration,interlock,0.171639
+layer2,7,7,iteration,diamond,0.136835
+layer2,7,8,iteration,lattice,0.249525
+layer2,7,9,iteration,pattern,0.316957
+layer2,7,10,iteration,repeating grid,0.280977
+layer2,7,11,summary,grid pattern,0.331280
+layer2,9,0,initial,shoe shop,0.334577
+layer2,9,0,initial,disk brake,0.296847
+layer2,9,0,initial,comic book,0.286961
+layer2,9,0,initial,toyshop,0.246677
+layer2,9,0,initial,typewriter keyboard,0.234675
+layer2,9,0,initial,mosque,0.228880
+layer2,9,0,initial,wreck,0.227403
+layer2,9,0,initial,great dane,0.195078
+layer2,9,0,initial,spaghetti squash,0.162045
+layer2,9,0,initial,cliff,0.132603
+layer2,9,1,iteration,round shape,0.149967
+layer2,9,2,iteration,small shop,0.241885
+layer2,9,3,iteration,storefront,0.195067
+layer2,9,4,iteration,disk store,0.216904
+layer2,9,5,iteration,disk shop,0.198483
+layer2,9,6,iteration,shop,0.251949
+layer2,9,7,iteration,store,0.216887
+layer2,9,8,iteration,keyboard,0.231113
+layer2,9,9,iteration,circular,0.101236
+layer2,9,10,iteration,disk shop,0.198483
+layer2,9,11,summary,man-made object,0.130446
+layer2,11,0,initial,airedale,0.154293
+layer2,11,0,initial,kimono,0.151689
+layer2,11,0,initial,toyshop,0.150122
+layer2,11,0,initial,grocery store,0.144925
+layer2,11,0,initial,greater swiss mountain dog,0.144448
+layer2,11,0,initial,hamster,0.135429
+layer2,11,0,initial,groom,0.135317
+layer2,11,0,initial,scottish deerhound,0.124539
+layer2,11,0,initial,revolver,0.103228
+layer2,11,0,initial,volleyball,0.088013
+layer2,11,1,iteration,pet store,0.154100
+layer2,11,2,iteration,pet shop,0.150230
+layer2,11,3,iteration,animal market,0.120338
+layer2,11,4,iteration,pet groomer,0.173231
+layer2,11,5,iteration,grooming,0.139091
+layer2,11,6,iteration,coiffure,0.135464
+layer2,11,7,iteration,stylist,0.128442
+layer2,11,8,iteration,herding dog,0.138210
+layer2,11,9,iteration,breed dog,0.127717
+layer2,11,10,iteration,coat pattern,0.167351
+layer2,11,11,summary,dog grooming,0.168384
+layer2,13,0,initial,entertainment center,0.173966
+layer2,13,0,initial,streetcar,0.165050
+layer2,13,0,initial,horse cart,0.159064
+layer2,13,0,initial,bookshop,0.149761
+layer2,13,0,initial,paddlewheel,0.147449
+layer2,13,0,initial,model t,0.146526
+layer2,13,0,initial,thunder snake,0.139149
+layer2,13,0,initial,minibus,0.136767
+layer2,13,0,initial,tiger,0.125093
+layer2,13,0,initial,apron,0.111556
+layer2,13,1,iteration,vintage vehicle,0.161078
+layer2,13,2,iteration,handcart,0.178160
+layer2,13,3,iteration,horse-drawn cart,0.150462
+layer2,13,4,iteration,wheeled vehicle,0.144416
+layer2,13,5,iteration,streetcar,0.165050
+layer2,13,6,iteration,horse cart,0.159064
+layer2,13,7,iteration,wheeled,0.133897
+layer2,13,8,iteration,cart,0.157199
+layer2,13,9,iteration,pushcart,0.159517
+layer2,13,10,iteration,four-wheeler,0.106703
+layer2,13,11,summary,wheels,0.128984
+layer2,14,0,initial,keeshond,0.187593
+layer2,14,0,initial,macaque,0.181432
+layer2,14,0,initial,ashcan,0.148417
+layer2,14,0,initial,schipperke,0.146224
+layer2,14,0,initial,megalith,0.144900
+layer2,14,0,initial,ringneck snake,0.138751
+layer2,14,0,initial,ibex,0.138232
+layer2,14,0,initial,jacamar,0.132893
+layer2,14,0,initial,lynx,0.122461
+layer2,14,0,initial,damselfly,0.106873
+layer2,14,1,iteration,long neck,0.116926
+layer2,14,2,iteration,pointed snout,0.140296
+layer2,14,3,iteration,facial markings,0.167415
+layer2,14,4,iteration,distinctive markings,0.109476
+layer2,14,5,iteration,mascot,0.129599
+layer2,14,6,iteration,black and white coat,0.127188
+layer2,14,7,iteration,spotted coat,0.112480
+layer2,14,8,iteration,agouti,0.141019
+layer2,14,9,iteration,coat,0.116673
+layer2,14,10,iteration,bre,0.135764
+layer2,14,11,summary,facial markings,0.167415
+layer2,15,0,initial,pizza,0.153037
+layer2,15,0,initial,meat loaf,0.145663
+layer2,15,0,initial,daisy,0.131716
+layer2,15,0,initial,cauliflower,0.128848
+layer2,15,0,initial,bell pepper,0.112223
+layer2,15,0,initial,appenzeller,0.108401
+layer2,15,0,initial,indri,0.106701
+layer2,15,0,initial,tiger,0.103332
+layer2,15,0,initial,ruddy turnstone,0.089117
+layer2,15,0,initial,broom,0.061194
+layer2,15,1,iteration,savory dish,0.145059
+layer2,15,2,iteration,round food,0.112532
+layer2,15,3,iteration,round food item,0.112342
+layer2,15,4,iteration,round food,0.112532
+layer2,15,5,iteration,circular food,0.119554
+layer2,15,6,iteration,ring,0.077945
+layer2,15,7,iteration,round food,0.112532
+layer2,15,8,iteration,flatbread,0.130670
+layer2,15,9,iteration,circular food item,0.104562
+layer2,15,10,iteration,circle food,0.108422
+layer2,15,11,summary,savory dish,0.145059
+layer2,17,0,initial,paper towel,0.159647
+layer2,17,0,initial,jacamar,0.157981
+layer2,17,0,initial,damselfly,0.143004
+layer2,17,0,initial,dragonfly,0.142922
+layer2,17,0,initial,puck,0.142468
+layer2,17,0,initial,lycaenid,0.140301
+layer2,17,0,initial,little blue heron,0.132704
+layer2,17,0,initial,hummingbird,0.124020
+layer2,17,0,initial,otter,0.109237
+layer2,17,0,initial,kite,0.099195
+layer2,17,1,iteration,disk shape,0.135358
+layer2,17,2,iteration,bird wing,0.120363
+layer2,17,3,iteration,flat wing,0.150538
+layer2,17,4,iteration,kite,0.099195
+layer2,17,5,iteration,puck,0.142468
+layer2,17,6,iteration,flying creature,0.131860
+layer2,17,7,iteration,round object,0.154665
+layer2,17,8,iteration,flat winged,0.106958
+layer2,17,9,iteration,disk,0.155036
+layer2,17,10,iteration,ring,0.191847
+layer2,17,11,summary,circular shape,0.135842
+layer2,18,0,initial,espresso,0.303053
+layer2,18,0,initial,killer whale,0.256370
+layer2,18,0,initial,grey whale,0.244248
+layer2,18,0,initial,speedboat,0.240655
+layer2,18,0,initial,submarine,0.219343
+layer2,18,0,initial,red-breasted merganser,0.213433
+layer2,18,0,initial,cardigan welsh corgi,0.182583
+layer2,18,0,initial,safe,0.158691
+layer2,18,0,initial,hummingbird,0.151432
+layer2,18,0,initial,lakeland terrier,0.148273
+layer2,18,1,iteration,aquatic speed,0.279658
+layer2,18,2,iteration,fast swimmer,0.296465
+layer2,18,3,iteration,swimmer,0.297825
+layer2,18,4,iteration,speed,0.185516
+layer2,18,5,iteration,whaleboat,0.251821
+layer2,18,6,iteration,fast marine,0.231216
+layer2,18,7,iteration,fast swimmer,0.296465
+layer2,18,8,iteration,killer whale,0.256370
+layer2,18,9,iteration,speedster,0.231901
+layer2,18,10,iteration,submersible,0.170140
+layer2,18,11,summary,water activity,0.243133
+layer2,20,0,initial,typewriter keyboard,0.236465
+layer2,20,0,initial,ambulance,0.199394
+layer2,20,0,initial,sewing machine,0.188505
+layer2,20,0,initial,common iguana,0.178909
+layer2,20,0,initial,minibus,0.173006
+layer2,20,0,initial,minivan,0.171125
+layer2,20,0,initial,space bar,0.127078
+layer2,20,0,initial,standard schnauzer,0.109198
+layer2,20,0,initial,eskimo dog,0.106595
+layer2,20,0,initial,norwegian elkhound,0.098393
+layer2,20,1,iteration,emergency vehicle,0.197358
+layer2,20,2,iteration,transportation,0.165456
+layer2,20,3,iteration,medical device,0.168493
+layer2,20,4,iteration,keypad,0.208344
+layer2,20,5,iteration,button,0.080519
+layer2,20,6,iteration,flat panel,0.156727
+layer2,20,7,iteration,keypad,0.208344
+layer2,20,8,iteration,control panel,0.197408
+layer2,20,9,iteration,input grid,0.193150
+layer2,20,10,iteration,input grid,0.193150
+layer2,20,11,summary,button layout,0.178079
+layer2,21,0,initial,langur,0.201143
+layer2,21,0,initial,disk brake,0.200727
+layer2,21,0,initial,gasmask,0.198662
+layer2,21,0,initial,cello,0.192603
+layer2,21,0,initial,harp,0.186307
+layer2,21,0,initial,proboscis monkey,0.183493
+layer2,21,0,initial,sax,0.178575
+layer2,21,0,initial,seat belt,0.173738
+layer2,21,0,initial,box turtle,0.161320
+layer2,21,0,initial,black grouse,0.142669
+layer2,21,1,iteration,safety gear,0.187604
+layer2,21,2,iteration,disk protector,0.205670
+layer2,21,3,iteration,safety device,0.165525
+layer2,21,4,iteration,protective gear,0.209552
+layer2,21,5,iteration,disk shield,0.190774
+layer2,21,6,iteration,disk guard,0.183645
+layer2,21,7,iteration,disk cover,0.171162
+layer2,21,8,iteration,disk,0.183452
+layer2,21,9,iteration,disk overlay,0.179085
+layer2,21,10,iteration,cover,0.168048
+layer2,21,11,summary,protective equipment,0.193080
+layer2,22,0,initial,entertainment center,0.235080
+layer2,22,0,initial,shoji,0.232011
+layer2,22,0,initial,desktop computer,0.226820
+layer2,22,0,initial,digital clock,0.208868
+layer2,22,0,initial,tub,0.203832
+layer2,22,0,initial,magpie,0.185226
+layer2,22,0,initial,file,0.176454
+layer2,22,0,initial,lab coat,0.161843
+layer2,22,0,initial,vine snake,0.156430
+layer2,22,0,initial,tench,0.148494
+layer2,22,1,iteration,flat screen,0.199820
+layer2,22,2,iteration,flat surface,0.174990
+layer2,22,3,iteration,electronic panel,0.209247
+layer2,22,4,iteration,panel,0.198041
+layer2,22,5,iteration,raised surface,0.182272
+layer2,22,6,iteration,display,0.216315
+layer2,22,7,iteration,electronics,0.192891
+layer2,22,8,iteration,digital screen,0.183037
+layer2,22,9,iteration,display unit,0.206986
+layer2,22,10,iteration,digital display,0.199934
+layer2,22,11,summary,electronic device,0.212493
+layer2,23,0,initial,bell pepper,0.214222
+layer2,23,0,initial,ram,0.186291
+layer2,23,0,initial,wig,0.176067
+layer2,23,0,initial,leonberg,0.163599
+layer2,23,0,initial,daisy,0.157078
+layer2,23,0,initial,neck brace,0.156005
+layer2,23,0,initial,go-kart,0.143089
+layer2,23,0,initial,plastic bag,0.126363
+layer2,23,0,initial,hip,0.112899
+layer2,23,0,initial,nail,0.092249
+layer2,23,1,iteration,body part,0.140623
+layer2,23,2,iteration,horned animal,0.151288
+layer2,23,3,iteration,horned,0.141517
+layer2,23,4,iteration,protrusion,0.125663
+layer2,23,5,iteration,pointed tip,0.054319
+layer2,23,6,iteration,appendage,0.119661
+layer2,23,7,iteration,headpiece,0.143301
+layer2,23,8,iteration,appendage-like feature,0.097936
+layer2,23,9,iteration,growth,0.101969
+layer2,23,10,iteration,appendage,0.119661
+layer2,23,11,summary,man-made,0.105179
+layer2,24,0,initial,gibbon,0.220750
+layer2,24,0,initial,corn,0.212592
+layer2,24,0,initial,pomeranian,0.200515
+layer2,24,0,initial,tusker,0.188143
+layer2,24,0,initial,macaque,0.188103
+layer2,24,0,initial,harvester,0.165048
+layer2,24,0,initial,mitten,0.157592
+layer2,24,0,initial,hamster,0.143289
+layer2,24,0,initial,worm fence,0.098647
+layer2,24,0,initial,jellyfish,0.088255
+layer2,24,1,iteration,primate,0.192400
+layer2,24,2,iteration,small mammal,0.155126
+layer2,24,3,iteration,swing dog,0.153933
+layer2,24,4,iteration,canine,0.158474
+layer2,24,5,iteration,tailed animal,0.157998
+layer2,24,6,iteration,tail,0.147252
+layer2,24,7,iteration,furred creature,0.175008
+layer2,24,8,iteration,furred animal,0.170846
+layer2,24,9,iteration,furry,0.137800
+layer2,24,10,iteration,hairy,0.160045
+layer2,24,11,summary,small creature,0.144637
+layer2,25,0,initial,jigsaw puzzle,0.325976
+layer2,25,0,initial,drilling platform,0.315541
+layer2,25,0,initial,geyser,0.294216
+layer2,25,0,initial,castle,0.283184
+layer2,25,0,initial,vase,0.206024
+layer2,25,0,initial,flatworm,0.204404
+layer2,25,0,initial,breakwater,0.191619
+layer2,25,0,initial,chickadee,0.184824
+layer2,25,0,initial,water jug,0.183912
+layer2,25,0,initial,grasshopper,0.180912
+layer2,25,1,iteration,shape work,0.135851
+layer2,25,2,iteration,water container,0.212446
+layer2,25,3,iteration,holey object,0.218844
+layer2,25,4,iteration,holey structure,0.174469
+layer2,25,5,iteration,holey,0.196875
+layer2,25,6,iteration,hole maker,0.185740
+layer2,25,7,iteration,hole,0.247220
+layer2,25,8,iteration,drilling,0.200029
+layer2,25,9,iteration,voided,0.132951
+layer2,25,10,iteration,vessel,0.171333
+layer2,25,11,summary,irregular shape,0.126609
+layer2,26,0,initial,echidna,0.253967
+layer2,26,0,initial,tiger,0.232748
+layer2,26,0,initial,grey whale,0.188544
+layer2,26,0,initial,barber chair,0.178639
+layer2,26,0,initial,canoe,0.176276
+layer2,26,0,initial,paddle,0.153923
+layer2,26,0,initial,killer whale,0.151878
+layer2,26,0,initial,red-breasted merganser,0.150468
+layer2,26,0,initial,dugong,0.117889
+layer2,26,0,initial,puck,0.104255
+layer2,26,1,iteration,sea mammal,0.160085
+layer2,26,2,iteration,aquatic,0.200316
+layer2,26,3,iteration,coastal creature,0.181976
+layer2,26,4,iteration,marine animal,0.162731
+layer2,26,5,iteration,marine life,0.212240
+layer2,26,6,iteration,beachgoer,0.185010
+layer2,26,7,iteration,swimmer,0.180948
+layer2,26,8,iteration,shellback,0.180683
+layer2,26,9,iteration,shellbacked,0.117054
+layer2,26,10,iteration,ocean dweller,0.174519
+layer2,26,11,summary,four limbs,0.109428
+layer2,29,0,initial,artichoke,0.271847
+layer2,29,0,initial,knot,0.233338
+layer2,29,0,initial,corn,0.219095
+layer2,29,0,initial,banana,0.214960
+layer2,29,0,initial,indian cobra,0.193669
+layer2,29,0,initial,hip,0.176381
+layer2,29,0,initial,bubble,0.170522
+layer2,29,0,initial,jacamar,0.155075
+layer2,29,0,initial,file,0.134509
+layer2,29,0,initial,lycaenid,0.132490
+layer2,29,1,iteration,globule,0.188618
+layer2,29,2,iteration,bulbous shape,0.232246
+layer2,29,3,iteration,globoid,0.160836
+layer2,29,4,iteration,rounded shape,0.206707
+layer2,29,5,iteration,plump growth,0.210265
+layer2,29,6,iteration,compact shape,0.161810
+layer2,29,7,iteration,sphere,0.158487
+layer2,29,8,iteration,swelling,0.188079
+layer2,29,9,iteration,curved shape,0.199068
+layer2,29,10,iteration,globular form,0.153472
+layer2,29,11,summary,rounded shape,0.206707
+layer2,30,0,initial,starfish,0.215170
+layer2,30,0,initial,stone wall,0.194903
+layer2,30,0,initial,confectionery,0.184567
+layer2,30,0,initial,manhole cover,0.118500
+layer2,30,0,initial,mountain tent,0.113544
+layer2,30,0,initial,chiton,0.104842
+layer2,30,0,initial,artichoke,0.070627
+layer2,30,0,initial,beaver,0.067482
+layer2,30,0,initial,cello,0.041280
+layer2,30,0,initial,plastic bag,0.037667
+layer2,30,1,iteration,disc,0.029961
+layer2,30,2,iteration,flat disk,0.013803
+layer2,30,3,iteration,round plate,0.016289
+layer2,30,4,iteration,manhole,0.102236
+layer2,30,5,iteration,round object,0.021457
+layer2,30,6,iteration,manhole cover,0.118500
+layer2,30,7,iteration,central circle,0.043185
+layer2,30,8,iteration,round cover,0.020208
+layer2,30,9,iteration,central shape,0.042499
+layer2,30,10,iteration,circular cover,0.031587
+layer2,30,11,summary,non-food,0.059278
+layer2,31,0,initial,leopard,0.298683
+layer2,31,0,initial,jaguar,0.288044
+layer2,31,0,initial,cheetah,0.251655
+layer2,31,0,initial,coral fungus,0.175160
+layer2,31,0,initial,gyromitra,0.174165
+layer2,31,0,initial,prayer rug,0.159888
+layer2,31,0,initial,bikini,0.113433
+layer2,31,0,initial,slide rule,0.089671
+layer2,31,0,initial,capuchin,0.071212
+layer2,31,0,initial,cup,0.041386
+layer2,31,1,iteration,big cat,0.218084
+layer2,31,2,iteration,spotted animal,0.287684
+layer2,31,3,iteration,spots,0.158035
+layer2,31,4,iteration,leopard skin,0.297995
+layer2,31,5,iteration,animal print,0.261633
+layer2,31,6,iteration,spots on animal,0.269788
+layer2,31,7,iteration,wild cat,0.185097
+layer2,31,8,iteration,spots pattern,0.527189
+layer2,31,9,iteration,furry,0.084482
+layer2,31,10,iteration,spotted,0.125210
+layer2,31,11,summary,spots,0.158035
+layer2,32,0,initial,bookcase,0.500952
+layer2,32,0,initial,bookshop,0.338451
+layer2,32,0,initial,tobacco shop,0.292283
+layer2,32,0,initial,library,0.265390
+layer2,32,0,initial,slot,0.204511
+layer2,32,0,initial,freight car,0.181370
+layer2,32,0,initial,reel,0.135041
+layer2,32,0,initial,acorn,0.109619
+layer2,32,0,initial,ladybug,0.086728
+layer2,32,0,initial,spatula,0.065698
+layer2,32,1,iteration,container,0.128048
+layer2,32,2,iteration,book storage,0.379502
+layer2,32,3,iteration,bookshelf,0.473885
+layer2,32,4,iteration,bookcase,0.500952
+layer2,32,5,iteration,slot rack,0.232883
+layer2,32,6,iteration,bookstand,0.177449
+layer2,32,7,iteration,book organizer,0.257589
+layer2,32,8,iteration,book holder,0.094617
+layer2,32,9,iteration,book slot,0.179596
+layer2,32,10,iteration,book slot,0.179596
+layer2,32,11,summary,book storage,0.379502
+layer2,33,0,initial,espresso maker,0.222991
+layer2,33,0,initial,langur,0.158855
+layer2,33,0,initial,puck,0.141656
+layer2,33,0,initial,leopard,0.131426
+layer2,33,0,initial,colobus,0.120778
+layer2,33,0,initial,polecat,0.108565
+layer2,33,0,initial,goldfinch,0.086886
+layer2,33,0,initial,guillotine,0.085498
+layer2,33,0,initial,matchstick,0.078968
+layer2,33,0,initial,hip,0.070881
+layer2,33,1,iteration,exotic animal,0.125152
+layer2,33,2,iteration,pointed stick,0.117015
+layer2,33,3,iteration,handlebar,0.201124
+layer2,33,4,iteration,rounded shape,0.098127
+layer2,33,5,iteration,curve,0.081097
+layer2,33,6,iteration,base,0.071798
+layer2,33,7,iteration,spots,0.153238
+layer2,33,8,iteration,oval shape,0.093225
+layer2,33,9,iteration,distinctive shape,0.095424
+layer2,33,10,iteration,long thin object,0.039937
+layer2,33,11,summary,long protrusion,0.098431
+layer2,34,0,initial,greenhouse,0.181750
+layer2,34,0,initial,electric locomotive,0.135717
+layer2,34,0,initial,freight car,0.130845
+layer2,34,0,initial,shopping basket,0.093884
+layer2,34,0,initial,ambulance,0.084520
+layer2,34,0,initial,theater curtain,0.070583
+layer2,34,0,initial,banjo,0.053692
+layer2,34,0,initial,christmas stocking,0.050497
+layer2,34,0,initial,potter's wheel,0.049975
+layer2,34,0,initial,ipod,0.042574
+layer2,34,1,iteration,enclosure,0.113224
+layer2,34,2,iteration,container,0.079703
+layer2,34,3,iteration,encasement,0.079536
+layer2,34,4,iteration,protector,0.053667
+layer2,34,5,iteration,capsule,0.052120
+layer2,34,6,iteration,cage,0.109015
+layer2,34,7,iteration,barrier,0.109629
+layer2,34,8,iteration,greenhouse,0.181750
+layer2,34,9,iteration,transportation vessel,0.111620
+layer2,34,10,iteration,enclosing box,0.047527
+layer2,34,11,summary,vehicle,0.087438
+layer2,35,0,initial,slot,0.117862
+layer2,35,0,initial,scoreboard,0.117730
+layer2,35,0,initial,vending machine,0.115986
+layer2,35,0,initial,cardoon,0.106138
+layer2,35,0,initial,odometer,0.105167
+layer2,35,0,initial,typewriter keyboard,0.099609
+layer2,35,0,initial,ice lolly,0.099013
+layer2,35,0,initial,steel arch bridge,0.094515
+layer2,35,0,initial,king penguin,0.080050
+layer2,35,0,initial,bolo tie,0.067956
+layer2,35,1,iteration,slot array,0.130822
+layer2,35,2,iteration,slot display,0.144501
+layer2,35,3,iteration,slot row,0.115327
+layer2,35,4,iteration,machine,0.099499
+layer2,35,5,iteration,slot grid,0.052534
+layer2,35,6,iteration,slots,0.136753
+layer2,35,7,iteration,slot pattern,0.066770
+layer2,35,8,iteration,scoreboard,0.117730
+layer2,35,9,iteration,repeating pattern,0.043499
+layer2,35,10,iteration,repeating slots,0.103823
+layer2,35,11,summary,structured array,0.064864
+layer2,36,0,initial,hot pot,0.198817
+layer2,36,0,initial,pizza,0.190525
+layer2,36,0,initial,orangutan,0.183514
+layer2,36,0,initial,chow,0.151759
+layer2,36,0,initial,gyromitra,0.144596
+layer2,36,0,initial,muzzle,0.138726
+layer2,36,0,initial,german shepherd,0.129925
+layer2,36,0,initial,hourglass,0.109450
+layer2,36,0,initial,centipede,0.099447
+layer2,36,0,initial,hair spray,0.053307
+layer2,36,1,iteration,round dish,0.045987
+layer2,36,2,iteration,food bowl,0.098135
+layer2,36,3,iteration,cuisine,0.156948
+layer2,36,4,iteration,cookware,0.129677
+layer2,36,5,iteration,cookware,0.129677
+layer2,36,6,iteration,round food,0.147935
+layer2,36,7,iteration,hot food,0.190953
+layer2,36,8,iteration,rounded container,0.094819
+layer2,36,9,iteration,pot pizza,0.188719
+layer2,36,10,iteration,dish,0.121961
+layer2,36,11,summary,hot dish,0.189719
+layer2,37,0,initial,gasmask,0.279788
+layer2,37,0,initial,car wheel,0.200988
+layer2,37,0,initial,komodo dragon,0.182376
+layer2,37,0,initial,lens cap,0.175517
+layer2,37,0,initial,reflex camera,0.171178
+layer2,37,0,initial,model t,0.169865
+layer2,37,0,initial,moped,0.169821
+layer2,37,0,initial,japanese spaniel,0.163955
+layer2,37,0,initial,pillow,0.156577
+layer2,37,0,initial,lotion,0.117887
+layer2,37,1,iteration,round object,0.145926
+layer2,37,2,iteration,vehicle wheel,0.189792
+layer2,37,3,iteration,protective cover,0.080904
+layer2,37,4,iteration,face shield,0.124723
+layer2,37,5,iteration,mask,0.217899
+layer2,37,6,iteration,lens cover,0.187715
+layer2,37,7,iteration,round cover,0.163047
+layer2,37,8,iteration,protective disc,0.202996
+layer2,37,9,iteration,gasmask,0.279788
+layer2,37,10,iteration,lens cap alternative,0.156153
+layer2,37,11,summary,protective function,0.080480
+layer2,38,0,initial,theater curtain,0.261632
+layer2,38,0,initial,modem,0.197176
+layer2,38,0,initial,dishrag,0.192104
+layer2,38,0,initial,whistle,0.164315
+layer2,38,0,initial,washbasin,0.158206
+layer2,38,0,initial,nematode,0.149916
+layer2,38,0,initial,teapot,0.146036
+layer2,38,0,initial,tow truck,0.141695
+layer2,38,0,initial,ballplayer,0.134654
+layer2,38,0,initial,car wheel,0.109066
+layer2,38,1,iteration,pull cord,0.224528
+layer2,38,2,iteration,cleaning cloth,0.181189
+layer2,38,3,iteration,fabric,0.179522
+layer2,38,4,iteration,household fabric,0.193157
+layer2,38,5,iteration,decorative panel,0.186076
+layer2,38,6,iteration,draping,0.175440
+layer2,38,7,iteration,curtain,0.289618
+layer2,38,8,iteration,interior textile,0.147933
+layer2,38,9,iteration,drop down,0.173825
+layer2,38,10,iteration,coverings,0.144825
+layer2,38,11,summary,drapery,0.202200
+layer2,39,0,initial,snow leopard,0.179064
+layer2,39,0,initial,cab,0.177983
+layer2,39,0,initial,diamondback,0.136247
+layer2,39,0,initial,pay-phone,0.136229
+layer2,39,0,initial,jinrikisha,0.135849
+layer2,39,0,initial,grey whale,0.123338
+layer2,39,0,initial,hornbill,0.107305
+layer2,39,0,initial,axolotl,0.092573
+layer2,39,0,initial,cicada,0.088455
+layer2,39,0,initial,pickelhaube,0.084959
+layer2,39,1,iteration,stripes and spots,0.124405
+layer2,39,2,iteration,spot pattern,0.146349
+layer2,39,3,iteration,spots,0.111321
+layer2,39,4,iteration,patterned vehicle,0.159390
+layer2,39,5,iteration,design car,0.109051
+layer2,39,6,iteration,marked animal,0.099761
+layer2,39,7,iteration,spotted,0.113317
+layer2,39,8,iteration,wildlife markings,0.117024
+layer2,39,9,iteration,fur,0.101705
+layer2,39,10,iteration,leopard,0.145482
+layer2,39,11,summary,patterned vehicle,0.159390
+layer2,41,0,initial,artichoke,0.231318
+layer2,41,0,initial,disk brake,0.202177
+layer2,41,0,initial,daisy,0.187815
+layer2,41,0,initial,typewriter keyboard,0.184500
+layer2,41,0,initial,earthstar,0.164321
+layer2,41,0,initial,maypole,0.152806
+layer2,41,0,initial,lesser panda,0.149214
+layer2,41,0,initial,rock python,0.139891
+layer2,41,0,initial,lakeland terrier,0.139582
+layer2,41,0,initial,mouse,0.128568
+layer2,41,1,iteration,hub,0.157280
+layer2,41,2,iteration,radial pattern,0.204152
+layer2,41,3,iteration,centered circle,0.136706
+layer2,41,4,iteration,starburst,0.133876
+layer2,41,5,iteration,round shape,0.165566
+layer2,41,6,iteration,artichoke pattern,0.340507
+layer2,41,7,iteration,circular pattern,0.192464
+layer2,41,8,iteration,disk,0.143064
+layer2,41,9,iteration,sunburst,0.135033
+layer2,41,10,iteration,circular design,0.163393
+layer2,41,11,summary,artichoke,0.231318
+layer2,42,0,initial,photocopier,0.531946
+layer2,42,0,initial,safe,0.434478
+layer2,42,0,initial,printer,0.424351
+layer2,42,0,initial,medicine chest,0.375209
+layer2,42,0,initial,file,0.372265
+layer2,42,0,initial,perfume,0.360991
+layer2,42,0,initial,lakeland terrier,0.297369
+layer2,42,0,initial,snowplow,0.252288
+layer2,42,0,initial,polecat,0.237133
+layer2,42,0,initial,porcupine,0.166900
+layer2,42,1,iteration,lockbox,0.364775
+layer2,42,2,iteration,security box,0.507220
+layer2,42,3,iteration,storage unit,0.302773
+layer2,42,4,iteration,vault,0.241875
+layer2,42,5,iteration,secure container,0.389130
+layer2,42,6,iteration,safehouse,0.328647
+layer2,42,7,iteration,office,0.353172
+layer2,42,8,iteration,lock,0.384445
+layer2,42,9,iteration,flat slot,0.500748
+layer2,42,10,iteration,secret space,0.383025
+layer2,42,11,summary,flat surface,0.591884
+layer2,44,0,initial,entertainment center,0.200905
+layer2,44,0,initial,restaurant,0.199517
+layer2,44,0,initial,cheeseburger,0.199066
+layer2,44,0,initial,desk,0.197844
+layer2,44,0,initial,garbage truck,0.196759
+layer2,44,0,initial,library,0.189016
+layer2,44,0,initial,eel,0.153609
+layer2,44,0,initial,shield,0.150956
+layer2,44,0,initial,quilt,0.136875
+layer2,44,0,initial,torch,0.116972
+layer2,44,1,iteration,manmade object,0.152152
+layer2,44,2,iteration,boxy,0.141534
+layer2,44,3,iteration,home decor,0.199146
+layer2,44,4,iteration,workspace,0.214006
+layer2,44,5,iteration,furniture,0.177188
+layer2,44,6,iteration,shelf,0.207772
+layer2,44,7,iteration,platform,0.130672
+layer2,44,8,iteration,storage unit,0.125179
+layer2,44,9,iteration,display case,0.210064
+layer2,44,10,iteration,display stand,0.167240
+layer2,44,11,summary,flat surface,0.109928
+layer2,46,0,initial,sliding door,0.166638
+layer2,46,0,initial,go-kart,0.150385
+layer2,46,0,initial,indri,0.148109
+layer2,46,0,initial,affenpinscher,0.145102
+layer2,46,0,initial,howler monkey,0.144504
+layer2,46,0,initial,rock python,0.141205
+layer2,46,0,initial,siamang,0.140398
+layer2,46,0,initial,tibetan mastiff,0.134748
+layer2,46,0,initial,brittany spaniel,0.129591
+layer2,46,0,initial,soccer ball,0.115058
+layer2,46,1,iteration,speedster,0.132179
+layer2,46,2,iteration,speedster,0.132179
+layer2,46,3,iteration,fast mover,0.131743
+layer2,46,4,iteration,fast animal,0.122073
+layer2,46,5,iteration,swift,0.103951
+layer2,46,6,iteration,swift creature,0.108224
+layer2,46,7,iteration,swift being,0.091718
+layer2,46,8,iteration,speedy,0.125203
+layer2,46,9,iteration,quick,0.115352
+layer2,46,10,iteration,fast animal,0.122073
+layer2,46,11,summary,wheels,0.109418
+layer2,47,0,initial,carbonara,0.153783
+layer2,47,0,initial,howler monkey,0.138090
+layer2,47,0,initial,cardoon,0.135713
+layer2,47,0,initial,indri,0.133371
+layer2,47,0,initial,acorn,0.110448
+layer2,47,0,initial,coral reef,0.097229
+layer2,47,0,initial,bloodhound,0.092926
+layer2,47,0,initial,coffeepot,0.082074
+layer2,47,0,initial,cock,0.076481
+layer2,47,0,initial,beer bottle,0.072300
+layer2,47,1,iteration,exotic animal,0.092294
+layer2,47,2,iteration,italian food,0.124144
+layer2,47,3,iteration,rare find,0.082599
+layer2,47,4,iteration,wildlife,0.084345
+layer2,47,5,iteration,obscure,0.069256
+layer2,47,6,iteration,uncommon find,0.093009
+layer2,47,7,iteration,unusual,0.072427
+layer2,47,8,iteration,hidden treasure,0.065398
+layer2,47,9,iteration,find,0.090789
+layer2,47,10,iteration,treasure,0.096071
+layer2,47,11,summary,non-animal,0.089035
+layer2,48,0,initial,window screen,0.339389
+layer2,48,0,initial,jackfruit,0.204449
+layer2,48,0,initial,web site,0.188985
+layer2,48,0,initial,shopping cart,0.186147
+layer2,48,0,initial,vending machine,0.140610
+layer2,48,0,initial,brass,0.120717
+layer2,48,0,initial,arabian camel,0.109743
+layer2,48,0,initial,chesapeake bay retriever,0.102290
+layer2,48,0,initial,maze,0.079196
+layer2,48,0,initial,tailed frog,0.072714
+layer2,48,1,iteration,mesh,0.276864
+layer2,48,2,iteration,grid,0.228291
+layer2,48,3,iteration,interlocking pattern,0.120725
+layer2,48,4,iteration,latticework,0.141351
+layer2,48,5,iteration,aperture,0.109136
+layer2,48,6,iteration,openwork,0.186392
+layer2,48,7,iteration,framework,0.120924
+layer2,48,8,iteration,repeating pattern,0.075675
+layer2,48,9,iteration,netting,0.140927
+layer2,48,10,iteration,perforation,0.120233
+layer2,48,11,summary,grid pattern,0.154870
+layer2,49,0,initial,wardrobe,0.196146
+layer2,49,0,initial,photocopier,0.174293
+layer2,49,0,initial,desk,0.156641
+layer2,49,0,initial,hartebeest,0.156248
+layer2,49,0,initial,plunger,0.154612
+layer2,49,0,initial,table lamp,0.150744
+layer2,49,0,initial,washbasin,0.148975
+layer2,49,0,initial,hammerhead,0.137782
+layer2,49,0,initial,admiral,0.136206
+layer2,49,0,initial,mask,0.127350
+layer2,49,1,iteration,household item,0.126867
+layer2,49,2,iteration,container,0.134797
+layer2,49,3,iteration,floor item,0.169571
+layer2,49,4,iteration,furniture,0.143439
+layer2,49,5,iteration,vertical object,0.148272
+layer2,49,6,iteration,fixture,0.142571
+layer2,49,7,iteration,room object,0.185940
+layer2,49,8,iteration,wall decor,0.149719
+layer2,49,9,iteration,indoor item,0.162569
+layer2,49,10,iteration,household,0.172077
+layer2,49,11,summary,room,0.199327
+layer2,51,0,initial,disk brake,0.313209
+layer2,51,0,initial,odometer,0.300362
+layer2,51,0,initial,red-breasted merganser,0.285139
+layer2,51,0,initial,french bulldog,0.279695
+layer2,51,0,initial,dogsled,0.278154
+layer2,51,0,initial,red-backed sandpiper,0.275448
+layer2,51,0,initial,water snake,0.266839
+layer2,51,0,initial,dowitcher,0.261609
+layer2,51,0,initial,chihuahua,0.256158
+layer2,51,0,initial,tarantula,0.229733
+layer2,51,1,iteration,rotor,0.312022
+layer2,51,2,iteration,round part,0.307938
+layer2,51,3,iteration,disk,0.285184
+layer2,51,4,iteration,brake,0.300682
+layer2,51,5,iteration,rotary gauge,0.284540
+layer2,51,6,iteration,circular object,0.277579
+layer2,51,7,iteration,wheel,0.318039
+layer2,51,8,iteration,ring,0.266834
+layer2,51,9,iteration,rotating part,0.315873
+layer2,51,10,iteration,rotating part,0.315873
+layer2,51,11,summary,vehicle wheel,0.310324
+layer2,52,0,initial,mosque,0.130384
+layer2,52,0,initial,shoe shop,0.119030
+layer2,52,0,initial,monastery,0.100407
+layer2,52,0,initial,palace,0.098537
+layer2,52,0,initial,triumphal arch,0.089438
+layer2,52,0,initial,polaroid camera,0.079980
+layer2,52,0,initial,moped,0.071297
+layer2,52,0,initial,proboscis monkey,0.055416
+layer2,52,0,initial,purse,0.053637
+layer2,52,0,initial,nail,0.028302
+layer2,52,1,iteration,arched building,0.089441
+layer2,52,2,iteration,arched roof,0.057605
+layer2,52,3,iteration,dome,0.054404
+layer2,52,4,iteration,semicircle,0.031334
+layer2,52,5,iteration,mosque,0.130384
+layer2,52,6,iteration,round building,0.058053
+layer2,52,7,iteration,half circle,0.028837
+layer2,52,8,iteration,rounded monument,0.054790
+layer2,52,9,iteration,rounded structure,0.066079
+layer2,52,10,iteration,circumference,0.053361
+layer2,52,11,summary,place of worship,0.097513
+layer2,53,0,initial,library,0.225776
+layer2,53,0,initial,dining table,0.218773
+layer2,53,0,initial,bookshop,0.212988
+layer2,53,0,initial,model t,0.197624
+layer2,53,0,initial,street sign,0.186392
+layer2,53,0,initial,jinrikisha,0.178998
+layer2,53,0,initial,bikini,0.169463
+layer2,53,0,initial,hammerhead,0.164663
+layer2,53,0,initial,vine snake,0.145126
+layer2,53,0,initial,studio couch,0.141539
+layer2,53,1,iteration,furniture,0.196504
+layer2,53,2,iteration,room,0.152020
+layer2,53,3,iteration,interior,0.208755
+layer2,53,4,iteration,space,0.161298
+layer2,53,5,iteration,enclosure,0.149301
+layer2,53,6,iteration,indoor,0.199683
+layer2,53,7,iteration,structure,0.169520
+layer2,53,8,iteration,walled area,0.148562
+layer2,53,9,iteration,enclosed space,0.182886
+layer2,53,10,iteration,boundary,0.141124
+layer2,53,11,summary,book-related,0.169895
+layer2,54,0,initial,jigsaw puzzle,0.248157
+layer2,54,0,initial,odometer,0.178423
+layer2,54,0,initial,oscilloscope,0.154717
+layer2,54,0,initial,menu,0.141270
+layer2,54,0,initial,vending machine,0.125849
+layer2,54,0,initial,plane,0.114214
+layer2,54,0,initial,typewriter keyboard,0.104612
+layer2,54,0,initial,lhasa,0.066879
+layer2,54,0,initial,whiskey jug,0.060067
+layer2,54,0,initial,pillow,0.036577
+layer2,54,1,iteration,interface,0.119535
+layer2,54,2,iteration,rotary,0.113836
+layer2,54,3,iteration,round shape,0.042720
+layer2,54,4,iteration,display,0.111177
+layer2,54,5,iteration,control panel,0.283670
+layer2,54,6,iteration,component,0.086736
+layer2,54,7,iteration,jigsaw pieces,0.251542
+layer2,54,8,iteration,dashboard,0.129227
+layer2,54,9,iteration,grid,0.040765
+layer2,54,10,iteration,system,0.096184
+layer2,54,11,summary,puzzle component,0.220528
+layer2,55,0,initial,perfume,0.304275
+layer2,55,0,initial,face powder,0.299991
+layer2,55,0,initial,can opener,0.289041
+layer2,55,0,initial,corkscrew,0.273601
+layer2,55,0,initial,odometer,0.266386
+layer2,55,0,initial,web site,0.248902
+layer2,55,0,initial,hyena,0.217255
+layer2,55,0,initial,viaduct,0.213993
+layer2,55,0,initial,chiton,0.191087
+layer2,55,0,initial,crayfish,0.181743
+layer2,55,1,iteration,cosmetic tool,0.332908
+layer2,55,2,iteration,personal care,0.335248
+layer2,55,3,iteration,beauty aid,0.315108
+layer2,55,4,iteration,facial care,0.287414
+layer2,55,5,iteration,fragrance,0.307580
+layer2,55,6,iteration,perfume,0.304275
+layer2,55,7,iteration,powder,0.258311
+layer2,55,8,iteration,beauty product,0.311677
+layer2,55,9,iteration,beauty powder,0.273850
+layer2,55,10,iteration,face powder,0.299991
+layer2,55,11,summary,grooming aid,0.275990
+layer2,56,0,initial,honeycomb,0.407182
+layer2,56,0,initial,bassinet,0.245154
+layer2,56,0,initial,mashed potato,0.224286
+layer2,56,0,initial,earthstar,0.217779
+layer2,56,0,initial,basketball,0.209496
+layer2,56,0,initial,volleyball,0.179695
+layer2,56,0,initial,diaper,0.175363
+layer2,56,0,initial,mexican hairless,0.166100
+layer2,56,0,initial,croquet ball,0.163115
+layer2,56,0,initial,borzoi,0.157428
+layer2,56,1,iteration,cellular pattern,0.228394
+layer2,56,2,iteration,hexagon,0.271209
+layer2,56,3,iteration,repeating cell,0.307297
+layer2,56,4,iteration,grid structure,0.314767
+layer2,56,5,iteration,honeycomb pattern,0.389349
+layer2,56,6,iteration,repeating shape,0.271437
+layer2,56,7,iteration,honeycomb,0.407182
+layer2,56,8,iteration,repeating pattern,0.181393
+layer2,56,9,iteration,interconnect,0.221289
+layer2,56,10,iteration,unit cell,0.250398
+layer2,56,11,summary,repeating pattern,0.181393
+layer2,57,0,initial,langur,0.197569
+layer2,57,0,initial,proboscis monkey,0.185394
+layer2,57,0,initial,rotisserie,0.170526
+layer2,57,0,initial,gyromitra,0.153045
+layer2,57,0,initial,jay,0.139616
+layer2,57,0,initial,flute,0.134861
+layer2,57,0,initial,power drill,0.120651
+layer2,57,0,initial,dowitcher,0.115730
+layer2,57,0,initial,jacamar,0.113162
+layer2,57,0,initial,quill,0.094330
+layer2,57,1,iteration,beak,0.134498
+layer2,57,2,iteration,snout bird,0.120585
+layer2,57,3,iteration,long muzzle,0.156405
+layer2,57,4,iteration,pointed face,0.167334
+layer2,57,5,iteration,elongated face,0.153258
+layer2,57,6,iteration,proboscis,0.157647
+layer2,57,7,iteration,proboscis animal,0.160109
+layer2,57,8,iteration,nose-like,0.177657
+layer2,57,9,iteration,proboscidean,0.143877
+layer2,57,10,iteration,prominent snout,0.155439
+layer2,57,11,summary,long nose,0.131606
+layer2,60,0,initial,head cabbage,0.228590
+layer2,60,0,initial,peacock,0.144302
+layer2,60,0,initial,howler monkey,0.128308
+layer2,60,0,initial,yellow lady's slipper,0.127217
+layer2,60,0,initial,ringlet,0.085394
+layer2,60,0,initial,silky terrier,0.038249
+layer2,60,0,initial,hip,0.034869
+layer2,60,0,initial,jean,0.027415
+layer2,60,0,initial,lotion,0.022824
+layer2,60,0,initial,lampshade,0.022419
+layer2,60,1,iteration,headpiece,0.027488
+layer2,60,2,iteration,head shape,0.024563
+layer2,60,3,iteration,cranium,0.025198
+layer2,60,4,iteration,head,0.033577
+layer2,60,5,iteration,upper body,0.027013
+layer2,60,6,iteration,skull,0.024390
+layer2,60,7,iteration,bulb,0.020791
+layer2,60,8,iteration,cabbage head,0.232252
+layer2,60,9,iteration,forehead,0.027963
+layer2,60,10,iteration,face,0.031327
+layer2,60,11,summary,vegetable,0.187151
+layer2,61,0,initial,fountain,0.182495
+layer2,61,0,initial,shower curtain,0.161364
+layer2,61,0,initial,miniature pinscher,0.156021
+layer2,61,0,initial,barrel,0.149462
+layer2,61,0,initial,sliding door,0.144736
+layer2,61,0,initial,lhasa,0.135145
+layer2,61,0,initial,teddy,0.133432
+layer2,61,0,initial,volleyball,0.118041
+layer2,61,0,initial,greenhouse,0.115849
+layer2,61,0,initial,ping-pong ball,0.111516
+layer2,61,1,iteration,bathroom item,0.191962
+layer2,61,2,iteration,enclosure,0.130522
+layer2,61,3,iteration,cuddly pet,0.134272
+layer2,61,4,iteration,pet house,0.117975
+layer2,61,5,iteration,miniature space,0.131093
+layer2,61,6,iteration,miniature,0.153623
+layer2,61,7,iteration,small sphere,0.139679
+layer2,61,8,iteration,container,0.098122
+layer2,61,9,iteration,barrel,0.149462
+layer2,61,10,iteration,round object,0.100681
+layer2,61,11,summary,enclosed space,0.118816
+layer2,62,0,initial,disk brake,0.226669
+layer2,62,0,initial,shield,0.191767
+layer2,62,0,initial,electric fan,0.188784
+layer2,62,0,initial,abaya,0.163097
+layer2,62,0,initial,lemon,0.161704
+layer2,62,0,initial,harp,0.151567
+layer2,62,0,initial,great dane,0.149360
+layer2,62,0,initial,shetland sheepdog,0.143556
+layer2,62,0,initial,dowitcher,0.090740
+layer2,62,0,initial,vending machine,0.066197
+layer2,62,1,iteration,disk shield,0.186591
+layer2,62,2,iteration,disk guard,0.175661
+layer2,62,3,iteration,disk shield,0.186591
+layer2,62,4,iteration,disk protector,0.196694
+layer2,62,5,iteration,disk cover,0.178222
+layer2,62,6,iteration,disk shield,0.186591
+layer2,62,7,iteration,protective disk,0.176032
+layer2,62,8,iteration,disk,0.184694
+layer2,62,9,iteration,protective ring,0.114462
+layer2,62,10,iteration,protector,0.149327
+layer2,62,11,summary,disk protection,0.194376
+layer2,64,0,initial,persian cat,0.279921
+layer2,64,0,initial,gasmask,0.216144
+layer2,64,0,initial,jacamar,0.211761
+layer2,64,0,initial,grey fox,0.207548
+layer2,64,0,initial,earthstar,0.193359
+layer2,64,0,initial,chihuahua,0.192024
+layer2,64,0,initial,hamster,0.190540
+layer2,64,0,initial,motor scooter,0.186424
+layer2,64,0,initial,bell pepper,0.176617
+layer2,64,0,initial,fig,0.172894
+layer2,64,1,iteration,small mammal,0.223478
+layer2,64,2,iteration,pet,0.217986
+layer2,64,3,iteration,domesticated animal,0.233386
+layer2,64,4,iteration,furry companion,0.218748
+layer2,64,5,iteration,furry,0.227796
+layer2,64,6,iteration,furry guardian,0.232577
+layer2,64,7,iteration,feline mask,0.175503
+layer2,64,8,iteration,whiskers,0.239664
+layer2,64,9,iteration,(ignore this),0.152158
+layer2,64,10,iteration,ear tips,0.238937
+layer2,64,11,summary,whiskers,0.239664
+layer2,66,0,initial,disk brake,0.174832
+layer2,66,0,initial,slot,0.165949
+layer2,66,0,initial,staffordshire bullterrier,0.155655
+layer2,66,0,initial,bassinet,0.154371
+layer2,66,0,initial,parachute,0.153070
+layer2,66,0,initial,liner,0.143890
+layer2,66,0,initial,seat belt,0.139854
+layer2,66,0,initial,harp,0.115877
+layer2,66,0,initial,bassoon,0.101077
+layer2,66,0,initial,electric guitar,0.096423
+layer2,66,1,iteration,disk shape,0.130015
+layer2,66,2,iteration,safety ring,0.094515
+layer2,66,3,iteration,rotor,0.176136
+layer2,66,4,iteration,circular object,0.162434
+layer2,66,5,iteration,barrier,0.121000
+layer2,66,6,iteration,brake,0.187900
+layer2,66,7,iteration,rotor slot,0.190437
+layer2,66,8,iteration,disk,0.139938
+layer2,66,9,iteration,safety disk,0.130007
+layer2,66,10,iteration,safety disc,0.119394
+layer2,66,11,summary,bicycle wheel,0.135667
+layer2,67,0,initial,shoji,0.239453
+layer2,67,0,initial,slot,0.205205
+layer2,67,0,initial,vending machine,0.204092
+layer2,67,0,initial,coil,0.190377
+layer2,67,0,initial,cowboy hat,0.140136
+layer2,67,0,initial,grille,0.132429
+layer2,67,0,initial,boxer,0.126508
+layer2,67,0,initial,black widow,0.084029
+layer2,67,0,initial,starfish,0.075605
+layer2,67,0,initial,grey whale,0.049696
+layer2,67,1,iteration,lattice,0.239037
+layer2,67,2,iteration,grille,0.132429
+layer2,67,3,iteration,interlock,0.157865
+layer2,67,4,iteration,interlocking,0.129274
+layer2,67,5,iteration,grid pattern,0.196289
+layer2,67,6,iteration,slot pattern,0.224981
+layer2,67,7,iteration,slot system,0.240358
+layer2,67,8,iteration,repeating grid,0.193473
+layer2,67,9,iteration,repeating opening,0.221173
+layer2,67,10,iteration,shoji screen,0.180625
+layer2,67,11,summary,Japanese architecture,0.257906
+layer2,69,0,initial,barometer,0.223560
+layer2,69,0,initial,disk brake,0.216955
+layer2,69,0,initial,vault,0.214476
+layer2,69,0,initial,coil,0.194428
+layer2,69,0,initial,car wheel,0.188219
+layer2,69,0,initial,hyena,0.130395
+layer2,69,0,initial,black-and-tan coonhound,0.127436
+layer2,69,0,initial,spindle,0.100588
+layer2,69,0,initial,hoopskirt,0.097437
+layer2,69,0,initial,printer,0.095397
+layer2,69,1,iteration,ring,0.152063
+layer2,69,2,iteration,disk wheel,0.213956
+layer2,69,3,iteration,rotating ring,0.168413
+layer2,69,4,iteration,disk brake,0.216955
+layer2,69,5,iteration,coil,0.194428
+layer2,69,6,iteration,circular object,0.213433
+layer2,69,7,iteration,orb,0.136418
+layer2,69,8,iteration,rotary,0.160194
+layer2,69,9,iteration,turntable,0.091566
+layer2,69,10,iteration,vehicle wheel,0.184785
+layer2,69,11,summary,mechanism,0.140668
+layer2,70,0,initial,manhole cover,0.295196
+layer2,70,0,initial,prayer rug,0.257600
+layer2,70,0,initial,echidna,0.245011
+layer2,70,0,initial,jeep,0.234240
+layer2,70,0,initial,kite,0.230482
+layer2,70,0,initial,lawn mower,0.160373
+layer2,70,0,initial,brass,0.159319
+layer2,70,0,initial,ringlet,0.152647
+layer2,70,0,initial,oil filter,0.130430
+layer2,70,0,initial,rock python,0.121548
+layer2,70,1,iteration,round object,0.086290
+layer2,70,2,iteration,circular thing,0.127930
+layer2,70,3,iteration,disc,0.159598
+layer2,70,4,iteration,cover,0.175402
+layer2,70,5,iteration,metal circle,0.122536
+layer2,70,6,iteration,manhole cover,0.295196
+layer2,70,7,iteration,ring,0.088842
+layer2,70,8,iteration,metal circle,0.122536
+layer2,70,9,iteration,round shape,0.135764
+layer2,70,10,iteration,ringlet,0.152647
+layer2,70,11,summary,round shape,0.135764
+layer2,71,0,initial,coral reef,0.200049
+layer2,71,0,initial,langur,0.179003
+layer2,71,0,initial,gyromitra,0.172961
+layer2,71,0,initial,baboon,0.157125
+layer2,71,0,initial,macaque,0.153198
+layer2,71,0,initial,castle,0.135428
+layer2,71,0,initial,timber wolf,0.125475
+layer2,71,0,initial,spindle,0.111363
+layer2,71,0,initial,lighter,0.110282
+layer2,71,0,initial,stone wall,0.081795
+layer2,71,1,iteration,tiered structure,0.147450
+layer2,71,2,iteration,layered,0.115150
+layer2,71,3,iteration,step,0.070892
+layer2,71,4,iteration,multi-level,0.118967
+layer2,71,5,iteration,ecosystem,0.173854
+layer2,71,6,iteration,archipelago,0.158025
+layer2,71,7,iteration,vertical system,0.123244
+layer2,71,8,iteration,complex system,0.133431
+layer2,71,9,iteration,nested system,0.113271
+layer2,71,10,iteration,layered system,0.117752
+layer2,71,11,summary,environment,0.105682
+layer2,72,0,initial,artichoke,0.178030
+layer2,72,0,initial,cauliflower,0.170650
+layer2,72,0,initial,schipperke,0.133056
+layer2,72,0,initial,scottish deerhound,0.130187
+layer2,72,0,initial,angora,0.129716
+layer2,72,0,initial,hen-of-the-woods,0.126214
+layer2,72,0,initial,coral fungus,0.123935
+layer2,72,0,initial,organ,0.120297
+layer2,72,0,initial,earthstar,0.119113
+layer2,72,0,initial,book jacket,0.103690
+layer2,72,1,iteration,exotic plant,0.119774
+layer2,72,2,iteration,unusual plant,0.108297
+layer2,72,3,iteration,gourd,0.104481
+layer2,72,4,iteration,curious plant,0.109492
+layer2,72,5,iteration,unusual growth,0.104696
+layer2,72,6,iteration,cover,0.118804
+layer2,72,7,iteration,vegetable growth,0.120095
+layer2,72,8,iteration,fungal growth,0.105732
+layer2,72,9,iteration,odd shape,0.081479
+layer2,72,10,iteration,fleshy growth,0.104604
+layer2,72,11,summary,animal,0.109879
+layer2,73,0,initial,pomeranian,0.275694
+layer2,73,0,initial,macaque,0.261376
+layer2,73,0,initial,brittany spaniel,0.236302
+layer2,73,0,initial,lion,0.235445
+layer2,73,0,initial,hamster,0.210058
+layer2,73,0,initial,silky terrier,0.209096
+layer2,73,0,initial,chocolate sauce,0.193704
+layer2,73,0,initial,acoustic guitar,0.168098
+layer2,73,0,initial,jacamar,0.155797
+layer2,73,0,initial,fly,0.127218
+layer2,73,1,iteration,small pet,0.182118
+layer2,73,2,iteration,domestic mammal,0.178502
+layer2,73,3,iteration,carnivore,0.193692
+layer2,73,4,iteration,mammal size,0.183328
+layer2,73,5,iteration,canine,0.210205
+layer2,73,6,iteration,dog breed,0.215820
+layer2,73,7,iteration,toy breed,0.214818
+layer2,73,8,iteration,primate,0.235637
+layer2,73,9,iteration,silky terrier,0.209096
+layer2,73,10,iteration,small dog,0.210957
+layer2,73,11,summary,dog breed,0.215820
+layer2,75,0,initial,odometer,0.165037
+layer2,75,0,initial,scoreboard,0.150989
+layer2,75,0,initial,web site,0.110003
+layer2,75,0,initial,slide rule,0.101306
+layer2,75,0,initial,wreck,0.084013
+layer2,75,0,initial,menu,0.074510
+layer2,75,0,initial,brass,0.071400
+layer2,75,0,initial,brabancon griffon,0.055335
+layer2,75,0,initial,great dane,0.053302
+layer2,75,0,initial,spaghetti squash,0.045096
+layer2,75,1,iteration,display unit,0.106082
+layer2,75,2,iteration,counter,0.096352
+layer2,75,3,iteration,numerical display,0.118323
+layer2,75,4,iteration,gauge,0.117636
+layer2,75,5,iteration,dial face,0.128758
+layer2,75,6,iteration,dial,0.098478
+layer2,75,7,iteration,round display,0.067497
+layer2,75,8,iteration,dial plate,0.102401
+layer2,75,9,iteration,dial plate,0.102401
+layer2,75,10,iteration,scoreboard,0.150989
+layer2,75,11,summary,numerical display,0.118323
+layer2,77,0,initial,lhasa,0.405122
+layer2,77,0,initial,hot pot,0.377863
+layer2,77,0,initial,scottish deerhound,0.375678
+layer2,77,0,initial,vault,0.370080
+layer2,77,0,initial,hamster,0.358672
+layer2,77,0,initial,catamaran,0.357568
+layer2,77,0,initial,revolver,0.354575
+layer2,77,0,initial,ringlet,0.342015
+layer2,77,0,initial,jack-o'-lantern,0.340500
+layer2,77,0,initial,knee pad,0.340218
+layer2,77,1,iteration,ring,0.339357
+layer2,77,2,iteration,round object,0.330227
+layer2,77,3,iteration,container,0.315605
+layer2,77,4,iteration,kilt,0.333391
+layer2,77,5,iteration,enclosure,0.340145
+layer2,77,6,iteration,tartan,0.199397
+layer2,77,7,iteration,scottish,0.365160
+layer2,77,8,iteration,plaid,0.234798
+layer2,77,9,iteration,highland,0.394671
+layer2,77,10,iteration,plaid pattern,0.223076
+layer2,77,11,summary,high elevation,0.364589
+layer2,78,0,initial,vault,0.248500
+layer2,78,0,initial,bookshop,0.232581
+layer2,78,0,initial,jellyfish,0.228837
+layer2,78,0,initial,apron,0.228245
+layer2,78,0,initial,hip,0.220330
+layer2,78,0,initial,tiger,0.218331
+layer2,78,0,initial,wardrobe,0.210722
+layer2,78,0,initial,goldfish,0.202891
+layer2,78,0,initial,partridge,0.196303
+layer2,78,0,initial,black and gold garden spider,0.189589
+layer2,78,1,iteration,apron,0.228245
+layer2,78,2,iteration,display case,0.220927
+layer2,78,3,iteration,treasure chest,0.213768
+layer2,78,4,iteration,vaulted box,0.238201
+layer2,78,5,iteration,enclosure,0.239743
+layer2,78,6,iteration,container,0.194604
+layer2,78,7,iteration,safe,0.253983
+layer2,78,8,iteration,coffin,0.195630
+layer2,78,9,iteration,box,0.188773
+layer2,78,10,iteration,stronghold,0.261492
+layer2,78,11,summary,secure location,0.263518
+layer2,79,0,initial,window screen,0.307613
+layer2,79,0,initial,chiton,0.244744
+layer2,79,0,initial,bustard,0.166253
+layer2,79,0,initial,vending machine,0.153319
+layer2,79,0,initial,dishrag,0.149482
+layer2,79,0,initial,scabbard,0.133807
+layer2,79,0,initial,hartebeest,0.120779
+layer2,79,0,initial,eskimo dog,0.119202
+layer2,79,0,initial,gondola,0.095127
+layer2,79,0,initial,mortarboard,0.086172
+layer2,79,1,iteration,mesh,0.287055
+layer2,79,2,iteration,netting,0.227635
+layer2,79,3,iteration,filter,0.146583
+layer2,79,4,iteration,grid,0.315264
+layer2,79,5,iteration,openwork,0.151410
+layer2,79,6,iteration,interlock,0.101506
+layer2,79,7,iteration,interwoven,0.122899
+layer2,79,8,iteration,interlaced,0.135197
+layer2,79,9,iteration,latticework,0.263391
+layer2,79,10,iteration,chiton,0.244744
+layer2,79,11,summary,grid pattern,0.400919
+layer2,80,0,initial,yellow lady's slipper,0.163798
+layer2,80,0,initial,bell pepper,0.161409
+layer2,80,0,initial,cauliflower,0.139975
+layer2,80,0,initial,jacamar,0.131374
+layer2,80,0,initial,cardoon,0.123902
+layer2,80,0,initial,ringlet,0.107393
+layer2,80,0,initial,appenzeller,0.064853
+layer2,80,0,initial,tiger,0.064279
+layer2,80,0,initial,shovel,0.039519
+layer2,80,0,initial,ruddy turnstone,0.036405
+layer2,80,1,iteration,ringed plant,0.149036
+layer2,80,2,iteration,ringed bloom,0.172857
+layer2,80,3,iteration,jewelry ring,0.036721
+layer2,80,4,iteration,ringlet,0.107393
+layer2,80,5,iteration,ring,0.033760
+layer2,80,6,iteration,patterned,0.021303
+layer2,80,7,iteration,ringed bloom variant,0.176505
+layer2,80,8,iteration,(ignore this),0.053624
+layer2,80,9,iteration,ring,0.033760
+layer2,80,10,iteration,flower ring,0.146958
+layer2,80,11,summary,flower pattern,0.150630
+layer2,81,0,initial,slot,0.155180
+layer2,81,0,initial,howler monkey,0.121432
+layer2,81,0,initial,odometer,0.117086
+layer2,81,0,initial,sax,0.110117
+layer2,81,0,initial,trombone,0.097735
+layer2,81,0,initial,indri,0.090710
+layer2,81,0,initial,european fire salamander,0.087205
+layer2,81,0,initial,dough,0.086628
+layer2,81,0,initial,dogsled,0.084271
+layer2,81,0,initial,book jacket,0.048257
+layer2,81,1,iteration,wind instrument,0.111798
+layer2,81,2,iteration,curved tube,0.045150
+layer2,81,3,iteration,blowing sound,0.090025
+layer2,81,4,iteration,reed,0.074049
+layer2,81,5,iteration,reedless woodwind,0.095466
+layer2,81,6,iteration,woodwind,0.089552
+layer2,81,7,iteration,single tube,0.066629
+layer2,81,8,iteration,reed,0.074049
+layer2,81,9,iteration,narrow tube,0.052732
+layer2,81,10,iteration,tube,0.087861
+layer2,81,11,summary,no clear shape,0.056775
+layer2,82,0,initial,standard schnauzer,0.259887
+layer2,82,0,initial,cardigan welsh corgi,0.242161
+layer2,82,0,initial,leonberg,0.240774
+layer2,82,0,initial,timber wolf,0.237186
+layer2,82,0,initial,hare,0.233062
+layer2,82,0,initial,rotisserie,0.189939
+layer2,82,0,initial,prairie chicken,0.178302
+layer2,82,0,initial,cucumber,0.163929
+layer2,82,0,initial,sulphur butterfly,0.163098
+layer2,82,0,initial,theater curtain,0.116713
+layer2,82,1,iteration,quadruped,0.232296
+layer2,82,2,iteration,four-legged,0.198808
+layer2,82,3,iteration,furry animal,0.224432
+layer2,82,4,iteration,schnauzer,0.243446
+layer2,82,5,iteration,canine,0.238140
+layer2,82,6,iteration,large animal,0.229325
+layer2,82,7,iteration,dog,0.238673
+layer2,82,8,iteration,breed,0.230199
+layer2,82,9,iteration,domesticated,0.172908
+layer2,82,10,iteration,furry mammal,0.212064
+layer2,82,11,summary,breed,0.230199
+layer2,83,0,initial,toyshop,0.188744
+layer2,83,0,initial,confectionery,0.179381
+layer2,83,0,initial,shoe shop,0.141681
+layer2,83,0,initial,jigsaw puzzle,0.139238
+layer2,83,0,initial,vending machine,0.118033
+layer2,83,0,initial,crash helmet,0.101956
+layer2,83,0,initial,eskimo dog,0.087833
+layer2,83,0,initial,common iguana,0.087590
+layer2,83,0,initial,basketball,0.085993
+layer2,83,0,initial,ladybug,0.070248
+layer2,83,1,iteration,retailer,0.156998
+layer2,83,2,iteration,plaything,0.116470
+layer2,83,3,iteration,toy store,0.190709
+layer2,83,4,iteration,shop,0.165628
+layer2,83,5,iteration,toystore,0.170673
+layer2,83,6,iteration,children's goods,0.138232
+layer2,83,7,iteration,candy store,0.174535
+layer2,83,8,iteration,toycart,0.093866
+layer2,83,9,iteration,storefront,0.134806
+layer2,83,10,iteration,emporium,0.164033
+layer2,83,11,summary,children's items,0.133509
+layer2,84,0,initial,black grouse,0.260285
+layer2,84,0,initial,rapeseed,0.252476
+layer2,84,0,initial,briard,0.239836
+layer2,84,0,initial,dishrag,0.238503
+layer2,84,0,initial,hay,0.238361
+layer2,84,0,initial,sandbar,0.228512
+layer2,84,0,initial,langur,0.223063
+layer2,84,0,initial,hartebeest,0.217019
+layer2,84,0,initial,water jug,0.207953
+layer2,84,0,initial,gasmask,0.197406
+layer2,84,1,iteration,outdoor item,0.191848
+layer2,84,2,iteration,outdoor tool,0.200243
+layer2,84,3,iteration,wildlife habitat,0.208988
+layer2,84,4,iteration,terrestrial,0.244995
+layer2,84,5,iteration,environmental,0.234673
+layer2,84,6,iteration,wildlife,0.211482
+layer2,84,7,iteration,natural world,0.239508
+layer2,84,8,iteration,land animal,0.201585
+layer2,84,9,iteration,soil,0.281981
+layer2,84,10,iteration,landform,0.234113
+layer2,84,11,summary,wildlife,0.211482
+layer2,85,0,initial,slot,0.182523
+layer2,85,0,initial,school bus,0.181359
+layer2,85,0,initial,ambulance,0.181335
+layer2,85,0,initial,rotisserie,0.161228
+layer2,85,0,initial,tench,0.160931
+layer2,85,0,initial,grocery store,0.141307
+layer2,85,0,initial,digital clock,0.132113
+layer2,85,0,initial,magpie,0.118354
+layer2,85,0,initial,vine snake,0.114446
+layer2,85,0,initial,persian cat,0.113399
+layer2,85,1,iteration,bus stop,0.184612
+layer2,85,2,iteration,enclosure,0.107446
+layer2,85,3,iteration,slot opening,0.182119
+layer2,85,4,iteration,emergency station,0.145471
+layer2,85,5,iteration,station,0.159765
+layer2,85,6,iteration,structure,0.119332
+layer2,85,7,iteration,designated space,0.123929
+layer2,85,8,iteration,space,0.118215
+layer2,85,9,iteration,vehicle stop,0.192685
+layer2,85,10,iteration,holding area,0.113317
+layer2,85,11,summary,physical marker,0.089056
+layer2,86,0,initial,crossword puzzle,0.262661
+layer2,86,0,initial,french horn,0.212265
+layer2,86,0,initial,panpipe,0.193020
+layer2,86,0,initial,disk brake,0.182195
+layer2,86,0,initial,proboscis monkey,0.173565
+layer2,86,0,initial,ram,0.160159
+layer2,86,0,initial,go-kart,0.154026
+layer2,86,0,initial,bittern,0.143640
+layer2,86,0,initial,basketball,0.141323
+layer2,86,0,initial,mosquito net,0.137201
+layer2,86,1,iteration,disk,0.133898
+layer2,86,2,iteration,ornament,0.126370
+layer2,86,3,iteration,projection,0.105333
+layer2,86,4,iteration,ring puzzle,0.154129
+layer2,86,5,iteration,circular object,0.153363
+layer2,86,6,iteration,circular shape,0.134172
+layer2,86,7,iteration,wind instrument,0.216369
+layer2,86,8,iteration,hole,0.100924
+layer2,86,9,iteration,round thing,0.102765
+layer2,86,10,iteration,round object,0.112779
+layer2,86,11,summary,rectangular shape,0.083649
+layer2,87,0,initial,window screen,0.581140
+layer2,87,0,initial,bookcase,0.517477
+layer2,87,0,initial,shoji,0.370089
+layer2,87,0,initial,vending machine,0.362998
+layer2,87,0,initial,prison,0.334602
+layer2,87,0,initial,worm fence,0.294528
+layer2,87,0,initial,rocking chair,0.204800
+layer2,87,0,initial,mitten,0.080134
+layer2,87,0,initial,lionfish,0.057408
+layer2,87,0,initial,stupa,0.053042
+layer2,87,1,iteration,grid fence,0.161683
+layer2,87,2,iteration,latticework,0.097470
+layer2,87,3,iteration,mesh,0.052524
+layer2,87,4,iteration,perforated panel,0.102223
+layer2,87,5,iteration,openwork,0.148986
+layer2,87,6,iteration,screen,0.134949
+layer2,87,7,iteration,lattice,0.035827
+layer2,87,8,iteration,lattice,0.035827
+layer2,87,9,iteration,breathable panel,0.131578
+layer2,87,10,iteration,interlocking,0.140187
+layer2,87,11,summary,mesh pattern,0.066509
+layer2,88,0,initial,shower curtain,0.362684
+layer2,88,0,initial,theater curtain,0.326591
+layer2,88,0,initial,abaya,0.294157
+layer2,88,0,initial,water jug,0.235699
+layer2,88,0,initial,vase,0.222097
+layer2,88,0,initial,wardrobe,0.214699
+layer2,88,0,initial,medicine chest,0.204204
+layer2,88,0,initial,wood rabbit,0.193899
+layer2,88,0,initial,coyote,0.147023
+layer2,88,0,initial,grasshopper,0.129335
+layer2,88,1,iteration,divider,0.228228
+layer2,88,2,iteration,separation screen,0.189433
+layer2,88,3,iteration,partition,0.201034
+layer2,88,4,iteration,obscure,0.161846
+layer2,88,5,iteration,room divider,0.140702
+layer2,88,6,iteration,curtain,0.394001
+layer2,88,7,iteration,abaya,0.294157
+layer2,88,8,iteration,separator,0.126791
+layer2,88,9,iteration,barrier,0.141787
+layer2,88,10,iteration,vertical screen,0.204967
+layer2,88,11,summary,shower curtain,0.362684
+layer2,89,0,initial,pizza,0.253506
+layer2,89,0,initial,orange,0.244389
+layer2,89,0,initial,corn,0.172861
+layer2,89,0,initial,spaghetti squash,0.167719
+layer2,89,0,initial,butternut squash,0.163441
+layer2,89,0,initial,tiger,0.098572
+layer2,89,0,initial,thatch,0.065123
+layer2,89,0,initial,capuchin,0.056185
+layer2,89,0,initial,soap dispenser,0.023955
+layer2,89,0,initial,dugong,0.017422
+layer2,89,1,iteration,round food,0.144525
+layer2,89,2,iteration,gourd,0.111304
+layer2,89,3,iteration,vegetable,0.101040
+layer2,89,4,iteration,round,0.041286
+layer2,89,5,iteration,oval food,0.124519
+layer2,89,6,iteration,round squash,0.064982
+layer2,89,7,iteration,squash pizza,0.344324
+layer2,89,8,iteration,main course,0.143163
+layer2,89,9,iteration,winter squash,0.123258
+layer2,89,10,iteration,winter squash,0.123258
+layer2,89,11,summary,crust,0.141193
+layer2,90,0,initial,matchstick,0.526249
+layer2,90,0,initial,ipod,0.506004
+layer2,90,0,initial,loudspeaker,0.481766
+layer2,90,0,initial,knee pad,0.479294
+layer2,90,0,initial,lycaenid,0.437415
+layer2,90,0,initial,corkscrew,0.423677
+layer2,90,0,initial,wine bottle,0.419808
+layer2,90,0,initial,golf ball,0.397956
+layer2,90,0,initial,cocker spaniel,0.352034
+layer2,90,0,initial,gyromitra,0.292617
+layer2,90,1,iteration,cylinder,0.481495
+layer2,90,2,iteration,support rod,0.516980
+layer2,90,3,iteration,stick,0.487407
+layer2,90,4,iteration,rod,0.486062
+layer2,90,5,iteration,skewer,0.460615
+layer2,90,6,iteration,matchstick,0.526249
+layer2,90,7,iteration,support beam,0.338541
+layer2,90,8,iteration,bar,0.233456
+layer2,90,9,iteration,pillar,0.463897
+layer2,90,10,iteration,thin beam,0.573750
+layer2,90,11,summary,slender shape,0.510000
+layer2,91,0,initial,espresso,0.288805
+layer2,91,0,initial,typewriter keyboard,0.212825
+layer2,91,0,initial,violin,0.183589
+layer2,91,0,initial,dial telephone,0.163625
+layer2,91,0,initial,artichoke,0.160603
+layer2,91,0,initial,bib,0.160456
+layer2,91,0,initial,cello,0.150436
+layer2,91,0,initial,saltshaker,0.149335
+layer2,91,0,initial,indian elephant,0.120899
+layer2,91,0,initial,mortarboard,0.118678
+layer2,91,1,iteration,ornament,0.177155
+layer2,91,2,iteration,control panel,0.139932
+layer2,91,3,iteration,button,0.247483
+layer2,91,4,iteration,central opening,0.069815
+layer2,91,5,iteration,knob,0.186642
+layer2,91,6,iteration,rotary,0.183127
+layer2,91,7,iteration,circular axis,0.185668
+layer2,91,8,iteration,round shape,0.226508
+layer2,91,9,iteration,rotary dial,0.245405
+layer2,91,10,iteration,rotary device,0.183142
+layer2,91,11,summary,round shape,0.226508
+layer2,92,0,initial,anemone fish,0.312908
+layer2,92,0,initial,toyshop,0.224529
+layer2,92,0,initial,spiny lobster,0.188227
+layer2,92,0,initial,confectionery,0.176786
+layer2,92,0,initial,comic book,0.162060
+layer2,92,0,initial,grocery store,0.146619
+layer2,92,0,initial,prayer rug,0.123732
+layer2,92,0,initial,drake,0.085146
+layer2,92,0,initial,flat-coated retriever,0.062719
+layer2,92,0,initial,cup,0.046736
+layer2,92,1,iteration,colorful treat,0.153946
+layer2,92,2,iteration,spiny,0.132146
+layer2,92,3,iteration,pet store,0.148820
+layer2,92,4,iteration,colorful store,0.189739
+layer2,92,5,iteration,spiny creature,0.090751
+layer2,92,6,iteration,prickly,0.119936
+layer2,92,7,iteration,exotic store,0.126446
+layer2,92,8,iteration,pointy shop,0.133194
+layer2,92,9,iteration,sea shop,0.136365
+layer2,92,10,iteration,novelty item,0.080895
+layer2,92,11,summary,bright colors,0.140756
+layer2,93,0,initial,organ,0.233529
+layer2,93,0,initial,zebra,0.220203
+layer2,93,0,initial,tobacco shop,0.211969
+layer2,93,0,initial,entertainment center,0.196055
+layer2,93,0,initial,freight car,0.166667
+layer2,93,0,initial,minibus,0.162147
+layer2,93,0,initial,hare,0.153570
+layer2,93,0,initial,photocopier,0.128019
+layer2,93,0,initial,cairn,0.121571
+layer2,93,0,initial,ladybug,0.108204
+layer2,93,1,iteration,public transportation,0.170203
+layer2,93,2,iteration,entertainment box,0.140434
+layer2,93,3,iteration,center,0.149091
+layer2,93,4,iteration,focus point,0.116582
+layer2,93,5,iteration,hub,0.168134
+layer2,93,6,iteration,striped sign,0.127753
+layer2,93,7,iteration,stripes,0.112099
+layer2,93,8,iteration,zebra pattern,0.190690
+layer2,93,9,iteration,alternating colors,0.131822
+layer2,93,10,iteration,control panel,0.190063
+layer2,93,11,summary,business,0.176152
+layer2,94,0,initial,valley,0.279874
+layer2,94,0,initial,jaguar,0.274905
+layer2,94,0,initial,african hunting dog,0.251030
+layer2,94,0,initial,prairie chicken,0.204148
+layer2,94,0,initial,cuirass,0.162519
+layer2,94,0,initial,alp,0.147135
+layer2,94,0,initial,thatch,0.143740
+layer2,94,0,initial,disk brake,0.125692
+layer2,94,0,initial,lesser panda,0.103521
+layer2,94,0,initial,goldfinch,0.100636
+layer2,94,1,iteration,wildlife,0.206393
+layer2,94,2,iteration,savannah,0.186695
+layer2,94,3,iteration,grassland,0.270338
+layer2,94,4,iteration,open plain,0.223874
+layer2,94,5,iteration,habitat,0.162440
+layer2,94,6,iteration,savannah-like,0.121797
+layer2,94,7,iteration,open space,0.110999
+layer2,94,8,iteration,savannah grass,0.216863
+layer2,94,9,iteration,open terrain,0.256787
+layer2,94,10,iteration,open grassland,0.294148
+layer2,94,11,summary,natural environment,0.244020
+layer2,96,0,initial,vending machine,0.355086
+layer2,96,0,initial,menu,0.342067
+layer2,96,0,initial,space bar,0.328225
+layer2,96,0,initial,sea snake,0.312512
+layer2,96,0,initial,bee,0.311879
+layer2,96,0,initial,brass,0.310949
+layer2,96,0,initial,hamster,0.304244
+layer2,96,0,initial,labrador retriever,0.302852
+layer2,96,0,initial,web site,0.293132
+layer2,96,0,initial,bannister,0.288001
+layer2,96,1,iteration,menu,0.342067
+layer2,96,2,iteration,dropdown list,0.334929
+layer2,96,3,iteration,option list,0.326866
+layer2,96,4,iteration,option list system,0.322405
+layer2,96,5,iteration,selector,0.328950
+layer2,96,6,iteration,choice list,0.340541
+layer2,96,7,iteration,option list system,0.322405
+layer2,96,8,iteration,option system,0.341471
+layer2,96,9,iteration,vertical list,0.334857
+layer2,96,10,iteration,option display,0.321532
+layer2,96,11,summary,selection system,0.347507
+layer2,97,0,initial,odometer,0.185898
+layer2,97,0,initial,typewriter keyboard,0.170783
+layer2,97,0,initial,entertainment center,0.162661
+layer2,97,0,initial,french loaf,0.148796
+layer2,97,0,initial,slot,0.144172
+layer2,97,0,initial,plane,0.132692
+layer2,97,0,initial,bolo tie,0.129688
+layer2,97,0,initial,triceratops,0.121591
+layer2,97,0,initial,book jacket,0.115236
+layer2,97,0,initial,steel arch bridge,0.114686
+layer2,97,1,iteration,flat surface,0.077114
+layer2,97,2,iteration,keypad,0.225984
+layer2,97,3,iteration,interface,0.162468
+layer2,97,4,iteration,button,0.167892
+layer2,97,5,iteration,raised element,0.108585
+layer2,97,6,iteration,grid,0.076110
+layer2,97,7,iteration,patterned,0.099148
+layer2,97,8,iteration,array,0.127297
+layer2,97,9,iteration,key slots,0.198482
+layer2,97,10,iteration,slots,0.167156
+layer2,97,11,summary,grid layout,0.079102
+layer2,98,0,initial,crossword puzzle,0.344884
+layer2,98,0,initial,snow leopard,0.325799
+layer2,98,0,initial,menu,0.245050
+layer2,98,0,initial,dalmatian,0.201407
+layer2,98,0,initial,leopard,0.172286
+layer2,98,0,initial,blenheim spaniel,0.137478
+layer2,98,0,initial,papillon,0.132774
+layer2,98,0,initial,web site,0.118897
+layer2,98,0,initial,organ,0.118559
+layer2,98,0,initial,spotlight,0.058820
+layer2,98,1,iteration,spotted animal,0.244897
+layer2,98,2,iteration,spot pattern,0.214636
+layer2,98,3,iteration,spotlight,0.058820
+layer2,98,4,iteration,spots,0.202289
+layer2,98,5,iteration,spot,0.090893
+layer2,98,6,iteration,leopard puzzle,0.210083
+layer2,98,7,iteration,leopard puzzle,0.210083
+layer2,98,8,iteration,spotting,0.112453
+layer2,98,9,iteration,flecks,0.231176
+layer2,98,10,iteration,spot feature,0.099447
+layer2,98,11,summary,written text,0.385075
+layer2,99,0,initial,pomegranate,0.199244
+layer2,99,0,initial,confectionery,0.173660
+layer2,99,0,initial,strawberry,0.159588
+layer2,99,0,initial,prayer rug,0.152031
+layer2,99,0,initial,toyshop,0.142720
+layer2,99,0,initial,moped,0.069758
+layer2,99,0,initial,ballplayer,0.032910
+layer2,99,0,initial,pay-phone,0.027402
+layer2,99,0,initial,komodo dragon,0.008768
+layer2,99,0,initial,dishrag,0.004899
+layer2,99,1,iteration,interior,0.011711
+layer2,99,2,iteration,colorful pattern,0.313649
+layer2,99,3,iteration,multicolor,0.168212
+layer2,99,4,iteration,multicolored fruit,0.201235
+layer2,99,5,iteration,mixed fruit,0.189212
+layer2,99,6,iteration,rainbow food,0.190260
+layer2,99,7,iteration,candy,0.275243
+layer2,99,8,iteration,dessert,0.098967
+layer2,99,9,iteration,colorful treat,0.220025
+layer2,99,10,iteration,treat,0.073336
+layer2,99,11,summary,attractiveness,0.042571
+layer2,100,0,initial,bighorn,0.212784
+layer2,100,0,initial,african elephant,0.186387
+layer2,100,0,initial,tow truck,0.174802
+layer2,100,0,initial,ibex,0.166652
+layer2,100,0,initial,leonberg,0.162177
+layer2,100,0,initial,car wheel,0.154855
+layer2,100,0,initial,abaya,0.141480
+layer2,100,0,initial,whippet,0.136412
+layer2,100,0,initial,ptarmigan,0.113420
+layer2,100,0,initial,television,0.103708
+layer2,100,1,iteration,large animal,0.180949
+layer2,100,2,iteration,horned animal,0.167452
+layer2,100,3,iteration,bighorned,0.181118
+layer2,100,4,iteration,prominent feature,0.127188
+layer2,100,5,iteration,protrusion,0.130347
+layer2,100,6,iteration,projection,0.099167
+layer2,100,7,iteration,horn,0.097768
+layer2,100,8,iteration,appendage,0.144501
+layer2,100,9,iteration,horns,0.153067
+layer2,100,10,iteration,bighorned animal,0.181585
+layer2,100,11,summary,horned animal,0.167452
+layer2,101,0,initial,bookcase,0.262842
+layer2,101,0,initial,altar,0.202392
+layer2,101,0,initial,bookshop,0.201669
+layer2,101,0,initial,organ,0.191093
+layer2,101,0,initial,entertainment center,0.171489
+layer2,101,0,initial,thresher,0.164752
+layer2,101,0,initial,plate rack,0.160295
+layer2,101,0,initial,pay-phone,0.141081
+layer2,101,0,initial,hornbill,0.124065
+layer2,101,0,initial,cicada,0.117291
+layer2,101,1,iteration,shelf,0.184235
+layer2,101,2,iteration,display case,0.150312
+layer2,101,3,iteration,storage unit,0.137172
+layer2,101,4,iteration,bookcase,0.262842
+layer2,101,5,iteration,rack,0.132325
+layer2,101,6,iteration,surface,0.080673
+layer2,101,7,iteration,tiered,0.118852
+layer2,101,8,iteration,supporting structure,0.123424
+layer2,101,9,iteration,holder,0.131832
+layer2,101,10,iteration,multilevel,0.127763
+layer2,101,11,summary,book storage,0.204005
+layer2,102,0,initial,bookshop,0.219158
+layer2,102,0,initial,organ,0.197262
+layer2,102,0,initial,shoji,0.190205
+layer2,102,0,initial,artichoke,0.155775
+layer2,102,0,initial,pirate,0.140901
+layer2,102,0,initial,norwegian elkhound,0.135710
+layer2,102,0,initial,hen-of-the-woods,0.126260
+layer2,102,0,initial,platypus,0.116272
+layer2,102,0,initial,three-toed sloth,0.114087
+layer2,102,0,initial,digital watch,0.112217
+layer2,102,1,iteration,exotic,0.132189
+layer2,102,2,iteration,music room,0.165929
+layer2,102,3,iteration,enclosed space,0.185030
+layer2,102,4,iteration,quiet room,0.210719
+layer2,102,5,iteration,partition,0.177312
+layer2,102,6,iteration,seclusion,0.119413
+layer2,102,7,iteration,dividers,0.158284
+layer2,102,8,iteration,shoji,0.190205
+layer2,102,9,iteration,divider,0.190774
+layer2,102,10,iteration,barrier,0.159998
+layer2,102,11,summary,non-music store,0.170710
+layer2,103,0,initial,odometer,0.160823
+layer2,103,0,initial,vending machine,0.129338
+layer2,103,0,initial,typewriter keyboard,0.100442
+layer2,103,0,initial,book jacket,0.093453
+layer2,103,0,initial,grey fox,0.090971
+layer2,103,0,initial,mosque,0.080866
+layer2,103,0,initial,lakeland terrier,0.076666
+layer2,103,0,initial,web site,0.071556
+layer2,103,0,initial,photocopier,0.050672
+layer2,103,0,initial,chainlink fence,0.043935
+layer2,103,1,iteration,control panel,0.141981
+layer2,103,2,iteration,keypad,0.178346
+layer2,103,3,iteration,button grid,0.314648
+layer2,103,4,iteration,matrix layout,0.063488
+layer2,103,5,iteration,grid,0.058959
+layer2,103,6,iteration,layout,0.071072
+layer2,103,7,iteration,digital display,0.110917
+layer2,103,8,iteration,pattern layout,0.152284
+layer2,103,9,iteration,layout matrix,0.064205
+layer2,103,10,iteration,matrix,0.093660
+layer2,103,11,summary,grid layout,0.050861
+layer2,104,0,initial,bookcase,0.374672
+layer2,104,0,initial,shoji,0.301900
+layer2,104,0,initial,entertainment center,0.280338
+layer2,104,0,initial,oscilloscope,0.218811
+layer2,104,0,initial,boathouse,0.148889
+layer2,104,0,initial,web site,0.090527
+layer2,104,0,initial,african crocodile,0.063510
+layer2,104,0,initial,bib,0.061630
+layer2,104,0,initial,australian terrier,0.053756
+layer2,104,0,initial,chainlink fence,0.007988
+layer2,104,1,iteration,enclosure,0.145381
+layer2,104,2,iteration,partitioned space,0.262670
+layer2,104,3,iteration,divider,0.242803
+layer2,104,4,iteration,room divider,0.297792
+layer2,104,5,iteration,room separator,0.258289
+layer2,104,6,iteration,room screen,0.354799
+layer2,104,7,iteration,space screen,0.184940
+layer2,104,8,iteration,separation,0.167757
+layer2,104,9,iteration,barrier,0.182924
+layer2,104,10,iteration,partitioning,0.227477
+layer2,104,11,summary,display surface,0.195661
+layer2,105,0,initial,odometer,0.463871
+layer2,105,0,initial,garden spider,0.441683
+layer2,105,0,initial,scuba diver,0.425330
+layer2,105,0,initial,soccer ball,0.389424
+layer2,105,0,initial,consomme,0.388453
+layer2,105,0,initial,nematode,0.371463
+layer2,105,0,initial,go-kart,0.352637
+layer2,105,0,initial,brittany spaniel,0.318554
+layer2,105,0,initial,rock python,0.295763
+layer2,105,0,initial,sliding door,0.237887
+layer2,105,1,iteration,round object,0.364436
+layer2,105,2,iteration,speedometer,0.552690
+layer2,105,3,iteration,speed gauge,0.440084
+layer2,105,4,iteration,speed dial,0.329690
+layer2,105,5,iteration,speed indicator,0.439531
+layer2,105,6,iteration,speed display,0.451798
+layer2,105,7,iteration,speedometer alternative,0.551155
+layer2,105,8,iteration,speedometer face,0.586431
+layer2,105,9,iteration,speed gauge face,0.475206
+layer2,105,10,iteration,speed face,0.320121
+layer2,105,11,summary,round shape,0.434659
+layer2,106,0,initial,pizza,0.256660
+layer2,106,0,initial,american lobster,0.214800
+layer2,106,0,initial,king crab,0.192482
+layer2,106,0,initial,butcher shop,0.178792
+layer2,106,0,initial,cheeseburger,0.160471
+layer2,106,0,initial,bloodhound,0.151358
+layer2,106,0,initial,impala,0.115629
+layer2,106,0,initial,nail,0.113510
+layer2,106,0,initial,beer bottle,0.105965
+layer2,106,0,initial,cradle,0.101211
+layer2,106,1,iteration,seafood platter,0.249381
+layer2,106,2,iteration,meat,0.182108
+layer2,106,3,iteration,seafood,0.248575
+layer2,106,4,iteration,seafood meal,0.240230
+layer2,106,5,iteration,crust,0.185880
+layer2,106,6,iteration,dinner,0.173696
+layer2,106,7,iteration,seafood dish,0.219816
+layer2,106,8,iteration,shellfish,0.244436
+layer2,106,9,iteration,seafood platter alternative,0.236414
+layer2,106,10,iteration,(ignore this),0.074805
+layer2,106,11,summary,restaurant setting,0.165802
+layer2,107,0,initial,parachute,0.315117
+layer2,107,0,initial,knee pad,0.288208
+layer2,107,0,initial,crayfish,0.262357
+layer2,107,0,initial,perfume,0.252200
+layer2,107,0,initial,tench,0.241707
+layer2,107,0,initial,arabian camel,0.239130
+layer2,107,0,initial,shetland sheepdog,0.235205
+layer2,107,0,initial,web site,0.213107
+layer2,107,0,initial,chesapeake bay retriever,0.207432
+layer2,107,0,initial,jellyfish,0.203405
+layer2,107,1,iteration,safety gear,0.249124
+layer2,107,2,iteration,pad protector,0.291818
+layer2,107,3,iteration,knee pad,0.288208
+layer2,107,4,iteration,fragrance shield,0.257208
+layer2,107,5,iteration,parashield,0.268640
+layer2,107,6,iteration,protector,0.232393
+layer2,107,7,iteration,shield,0.261347
+layer2,107,8,iteration,defender,0.245108
+layer2,107,9,iteration,protection,0.244094
+layer2,107,10,iteration,sail,0.276835
+layer2,107,11,summary,protective function,0.256130
+layer2,109,0,initial,hot pot,0.213206
+layer2,109,0,initial,daisy,0.169258
+layer2,109,0,initial,harmonica,0.147751
+layer2,109,0,initial,assault rifle,0.128690
+layer2,109,0,initial,earthstar,0.126789
+layer2,109,0,initial,gyromitra,0.125096
+layer2,109,0,initial,disk brake,0.120508
+layer2,109,0,initial,agaric,0.117801
+layer2,109,0,initial,schipperke,0.103598
+layer2,109,0,initial,space heater,0.097094
+layer2,109,1,iteration,handheld,0.093716
+layer2,109,2,iteration,disk,0.078922
+layer2,109,3,iteration,round object,0.073854
+layer2,109,4,iteration,heated sphere,0.096697
+layer2,109,5,iteration,heat source,0.124668
+layer2,109,6,iteration,portable heater,0.093345
+layer2,109,7,iteration,portable disk,0.081672
+layer2,109,8,iteration,handheld device,0.089736
+layer2,109,9,iteration,compact sphere,0.104656
+layer2,109,10,iteration,sphere,0.110503
+layer2,109,11,summary,handheld object,0.077977
+layer2,110,0,initial,carbonara,0.227151
+layer2,110,0,initial,toyshop,0.211969
+layer2,110,0,initial,papillon,0.209207
+layer2,110,0,initial,proboscis monkey,0.199204
+layer2,110,0,initial,burrito,0.196077
+layer2,110,0,initial,tarantula,0.163004
+layer2,110,0,initial,agaric,0.148430
+layer2,110,0,initial,puck,0.145604
+layer2,110,0,initial,nipple,0.143305
+layer2,110,0,initial,screwdriver,0.123468
+layer2,110,1,iteration,food item,0.198708
+layer2,110,2,iteration,small item,0.167817
+layer2,110,3,iteration,distinctive feature,0.175019
+layer2,110,4,iteration,shop item,0.194571
+layer2,110,5,iteration,notable feature,0.162608
+layer2,110,6,iteration,muzzle,0.188017
+layer2,110,7,iteration,unique mark,0.162252
+layer2,110,8,iteration,notable feature,0.162608
+layer2,110,9,iteration,handheld item,0.162568
+layer2,110,10,iteration,papillon,0.209207
+layer2,110,11,summary,Italian,0.146035
+layer2,111,0,initial,anemone fish,0.364818
+layer2,111,0,initial,lhasa,0.334646
+layer2,111,0,initial,proboscis monkey,0.323010
+layer2,111,0,initial,gyromitra,0.320405
+layer2,111,0,initial,coral fungus,0.318600
+layer2,111,0,initial,artichoke,0.309760
+layer2,111,0,initial,nail,0.300081
+layer2,111,0,initial,purse,0.252315
+layer2,111,0,initial,moped,0.223939
+layer2,111,0,initial,polaroid camera,0.207914
+layer2,111,1,iteration,rounded shape,0.219231
+layer2,111,2,iteration,exotic animal,0.271415
+layer2,111,3,iteration,oddity,0.249262
+layer2,111,4,iteration,curiosity,0.208718
+layer2,111,5,iteration,rare find,0.221848
+layer2,111,6,iteration,oddity creature,0.256490
+layer2,111,7,iteration,rarity,0.279966
+layer2,111,8,iteration,unusual creature,0.253589
+layer2,111,9,iteration,exotic creature,0.264879
+layer2,111,10,iteration,rare find,0.221848
+layer2,111,11,summary,animal,0.272540
+layer2,112,0,initial,picket fence,0.215602
+layer2,112,0,initial,howler monkey,0.174078
+layer2,112,0,initial,cardoon,0.162050
+layer2,112,0,initial,indri,0.123900
+layer2,112,0,initial,sussex spaniel,0.115688
+layer2,112,0,initial,leafhopper,0.098749
+layer2,112,0,initial,arctic fox,0.083311
+layer2,112,0,initial,harmonica,0.082308
+layer2,112,0,initial,hammerhead,0.074980
+layer2,112,0,initial,flute,0.066455
+layer2,112,1,iteration,stick figure,0.044904
+layer2,112,2,iteration,vertical lines,0.131736
+layer2,112,3,iteration,picket pattern,0.074539
+layer2,112,4,iteration,repeating lines,0.111519
+layer2,112,5,iteration,picket,0.103331
+layer2,112,6,iteration,fence,0.146632
+layer2,112,7,iteration,picket fence pattern,0.140367
+layer2,112,8,iteration,lattice,0.061639
+layer2,112,9,iteration,slats,0.096342
+layer2,112,10,iteration,slat,0.119752
+layer2,112,11,summary,natural,0.143515
+layer2,114,0,initial,tiger shark,0.237797
+layer2,114,0,initial,scuba diver,0.228708
+layer2,114,0,initial,dugong,0.207372
+layer2,114,0,initial,great white shark,0.203948
+layer2,114,0,initial,stingray,0.133310
+layer2,114,0,initial,jigsaw puzzle,0.085469
+layer2,114,0,initial,toy poodle,0.052918
+layer2,114,0,initial,lhasa,0.046852
+layer2,114,0,initial,king penguin,0.042403
+layer2,114,0,initial,pirate,0.038266
+layer2,114,1,iteration,ocean predator,0.178156
+layer2,114,2,iteration,great whites,0.165943
+layer2,114,3,iteration,sharp teeth,0.037754
+layer2,114,4,iteration,shark,0.161349
+layer2,114,5,iteration,marine predator,0.127004
+layer2,114,6,iteration,predatory fish,0.148442
+layer2,114,7,iteration,toothed,0.044795
+layer2,114,8,iteration,great predator,0.046203
+layer2,114,9,iteration,predator fish,0.137510
+layer2,114,10,iteration,large predator,0.052144
+layer2,114,11,summary,aquatic animal,0.214054
+layer2,116,0,initial,jaguar,0.423036
+layer2,116,0,initial,echidna,0.401722
+layer2,116,0,initial,crayfish,0.276166
+layer2,116,0,initial,chiton,0.272659
+layer2,116,0,initial,whiptail,0.260890
+layer2,116,0,initial,viaduct,0.255595
+layer2,116,0,initial,garter snake,0.254409
+layer2,116,0,initial,european fire salamander,0.228588
+layer2,116,0,initial,grey whale,0.167378
+layer2,116,0,initial,samoyed,0.116688
+layer2,116,1,iteration,spiky creature,0.327594
+layer2,116,2,iteration,armored animal,0.316429
+layer2,116,3,iteration,shield,0.294142
+layer2,116,4,iteration,spiny,0.346709
+layer2,116,5,iteration,prickly,0.380730
+layer2,116,6,iteration,defensive coat,0.160000
+layer2,116,7,iteration,pointy scales,0.681471
+layer2,116,8,iteration,prickly animal,0.329438
+layer2,116,9,iteration,jaguar scales,0.408610
+layer2,116,10,iteration,pointy feature,0.132249
+layer2,116,11,summary,jaguar,0.423036
+layer2,117,0,initial,cello,0.220153
+layer2,117,0,initial,suit,0.208335
+layer2,117,0,initial,butcher shop,0.208310
+layer2,117,0,initial,mexican hairless,0.195424
+layer2,117,0,initial,killer whale,0.171539
+layer2,117,0,initial,turnstile,0.164590
+layer2,117,0,initial,earthstar,0.160347
+layer2,117,0,initial,bearskin,0.157532
+layer2,117,0,initial,borzoi,0.134145
+layer2,117,0,initial,mashed potato,0.116111
+layer2,117,1,iteration,formal wear,0.209596
+layer2,117,2,iteration,leather,0.185238
+layer2,117,3,iteration,fur,0.127881
+layer2,117,4,iteration,animal hide,0.175508
+layer2,117,5,iteration,bearskin,0.157532
+layer2,117,6,iteration,animal skin,0.172809
+layer2,117,7,iteration,animal coat,0.178718
+layer2,117,8,iteration,animal material,0.167104
+layer2,117,9,iteration,formal wear material,0.137959
+layer2,117,10,iteration,pelt,0.107030
+layer2,117,11,summary,black-tie event,0.182932
+layer2,119,0,initial,palace,0.136835
+layer2,119,0,initial,lakeland terrier,0.111191
+layer2,119,0,initial,basketball,0.110120
+layer2,119,0,initial,ballplayer,0.109231
+layer2,119,0,initial,dowitcher,0.107428
+layer2,119,0,initial,volleyball,0.095579
+layer2,119,0,initial,bearskin,0.094387
+layer2,119,0,initial,flute,0.093928
+layer2,119,0,initial,rugby ball,0.078360
+layer2,119,0,initial,quill,0.073059
+layer2,119,1,iteration,ball,0.087387
+layer2,119,2,iteration,sport ball,0.093369
+layer2,119,3,iteration,athlete,0.121649
+layer2,119,4,iteration,competition,0.109198
+layer2,119,5,iteration,round object,0.069080
+layer2,119,6,iteration,team sport,0.136077
+layer2,119,7,iteration,physical activity,0.146794
+layer2,119,8,iteration,team play,0.140756
+layer2,119,9,iteration,teamwork,0.122107
+layer2,119,10,iteration,group,0.115550
+layer2,119,11,summary,human involvement,0.098671
+layer2,120,0,initial,hot pot,0.198931
+layer2,120,0,initial,chain mail,0.198595
+layer2,120,0,initial,hen-of-the-woods,0.160180
+layer2,120,0,initial,beach wagon,0.145821
+layer2,120,0,initial,daisy,0.145572
+layer2,120,0,initial,gyromitra,0.137271
+layer2,120,0,initial,earthstar,0.112364
+layer2,120,0,initial,silky terrier,0.107809
+layer2,120,0,initial,hip,0.087763
+layer2,120,0,initial,lampshade,0.048826
+layer2,120,1,iteration,chain pattern,0.247035
+layer2,120,2,iteration,interlink,0.088035
+layer2,120,3,iteration,interlocking parts,0.228646
+layer2,120,4,iteration,link,0.106581
+layer2,120,5,iteration,chain mail,0.198595
+layer2,120,6,iteration,connected components,0.182346
+layer2,120,7,iteration,interconnect,0.124624
+layer2,120,8,iteration,connectors,0.165385
+layer2,120,9,iteration,joint,0.087882
+layer2,120,10,iteration,assembly,0.150433
+layer2,120,11,summary,connected component,0.137912
+layer2,123,0,initial,cauliflower,0.176319
+layer2,123,0,initial,coral fungus,0.175458
+layer2,123,0,initial,artichoke,0.163337
+layer2,123,0,initial,triumphal arch,0.119967
+layer2,123,0,initial,toyshop,0.119832
+layer2,123,0,initial,french loaf,0.113243
+layer2,123,0,initial,grocery store,0.095926
+layer2,123,0,initial,lhasa,0.095145
+layer2,123,0,initial,prayer rug,0.094263
+layer2,123,0,initial,plow,0.090979
+layer2,123,1,iteration,organic shape,0.096279
+layer2,123,2,iteration,bulbous form,0.077526
+layer2,123,3,iteration,crunchy vegetable,0.182093
+layer2,123,4,iteration,rounded shape,0.066519
+layer2,123,5,iteration,gourd,0.092945
+layer2,123,6,iteration,odd shape,0.079958
+layer2,123,7,iteration,irregular shape,0.090113
+layer2,123,8,iteration,unusual shape,0.078739
+layer2,123,9,iteration,curved shape,0.081783
+layer2,123,10,iteration,vegetable form,0.145083
+layer2,123,11,summary,vegetable,0.133732
+layer2,124,0,initial,sports car,0.246981
+layer2,124,0,initial,pickup,0.245340
+layer2,124,0,initial,convertible,0.241991
+layer2,124,0,initial,lemon,0.239964
+layer2,124,0,initial,speedboat,0.230522
+layer2,124,0,initial,scabbard,0.216155
+layer2,124,0,initial,hotdog,0.208337
+layer2,124,0,initial,dowitcher,0.193482
+layer2,124,0,initial,lion,0.167321
+layer2,124,0,initial,window screen,0.057120
+layer2,124,1,iteration,highway,0.175960
+layer2,124,2,iteration,high-speed,0.154900
+layer2,124,3,iteration,speedster,0.227014
+layer2,124,4,iteration,sports car,0.246981
+layer2,124,5,iteration,convertible body,0.231343
+layer2,124,6,iteration,convertible roof,0.253861
+layer2,124,7,iteration,roof,0.206858
+layer2,124,8,iteration,removable top,0.198730
+layer2,124,9,iteration,soft top,0.207204
+layer2,124,10,iteration,retractable top,0.216827
+layer2,124,11,summary,convertible roof,0.253861
+layer2,125,0,initial,screw,0.299284
+layer2,125,0,initial,nematode,0.261347
+layer2,125,0,initial,can opener,0.217820
+layer2,125,0,initial,earthstar,0.202238
+layer2,125,0,initial,gasmask,0.186276
+layer2,125,0,initial,window screen,0.157741
+layer2,125,0,initial,wardrobe,0.143086
+layer2,125,0,initial,motor scooter,0.126159
+layer2,125,0,initial,airship,0.113210
+layer2,125,0,initial,medicine chest,0.111210
+layer2,125,1,iteration,tube,0.258190
+layer2,125,2,iteration,cylinder shape,0.302956
+layer2,125,3,iteration,rotund,0.246851
+layer2,125,4,iteration,rounded head,0.250959
+layer2,125,5,iteration,rounded body,0.263624
+layer2,125,6,iteration,sphere,0.241326
+layer2,125,7,iteration,round,0.222662
+layer2,125,8,iteration,curved shape,0.312031
+layer2,125,9,iteration,smooth shape,0.326748
+layer2,125,10,iteration,rounded object,0.271846
+layer2,125,11,summary,rounded shape,0.318441
+layer2,126,0,initial,entertainment center,0.203286
+layer2,126,0,initial,tobacco shop,0.180157
+layer2,126,0,initial,slot,0.176692
+layer2,126,0,initial,vending machine,0.174033
+layer2,126,0,initial,web site,0.138720
+layer2,126,0,initial,bassinet,0.128181
+layer2,126,0,initial,shih-tzu,0.126303
+layer2,126,0,initial,liner,0.122741
+layer2,126,0,initial,staffordshire bullterrier,0.114813
+layer2,126,0,initial,banjo,0.109188
+layer2,126,1,iteration,display case,0.167999
+layer2,126,2,iteration,display unit,0.201826
+layer2,126,3,iteration,showcase,0.158634
+layer2,126,4,iteration,display,0.169422
+layer2,126,5,iteration,shelf,0.148489
+layer2,126,6,iteration,counter,0.145071
+layer2,126,7,iteration,display stand,0.121103
+layer2,126,8,iteration,sales rack,0.144716
+layer2,126,9,iteration,retail display,0.171904
+layer2,126,10,iteration,displaying,0.131455
+layer2,126,11,summary,electronic device,0.171898
+layer2,127,0,initial,honeycomb,0.482662
+layer2,127,0,initial,spider web,0.410412
+layer2,127,0,initial,garden spider,0.127881
+layer2,127,0,initial,echidna,0.083734
+layer2,127,0,initial,hyena,0.062774
+layer2,127,0,initial,starfish,0.061831
+layer2,127,0,initial,boxer,0.060807
+layer2,127,0,initial,bittern,0.051465
+layer2,127,0,initial,cowboy hat,0.045223
+layer2,127,0,initial,black widow,0.020481
+layer2,127,1,iteration,web pattern,0.421939
+layer2,127,2,iteration,honeycomb,0.482662
+layer2,127,3,iteration,spider web pattern,0.470586
+layer2,127,4,iteration,spiderwork,0.342708
+layer2,127,5,iteration,spider pattern,0.059737
+layer2,127,6,iteration,intricate pattern,0.349828
+layer2,127,7,iteration,spider,0.031711
+layer2,127,8,iteration,mesh,0.070566
+layer2,127,9,iteration,spider silk,0.266038
+layer2,127,10,iteration,hexagon,0.038963
+layer2,127,11,summary,hexagonal pattern,0.067955

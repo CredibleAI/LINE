@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+avgpool,20,tennis ball,0.981793,5.169096,0.0152
+avgpool,28,ice bear,0.994120,5.563454,0.0642
+avgpool,31,samoyed,0.993411,4.920967,0.0760
+avgpool,36,barber chair,0.988930,4.076319,0.0493
+avgpool,39,waterfowl habitat,0.973693,3.984484,0.1075
+avgpool,41,artichoke-like growths,0.998104,7.518410,0.0849
+avgpool,48,ringneck snake,0.960422,2.968922,0.1662
+avgpool,55,three-toed sloth,0.965318,2.893587,0.0268
+avgpool,63,thimble,0.997424,7.190184,0.0082
+avgpool,71,vending machine,0.971319,3.371593,0.0259
+avgpool,72,pretzel,0.995180,4.849890,0.0335
+avgpool,74,poncho,0.756833,1.243771,0.0229
+avgpool,79,football helmet,0.995518,6.921771,0.0327
+avgpool,84,agaric,0.996205,6.135910,0.0833
+avgpool,90,abacus,0.925252,2.731927,0.0056
+avgpool,91,scabbard,0.974765,3.773998,0.0068
+avgpool,100,lakeland terrier,0.972458,2.924459,0.0826
+avgpool,111,wood processing,0.932933,2.424910,0.0610
+avgpool,121,desktop computer,0.957286,3.798860,0.1612
+avgpool,124,starfish,0.987771,4.553648,0.0934
+avgpool,146,airedale,0.994800,5.513457,0.1291
+avgpool,155,washer,0.998022,6.538616,0.0024
+avgpool,156,feline stripes,0.827268,3.230914,0.1163
+avgpool,160,monitor,0.978040,6.662407,0.2013
+avgpool,161,stinkhorn,0.855287,1.773874,0.0623
+avgpool,169,keyboard layout,0.998826,7.211565,0.0703
+avgpool,174,black stork,0.966230,3.356041,0.0822
+avgpool,176,airliner,0.995164,5.222965,-0.0110
+avgpool,177,unicycle,0.995381,5.031223,0.0080
+avgpool,180,jack-o'-lantern,0.830496,1.357538,0.1113
+avgpool,182,bald eagle,0.981515,3.309716,0.0424
+avgpool,194,rocking chair,0.998480,6.996668,0.0370
+avgpool,195,flamingo knee,0.994125,5.450546,0.0734
+avgpool,196,cuirass,0.997800,6.741530,0.0166
+avgpool,199,motor scooter,0.995033,5.585224,0.0626
+avgpool,204,croquet ball,0.953007,4.012163,-0.0040
+avgpool,215,baseball,0.994017,6.785577,0.0167
+avgpool,216,oscilloscope,0.979680,4.912517,0.0879
+avgpool,217,skunklike,0.973725,3.244273,0.0359
+avgpool,218,turtle shell,0.950595,5.535216,0.1070
+avgpool,220,cored hole,0.904549,1.857986,-0.0068
+avgpool,222,computer keyboard,0.992151,4.631979,0.0639
+avgpool,224,carbonara,0.979402,3.458076,0.0053
+avgpool,226,volcanic peak,0.999286,8.983594,0.1783
+avgpool,232,box turtle,0.994205,4.611771,0.0552
+avgpool,240,revolver,0.984414,4.916187,0.0106
+avgpool,247,loafer,0.968844,4.027239,0.0132
+avgpool,256,sighthound,0.966979,3.002887,0.1094
+avgpool,271,siberian husky,0.997834,5.467109,0.1763
+avgpool,277,minibus,0.938979,2.706904,0.0509
+avgpool,282,computer keyboard,0.998436,6.822130,0.0928
+avgpool,285,airedale,0.973186,3.972123,0.1137
+avgpool,292,box turtle,0.997172,4.986613,0.0557
+avgpool,306,soccer ball,0.996057,7.499719,0.1076
+avgpool,312,traffic guide,0.810178,1.997604,0.0565
+avgpool,318,whiptail,0.960515,2.607199,-0.0269
+avgpool,320,prayer rug,0.949144,2.881112,0.0602
+avgpool,322,potter's wheel,0.997680,6.291012,0.0808
+avgpool,324,coho,0.974802,5.102580,0.0066
+avgpool,325,necklace,0.995752,6.007213,0.0468
+avgpool,329,harp,0.972068,4.559229,0.0183
+avgpool,334,candle,0.999808,9.130028,0.0746
+avgpool,336,damselfly,0.922450,1.975431,0.0736
+avgpool,341,grand piano,0.984464,5.391890,-0.0064
+avgpool,344,black stork,0.988724,3.837466,0.0871
+avgpool,348,soccer ball,0.973324,4.014253,0.0820
+avgpool,350,barracouta,0.978718,4.189468,0.0040
+avgpool,351,triumphal arch,0.988892,4.342395,0.0627
+avgpool,353,feather boa,0.999638,9.456075,0.0451
+avgpool,358,kerry blue terrier,0.996719,5.501527,0.0772
+avgpool,359,pineapple,0.978704,6.480571,-0.0060
+avgpool,361,harvestman,0.995271,5.997161,-0.0114
+avgpool,362,stopwatch,0.995862,5.134095,0.0127
+avgpool,372,chickadee,0.968458,2.668840,0.0655
+avgpool,384,snowy peak,0.989786,3.490094,0.0346
+avgpool,385,african elephant,0.990252,4.130119,0.1131
+avgpool,396,carbonara,0.982140,3.649424,-0.0057
+avgpool,404,bathroom fixture,0.993776,5.378644,0.1490
+avgpool,405,lotion,0.932524,3.134638,0.0062
+avgpool,410,cougar,0.974802,2.905433,0.0665
+avgpool,413,cheeseburger,0.994064,6.243917,0.0526
+avgpool,417,great grey owl,0.986643,3.625621,0.0922
+avgpool,418,timber wolf,0.972540,2.993163,0.0975
+avgpool,425,barbell,0.985633,4.814657,-0.0299
+avgpool,433,tank,0.995170,4.897505,-0.0206
+avgpool,436,coffeepot,0.994538,5.616847,0.0902
+avgpool,444,american black bear,0.868091,1.508275,0.0480
+avgpool,455,beacon,0.928690,2.752056,0.0294
+avgpool,460,aquatic biome,0.986712,4.041185,0.1010
+avgpool,463,ram's head,0.999924,10.874065,0.0784
+avgpool,475,oboe,0.998325,6.955630,0.0639
+avgpool,476,pelican,0.991370,4.970854,0.0832
+avgpool,480,offshore facility,0.988512,4.735913,0.0906
+avgpool,487,lizard type,0.993416,4.966170,0.0636
+avgpool,488,leaf beetle,0.940460,2.812358,0.1071
+avgpool,494,gasmask,0.995671,6.004791,0.0135
+avgpool,495,cheeseburger,0.969015,4.410215,0.0668
+avgpool,496,pineapple,0.998770,10.680305,0.0018
+avgpool,500,revolver,0.994490,5.362808,-0.0195
+avgpool,509,geyser,0.971323,4.796576,0.0086

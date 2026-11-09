@@ -1,0 +1,101 @@
+layer,unit,description,AUC,MAD,Corr
+avgpool,87,howler monkey,0.744486,0.802781,-0.0114
+avgpool,126,goldfish,0.995006,7.134161,0.0535
+avgpool,135,stupa,0.931019,2.557820,0.0460
+avgpool,153,dam,0.980664,5.869369,0.0139
+avgpool,168,linkage jewelry,0.989968,6.867499,0.1470
+avgpool,173,multihull,0.959439,3.187148,-0.0040
+avgpool,182,pay-phone,0.887617,1.807265,0.0422
+avgpool,184,espresso,0.979970,4.417269,-0.0025
+avgpool,197,boathouse,0.944515,2.385065,0.0617
+avgpool,251,greenhouse,0.966092,2.958346,0.0627
+avgpool,262,pool table,0.992850,4.999317,0.0173
+avgpool,286,bathing,0.998799,9.899010,0.0196
+avgpool,309,theater curtain,0.973042,5.652761,0.0528
+avgpool,326,box turtle,0.884180,1.434128,0.0042
+avgpool,328,grocery store,0.702523,0.307890,0.0329
+avgpool,359,church architecture,0.908581,1.579540,0.0695
+avgpool,382,studio couch,0.837757,1.875306,-0.0111
+avgpool,389,football helmet,0.978702,3.803025,0.0026
+avgpool,394,metal cooking surface,0.885431,2.622938,0.1699
+avgpool,449,delicate sphere,0.926659,2.290920,0.0194
+avgpool,459,china cabinet,0.995728,5.312312,0.0498
+avgpool,489,layer cake,0.987318,4.783788,0.0139
+avgpool,549,locomotive,0.999356,12.203451,0.2464
+avgpool,589,airborne fruit,0.899303,2.135102,0.0496
+avgpool,635,shoreline,0.981009,4.306366,-0.0054
+avgpool,656,promontory,0.533315,-0.200056,-0.0026
+avgpool,668,drilling platform,0.938915,2.184685,0.0343
+avgpool,706,hummingbird,0.988667,4.777978,0.0252
+avgpool,728,four-poster,0.914956,2.018523,0.0108
+avgpool,730,lab coat,0.986338,5.977042,0.0209
+avgpool,737,brass plate,0.943648,3.171129,0.0503
+avgpool,746,underwater sphere,0.934538,2.298688,0.0023
+avgpool,791,water tower,0.933863,2.140364,0.0295
+avgpool,794,navigation circle,0.860738,1.332551,0.0012
+avgpool,827,traffic sign,0.847398,1.426837,0.0479
+avgpool,845,dung beetle,0.963108,3.177997,-0.0033
+avgpool,856,palace,0.994111,5.027190,0.0412
+avgpool,877,athletic shoe,0.975034,3.360233,0.0274
+avgpool,886,minaret,0.957639,3.236311,0.0149
+avgpool,887,parachute,0.959761,4.594159,0.0009
+avgpool,889,industrial vessel,0.973441,3.236876,0.0489
+avgpool,891,musician,0.947177,3.844622,0.2132
+avgpool,934,aircraft carrier,0.956151,2.625523,0.0703
+avgpool,935,meat loaf,0.906466,2.198509,0.0135
+avgpool,947,gondola,0.767950,1.221043,0.0064
+avgpool,962,bullet train,0.983102,3.945155,0.0013
+avgpool,985,dogsled,0.890376,1.554645,0.0181
+avgpool,997,home theater,0.929244,2.013914,0.0895
+avgpool,1008,dump truck,0.961319,2.687972,0.0450
+avgpool,1031,ice bear,0.976027,3.251831,0.0660
+avgpool,1078,clock face,0.998814,9.052135,0.0112
+avgpool,1095,trifle,0.950395,2.321587,-0.0040
+avgpool,1099,green apple,0.998472,10.197800,0.0279
+avgpool,1144,gasmask,0.952364,2.145126,0.0116
+avgpool,1255,weightlifting,0.848683,2.605547,0.0435
+avgpool,1270,wading bird,0.994484,4.440365,0.0832
+avgpool,1277,field,0.995825,8.246797,0.0987
+avgpool,1280,agricultural activity,0.930196,2.408398,0.0499
+avgpool,1303,four-poster,0.994895,6.006222,0.0193
+avgpool,1353,fretted body,0.797414,1.217461,0.1202
+avgpool,1358,entertainment console,0.982837,4.208891,0.0488
+avgpool,1364,lab coat,0.923587,1.817248,0.0456
+avgpool,1371,garden pot,0.849215,1.782947,0.0245
+avgpool,1388,baby care,0.980403,3.754335,0.0670
+avgpool,1394,sliding door,0.972505,3.071732,0.0311
+avgpool,1396,baked flat,0.992928,5.457137,0.0052
+avgpool,1408,volcanic peak,0.986503,3.745265,0.0737
+avgpool,1424,whiskey jug,0.959924,5.078395,0.0569
+avgpool,1442,shoe shop,0.963610,3.268615,0.0648
+avgpool,1491,broccoli,0.956147,2.480622,-0.0080
+avgpool,1493,fountain,0.999375,11.881007,0.0281
+avgpool,1496,pizza,0.998633,8.328216,-0.0097
+avgpool,1508,sleeping bag,0.987408,4.154606,0.0113
+avgpool,1509,macaque,0.810028,0.923228,0.0246
+avgpool,1519,rail transport,0.903300,2.297160,0.0627
+avgpool,1542,freight car,0.786273,1.156646,-0.0184
+avgpool,1543,suspension bridge,0.996833,8.755738,0.1088
+avgpool,1555,maze plant,0.988245,5.956896,0.0097
+avgpool,1564,volcanic peak,0.999066,8.353007,0.0935
+avgpool,1606,separating panel,0.856605,1.705042,0.0260
+avgpool,1625,castle,0.988305,4.485654,0.0104
+avgpool,1641,rock carving,0.998274,6.237734,0.0579
+avgpool,1643,freightcar,0.890646,2.164852,0.0354
+avgpool,1651,rescue craft,0.965384,3.932329,0.0089
+avgpool,1677,rapeseed,0.996585,4.902456,0.0256
+avgpool,1692,necklace,0.999515,11.841973,-0.0051
+avgpool,1696,snow leopard,0.985337,3.740818,0.0329
+avgpool,1703,switch,0.932884,2.946356,-0.0313
+avgpool,1717,canoe,0.779971,0.786713,0.0085
+avgpool,1760,steel arch bridge,0.943911,2.759695,0.0455
+avgpool,1782,pizza,0.945821,2.413166,-0.0015
+avgpool,1824,paper,0.412511,-0.257815,0.0044
+avgpool,1827,american egret,0.956445,2.792495,0.0139
+avgpool,1834,espresso,0.965275,2.980722,-0.0182
+avgpool,1853,handled cup,0.914437,2.657585,-0.0054
+avgpool,1907,dumbbell,0.965671,3.896271,-0.0012
+avgpool,1912,frozen ground,0.900084,2.187064,-0.0027
+avgpool,1935,file cabinet,0.987115,7.857848,0.0630
+avgpool,1946,odometer,0.860695,1.519445,0.0560
+avgpool,2038,dam,0.985219,4.889505,-0.0127

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LINE: LLM-based Iterative Neuron Explanations for Vision Models</title>
+  <meta name="description" content="LINE is a training-free, gray-box iterative approach for open-vocabulary concept labeling in vision models: a large language model and a text-to-image generator propose and refine concepts in a closed loop, guided by activation history.">
+  <meta name="robots" content="index, follow">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="canonical" href="https://credibleai.github.io/LINE/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://credibleai.github.io/LINE/">
+  <meta property="og:title" content="LINE: LLM-based Iterative Neuron Explanations for Vision Models">
+  <meta property="og:description" content="Open-vocabulary neuron labeling for vision models: an LLM proposes concepts, a text-to-image model renders them, and the neuron's activations score them.">
+  <meta property="og:image" content="https://credibleai.github.io/LINE/assets/main.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="LINE: LLM-based Iterative Neuron Explanations for Vision Models">
+  <meta name="twitter:description" content="Open-vocabulary neuron labeling for vision models: an LLM proposes concepts, a text-to-image model renders them, and the neuron's activations score them.">
+  <meta name="twitter:image" content="https://credibleai.github.io/LINE/assets/main.png">
+
+  <meta name="citation_title" content="LINE: LLM-based Iterative Neuron Explanations for Vision Models">
+  <meta name="citation_author" content="Zaigrajew, Vladimir">
+  <meta name="citation_author" content="Piechota, Michał">
+  <meta name="citation_author" content="Sekula, Gaspar">
+  <meta name="citation_author" content="Gelar, Paweł">
+  <meta name="citation_author" content="Biecek, Przemysław">
+  <meta name="citation_publication_date" content="2026/04/09">
+  <meta name="citation_conference_title" content="The Fortieth Annual Conference on Neural Information Processing Systems">
+  <meta name="citation_abstract_html_url" content="https://openreview.net/forum?id=Cyqy5Yh0Ho">
+  <meta name="citation_arxiv_id" content="2604.08039">
+  <meta name="citation_pdf_url" content="https://arxiv.org/pdf/2604.08039">
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23111417'/%3E%3Cpath d='M23 12.5a8 8 0 1 0 .9 5.5' fill='none' stroke='%232aa6aa' stroke-width='3.2' stroke-linecap='round'/%3E%3Cpath d='M24.6 7v6h-6' fill='none' stroke='%232aa6aa' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="webpage/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": "LINE: LLM-based Iterative Neuron Explanations for Vision Models",
+    "author": [
+      {"@type": "Person", "name": "Vladimir Zaigrajew"},
+      {"@type": "Person", "name": "Michał Piechota"},
+      {"@type": "Person", "name": "Gaspar Sekula"},
+      {"@type": "Person", "name": "Paweł Gelar"},
+      {"@type": "Person", "name": "Przemysław Biecek"}
+    ],
+    "datePublished": "2026-04-09",
+    "url": "https://arxiv.org/abs/2604.08039",
+    "sameAs": ["https://openreview.net/forum?id=Cyqy5Yh0Ho", "https://github.com/CredibleAI/LINE"],
+    "image": "https://credibleai.github.io/LINE/assets/main.png"
+  }
+  </script>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <h1><span class="name">LINE</span>: LLM-based Iterative Neuron Explanations for Vision Models</h1>
+      <p class="venue"><span class="emoji" aria-hidden="true">🎉</span> NeurIPS 2026 <span class="emoji" aria-hidden="true">🎉</span></p>
+      <p class="authors">
+        <span>Vladimir Zaigrajew<sup>1,2</sup></span>
+        <span>Michał Piechota<sup>2,*</sup></span>
+        <span>Gaspar Sekula<sup>2,*</sup></span>
+        <span>Paweł Gelar<sup>1,2</sup></span>
+        <span>Przemysław Biecek<sup>1,2,3</sup></span>
+      </p>
+      <p class="affils">
+        <span><sup>1</sup>Centre for Credible AI</span>
+        <span><sup>2</sup>Warsaw University of Technology</span>
+        <span><sup>3</sup>University of Warsaw</span>
+        <span><sup>*</sup>Equal contribution</span>
+      </p>
+      <nav class="links" aria-label="Paper links">
+        <a class="btn" href="https://arxiv.org/abs/2604.08039">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg>arXiv</a>
+        <a class="btn" href="https://arxiv.org/pdf/2604.08039">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>PDF</a>
+        <a class="btn" href="https://github.com/CredibleAI/LINE">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 7l-5 5 5 5M16 7l5 5-5 5"/></svg>Code</a>
+        <a class="btn" href="#search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M10 8.5v7l5.5-3.5z"/></svg>Demo</a>
+        <a class="btn" href="#explore">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 10h18M9 10v10"/></svg>Explanations</a>
+        <a class="btn" href="#citation">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 18c2.5-1 4-3.2 4-6V7H5v5h4M15 18c2.5-1 4-3.2 4-6V7h-4v5h4"/></svg>BibTeX</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+      <figure class="figure teaser">
+        <img src="webpage/teaser.webp" width="1800" height="1161"
+             alt="LINE neuron descriptions for ViT-B/16 neuron 488 (image projector), ResNet50 neuron 1912 (frozen landscape) and ResNet18 neuron 460 (aquatic biome): the top three activating images, the top concepts on LINE's final scoreboard with their neuron activation, and the CoSy AUC of LINE, CLIP-Dissect and INVERT.">
+        <figcaption>
+          <strong>LINE neuron descriptions.</strong>
+          For three neurons from different models, we show (from the left): the top three activating images from the model-trained dataset,
+          the top concepts LINE registered in the final scoreboard with their origin (predefined, generated or summary concept),
+          and CoSy benchmark AUC scores for LINE and the baseline methods.
+          The images and the LINE concepts are provided with their neuron activation scores.
+        </figcaption>
+      </figure>
+
+      <section id="abstract" class="section">
+        <h2>Abstract</h2>
+        <p class="abstract">
+          Interpreting the concepts encoded by individual neurons in deep neural networks is a crucial step towards understanding their complex decision-making processes and ensuring AI safety. Despite recent progress in neuron labeling, existing methods often limit the search space to predefined concept vocabularies or produce overly specific descriptions that fail to capture higher-order, global concepts. We introduce <span class="name">LINE</span>, a novel, training-free iterative approach tailored for open-vocabulary concept labeling in vision models. Operating in a strictly gray-box setting, LINE leverages a large language model and a text-to-image generator to iteratively propose and refine concepts in a closed loop, guided by activation history. We demonstrate that LINE achieves state-of-the-art performance across multiple model architectures, yielding AUC improvements of up to 0.15 on ImageNet and 0.05 on Places365, while discovering, on average, 25% of new concepts missed by predefined vocabularies. Beyond identifying the top concept, LINE provides a complete generation history, enabling polysemanticity evaluation and producing supporting visual explanations that rival gradient-dependent activation maximization methods.
+        </p>
+      </section>
+
+      <section id="method" class="section">
+        <h2>How LINE works</h2>
+        <p>
+          LINE is an automatic, training-free, gray-box framework for labeling vision model neurons: it requires only access to
+          the inspected neuron's activations, without access to the model weights or gradients. Following an initialization phase
+          that creates a concept <em>scoreboard</em> <code>H</code>, each iteration proceeds through four stages, adding a newly
+          evaluated concept to the scoreboard.
+        </p>
+        <figure class="figure">
+          <img src="assets/main.png" width="1905" height="1016" loading="lazy"
+               alt="Overview of the LINE iterative framework: concept proposal, image synthesis, activation extraction and concept scoring update the scoreboard for N iterations; in the final summary iteration (N + 1) a Summary Concept step replaces concept proposal, and the highest-scoring concept is returned.">
+        </figure>
+        <ol class="steps">
+          <li>
+            <span class="step-n">Step 1</span>
+            <h3>Concept proposal</h3>
+            <p>An LLM proposes a new concept <code>t</code> based on the descriptions from the scoreboard <code>H</code> (e.g., generalizing <em>strawberry</em> and <em>cherry</em> into <em>red fruit</em>).</p>
+          </li>
+          <li>
+            <span class="step-n">Step 2</span>
+            <h3>Image synthesis</h3>
+            <p>A text-to-image (T2I) model generates a batch of diverse synthetic images illustrating the concept <code>t</code>.</p>
+          </li>
+          <li>
+            <span class="step-n">Step 3</span>
+            <h3>Activation extraction</h3>
+            <p>These images are processed by the target vision model, extracting concept activations <code>A<sub>t</sub></code>.</p>
+          </li>
+          <li>
+            <span class="step-n">Step 4</span>
+            <h3>Concept scoring</h3>
+            <p>A scoring function (the mean activation, <code>ψ<sub>avg</sub></code>) converts <code>A<sub>t</sub></code> into score <code>s<sub>t</sub></code>, and <code>H</code> is updated with the result.</p>
+          </li>
+        </ol>
+        <p>
+          <strong>Initialization.</strong> The scoreboard is initialized with ImageNet-1K class labels, a diverse vocabulary that closely
+          resembles the target model's training distribution. To balance exploitation and exploration, it is populated with the
+          top 5 highest-scoring class labels (scored on 50 natural images per class) alongside 5 randomly selected ones,
+          and their scores are calculated on synthesized images to ensure consistency with the iterative process.
+          <strong>Summary step.</strong> After <code>N</code> iterations, the LLM is provided with the top three concepts from the scoreboard
+          to generate a generalized, higher-order concept, which is evaluated via the standard pipeline. The highest-scoring concept
+          from <code>H</code> is then returned, together with the complete generation history.
+          LINE uses Llama 3.1 8B, Stable Diffusion XL (SDXL) with 5 images generated per concept, and <code>N</code> = 10 refinement iterations.
+        </p>
+      </section>
+
+      <section id="search" class="section">
+        <h2>Watch a search</h2>
+        <p>
+          Six neurons, one per model, replayed from the runs behind the released explanations. Press play or drag the slider:
+          at each iteration the LLM proposes a new concept based on the scoreboard, SDXL synthesizes five images of it,
+          and the mean activation of the neuron over them becomes the concept's score.
+        </p>
+        <div class="tabs sp-tabs" role="tablist" aria-label="Neuron" id="sp-tabs"></div>
+        <div class="sp" id="sp-player" role="tabpanel">
+          <div class="sp-head" id="sp-head"></div>
+          <div class="sp-legend" aria-hidden="true">
+            <span><i class="key-dot"></i>concept</span>
+            <span><i class="key-dot best"></i>new best</span>
+            <span><i class="key-line"></i>best score so far</span>
+            <span><i class="key-dot ghost"></i>still to come</span>
+            <span class="sp-axis-note">0 = initial scoreboard · S = summary step</span>
+          </div>
+          <div class="sp-chart" id="sp-chart">
+            <svg id="sp-svg" role="img"></svg>
+            <div class="sp-tip" id="sp-tip" hidden></div>
+          </div>
+          <div class="sp-scrub" id="sp-scrub">
+            <button type="button" class="sp-play" id="sp-play" aria-label="Play">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path class="i-play" d="M8 5.5v13l10.5-6.5z"/><path class="i-pause" d="M7.5 5.5h3v13h-3zM13.5 5.5h3v13h-3z"/><path class="i-replay" d="M5 12a7 7 0 1 0 2.05-4.95M5 4.5v3.6h3.6"/></svg>
+            </button>
+            <input type="range" id="sp-range" min="0" max="11" step="1" value="0" aria-label="Search step">
+          </div>
+          <div class="sp-body">
+            <div class="sp-step" id="sp-step"></div>
+            <div class="sp-board" id="sp-board"></div>
+          </div>
+        </div>
+        <p id="sp-status" class="status" role="status"></p>
+        <p class="note">
+          Same setting as the paper: Llama 3.1 8B, SDXL, 10 refinement iterations, 5 images per concept.
+          The reasoning is the LLM's reasoning behind each new concept, logged during the run.
+          Every other neuron's full history is in the <a href="#explore">explorer</a> below.
+        </p>
+      </section>
+
+      <section id="results" class="section">
+        <h2>Evaluation on the CoSy benchmark and VLM correlation</h2>
+        <p>
+          <a href="https://github.com/lkopf/cosy">CoSy</a> evaluates open-vocabulary textual explanations of neurons with synthetic data:
+          if a concept label accurately explains a neuron, the neuron should activate significantly more on generated images of the concept
+          than on a control set of random natural images. <strong>AUC</strong> is the probability that a synthetic concept image activates the neuron
+          more strongly than a random control image; <strong>MAD</strong> is the difference in mean activations between the synthetic and control
+          images, normalized by the control's standard deviation. Because both CoSy and LINE rely on T2I models, we additionally evaluate with
+          simulation with correlation scoring (<strong>Corr</strong>), the Pearson correlation between neuron activations and SigLIP label-image
+          similarities across the dataset, which uses no generated images.
+        </p>
+        <div class="table-wrap">
+          <table class="results">
+            <caption>CoSy AUC and MAD, and the Pearson correlation (×10<sup>−1</sup>) between neuron activations and the SigLIP similarity of each image to the neuron's predicted label. Averaged over 100 neurons; higher is better. Best in bold, second-best underlined.</caption>
+            <thead>
+              <tr><th scope="col">Model</th><th scope="col">Dataset</th><th scope="col">Metric</th><th scope="col" class="line">LINE</th><th scope="col">CLIP-Dissect</th><th scope="col">INVERT</th><th scope="col">DnD</th></tr>
+            </thead>
+          <tbody>
+            <tr><th scope="rowgroup" rowspan="3">ResNet18</th><td rowspan="3" class="ds">ImageNet</td><td class="metric">AUC</td><td class="line best">0.97<span class="sd">±0.04</span></td><td class="second">0.90<span class="sd">±0.14</span></td><td>0.85<span class="sd">±0.14</span></td><td>0.77<span class="sd">±0.21</span></td></tr>
+            <tr><td class="metric">MAD</td><td class="line best">4.76<span class="sd">±1.91</span></td><td class="second">3.42<span class="sd">±2.17</span></td><td>2.16<span class="sd">±1.61</span></td><td>1.97<span class="sd">±1.99</span></td></tr>
+            <tr><td class="metric">Corr</td><td class="line best">0.57<span class="sd">±0.49</span></td><td>0.41<span class="sd">±0.39</span></td><td class="second">0.47<span class="sd">±0.45</span></td><td>0.44<span class="sd">±0.46</span></td></tr>
+          </tbody>
+          <tbody>
+            <tr><th scope="rowgroup" rowspan="3">ResNet18</th><td rowspan="3" class="ds">Places365</td><td class="metric">AUC</td><td class="line best">0.93<span class="sd">±0.10</span></td><td class="second">0.89<span class="sd">±0.15</span></td><td>0.80<span class="sd">±0.18</span></td><td>0.85<span class="sd">±0.19</span></td></tr>
+            <tr><td class="metric">MAD</td><td class="line best">3.77<span class="sd">±2.31</span></td><td class="second">3.63<span class="sd">±2.78</span></td><td>1.85<span class="sd">±1.70</span></td><td>3.16<span class="sd">±2.92</span></td></tr>
+            <tr><td class="metric">Corr</td><td class="line second">0.51<span class="sd">±0.54</span></td><td>0.29<span class="sd">±0.43</span></td><td>0.20<span class="sd">±0.33</span></td><td class="best">0.64<span class="sd">±0.58</span></td></tr>
+          </tbody>
+          <tbody>
+            <tr><th scope="rowgroup" rowspan="3">ResNet50</th><td rowspan="3" class="ds">ImageNet</td><td class="metric">AUC</td><td class="line best">0.97<span class="sd">±0.07</span></td><td>0.87<span class="sd">±0.18</span></td><td class="second">0.88<span class="sd">±0.15</span></td><td>0.85<span class="sd">±0.18</span></td></tr>
+            <tr><td class="metric">MAD</td><td class="line best">5.28<span class="sd">±2.10</span></td><td class="second">3.56<span class="sd">±2.52</span></td><td>2.81<span class="sd">±1.95</span></td><td>3.40<span class="sd">±3.02</span></td></tr>
+            <tr><td class="metric">Corr</td><td class="line best">0.81<span class="sd">±0.57</span></td><td>0.33<span class="sd">±0.46</span></td><td>0.48<span class="sd">±0.51</span></td><td class="second">0.66<span class="sd">±0.47</span></td></tr>
+          </tbody>
+          <tbody>
+            <tr><th scope="rowgroup" rowspan="3">ResNet50</th><td rowspan="3" class="ds">Places365</td><td class="metric">AUC</td><td class="line best">0.94<span class="sd">±0.08</span></td><td class="second">0.89<span class="sd">±0.15</span></td><td>0.84<span class="sd">±0.14</span></td><td>0.84<span class="sd">±0.18</span></td></tr>
+            <tr><td class="metric">MAD</td><td class="line best">4.27<span class="sd">±2.81</span></td><td class="second">3.69<span class="sd">±2.90</span></td><td>2.04<span class="sd">±1.70</span></td><td>2.74<span class="sd">±2.56</span></td></tr>
+            <tr><td class="metric">Corr</td><td class="line second">0.36<span class="sd">±0.57</span></td><td>0.24<span class="sd">±0.48</span></td><td>0.16<span class="sd">±0.30</span></td><td class="best">0.57<span class="sd">±0.54</span></td></tr>
+          </tbody>
+          <tbody>
+            <tr><th scope="rowgroup" rowspan="3">ViT-B/16</th><td rowspan="3" class="ds">ImageNet</td><td class="metric">AUC</td><td class="line best">0.94<span class="sd">±0.07</span></td><td>0.74<span class="sd">±0.20</span></td><td class="second">0.79<span class="sd">±0.18</span></td><td>0.64<span class="sd">±0.20</span></td></tr>
+            <tr><td class="metric">MAD</td><td class="line best">2.12<span class="sd">±0.54</span></td><td>1.00<span class="sd">±0.89</span></td><td class="second">1.05<span class="sd">±0.70</span></td><td>0.60<span class="sd">±0.84</span></td></tr>
+            <tr><td class="metric">Corr</td><td class="line best">0.26<span class="sd">±0.21</span></td><td>0.07<span class="sd">±0.15</span></td><td class="second">0.23<span class="sd">±0.21</span></td><td>0.07<span class="sd">±0.15</span></td></tr>
+          </tbody>
+          <tbody>
+            <tr><th scope="rowgroup" rowspan="3">DINOv3</th><td rowspan="3" class="ds">LVD-1689M</td><td class="metric">AUC</td><td class="line best">0.94<span class="sd">±0.08</span></td><td class="second">0.76<span class="sd">±0.22</span></td><td class="second">0.76<span class="sd">±0.18</span></td><td>0.62<span class="sd">±0.23</span></td></tr>
+            <tr><td class="metric">MAD</td><td class="line best">2.05<span class="sd">±0.68</span></td><td class="second">1.12<span class="sd">±1.06</span></td><td>0.95<span class="sd">±0.73</span></td><td>0.47<span class="sd">±0.92</span></td></tr>
+            <tr><td class="metric">Corr</td><td class="line best">0.32<span class="sd">±0.23</span></td><td>0.09<span class="sd">±0.20</span></td><td class="second">0.24<span class="sd">±0.24</span></td><td>0.11<span class="sd">±0.21</span></td></tr>
+          </tbody>
+          <tbody class="overall">
+            <tr><th scope="rowgroup" rowspan="3">Overall</th><td rowspan="3" class="ds">–</td><td class="metric">AUC</td><td class="line best">0.95<span class="sd">±0.08</span></td><td class="second">0.84<span class="sd">±0.19</span></td><td>0.82<span class="sd">±0.17</span></td><td>0.76<span class="sd">±0.22</span></td></tr>
+            <tr><td class="metric">MAD</td><td class="line best">3.71<span class="sd">±2.27</span></td><td class="second">2.74<span class="sd">±2.50</span></td><td>1.81<span class="sd">±1.61</span></td><td>2.06<span class="sd">±2.50</span></td></tr>
+            <tr><td class="metric">Corr</td><td class="line best">0.47<span class="sd">±0.50</span></td><td>0.24<span class="sd">±0.39</span></td><td>0.30<span class="sd">±0.38</span></td><td class="second">0.41<span class="sd">±0.50</span></td></tr>
+          </tbody>
+          </table>
+        </div>
+        <p class="note">
+          Table 1 of the paper. Layers: <code>avgpool</code> for ResNet50 and ResNet18, <code>encoder</code> for ViT-B/16 and <code>norm</code> for DINOv3.
+          DnD results on ViT-based models are affected by a bug in the original implementation (Appendix B.3).
+          The AUC, MAD and Corr of every neuron are in the released <a href="https://github.com/CredibleAI/LINE/tree/main/assets/explanations">explanations</a>.
+        </p>
+      </section>
+
+      <section id="explore" class="section">
+        <h2>Browse the explanations</h2>
+        <div class="controls">
+          <label>Model
+            <select id="ex-model"></select>
+          </label>
+          <label>Layer
+            <select id="ex-layer"></select>
+          </label>
+          <label class="grow">Neuron
+            <select id="ex-unit" disabled></select>
+          </label>
+          <button type="button" id="ex-random" class="btn-quiet">Random neuron</button>
+        </div>
+        <p id="ex-status" class="status" role="status" aria-live="polite"></p>
+        <p id="ex-layer-summary" class="layer-summary"></p>
+        <div class="ex-grid">
+          <div class="card" id="ex-methods" aria-live="polite"></div>
+          <div class="card" id="ex-trace"></div>
+        </div>
+        <noscript><p class="status">The explorer needs JavaScript. The same data is in <a href="https://github.com/CredibleAI/LINE/tree/main/assets">assets/</a>.</p></noscript>
+      </section>
+
+      <section id="visual" class="section">
+        <h2>Visual explanations without gradients</h2>
+        <p>
+          By coupling iterative concept search with image synthesis, LINE generates highly activating images that serve as visual
+          explanations alongside textual descriptions. This enables direct comparison with activation maximization (AM) methods like
+          DiffExplainer and <a href="https://arxiv.org/abs/2510.14741">DEXTER</a>, which optimize the text prompts of diffusion models
+          with gradients. Following the Salient ImageNet protocol, we show visual explanations of the top-5 features for six classes in a
+          RobustResNet50: three classes relying mainly on core features (Jeep, Daisy, Rifle) and three classes containing heavily spurious
+          features (Bathing Cap, Patio, Seat Belt). LINE shows the top-activating of its five images of the reported concept; the number under
+          each image is the neuron activation, with the highest per feature in bold.
+        </p>
+        <div class="am-toolbar">
+          <div class="tabs" role="tablist" aria-label="ImageNet class" id="am-tabs"></div>
+          <label class="toggle"><input type="checkbox" id="am-heatmaps"> Salient ImageNet heatmaps</label>
+        </div>
+        <div class="am-grid" id="am-grid" role="tabpanel"></div>
+      </section>
+
+      <section id="contact" class="section">
+        <h2>Contact</h2>
+        <p>
+          For questions about the paper or the code, write to
+          Vladimir Zaigrajew (<a href="mailto:vladimir.zaigrajew.dokt@pw.edu.pl">vladimir.zaigrajew.dokt@pw.edu.pl</a>) or
+          Paweł Gelar (<a href="mailto:pawel.gelar@pw.edu.pl">pawel.gelar@pw.edu.pl</a>).
+          Bug reports and feature requests are welcome as <a href="https://github.com/CredibleAI/LINE/issues">GitHub issues</a>.
+        </p>
+      </section>
+
+      <section id="citation" class="section">
+        <h2>Citation</h2>
+        <div class="bib">
+          <button type="button" class="btn-quiet copy" id="bib-copy">Copy</button>
+<pre><code id="bib-text">@inproceedings{
+anonymous2026line,
+title={{LINE}: {LLM}-based Iterative Neuron Explanations for Vision Models},
+author={Zaigrajew, Vladimir and Piechota, Micha{\l} and Sekula, Gaspar and Gelar, Pawe{\l} and Biecek, Przemys{\l}aw},
+booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+year={2026},
+url={https://openreview.net/forum?id=Cyqy5Yh0Ho}
+}</code></pre>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <span class="name">LINE</span> · Centre for Credible AI, Warsaw University of Technology ·
+      <a href="https://github.com/CredibleAI/LINE">github.com/CredibleAI/LINE</a>
+    </div>
+  </footer>
+
+  <script src="webpage/main.js" defer></script>
+</body>
+</html>
